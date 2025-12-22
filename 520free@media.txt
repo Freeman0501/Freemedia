@@ -1908,6 +1908,17 @@
 },
 
 {
+"name":"Free TV(備用)",
+"url":"https://media0501.github.io/Freemedia/520freerecha@tv.txt",
+"type":0,
+"timeout":10,
+"playerType":2,
+"ua":"okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0",
+"logo":"https://epg.112114.xyz/logo/{name}.png",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+},
+
+{
 "name": "Free 4G直播",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/4G.py",
@@ -1996,4 +2007,5 @@
 
 
 ]}
+
 
