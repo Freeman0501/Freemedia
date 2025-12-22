@@ -5,6 +5,7 @@
 提供兩個,任選一個即可(因為都一樣)
 
 https://s.yam.com/nJqVO
+
 https://freeman0501.github.io/Freemedia/520free@storehouse.txt
 
 另外記得在"Free Movie"設定以下的規則...以獲取良好的觀看體驗
