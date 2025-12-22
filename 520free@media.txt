@@ -17,8 +17,8 @@
 #"wallpaper": "https://imgs.catvod.com",
 #"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 
-#"logo":"http://172.16.1.11/TV-box/FreeLogo.png",
-"logo":"http://172.16.1.11/TV-box/Xmaslogo4.jpg",
+#"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
+"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
 最終維護日 : 2025/12/22",
 
@@ -1898,7 +1898,7 @@
 
 {
 "name":"Free TV",
-"url":"http://172.16.1.11/TV-box/520free@TV-Home.txt",
+"url":"https://freeman0501.github.io/Freemedia/520free@TV-Home.txt",
 "type":0,
 "timeout":10,
 "playerType":2,
@@ -1925,7 +1925,7 @@
 "name":"歡樂看",
 "playerType":2,
 "type":0,
-"url":"http://172.16.1.11/TV-box/520free@FainTV.txt",
+"url":"https://freeman0501.github.io/Freemedia/520free@FainTV.txt",
 "timeout":10,
 "ua":"okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1987,9 +1987,10 @@
 
 {"name":"YouTube榜單","type":0,"url":"http://yt.850930.xyz/playlist.txt"},
 
-{"name":"🎧 My Music 🎧","url":"http://172.16.1.11/TV-box/520free@music.txt"},
+{"name":"🎧 My Music 🎧","url":"https://freeman0501.github.io/Freemedia/520free@music.txt"},
 
-{"name":"🌞 台灣景區直播 🌟","url":"http://172.16.1.11/TV-box/520free@TW-LiveCAM.txt"}
+{"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"}
+
 
 
 
