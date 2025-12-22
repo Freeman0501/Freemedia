@@ -2,8 +2,8 @@
 "urls":[
 
 //追劇
-{"url": "https://freeman.neocities.org/520free@media.txt","name": "Free Movie"},
-{"url": "https://funnylife.neocities.org/520free@media.txt","name": "Free Movie(備)"},
+{"url": "https://freeman0501.github.io/Freemedia/520free@media.txt","name": "Free Movie"},
+
 
 //直播
 
@@ -12,8 +12,9 @@
 
 //18+
 {"url": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/index.json","name": "Adult-01"},
-{"url": "https://freeman.neocities.org/AV18-02.txt","name": "Adult-02"},
-{"url": "https://freeman.neocities.org/AV18-03.txt","name": "Adult-03"}
+{"url": "https://freeman0501.github.io/Freemedia/AV18-02.txt","name": "Adult-02"},
+{"url": "https://freeman0501.github.io/Freemedia/AV18-03.txt","name": "Adult-03"}
 
 ]
 }
+
