@@ -1244,8 +1244,8 @@ TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 神鵰俠侶,https://www.youtube.com/watch?v=OyTd6lXP32Y
 光芒,https://www.youtube.com/watch?v=Wsz2YuQ422g
 
-三國,https://www.youtube.com/watch?v=XM6eMs2ivLM
-朱元璋,https://www.youtube.com/watch?v=JZkwKceWO6k
+軍師聯盟+虎嘯龍吟,https://www.youtube.com/watch?v=QsGi5d8xBVA
+三國,https://www.youtube.com/watch?v=g-DBPSuNArA
 
 天才衝衝衝,https://www.youtube.com/watch?v=ldeFCcWBFzg
 現代嘉慶君,https://www.youtube.com/watch?v=OhA_G0s9pqw
@@ -1263,7 +1263,7 @@ TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 一家團圓,https://www.youtube.com/watch?v=Af5hJQIU5mo
 天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
 
-包青天,https://www.youtube.com/watch?v=skcL03LOH4U
+包青天,https://www.youtube.com/watch?v=_AKIOe2Sh_g
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=sS6SFAjW_mo
@@ -1637,6 +1637,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
