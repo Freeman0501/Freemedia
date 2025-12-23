@@ -4,15 +4,14 @@
 "wallpaper": "https://picsum.photos/1920/1080",
 "logo":"https://freeman.neocities.org/FreeLogo.png",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2025/12/23
-20251123 建議更新至 Free Movie 3.3.8 版",
+最終維護日 : 2025/12/23,
 
 "sites": [
 
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20251223 建議更新至 Free Movie 3.5.6 版 >",
+"name": "🌸Free Movie < 20251224 建議更新至 Free Movie 3.5.7 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -99,3 +98,4 @@
 
 
 ]}
+
