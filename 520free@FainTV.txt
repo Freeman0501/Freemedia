@@ -54,6 +54,19 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 
 
 
+
+電影戲劇,#genre#
+龍華電影台,video://http://www.faintv.com/channel/132
+龍華洋片台,video://http://www.faintv.com/channel/228
+龍華經典台,video://http://www.faintv.com/channel/234
+龍華日韓台,video://http://www.faintv.com/channel/116
+龍華戲劇台,video://http://www.faintv.com/channel/95
+龍華偶像台,video://http://www.faintv.com/channel/122
+TVB星河台,video://http://www.faintv.com/channel/17767
+花系列戲劇,video://http://www.faintv.com/channel/12491
+
+
+
 兒少知性,#genre#
 龍華卡通台,video://http://www.faintv.com/channel/89
 哆啦A夢電影系列,video://http://www.faintv.com/channel/143
@@ -66,19 +79,6 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 露西亞的聖誕願望,video://https://www.faintv.com/channel/20362
 小狼童阿飛,video://https://www.faintv.com/channel/21557
 迷雁返家路,video://https://www.faintv.com/channel/22103
-
-
-
-
-電影戲劇,#genre#
-龍華電影台,video://http://www.faintv.com/channel/132
-龍華洋片台,video://http://www.faintv.com/channel/228
-龍華經典台,video://http://www.faintv.com/channel/234
-龍華日韓台,video://http://www.faintv.com/channel/116
-龍華戲劇台,video://http://www.faintv.com/channel/95
-龍華偶像台,video://http://www.faintv.com/channel/122
-TVB星河台,video://http://www.faintv.com/channel/17767
-花系列戲劇,video://http://www.faintv.com/channel/12491
 
 
 
@@ -136,7 +136,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 富士山朝聖之旅,video://http://www.faintv.com/channel/19407
 煮吧換咗我阿媽,video://https://www.faintv.com/channel/19194
 餸情,video://https://www.faintv.com/channel/19459
-
+如常,video://https://www.faintv.com/channel/17895
 
 
 熱播電影,#genre#
