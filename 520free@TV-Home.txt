@@ -1334,7 +1334,6 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 東森購物5台,video://http://www.faintv.com/channel/16556
 
 
-
 楊桃美食台,video://http://www.faintv.com/channel/16650
 梅迪奇藝術頻道,video://http://www.faintv.com/channel/246
 雲端創作音樂台,video://http://www.faintv.com/channel/18271
@@ -1345,6 +1344,17 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 全民星攻略,video://http://www.faintv.com/channel/20308
 請問今晚住誰家,video://http://www.faintv.com/channel/20309
 花甲少年趣旅行,video://http://www.faintv.com/channel/20559
+
+
+
+龍華電影台,video://http://www.faintv.com/channel/132
+龍華洋片台,video://http://www.faintv.com/channel/228
+龍華經典台,video://http://www.faintv.com/channel/234
+龍華日韓台,video://http://www.faintv.com/channel/116
+龍華戲劇台,video://http://www.faintv.com/channel/95
+龍華偶像台,video://http://www.faintv.com/channel/122
+TVB星河台,video://http://www.faintv.com/channel/17767
+花系列戲劇,video://http://www.faintv.com/channel/12491
 
 
 
@@ -1359,19 +1369,6 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 露西亞的聖誕願望,video://https://www.faintv.com/channel/20362
 小狼童阿飛,video://https://www.faintv.com/channel/21557
 迷雁返家路,video://https://www.faintv.com/channel/22103
-
-
-
-
-龍華電影台,video://http://www.faintv.com/channel/132
-龍華洋片台,video://http://www.faintv.com/channel/228
-龍華經典台,video://http://www.faintv.com/channel/234
-龍華日韓台,video://http://www.faintv.com/channel/116
-龍華戲劇台,video://http://www.faintv.com/channel/95
-龍華偶像台,video://http://www.faintv.com/channel/122
-TVB星河台,video://http://www.faintv.com/channel/17767
-花系列戲劇,video://http://www.faintv.com/channel/12491
-
 
 
 KOOLAA,video://http://www.faintv.com/channel/19028
@@ -1409,9 +1406,6 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
 
-
-
-
 雲端電音狂潮,video://http://www.faintv.com/channel/20370
 雲端爵士樂,video://https://www.faintv.com/channel/21549
 雲端鋼琴音樂,video://https://www.faintv.com/channel/22124
@@ -1424,7 +1418,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 富士山朝聖之旅,video://http://www.faintv.com/channel/19407
 煮吧換咗我阿媽,video://https://www.faintv.com/channel/19194
 餸情,video://https://www.faintv.com/channel/19459
-
+如常,video://https://www.faintv.com/channel/17895
 
 
 隱形少女,video://http://www.faintv.com/channel/21026
@@ -1450,14 +1444,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
 
-
-
-
-
 🌸 日韓頻道,#genre#
-
-
-
 
 
 
@@ -1650,6 +1637,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
