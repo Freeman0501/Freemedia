@@ -1,5 +1,6 @@
 {
 "urls":[
-{"url": "https://freeman.neocities.org/520free@media-Test.txt","name": "Free Movie Test"}
+{"url": "https://freeman0501.github.io/Freemedia/520free@media-Test.txt","name": "Free Movie Test"}
 ]
 }
+
