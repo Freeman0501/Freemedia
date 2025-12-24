@@ -20,7 +20,7 @@
 #"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 "logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2025/12/24",
+最終維護日 : 2025/12/25",
 
 "sites": [
 
@@ -286,41 +286,6 @@
 },
 
 {
-"key": "Uvod.py",
-"name": "UB影視",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 1,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/UB.py",
-"order_num": 5,
-"ext": "1"
-},
-
-{
-"key": "hohaiemby",
-"name": "好嗨",
-"type": 3,
-"api": "https://yydsys.top/duo/py/emby.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 1,
-"ext": {
-"server": "https://emby.hohai.eu.org:443",
-"username": "chuxin666",
-"password": "ycc123456",
-"proxy": "",
-"thread": 0,
-"device_name": "My Computer",
-"client": "Hills Windows",
-"client_version": "0.3.2",
-"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-}
-},
-
-{
 "key": "NYa-emby",
 "name": "恩雅",
 "type": 3,
@@ -384,17 +349,6 @@
 "api":"csp_AppFox",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext":{"host":"http://www.yezitv.top"}
-},
-
-{
-"key":"椰子",
-"name":"椰子",
-"type":3,
-"searchable":1,
-"changeable":1,
-"api":"csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{"url":"http://103.109.20.117:6699","dataKey":"xxm9N4P9rS2zjdyz","dataIv":"xxm9N4P9rS2zjdyz"}
 },
 
 {
@@ -508,21 +462,6 @@
 },
 
 {
-"key": "蓝鹰",
-"name": "藍鷹",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-"dataKey": "ca94b06ca359d80e",
-"dataIv": "ca94b06ca359d80e",
-"version": "120"
-}
-},
-
-{
 "key": "仓鼠",
 "name": "倉鼠",
 "type": 3,
@@ -552,20 +491,6 @@
 },
 
 {
-"key": "热剧",
-"name": "熱劇",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "https://www.rebovod.com",
-"dataKey": "8191A7F47B37882F",
-"dataIv": "8191A7F47B37882F"
-}
-},
-
-{
 "key": "优势",
 "name": "優勢",
 "type": 3,
@@ -576,20 +501,6 @@
 "url": "http://zxy-ys.810211.dpdns.org",
 "dataKey": "1234567890123456",
 "dataIv": "1234567890123456"
-}
-},
-
-{
-"key": "坚果",
-"name": "堅果",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-  "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
-  "dataKey": "2015692015692015",
-  "dataIv": "2015692015692015"
 }
 },
 
@@ -756,17 +667,6 @@
 },
 
 {
-"key": "爆炸",
-"name": "爆炸",
-"type": 3,
-"api": "csp_Muou",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/other/0615qj.jpg",
-"timeout": 240,
-"playerType": 2,
-"ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
-},
-
-{
 "key":"Cori爱壹帆",
 "name":"Cori愛壹帆",
 "type":3,
@@ -803,17 +703,6 @@
 "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
 "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
-},
-
-{
-"key": "py_OleVod",
-"name": "歐樂影院2",
-"type": 4,
-"api": "https://py.doube.eu.org/spider?site=OleVod",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 1
 },
 
 {
@@ -862,17 +751,6 @@
 "quickSearch": 1,
 "filterable": 0,
 "changeable": 1
-},
-
-{
-"key":"沐辰欧乐影院",
-"name":"沐辰歐樂影院",
-"type":4,
-"api":"https://py.doube.eu.org/spider?site=OleVod",
-"searchable":1,
-"quickSearch":0,
-"filterable":0,
-"changeable":0
 },
 
 {
@@ -955,18 +833,6 @@
 },
 
 {
-"key": "Qile优视频2",
-"name": "Qile",
-"type": 3,
-"searchable": 1,
-"changeable": 1,
-"api": "csp_Uvod",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/custom_spider.jar",
-"playerType": 2,
-"filterable": 1
-},  
-
-{
 "key": "csp_Euvod",
 "name": "EU-Vod",
 "type": 3,
@@ -1000,58 +866,6 @@
 "searchable": 1,
 "filterable": 0,
 "changeable": 0
-},
-
-{
-"key": "星空",
-"name": "星空",
-"type": 3,
-"api": "csp_AppFox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {"host": "http://fox.qwqfun.com"}
-},
-
-{
-"key": "柒月",
-"name": "七月",
-"type": 3,
-"searchable": 1,
-"changeable": 1,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-  "url" : "https://www.ys.mk",
-  "dataKey": "mayday6770249ash",
-  "dataIv" : "mayday6770249ash"
-}
-},
-
-{
-"key": "瑞奇",
-"name": "瑞奇",
-"type": 3,
-"searchable": 1,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://rqxk.gdata.fun",
-"dataKey": "yangruiqiYsapp00",
-"dataIv": "yangruiqiYsapp00"
-}
-},
-
-{
-"key":"星星",
-"name":"星星",
-"type":3,
-"quickSearch":1,
-"api":"csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{"url":"http://starani.qcanime.xyz",
-"dataKey":"123456789StarAni",
-"dataIv":"123456789StarAni",
-"ua":"okhttp/3.10.0BDYS/109.0.0.8"
-}
 },
 
 {
@@ -1097,24 +911,6 @@
 "version": "105"
 }
 }, 
-
-{
-"key": "咖啡",
-"name": "咖啡",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-"url": "http://160.202.246.9:1996", 
-"dataKey": "37kj83zs1q16jk6t",
-"dataIv": "37kj83zs1q16jk6t",
-"deviceId": "",
-"version": "101",
-"ua": ""
-}
-},
 
 {
 "key": "五八",
@@ -1225,15 +1021,6 @@
 },
 
 {
-"key":"吉米",
-"name":"吉米",
-"type":3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"api":"csp_AppFox",
-"ext":{"host":"http://fox.tvmao.top"}
-},
-
-{
 "key": "py_文才",
 "name": "文才",
 "type": 3,
@@ -1279,16 +1066,6 @@
 },
 
 {
-"key":"极兔",
-"name":"極兔",
-"type":3,
-"api":"csp_AppFox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{"host":"https://www.dhxxfhsz.top","ver":2
-}
-},
-
-{
 "key": "csp_桵空",
 "name": "櫻空",
 "type": 3,
@@ -1300,48 +1077,6 @@
 "ext": {
 "分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
 "分类": "电影$84#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85#综艺$91#"
-}
-},
-
-{
-"key": "独播",
-"name": "獨播",
-"type": 3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/7哥.jar",
-"api": "csp_DubkAmns",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"changeable": 1,
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/獨播庫.json"
-},
-
-{
-"key": "yirenmeng",
-"name": "番茄影視",
-"type": 3,
-"timeout": 120,
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 0,
-"style": {"type": "rect", "ratio": 0.71},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/yirenmeng.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": ["https://hm.baidu.com/*"]
-},
-"playUrlMatch": ["*://*/*.m3u8*"],
-"spider": {
-"homeContent": {"loadUrl": "https://www.yirenmeng.com/"},
-"categoryContent": {"loadUrl": "https://www.yirenmeng.com/vodshow/${tid}-${index0:-}-${index1:-}-${index2:-}-${index3:-}-${index4:-}-${index5:-}-${index6:-}-${pg:-1}-${index8:-}-${index9:-}-${index10:-}.html"},
-"detailContent": {"loadUrl": "https://www.yirenmeng.com${id}"},
-"playerContent": {"loadUrl": "https://www.yirenmeng.com${playUrl}"},
-"searchContent": {"loadUrl": "https://www.yirenmeng.com/vodsearch/${key}----------${pg:-1}---.html"}
-}
 }
 },
 
@@ -1369,31 +1104,6 @@
 "searchContent": {"loadUrl": "https://www.tdgo.shop/vodsearch/${key}----------${pg:-1}---.html"}
 }
 }
-},
-
-{
-"key": "Apple",
-"name": "蘋果",
-"type": 3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/6420.jar",
-"api": "csp_XpgAmns",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"changeable": 1
-},
-
-{
-"key": "优视频",
-"name": "優視頻",
-"type": 3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/6420.jar",
-"api": "csp_YouSPAmns",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"changeable": 1,
-"ext": "1"
 },
 
 {
@@ -1755,21 +1465,6 @@
 },
 
 {
-"key": "稀饭动漫",
-"name": "動漫🦉稀飯",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "",
-"site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
-"dataKey": "1yZ2Spn9krnzVKoC",
-"dataIv": "1yZ2Spn9krnzVKoC"
-}
-},
-
-{
 "key": "咕咕动漫",
 "name": "動漫🦉咕咕",
 "type": 3,
@@ -1816,62 +1511,6 @@
 "filterable": 0,
 "changeable": 0,
 "ext": {}
-},
-
-{
-"key": "py_BadNews",
-"name": "🔞BadNews",
-"type": 4,
-"api": "https://py.doube.eu.org/spider?site=BadNews",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0,
-"style": {
-"type": "rect",
-"ratio": 1.5
-}
-},
-
-{
-"key": "py_Miss",
-"name": "🔞MissAV",
-"type": 4,
-"api": "https://py.doube.eu.org/spider?site=Miss",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0
-},
-
-{
-"key": "py_AiDou",
-"name": "🔞AiDou",
-"type": 4,
-"api": "https://py.doube.eu.org/spider?site=AiDou",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0,
-"style": {
-"type": "rect",
-"ratio": 1.5
-}
-},
-
-{
-"key": "py_madou",
-"name": "🔞麻豆",
-"type": 4,
-"api": "https://py.doube.eu.org/spider?site=MaDou",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0,
-"style": {
-"type": "rect",
-"ratio": 1.5
-}
 },
 
 {
@@ -2007,6 +1646,7 @@
 
 
 ]}
+
 
 
 
