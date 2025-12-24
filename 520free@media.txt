@@ -1135,6 +1135,18 @@
 
 #待測區
 
+{
+"key": "🏭廠長",
+"name": "廠長",
+"type": 3,
+"api": "csp_CzzyAmns",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"changeable": 1
+},
+
 
 
 
@@ -1646,6 +1658,7 @@
 
 
 ]}
+
 
 
 
