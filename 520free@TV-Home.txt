@@ -1452,7 +1452,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 緊急地震速報,https://www.youtube.com/watch?v=c7_kqMFDE8c
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 QVCライブ,https://www.youtube.com/watch?v=dPTTMvUm9uA
-Speak Japanese,https://www.youtube.com/watch?v=d6f46ZUzJig
+Speak Japanese,https://www.youtube.com/watch?v=9VWh8jRfUmY
 NHK G,https://nl.utako.moe/NHK_G/index.m3u8
 NHK E,https://nl.utako.moe/NHK_E/index.m3u8
 NTV,https://nl.utako.moe/Nippon_TV/index.m3u8
@@ -1697,6 +1697,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
