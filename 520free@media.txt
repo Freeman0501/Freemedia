@@ -1613,16 +1613,6 @@
 },
 
 {
-"name":"RobYang-2",
-"type":0,
-"url":"http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
-"header":{"User-Agent":"okhttp/4.12.0 judy/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
-"timeout":10,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-
-{
 "name": "SMT",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/lives-SMT.py",
@@ -1638,16 +1628,11 @@
 {"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
 {
-"name":"RobYang-1",
+"name":"YouTube榜單",
 "type":0,
-"url":"http://www1.RobYang.ggff.net/VodLive/lb8ffa",
-"header":{"User-Agent":"okhttp/4.12.0 judy/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
-"timeout":10,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"playerType":2,
+"url":"http://yt.850930.xyz/playlist.txt"
 },
-
-{"name":"YouTube榜單","type":0,"url":"http://yt.850930.xyz/playlist.txt"},
 
 {"name":"🎧 My Music 🎧","url":"https://freeman0501.github.io/Freemedia/520free@music.txt"},
 
@@ -1658,6 +1643,7 @@
 
 
 ]}
+
 
 
 
