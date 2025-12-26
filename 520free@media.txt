@@ -292,13 +292,13 @@
 "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 1,
 "playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
 "categories": [
 "电影片","连续剧","综艺片",
-"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","记录片", "伦理片",
+"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","记录片","伦理片",
 "国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","海外剧","泰国剧",  
 "动漫片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","短剧",  
 "日韩综艺","欧美综艺","大陆综艺","港台综艺"
@@ -1686,6 +1686,7 @@
 
 
 ]}
+
 
 
 
