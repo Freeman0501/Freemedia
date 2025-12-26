@@ -7,7 +7,7 @@ ua=okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.
 
 
 
-1225 check,#genre#
+1227 check,#genre#
 
 Merry Xmas,https://www.youtube.com/watch?v=f-1ZHYHry60
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -1697,6 +1697,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
