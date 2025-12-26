@@ -1172,7 +1172,7 @@
 
 {
 "key": "聚合短剧",
-"name": "聚合短剧",
+"name": "聚合🦄短劇",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/聚合短剧.js",
 "style": {"type": "rect","ratio": 1.33},
@@ -1652,6 +1652,7 @@
 
 
 ]}
+
 
 
 
