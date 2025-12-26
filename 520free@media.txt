@@ -1191,19 +1191,18 @@
 "filterable": 1
 },
 
-    {
-      "key": "找短劇",
-      "name": "找短劇🦄短劇",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
-      "indexs": 1,
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
+{
+"key": "找短劇",
+"name": "找短劇🦄短劇",
+"type": 3,
+"api": "csp_HgggAmns",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+"indexs": 1,
+"searchable": 0,
+"filterable": 0,
+"quickSearch": 0,
+"changeable": 0
+},
 
 {
 "key": "csp_短劇網",
@@ -1667,6 +1666,7 @@
 
 
 ]}
+
 
 
 
