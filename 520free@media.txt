@@ -1036,7 +1036,7 @@
 "key": "py_文才",
 "name": "文才",
 "type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/又是一個金牌.py",
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/金牌1.py",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "quickSearch": 1,
@@ -1653,6 +1653,7 @@
 
 
 ]}
+
 
 
 
