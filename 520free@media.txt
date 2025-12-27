@@ -1166,7 +1166,17 @@
 
 #待測區
 
-
+{
+            "key": "Emby_key",
+            "name": "EmbyCat",
+            "type": 3,
+            "api": "https://files.catbox.moe/20w0z5.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
 
 
 
@@ -1692,6 +1702,7 @@
 
 
 ]}
+
 
 
 
