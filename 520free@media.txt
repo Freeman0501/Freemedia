@@ -20,7 +20,7 @@
 #"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 "logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2025/12/27",
+最終維護日 : 2025/12/28",
 
 "sites": [
 
@@ -1698,6 +1698,7 @@
 
 
 ]}
+
 
 
 
