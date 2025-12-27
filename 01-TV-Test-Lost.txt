@@ -627,6 +627,94 @@ WWE,https://tzh911.qzz.io/play-smt.php?id=Wwe
 歡喜台,https://tzh911.qzz.io/play-smt.php?id=Huahee_backup
 
 
+🍀 RobYang-1,#genre#
+
+
+
+Arirang TV,http://liveSmart.RobYang.dpdns.org:8278/arirang_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=715d653788d8c5501302fca046de0e0d
+AXN,http://liveSmart.RobYang.dpdns.org:8278/axn_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=328e1b34d33f21cc5fcc287f3f9672bd
+BBC World News,http://liveSmart.RobYang.dpdns.org:8278/bbcnews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=3edb2672d647cf6224bcb154eed32a4d
+CINEMAX,http://liveSmart.RobYang.dpdns.org:8278/cinemax_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0b4e8b68febe97e26498107541ffd4a8
+CN卡通,http://liveSmart.RobYang.dpdns.org:8278/momo1_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=12cd3ff48145eec7ded51b7189e9e136
+DAZN體育1,http://liveSmart.RobYang.dpdns.org:8278/golfchannel_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=27f21cdf394ef1fa5d979ced81cf9fe1
+Discovery Asia,http://livesmart.robyang.dpdns.org:8278/discoverytwn_twn/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=1da933de7d2da00a31d0e0f9aa57a98e
+DMAX,http://liveSmart.RobYang.dpdns.org:8278/discoveryhd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=712d75e5e54b1af3a4302d84e7beb2ed
+DMAX,http://liveSmart.RobYang.dpdns.org:8278/natgeohd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=25def7a40dc859fde20aaadecb4316aa
+ETtoday綜合,http://livesmart.robyang.dpdns.org:8278/xingweiyule_twn/playlist.m3u8?tid=mcf2f14d9d0cee&ct=11677112628&tsum=aa1304cfd69ec64079fdd4370f64d7b5
+EYE旅遊,http://liveSmart.RobYang.dpdns.org:8278/eyetvtravel_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0d0ccc4107459197f73f9ca6735f0836
+EYE戲劇,http://liveSmart.RobYang.dpdns.org:8278/eyetvxiju_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=2eea0750df52e1521fb041ea7f8c1ddb
+Fashion TV,http://liveSmart.RobYang.dpdns.org:8278/fashiontv_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=7c39da2bbad40ef7a5b6a2fa6f2b8719
+Fox News,http://liveSmart.RobYang.dpdns.org:8278/foxnews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=a5a9ea0be5bbe54d90305393d54054a3
+HBO Family,http://liveSmart.RobYang.dpdns.org:8278/fyi_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=2522109f12870fb4dc7821f23dec3b43
+HBO,http://liveSmart.RobYang.dpdns.org:8278/hbohd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=536ae7c1c14deebce990a0801bcc14d1
+JET綜合,http://livesmart.robyang.dpdns.org:8278/jet/playlist.m3u8?tid=mcf2f14d9d0cee&ct=11677112628&tsum=f810a89f08cb57df90e4e347e909a438
+MTV Live,http://liveSmart.RobYang.dpdns.org:8278/mtvhd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=1161684e62071a89d4fa60a9241282d2
+TLC旅遊生活,http://liveSmart.RobYang.dpdns.org:8278/tlc_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=abb8e01a3bdf7dbdece847357fae78e5
+TVBS HD,http://liveSmart.RobYang.dpdns.org:8278/tvbs/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=5b75841e5d412acd0b8766ac861a9fb3
+TVBS新聞,http://liveSmart.RobYang.dpdns.org:8278/tvbs_n/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=2132cf1a0e6859cfbb47d2b3bcb335ec
+TVBS歡樂,http://liveSmart.RobYang.dpdns.org:8278/tvbshuanle_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=05bff0cdf1c09714e9c1b4cd01949075
+八大第一,http://liveSmart.RobYang.dpdns.org:8278/badafirst/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=edd635e6aabd8a7b4a30420deffbeccb
+八大綜合,http://liveSmart.RobYang.dpdns.org:8278/badazhonghe/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=800b29903213efe1988fbc895a4aea9d
+八大戲劇,http://liveSmart.RobYang.dpdns.org:8278/badadrama/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=c103c77ef19401a38b3a2f118bcbd18c
+三立台灣,http://liveSmart.RobYang.dpdns.org:8278/sanlitaiwan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=486fee748f60ff374b74bf151a58398e
+三立綜合,http://liveSmart.RobYang.dpdns.org:8278/sanlizhonghe/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=491a65d506cf9707b22fe406021f11ee
+三立戲劇,http://liveSmart.RobYang.dpdns.org:8278/sanlixiju_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=e17237e8ad731dc8aa6286fb913f0f0a
+大愛,http://liveSmart.RobYang.dpdns.org:8278/daai_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0c14ecf01d8fd5dc7da06d5cfd530d10
+中天亞洲,http://liveSmart.RobYang.dpdns.org:8278/ctiasia_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0d47c594ee5f96d266eb9fbeefdf18eb
+中天娛樂,http://liveSmart.RobYang.dpdns.org:8278/ctient/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=876723935c3739e2797a008a980edc00
+中天新聞,http://liveSmart.RobYang.dpdns.org:8278/ctinews/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=b307f7913f0de848cadfd30d2000322d
+中天綜合,http://liveSmart.RobYang.dpdns.org:8278/ctizhonghe/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=b02d3b87c2ce805124b81f2eef974d17
+中視,http://liveSmart.RobYang.dpdns.org:8278/zhongshihd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=6bc75a9208a1ca7235ca46bc97a313e9
+中視新聞,http://liveSmart.RobYang.dpdns.org:8278/zhongshinews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=a88b1c39f44b872ed2cb29366d3d8363
+中視經典,http://livesmart.robyang.dpdns.org:8278/zhongshi_twn/playlist.m3u8?tid=mcf2f14d9d0cee&ct=11677112628&tsum=a749f8d97fd5dfe23afc773cd33c2381
+公視,http://liveSmart.RobYang.dpdns.org:8278/ctv_taiwan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=3a24c2335732cf54b08924e74916aa7d
+公視台語,http://livesmart.robyang.dpdns.org:8278/ctv2_twn/playlist.m3u8?tid=mcf2f14d9d0cee&ct=11677112628&tsum=369915d314eb7b6c34bdc3dfb6dd70a7
+台視,http://liveSmart.RobYang.dpdns.org:8278/ttv_taiwan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=e3254fa7a3ebab1834cc71e6bf874d0c
+台視新聞,http://liveSmart.RobYang.dpdns.org:8278/ttvnews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=eb0063be5edb6581ea0f88cd46e94ca9
+台視綜合,http://livesmart.robyang.dpdns.org:8278/ttvzhonghe/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=70928a14c0a3f3303bc2a166d43d1e9d
+民視,http://liveSmart.RobYang.dpdns.org:8278/ftvhd_taiwan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=339ad58cee599031d6eb94f834ac7c49
+民視台灣,http://liveSmart.RobYang.dpdns.org:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=907212988e9e9af29a1885b5df27598d
+民視新聞,http://liveSmart.RobYang.dpdns.org:8278/ftvnew_taiwan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=63bffe668a05cfcb5dc1513e96787dc9
+民視影劇,http://livesmart.robyang.dpdns.org:8278/toptv_twn/playlist.m3u8?tid=mcf2f14d9d0cee&ct=11677112628&tsum=b2797e906830a24f7f864272c20b4a86
+好萊塢電影,http://liveSmart.RobYang.dpdns.org:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=3970758a17292a2e2fdc46718ff526a5
+年代MUCH,http://livesmart.robyang.dpdns.org:8278/niandaitv_twn/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=4dff2ea79d71f6b2e72291d335063253
+年代新聞,http://liveSmart.RobYang.dpdns.org:8278/niandainews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=d2459bd1b0aee2af0bbc0889c548c80f
+亞洲美食,http://liveSmart.RobYang.dpdns.org:8278/afc_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=bef9eb4ef3d1eec3b62c06df7130ce6a
+亞洲旅遊,http://liveSmart.RobYang.dpdns.org:8278/asiatravel_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0603e2b5a345954dbc4cf7ed4bbd9759
+東森洋片,http://liveSmart.RobYang.dpdns.org:8278/ettvwestern/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=205d49fb3fa7ac767e9eba78e258f68c
+東森財經新聞,http://liveSmart.RobYang.dpdns.org:8278/ettvcaijing_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=2260a10a4092dc35671aa6d5b3ba512b
+東森電影,http://liveSmart.RobYang.dpdns.org:8278/ettvmovie/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=4e149d902750bab9b81650f8fcb1d480
+東森綜合,http://liveSmart.RobYang.dpdns.org:8278/ettvzhonghe/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=c438cfa8fd46e3bf588d5cbe4c174051
+東森戲劇,http://liveSmart.RobYang.dpdns.org:8278/ettvdrama/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=bc7cae67e38a0b3b71559fac1959ba0c
+非凡新聞,http://liveSmart.RobYang.dpdns.org:8278/feifannews_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=ebcb766106ad31ae3d50d2f3d3866d77
+美亞電影,http://liveSmart.RobYang.dpdns.org:8278/meiyamovie_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=287d1569b6f9511a07b52d587a2ab0a6
+動物星球,http://liveSmart.RobYang.dpdns.org:8278/animalplanet_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=f0eae676173054834f8036bd3addcf57
+博斯高球I,http://liveSmart.RobYang.dpdns.org:8278/bosigolf1_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=b0cc23a6e8b3a03c6d2229087f3e159c
+博斯高球II,http://liveSmart.RobYang.dpdns.org:8278/bosigolf2_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=377d7450ee3c9b23f9ba8149587077c1
+博斯運動I,http://liveSmart.RobYang.dpdns.org:8278/bosisport1_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=5774f27962b5afc112bf9dc777753841
+博斯運動II,http://liveSmart.RobYang.dpdns.org:8278/bosisport2_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=9218cf588530ee114f0209203fd12705
+博斯網球,http://liveSmart.RobYang.dpdns.org:8278/bositennis_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=7b921716d4590455268a68d2a8847d81
+壹新聞,http://livesmart.robyang.dpdns.org:8278/yinews/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=7a2567fb0f8c3f70b2334c7fae0ffb5b
+華視,http://liveSmart.RobYang.dpdns.org:8278/ctshd_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=6b7e58e2fde8153f815a6578663013e2
+華藝中文,http://liveSmart.RobYang.dpdns.org:8278/weishichinese_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=6ef21c44e756c2d8a795b1e12255a8bf
+愛爾達影劇,http://liveSmart.RobYang.dpdns.org:8278/eltayingju_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=9a85ede6169a3dd8817a2d894a41f461
+愛爾達體育1,http://liveSmart.RobYang.dpdns.org:8278/eltasport_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=5896ecc43403bc2309653b4da5d536dd
+愛爾達體育2,http://liveSmart.RobYang.dpdns.org:8278/eltasport2_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=24fc1c25ff75b36df36eb88d3637182a
+愛爾達體育3,http://liveSmart.RobYang.dpdns.org:8278/eltasport3_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=a02e543632be69905c7dd264177214eb
+愛爾達體育4,http://liveSmart.RobYang.dpdns.org:8278/natgeowild_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=690d74a107b5a63e870a81fe6b484317
+靖天國際,http://liveSmart.RobYang.dpdns.org:8278/jingtianintl_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=a8609e36da0deeed4b2a630ce980998c
+緯來日本,http://liveSmart.RobYang.dpdns.org:8278/videolandjapan/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=810801a4914e1cfe6a84a965cd76f3b0
+緯來育樂,http://livesmart.robyang.dpdns.org:8278/videolandmax/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=e01f2f33439aaa943abf5b2011d7add9
+緯來電影,http://livesmart.robyang.dpdns.org:8278/videolandmovie/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=44c436ab0ec154dd5d4cb348d71d408d
+緯來綜合,http://livesmart.robyang.dpdns.org:8278/videolandzonghe/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=5cd7802f71fb7b98c76ec8c5682ac4f3
+緯來戲劇,http://livesmart.robyang.dpdns.org:8278/videolandtv/playlist.m3u8?tid=mc9e548c58bec3&ct=11676272947&tsum=094994ce673067cd2975628c783b060a
+緯來體育,http://liveSmart.RobYang.dpdns.org:8278/videolandsport/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=3938f93d56eaffd9646970e2f9ee578d
+寰宇新聞,http://liveSmart.RobYang.dpdns.org:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=ee70edfdf83e981754651b6ec39054e2
+龍祥時代,http://liveSmart.RobYang.dpdns.org:8278/lungxiangtime_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=e8946b6ef6e29a535d4d61864274c113
+龍華洋片,http://liveSmart.RobYang.dpdns.org:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=bc8fae91684db117b05b226eba31b279
+龍華偶像,http://liveSmart.RobYang.dpdns.org:8278/lunghuaidol_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=0f4f56986096b78f710fdc5e2acfde5a
+龍華電影,http://liveSmart.RobYang.dpdns.org:8278/xingwei_movie/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=b527a5c454c78febdb2323364a7564f3
+龍華戲劇,http://liveSmart.RobYang.dpdns.org:8278/lunghuaxiju_twn/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=b0c2229ccfeab5f161527614b20983fe
 
 
 
