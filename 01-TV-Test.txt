@@ -107,6 +107,11 @@ DAZN體育2,http://66.90.99.154:8278/dazn2_twn/playlist.m3u8?tid=mc42afe775831&c
 愛爾達體育4台,https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
 
 
+愛爾達體育1台,https://live.catvod.com/live.php?id=eltasport_twn
+愛爾達體育2台,https://live.catvod.com/live.php?id=eltasport2_twn
+愛爾達體育3台,https://live.catvod.com/live.php?id=eltasport3_twn
+愛爾達體育4台,https://live.catvod.com/live.php?id=eltasports4_twn
+
 
 🍀 543,#genre#
 
