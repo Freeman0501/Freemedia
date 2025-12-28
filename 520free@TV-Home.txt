@@ -623,6 +623,10 @@ VOA美國之音,http://gkb.vigosee.com:50007/li-litv-ftv03/index.m3u8
 愛爾達娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
 愛爾達娛樂,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
 愛爾達影劇,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+愛爾達體育1台,https://live.catvod.com/live.php?id=eltasport_twn
+愛爾達體育2台,https://live.catvod.com/live.php?id=eltasport2_twn
+愛爾達體育3台,https://live.catvod.com/live.php?id=eltasport3_twn
+愛爾達體育4台,https://live.catvod.com/live.php?id=eltasports4_twn
 愛爾達體育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
 愛爾達體育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
 愛爾達體育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
@@ -1516,6 +1520,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
