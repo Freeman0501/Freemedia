@@ -262,9 +262,9 @@ VOA美國之音,http://gkb.vigosee.com:50007/li-litv-ftv03/index.m3u8
 三立都會,http://211.23.114.106:8538/http/61.67.128.137:8081/hls/65/807/ch19.m3u8
 三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
 三立都會,p2p://142.54.189.229:2666/64df11b100009de604a343a26d5e011f.ts
-三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 三立新聞,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
+三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 三立綜合,http://gkb.vigosee.com:50007/4gtv-live207/index.m3u8
 三立綜合,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
 三立綜合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
@@ -1520,6 +1520,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
