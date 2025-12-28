@@ -1108,19 +1108,18 @@ TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 🍁 歡樂看TV,#genre#
 
 
+
 台視新聞台,video://http://www.faintv.com/channel/19366
+軍武大觀,video://https://www.faintv.com/channel/17617
 歡樂看新聞,video://http://www.faintv.com/channel/19670
-中視新聞台,video://http://www.faintv.com/channel/12922
-華視新聞台,video://http://www.faintv.com/channel/12891
-寰宇新聞台灣台,video://http://www.faintv.com/channel/137
 寰宇財經台,video://http://www.faintv.com/channel/141
+寰宇新聞台灣台,video://http://www.faintv.com/channel/137
 寰宇新聞台,video://http://www.faintv.com/channel/136
 CNEX紀實頻道,video://http://www.faintv.com/channel/18295
 鳳凰衛視香港台,video://http://www.faintv.com/channel/18965
 TVB無綫新聞,video://http://www.faintv.com/channel/17766
 新唐人電視,video://http://www.faintv.com/channel/8976
 台灣啟示錄,video://http://www.faintv.com/channel/18254
-軍武大觀,video://https://www.faintv.com/channel/17617
 大大平評理,video://http://www.faintv.com/channel/18310
 政治狠狠問,video://http://www.faintv.com/channel/21235
 LINE TODAY看世界,video://http://www.faintv.com/channel/18948
@@ -1130,11 +1129,9 @@ CTWANT周刊王看新聞,video://http://www.faintv.com/channel/19446
 
 
 
+
 台視,video://http://www.faintv.com/channel/19371
 中天亞洲台,video://https://www.faintv.com/channel/121
-華視,video://http://www.faintv.com/channel/12892
-中視,video://http://www.faintv.com/channel/12921
-中視菁采台,video://http://www.faintv.com/channel/12923
 Smart知識台,video://http://www.faintv.com/channel/68
 ETtoday綜合台,video://http://www.faintv.com/channel/146
 大愛一台,video://http://www.faintv.com/channel/1869
@@ -1145,6 +1142,8 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 東森購物3台,video://http://www.faintv.com/channel/14908
 東森購物4台,video://http://www.faintv.com/channel/16555
 東森購物5台,video://http://www.faintv.com/channel/16556
+
+
 
 
 楊桃美食台,video://http://www.faintv.com/channel/16650
@@ -1160,14 +1159,17 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 
 
 
+
+
 龍華電影台,video://http://www.faintv.com/channel/132
-龍華洋片台,video://http://www.faintv.com/channel/228
 龍華經典台,video://http://www.faintv.com/channel/234
+龍華洋片台,video://http://www.faintv.com/channel/228
 龍華日韓台,video://http://www.faintv.com/channel/116
 龍華戲劇台,video://http://www.faintv.com/channel/95
 龍華偶像台,video://http://www.faintv.com/channel/122
 TVB星河台,video://http://www.faintv.com/channel/17767
 花系列戲劇,video://http://www.faintv.com/channel/12491
+
 
 
 
@@ -1184,8 +1186,10 @@ TVB星河台,video://http://www.faintv.com/channel/17767
 迷雁返家路,video://https://www.faintv.com/channel/22103
 
 
-KOOLAA,video://http://www.faintv.com/channel/19028
+
+
 Pace Sport,video://http://www.faintv.com/channel/5353
+KOOLAA,video://http://www.faintv.com/channel/19028
 MOMO運動綜合台,video://http://www.faintv.com/channel/14009
 博斯高球一台,video://http://www.faintv.com/channel/108
 博斯高球二台,video://http://www.faintv.com/channel/125
@@ -1207,6 +1211,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
 
+
 愛上ㄆㄤˋ滋味,video://https://www.faintv.com/channel/21568
 霹靂圖騰,video://https://www.faintv.com/channel/18197
 霹靂龍圖霸業,video://https://www.faintv.com/channel/18199
@@ -1219,19 +1224,19 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
 
+
 雲端電音狂潮,video://http://www.faintv.com/channel/20370
 雲端爵士樂,video://https://www.faintv.com/channel/21549
 雲端鋼琴音樂,video://https://www.faintv.com/channel/22124
 雲端水晶音樂,video://https://www.faintv.com/channel/22125
 雲端小野麗莎風格音樂,video://https://www.faintv.com/channel/22126
 美女郊遊遊,video://http://www.faintv.com/channel/19121
-台灣山步行,video://http://www.faintv.com/channel/19190
-臺灣文西Only You,video://http://www.faintv.com/channel/19409
 交換旅遊日記,video://http://www.faintv.com/channel/18978
 富士山朝聖之旅,video://http://www.faintv.com/channel/19407
 煮吧換咗我阿媽,video://https://www.faintv.com/channel/19194
 餸情,video://https://www.faintv.com/channel/19459
 如常,video://https://www.faintv.com/channel/17895
+
 
 
 隱形少女,video://http://www.faintv.com/channel/21026
@@ -1241,18 +1246,15 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 史前魔種,video://https://www.faintv.com/channel/21641
 校園爭霸戰,video://https://www.faintv.com/channel/19233
 不丹是教室,video://https://www.faintv.com/channel/21646
-可不可以-你也剛好喜歡我,video://http://www.faintv.com/channel/14589
-科技浩劫,video://http://www.faintv.com/channel/17364
 死屍日,video://https://www.faintv.com/channel/17686
-寒戰2,video://http://www.faintv.com/channel/16473
 無間行者之生死潛行,video://http://www.faintv.com/channel/16501
 阿虎,video://http://www.faintv.com/channel/19230
+寒戰2,video://http://www.faintv.com/channel/16473
 三國殺幻,video://https://www.faintv.com/channel/21642
 變種人幽靈戰姬,video://https://www.faintv.com/channel/21648
 臥底巨星,video://https://www.faintv.com/channel/22095
 西遊記-女兒國,video://https://www.faintv.com/channel/17920
 古劍奇譚之流月昭明,video://https://www.faintv.com/channel/21031
-
 
 
 
@@ -1510,6 +1512,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
