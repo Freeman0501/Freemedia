@@ -99,6 +99,14 @@ DAZN體育2,http://66.90.99.154:8278/dazn2_twn/playlist.m3u8?tid=mc42afe775831&c
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 
 
+
+愛爾達體育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+愛爾達體育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+愛爾達體育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+愛爾達體育4台,https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
+
+
+
 🍀 543,#genre#
 
 
