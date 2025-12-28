@@ -361,15 +361,15 @@ VOA美國之音,http://gkb.vigosee.com:50007/li-litv-ftv03/index.m3u8
 台灣戲劇,http://gkb.vigosee.com:50007/li-litv-longturn22/index.m3u8
 台灣戲劇,http://gkb.vigosee.com:50007/litv-longturn22/index.m3u8
 台灣戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
-民視,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/85/80/Ftv4max.m3u8
-民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
-民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
 民視,http://gkb.vigosee.com:50007/4gtv-4gtv002/index.m3u8
 民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
 民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
 民視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
+民視,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/85/80/Ftv4max.m3u8
+民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
+民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
@@ -1520,6 +1520,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
