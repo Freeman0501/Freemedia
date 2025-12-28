@@ -1026,7 +1026,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 寰宇財經,http://66.90.99.154:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7cdcbabc5d74dc1ef516bfe350edbe62
 寰宇財經,http://gkb.vigosee.com:50007/li-4gtv-4gtv158/index.m3u8
 寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
-寰宇財經,https://www.youtube.com/watch?v=EnuEsX3FSh0
+寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
 寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
@@ -1275,7 +1275,7 @@ TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 華視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
 華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 華視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
-寰宇財經,https://www.youtube.com/watch?v=EnuEsX3FSh0
+寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
 寰宇財經,http://66.90.99.154:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7cdcbabc5d74dc1ef516bfe350edbe62
 寰宇財經,http://gkb.vigosee.com:50007/li-4gtv-4gtv158/index.m3u8
 寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
@@ -1346,7 +1346,7 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-寰宇財經,https://www.youtube.com/watch?v=EnuEsX3FSh0
+寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -1862,6 +1862,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
