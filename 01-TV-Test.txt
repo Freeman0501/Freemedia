@@ -833,6 +833,98 @@ TVBS歡樂,http://141.11.87.241:20013/4gtv-4gtv068/index.m3u8
 鏡新聞,http://141.11.87.241:20013/4gtv-4gtv075/index.m3u8
 
 
+🍀 xtvantsc,#genre#
+
+
+
+AMC電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
+Arirang TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv079
+ELTV生活英語,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
+CLASSICA古典音樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv059
+GINX Esports TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
+韓國娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
+MCE,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
+MEZZO LIVE,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv083
+Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
+TRACE URBAN,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
+TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
+TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
+TVBS歡樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
+VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
+八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
+八大綜合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+中天亞洲,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+中視菁采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
+中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
+中視經典,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
+公視戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
+台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
+台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
+台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+台灣戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+民視台灣,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+民視旅遊,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
+民視第一,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+民視新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
+民視影劇,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+好消息,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
+好消息2台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
+亞洲旅遊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
+東森財經新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
+東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+采昌影劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
+非凡商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
+非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+客家電視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
+時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
+國會頻道1,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv084
+國會頻道2,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
+第1商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
+博斯高球I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
+博斯高球II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
+博斯無限,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
+博斯無限II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
+博斯運動I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
+博斯運動II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
+博斯網球,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
+博斯魅力,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
+智林體育,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
+華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+視納華仁紀實,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
+愛爾達娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
+達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
+靖天日本,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
+靖天卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
+靖天育樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv062
+靖天映畫,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+靖天國際,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
+靖天資訊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
+靖天電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
+靖天綜合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
+靖天戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+靖天歡樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
+靖洋卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
+靖洋戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
+影迷紀實,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
+影迷數位電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
+寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+寰宇新聞台灣,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+龍華日韓,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
+龍華卡通,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
+龍華偶像,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
+龍華經典,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
+龍華電影,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
+龍華戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
+鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 
 
 
