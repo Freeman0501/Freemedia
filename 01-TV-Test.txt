@@ -930,17 +930,16 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 
 🍀 165,#genre#
 
-
-AMC電影台,http://165.154.226.214:50007/li-li-4gtv-4gtv017/index.m3u8?proxy=true
-Arirang TV,http://165.154.226.214:50007/li-li-4gtv-4gtv079/index.m3u8?proxy=true
-BLOOMBERG TV,http://165.154.226.214:50007/li-li-4gtv-live059/index.m3u8?proxy=true
-CI 罪案偵查頻道,http://165.154.226.214:50007/li-li-4gtv-live027/index.m3u8?proxy=true
-Cinema World,http://165.154.226.214:50007/li-li-4gtv-live069/index.m3u8?proxy=true
-CLASSICA古典音樂,http://165.154.226.214:50007/li-li-4gtv-4gtv059/index.m3u8?proxy=true
-CMusic,http://165.154.226.214:50007/li-li-4gtv-live031/index.m3u8?proxy=true
-CNBC Asia,http://165.154.226.214:50007/li-li-4gtv-live130/index.m3u8?proxy=true
-DreamWorks,http://165.154.226.214:50007/li-li-4gtv-live017/index.m3u8?proxy=true
-DW德國之聲,http://165.154.226.214:50007/li-li-4gtv-live071/index.m3u8?proxy=true
+AMC電影台,http://165.154.226.214:50007/li-4gtv-4gtv017/index.m3u8?proxy=true
+Arirang TV,http://165.154.226.214:50007/li-4gtv-4gtv079/index.m3u8?proxy=true
+BLOOMBERG TV,http://165.154.226.214:50007/li-4gtv-live059/index.m3u8?proxy=true
+CI 罪案偵查頻道,http://165.154.226.214:50007/li-4gtv-live027/index.m3u8?proxy=true
+Cinema World,http://165.154.226.214:50007/li-4gtv-live069/index.m3u8?proxy=true
+CLASSICA古典音樂,http://165.154.226.214:50007/li-4gtv-4gtv059/index.m3u8?proxy=true
+CMusic,http://165.154.226.214:50007/li-4gtv-live031/index.m3u8?proxy=true
+CNBC Asia,http://165.154.226.214:50007/li-4gtv-live130/index.m3u8?proxy=true
+DreamWorks,http://165.154.226.214:50007/li-4gtv-live017/index.m3u8?proxy=true
+DW德國之聲,http://165.154.226.214:50007/li-4gtv-live071/index.m3u8?proxy=true
 ELTV生活英語,http://165.154.226.214:50007/li-litv-longturn20/index.m3u8?proxy=true
 ELTV生活英語,http://165.154.226.214:50007/of-litv-longturn20/index.m3u8?proxy=true
 FRANCE 24,http://165.154.226.214:50007/li-li-4gtv-live146/index.m3u8?proxy=true
