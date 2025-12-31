@@ -20,7 +20,7 @@
 #"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 "logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2025/12/31 預祝元旦平安順心",
+最終維護日 : 2026/01/01 歡慶元旦,平安順心",
 
 "sites": [
 
@@ -305,28 +305,6 @@
 },
 
 {
-"key": "NYa-emby",
-"name": "恩雅",
-"type": 3,
-"api": "https://yydsys.top/duo/py/emby.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 1,
-"ext": {
-"server": "https://emby.bangumi.ca:443",
-"username": "tangsan",
-"password": "tangsan",
-"proxy": "",
-"thread": 0,
-"device_name": "My Computer",
-"client": "Hills Windows",
-"client_version": "0.3.2",
-"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-}
-},
-
-{
 "key":"G1080",
 "name":"G1080",
 "type":3,
@@ -359,26 +337,6 @@
 "api":"csp_Jpys",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-},
-
-{
-"key":"狐狸",
-"name":"狐狸",
-"type":3,
-"api":"csp_AppFox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{"host":"http://www.yezitv.top"}
-},
-
-{
-"key":"剧猫",
-"name":"劇貓",
-"type":3,
-"searchable":1,
-"changeable":1,
-"api":"csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{"site":"https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt","dataKey":"zjmznbl2026zcxgb","dataIv":"zjmznbl2026zcxgb"}
 },
 
 {
@@ -722,7 +680,7 @@
 
 {
 "key": "csp_歐樂影院ORG",
-"name": "歐樂影院1",
+"name": "歐樂影院",
 "type": 3,
 "api": "csp_XBPQ",
 "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
@@ -1166,14 +1124,6 @@
 
 #待測區
 
-{
-"key": "Emby_key",
-"name": "EmbyCat",
-"type": 3,
-"api": "https://files.catbox.moe/20w0z5.js",
-"changeable": 1
-},
-
 
 
 
@@ -1242,18 +1192,6 @@
 "分类url": "https://www.duanju2.com/show/duanju--{by}-{cateId}-----{catePg}---{year}.html",
 "分类": "女频恋爱&脑洞悬疑&年代穿越&古装仙侠&现代都市&反转&爽文&短剧"
 }
-},
-
-{
-"key": "甜圈短剧",
-"name": "甜圈🦄短劇",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/甜圈短剧.py",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"playerType": 2
 },
 
 {
@@ -1344,17 +1282,6 @@
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/PTT短剧.json"
 },
 
-{
-"key":"笒鬼短劇",
-"name":"笒鬼🦄短劇",
-"type":3,
-"api":"csp_CenguiDJ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable":1,
-"changeable":1,
-"quickSearch":1,
-"filterable":1
-},
 
 
 
@@ -1374,7 +1301,7 @@
 
 {
 "key": "Dm84",
-"name": "動漫🦉巴士1",
+"name": "動漫🦉巴士",
 "type": 3,
 "api": "csp_Dm84",
 "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt",
@@ -1382,17 +1309,6 @@
 "searchable": 1,
 "quickSearch":1,
 "changeable": 1
-},
-
-{
-"key": "py_Dm84",
-"name": "動漫🦉巴士2",
-"type": 2,
-"api": "https://py.doube.eu.org/spider?site=Dm84",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0
 },
 
 {"key": "Ysj",
@@ -1584,6 +1500,144 @@
 "categories": ["欧美精品","卡通动漫","乱伦中出","传媒原创","口爆颜射","岛国女优","萝莉少女","国产直播","岛国群交","中文字幕","岛国素人","吃瓜爆料","淫娃自慰","公开漏出","户外打野","高潮喷水","AI换脸","AV解说","伦理三级","韩国直播"]
 },
 
+    {
+      "key": "麻豆",
+      "name": "🔞麻豆",
+      "type": 3,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "ext": {
+        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类": "日本视频$1#麻豆视频$2#國產視頻$3",
+        "剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
+        "直接播放": "1"
+      }
+    },
+
+    {
+      "key": "小红书",
+      "name": "🔞小紅薯",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/小紅薯.py",
+      "playerType": 2,
+      "filterable": 1
+    },
+
+    {
+      "key": "小黄书",
+      "name": "🔞小黃書",
+      "type": 3,
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头"  : "User-Agent$MOBILE_UA",
+        "过滤词"  : "https://upload.xchina.io",
+        "主页url": "https://xchina.fit/categories.html",
+        "数组"   : "item video\">&&</a",
+        "图片"   : "background-image:url('&&')",
+        "标题"   : "title=\"&&\"",
+        "简介"   : "twitter:title\" content=\"&&\"",
+        "链接"   : "href=\"&&\"",
+        "搜索模式" : "1",
+        "搜索url": "https://xchina.fit/videos/series-id/{pg}.html?wd={wd}",
+        "分类数组" : "<a&&</a",
+        "分类标题" : "title\">&&<",
+        "分类ID" : "/videos/series-&&.html",
+        "分类url": "https://xchina.fit/videos/series-{cateId}/{catePg}.html;;z"
+      }
+    },
+
+ {
+      "key": "csp_XYQHiker_ggjav",
+      "name": "🔞GGJAV",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/ggjav.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_njavtv.com",
+      "name": "🔞Njavtv.com",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/njavtv.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_njav.com",
+      "name": "🔞Njav.com",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/njav.com.json"
+    },
+
+    {
+      "key": "Netflav",
+      "name": "🔞Netflav",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "recordable": 0,
+      "api": "csp_Netflav",
+      "jar": "./jar/netflav.jar",
+      "ext": "proxy",
+      "timeout": 60
+    },
+
+    {
+      "key": "javDay.app",
+      "name": "🔞javDay.APP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "searchable": 1,
+      "style": {"ratio": 1.43},
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jav.json"
+    },
+
+    {
+      "key": "JAVDAYTV",
+      "name": "🔞JavDay.TV",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/javday.json",
+      "style": {"type": "rect", "ratio": 1.6}
+    },
+
+
+
+
+
+
+
+
+
 #結尾防當機
 
 {"key":"csp_Local","name":"📚儲存文件","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1}
@@ -1698,6 +1752,7 @@
 
 
 ]}
+
 
 
 
