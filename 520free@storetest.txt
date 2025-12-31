@@ -1,6 +1,12 @@
 {
 "urls":[
-{"url": "https://freeman0501.github.io/Freemedia/520free@media-Test.txt","name": "Free Movie Test"}
+//追劇
+{"url": "https://freeman0501.github.io/Freemedia/520free@media-Test.txt","name": "Free Movie Test"},
+//測試
+{"url": "https://freeman0501.github.io/Freemedia/520free@media.txt","name": "Free Movie"},
+//18+
+{"url": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/index.json","name": "Adult-01"},
+{"url": "https://freeman0501.github.io/Freemedia/AV18-02.txt","name": "Adult-02"},
+{"url": "https://freeman0501.github.io/Freemedia/AV18-03.txt","name": "Adult-03"}
 ]
 }
-
