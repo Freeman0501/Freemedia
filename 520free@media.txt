@@ -1564,6 +1564,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
       "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/ggjav.json"
     },
 
@@ -1575,7 +1576,9 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
       "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/njavtv.json"
+
     },
 
     {
@@ -1586,6 +1589,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
       "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/njav.com.json"
     },
 
@@ -1599,7 +1603,7 @@
       "filterable": 1,
       "recordable": 0,
       "api": "csp_Netflav",
-      "jar": "./jar/netflav.jar",
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/netflav.jar",
       "ext": "proxy",
       "timeout": 60
     },
@@ -1609,12 +1613,11 @@
       "name": "🔞javDay.APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
-      "style": {"ratio": 1.43},
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/jav.json"
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/jav.json"
     },
 
     {
@@ -1622,12 +1625,11 @@
       "name": "🔞JavDay.TV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/javday.json",
-      "style": {"type": "rect", "ratio": 1.6}
+      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/javday.json"
     },
 
 
@@ -1752,6 +1754,7 @@
 
 
 ]}
+
 
 
 
