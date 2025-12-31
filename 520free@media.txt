@@ -6,8 +6,6 @@
 
 
 #"spider":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-#"spider":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-#"spider":"https://gitlab.com/tenrecha/recha/-/raw/main/jar/vox.jar",
 #"spider":"http://tv543.cc/catvod.jar",
 
 
@@ -1749,6 +1747,7 @@
 
 
 ]}
+
 
 
 
