@@ -874,12 +874,11 @@ TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4
 TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
-TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://141.11.87.241:20013/4gtv-live089/index.m3u8
 三立iNEWS,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-三立新聞,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
+三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://141.11.87.241:20013/4gtv-4gtv009/index.m3u8
 中天新聞,http://165.154.226.214:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
@@ -903,11 +902,11 @@ TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 台視財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 台視財經,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
-台視新聞,http://gkb.vigosee.com:50007/li-4gtv-4gtv051/index.m3u8
-台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+台視新聞,http://165.154.226.214:50007/li-4gtv-4gtv051/index.m3u8?proxy=true
+台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
+台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
+台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://141.11.87.241:20013/litv-ftv13/index.m3u8
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
@@ -916,7 +915,6 @@ TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 民視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
-年代新聞,p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞,http://141.11.87.241:20013/4gtv-4gtv153/index.m3u8
@@ -942,7 +940,6 @@ TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
 非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
 非凡商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
-非凡商業,p2p://142.54.189.229:2666/64df45be00022c98056e96c83cf40f33.ts
 非凡新聞,http://141.11.87.241:20013/4gtv-4gtv010/index.m3u8
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
@@ -953,7 +950,6 @@ TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
-壹新聞,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
@@ -1072,17 +1068,15 @@ NASA Earth From Space,https://www.youtube.com/watch?v=QviXe8xvA50
 間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c
 進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
 關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=ATsYVyh_Nwk
-擁有超常技能的異世界流浪美食家,https://www.youtube.com/watch?v=1LG5ULI7Trg
+JOJO的奇妙冒險,https://www.youtube.com/watch?v=40XW3y84HsA
 
-白色相簿2,https://www.youtube.com/watch?v=inuV4C7UCxo
+賽馬娘,https://www.youtube.com/watch?v=joOWGvaa9oA
 佐賀偶像是傳奇,https://www.youtube.com/watch?v=SNG8wNLU-_s
 遊戲王,https://www.youtube.com/watch?v=nGDX7qUl6mw
 
 TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 
-豆豆先生,https://www.youtube.com/watch?v=amzgpxDsJjQ
-豆豆先生卡通1,https://www.youtube.com/watch?v=ISbUTZ714Jw
-豆豆先生卡通2,https://www.youtube.com/watch?v=_iYXccUBtSE
+豆豆先生,https://www.youtube.com/watch?v=dmSxr1TD8GQ
 
 豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
 萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -1116,8 +1110,8 @@ TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 包青天,https://www.youtube.com/watch?v=_AKIOe2Sh_g
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
-知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=sS6SFAjW_mo
-琉璃,https://www.youtube.com/watch?v=Kp2fEEv6HtE
+烈火如歌,https://www.youtube.com/watch?v=vBKRubBhQU8
+知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=Kalt-NQXFMU
 琅琊榜,https://www.youtube.com/watch?v=H4X-DA9BMR0
 
 飛龍在天,https://www.youtube.com/watch?v=Nfwr1WBXt9I
@@ -1549,6 +1543,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
