@@ -93,24 +93,10 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-DAZN體育1,http://66.90.99.154:8278/dazn1_twn/playlist.m3u8?tid=mc42afe775831&ct=11737421&tsum=1bcdfd723fc418947625039052e1c788
-DAZN體育2,http://66.90.99.154:8278/dazn2_twn/playlist.m3u8?tid=mc42afe775831&ct=11737421&tsum=001a5bf0062b42819dc37dfca611d152
 
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 
 
-
-
-愛爾達體育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
-愛爾達體育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
-愛爾達體育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
-愛爾達體育4台,https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
-
-
-愛爾達體育1台,https://live.catvod.com/live.php?id=eltasport_twn
-愛爾達體育2台,https://live.catvod.com/live.php?id=eltasport2_twn
-愛爾達體育3台,https://live.catvod.com/live.php?id=eltasport3_twn
-愛爾達體育4台,https://live.catvod.com/live.php?id=eltasports4_twn
 
 
 🍀 543,#genre#
@@ -331,7 +317,6 @@ Pet Club TV,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3
 TLC旅遊生活,http://211.23.114.106:9311/http/59.120.8.187:8081/hls/70/812/ch38.m3u8
 TVBS HD,http://211.23.114.106:9344/http/59.120.8.187:8081/hls/75/817/ch58.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
-TVBS歡樂,http://211.23.114.106:8553/http/59.120.8.187:8081/hls/65/807/ch17.m3u8
 人間衛視,http://211.23.114.106:9306/http/59.120.8.187:8081/hls/69/811/ch36.m3u8
 八大第一,http://211.23.114.106:9318/http/59.120.8.187:8081/hls/66/808/ch22.m3u8
 八大綜合,http://211.23.114.106:8521/http/59.120.8.187:8081/hls/66/808/ch21.m3u8
@@ -344,7 +329,6 @@ TVBS歡樂,http://211.23.114.106:8553/http/59.120.8.187:8081/hls/65/807/ch17.m3u
 中視,http://211.23.114.106:8534/http/59.120.8.187:8081/hls/88/80/Ctv4max.m3u8
 公視,http://211.23.114.106:8550/http/59.120.8.187:8081/hls/87/80/Pts4max.m3u8
 民視,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/85/80/Ftv4max.m3u8
-壹新聞,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/66/808/ch24.m3u8
 好消息,http://211.23.114.106:9308/http/59.120.8.187:8081/hls/74/816/ch53.m3u8
 好萊塢電影,http://211.23.114.106:9353/http/59.120.8.187:8081/hls/74/816/ch55.m3u8
 年代MUCH,http://211.23.114.106:9328/http/59.120.8.187:8081/hls/72/814/ch45.m3u8
@@ -395,7 +379,6 @@ Pet Club TV,http://211.23.114.106:9360/http/61.67.128.137:8078/hls/40/80/pettv.m
 TLC旅遊生活,http://211.23.114.106:9311/http/61.67.128.137:8081/hls/70/812/ch38.m3u8
 TVBS HD,http://211.23.114.106:9344/http/61.67.128.137:8081/hls/75/817/ch58.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-TVBS歡樂,http://211.23.114.106:8553/http/61.67.128.137:8081/hls/65/807/ch17.m3u8
 人間衛視,http://211.23.114.106:9306/http/61.67.128.137:8081/hls/69/811/ch36.m3u8
 八大第一,http://211.23.114.106:9318/http/61.67.128.137:8081/hls/66/808/ch22.m3u8
 八大綜合,http://211.23.114.106:8521/http/61.67.128.137:8081/hls/66/808/ch21.m3u8
@@ -437,47 +420,6 @@ TVBS歡樂,http://211.23.114.106:8553/http/61.67.128.137:8081/hls/65/807/ch17.m3
 
 
 
-
-
-🍀 142,#genre#
-
-AXN,p2p://142.54.189.229:2666/64df122d0005c00804a5294b00f52204.ts
-BBC World News,p2p://142.54.189.229:2666/64df446d0008ef2005697425049e4588.ts
-CHC家庭影院,p2p://142.54.189.229:2666/64df524500090962059f87e539814f92.ts
-CHC高清電影,p2p://142.54.189.229:2666/64df526f0007690e05a02b8862980d8c.ts
-CHC動作電影,p2p://142.54.189.229:2666/64df522000028fae059ef5b741fa1d46.ts
-CINEMAX,p2p://142.54.189.229:2666/64df5bda0009868805c4f60d115c76bc.ts
-CNN International,p2p://142.54.189.229:2666/64df44980009ee7c056a1c5c030731c7.ts
-HBO Family,p2p://142.54.189.229:2666/64df46550004bc4d0570e54c39ee24dd.ts
-HBO Hits,p2p://142.54.189.229:2666/64df45eb000de73e056f498e2cb767d8.ts
-HBO Signature,p2p://142.54.189.229:2666/64df46220007117705701eb010a05e11.ts
-HBO,p2p://142.54.189.229:2666/64df12580002b58d04a5d077677d6597.ts
-MOMO親子,p2p://142.54.189.229:2666/64df44f10007b01e056b776826a703aa.ts
-Nick Jr,p2p://142.54.189.229:2666/64df5c370009277b05c661456c657811.ts
-TVBS新聞,p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
-八大戲劇,p2p://142.54.189.229:2666/64df42c10009db1b0562ec745e7901e2.ts
-三立台灣,p2p://142.54.189.229:2666/64df120c000d1ba704a4aa47660f072a.ts
-三立都會,p2p://142.54.189.229:2666/64df11b100009de604a343a26d5e011f.ts
-三立新聞,p2p://142.54.189.229:2666/64df114a00089e6504a1b34e5ec80344.ts
-台視,p2p://142.54.189.229:2666/64df1280000382f804a66cf66f723cd5.ts
-好萊塢電影,p2p://142.54.189.229:2666/64df134600097ad804a973ed5c03697a.ts
-年代新聞,p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
-亞洲旅遊,p2p://142.54.189.229:2666/64df458d0000b197056dd70234661fa7.ts
-東風衛視,p2p://142.54.189.229:2666/64df454c000c128a056cdc0835e81587.ts
-東森洋片,p2p://142.54.189.229:2666/64df13790003d2fa04aa39ae2da01a11.ts
-東森新聞,p2p://142.54.189.229:2666/64df0db3000d67790493aeaf65c56300.ts
-東森電影,p2p://142.54.189.229:2666/64df13a000050e5604aad25477514fbe.ts
-東森戲劇,p2p://142.54.189.229:2666/64df12c40004572504a776c51f557ae3.ts
-非凡商業,p2p://142.54.189.229:2666/64df45be00022c98056e96c83cf40f33.ts
-都市劇場,p2p://142.54.189.229:2666/64e0cecc0002f9900b6df5b72ec12ee7.ts
-華藝中文,p2p://142.54.189.229:2666/64df12f700010de304a83d325efd0c7f.ts
-鳳凰資訊,p2p://142.54.189.229:2666/64df4dbc000cf286058dd1b77e200c8c.ts
-緯來日本,p2p://142.54.189.229:2666/64df443f00095d370568c085157977f8.ts
-緯來育樂,p2p://142.54.189.229:2666/64df43ac00074b2b056681d0209227db.ts
-緯來電影,p2p://142.54.189.229:2666/64df13210009342a04a8e3556bf668f8.ts
-緯來綜合,p2p://142.54.189.229:2666/64df43e300075980056758a83a2b540c.ts
-緯來戲劇,p2p://142.54.189.229:2666/64df437200095ddd05659fbd043c428f.ts
-緯來體育,p2p://142.54.189.229:2666/64df434b000e4fa8056508ad7eb544f1.ts
 
 
 
@@ -536,12 +478,8 @@ Smart知識台,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 thrill電影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 TVBS亞洲,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
 TVBS精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
-八大優頻道,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 八度空間,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-三立綜合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
 三立戲劇,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
-中視菁采,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
-中視經典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
 台視財經,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
 台視綜合,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
 民視台灣,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
@@ -550,12 +488,7 @@ TVBS精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
 采昌影劇,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
 美亞電影,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 壹電影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-壹綜合,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-愛大劇,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=hMZWcl&tk=EuWQIWwVA7n1
-愛奇藝綜合,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
-愛電影,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=OEIL49&tk=EuWQIWwVA7n1
 愛爾達影劇,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-經典電影,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=Mim4gW&tk=EuWQIWwVA7n1
 靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
 靖天育樂,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
 靖天映畫,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
@@ -566,12 +499,8 @@ TVBS精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
 靖天戲劇,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
 靖洋戲劇,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
 影迷數位電影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
-熱播劇場,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=7sRQom&tk=EuWQIWwVA7n1
-緯來精采,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
 寰宇新聞台灣,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
-諜戰劇場,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=MBQQ9O&tk=EuWQIWwVA7n1
 龍華偶像,P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
-龍華電影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
 龍華戲劇,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
 韓國娛樂,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
 
@@ -602,7 +531,6 @@ Magellan TV,https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0
 MCE,https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
 MEZZO LIVE,https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
 MOMO親子,https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
-MTV Live,https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
 NHK WORLD,https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
 Nick Jr,https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
 Nickelodeon,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
@@ -627,9 +555,7 @@ TVBS歡樂,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%
 大愛2台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
 中天新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 中視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
-中視菁采,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
 中視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
-中視經典,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0
 公視戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87
 半島國際新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
 民視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
@@ -688,7 +614,6 @@ TVBS歡樂,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%
 寰宇新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇新聞台灣,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 歷史頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-戲劇免費看,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%88%B2%E5%8A%87%E5%85%8D%E8%B2%BB%E7%9C%8B%201%E5%8F%B0
 韓國娛樂,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
 鏡新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
 
@@ -722,7 +647,6 @@ LUXE TV,http://141.11.87.241:20013/4gtv-live121/index.m3u8
 Magellan TV,http://141.11.87.241:20013/4gtv-live123/index.m3u8
 MEZZO LIVE,http://141.11.87.241:20013/4gtv-4gtv083/index.m3u8
 MOMO親子,http://141.11.87.241:20013/4gtv-live107/index.m3u8
-MTV Live,http://141.11.87.241:20013/4gtv-live025/index.m3u8
 Nick Jr,http://141.11.87.241:20013/4gtv-live032/index.m3u8
 Nickelodeon,http://141.11.87.241:20013/4gtv-live105/index.m3u8
 ROCK Action,http://141.11.87.241:20013/4gtv-live138/index.m3u8
@@ -747,9 +671,7 @@ TVBS歡樂,http://141.11.87.241:20013/4gtv-4gtv068/index.m3u8
 中天亞洲,http://141.11.87.241:20013/4gtv-4gtv109/index.m3u8
 中天新聞,http://141.11.87.241:20013/4gtv-4gtv009/index.m3u8
 中視,http://141.11.87.241:20013/4gtv-4gtv040/index.m3u8
-中視菁采,http://141.11.87.241:20013/4gtv-4gtv064/index.m3u8
 中視新聞,http://141.11.87.241:20013/4gtv-4gtv074/index.m3u8
-中視經典,http://141.11.87.241:20013/4gtv-4gtv080/index.m3u8
 公視戲劇,http://141.11.87.241:20013/4gtv-4gtv042/index.m3u8
 台視財經,http://141.11.87.241:20013/4gtv-4gtv056/index.m3u8
 台灣戲劇,http://141.11.87.241:20013/litv-longturn22/index.m3u8
@@ -828,7 +750,6 @@ TVBS歡樂,http://141.11.87.241:20013/4gtv-4gtv068/index.m3u8
 龍華經典,http://141.11.87.241:20013/litv-longturn21/index.m3u8
 龍華電影,http://141.11.87.241:20013/litv-longturn03/index.m3u8
 龍華戲劇,http://141.11.87.241:20013/litv-longturn18/index.m3u8
-戲劇免費看,http://141.11.87.241:20013/4gtv-live010/index.m3u8
 韓國娛樂,http://141.11.87.241:20013/4gtv-4gtv016/index.m3u8
 鏡新聞,http://141.11.87.241:20013/4gtv-4gtv075/index.m3u8
 
