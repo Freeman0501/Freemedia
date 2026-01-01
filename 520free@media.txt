@@ -15,8 +15,8 @@
 #"wallpaper": "https://imgs.catvod.com",
 #"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 
-#"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
-"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
+"logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
+#"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
 最終維護日 : 2026/01/02",
 
@@ -1747,6 +1747,7 @@
 
 
 ]}
+
 
 
 
