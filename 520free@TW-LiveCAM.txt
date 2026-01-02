@@ -364,7 +364,7 @@ Sapporo Japan,https://www.youtube.com/watch?v=38rSYDm-yTk
 新千歳空港,https://www.youtube.com/watch?v=Azbdr5jbN6o
 和歌山県白浜町,https://www.youtube.com/watch?v=Bv6pTaelhyk
 草津温泉西の河原,https://www.youtube.com/watch?v=RT_yg_qsK_M
-
+北海道旭川市,https://www.youtube.com/watch?v=0NAE8CwRQ68
 
 
 
@@ -415,4 +415,16 @@ So many LIVE World Cameras,https://www.youtube.com/watch?v=2BLqhS59Elc
 The World Live,https://www.youtube.com/watch?v=HfgIFGbdGJ0
 Rolling Cam around the World,https://www.youtube.com/watch?v=z7SiAaN4ogw
 New England Fall Colors,https://www.youtube.com/watch?v=Nl74W1nkMFU
+Dublin Ireland,https://www.youtube.com/watch?v=u4UZ4UvZXrg
+Times Square,https://www.youtube.com/watch?v=rnXIjl_Rzy4
+London Abbey Road,https://www.youtube.com/watch?v=57w2gYXjRic
+Bryant Park NYC,https://www.youtube.com/watch?v=809RMryNnlM
+Bryant Park,https://www.youtube.com/watch?v=g4CmWNxgsic
+Russia Petersburg,https://www.youtube.com/watch?v=h1wly909BYw
+CritterVision Critter Cam,https://www.youtube.com/watch?v=HlJ4aRtYhoo
+
+
+
+
+
 
