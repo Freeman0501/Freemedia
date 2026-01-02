@@ -408,6 +408,7 @@ Haeundae Busan,https://www.youtube.com/watch?v=MWYxOlqF7E8
 
 國外,#genre#
 LIVE daily camera Bratislava Slovakia,https://www.youtube.com/watch?v=KN8GssBk0k8
+Earth and space,https://www.youtube.com/watch?v=fO9e9jnhYK8
 Live NASA,https://www.youtube.com/watch?v=QviXe8xvA50
 San Francisco Skyline,https://www.youtube.com/watch?v=BSWhGNXxT9A
 聖誕老人村,https://www.youtube.com/watch?v=Cp4RRAEgpeU
@@ -423,8 +424,8 @@ Bryant Park,https://www.youtube.com/watch?v=g4CmWNxgsic
 Russia Petersburg,https://www.youtube.com/watch?v=h1wly909BYw
 CritterVision Critter Cam,https://www.youtube.com/watch?v=HlJ4aRtYhoo
 Brownville's Food Pantry For Deer,https://www.youtube.com/watch?v=XwLug9jR7lA
-
-
-
-
-
+Finland Northern Light Live Kilpisjärvi,https://www.youtube.com/watch?v=ccTVAhJU5lg
+Finland Zero Point Rental,https://www.youtube.com/watch?v=LwihxyJ4V20
+USA Live Cam,https://www.youtube.com/watch?v=fa8iGVeri_I
+Miami Cruise Ship Departures,https://www.youtube.com/watch?v=os3QxtU_ZrQ
+Michigan USA,https://www.youtube.com/watch?v=TkY4BzCikQ4
