@@ -1709,19 +1709,6 @@
 "playerType": 2
 },
 
-{
-"name": "SMT",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/lives-SMT.py",
-"ext": {}
-},
-
-{
-"name":"CatVOD","url":"https://live.catvod.com/tv.m3u",
-"epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei",
-"logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-
 {"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
 {
@@ -1743,44 +1730,6 @@
 {"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"}
 
 
-
-
-
 ]}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
