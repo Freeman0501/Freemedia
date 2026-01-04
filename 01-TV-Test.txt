@@ -52,11 +52,6 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
 
 
-CI 罪案偵查頻道,https://4gtvmobile-mozai.4gtv.tv/cSsgUgSiPd7KJgSnBdn9GdYzEiRnUOVd6k38kqWo2b0%3d/index.m3u8?token=ttZwefve5oCDpWMgMFYJHQ&expires=1767366732&token1=V6GlRl7LPjQsLMvr1thm8g&expires1=1767366732&refer=Yjk2MzllMzctMmE4My00ZGQ0LTlhMzEtYTBlM2EwZTUxN2U5&y=0
-GagaOOLala,https://4gtvmobile-mozai.4gtv.tv/RBqKT2lflgeQedXgLxJWeqi-QW4qYYlZ6DQI3zDVGcc%3d/index.m3u8?token=UUrreQ_MuGl4lk7gUocdzA&expires=1767366770&token1=kdoTDPutP1O4_mNdSWQglw&expires1=1767366770&refer=NjJkYzU0ZjUtNzhmNy00YzYxLWI0OTMtYWY2NjRlYjU5YWNl&y=0
-Pet Club TV,https://4gtvmobile-mozai.4gtv.tv/VepkyQRh0c9gn6rfrmwoe60Q4C5zMHwktbdgi_5H8IY%3d/index.m3u8?token=36bXmI6E_htg3bmxnEqeOg&expires=1767366587&token1=9xpzgdI9iGI9R8mU1DIUHw&expires1=1767366587&refer=N2Q1MDliYmYtYTZkOC00OWU4LTgwZTAtMGZkN2VmYjg5ZWUw&y=0
-三立iNEWS,https://4gtvmobile-mozai.4gtv.tv/vzeGQgBznLu3kNEWUGIHcQlS-dNdkNKgt26-rZcM6wQ%3d/index.m3u8?token=fcFo_o8pHoHWW24vxpRdZQ&expires=1767366334&token1=umvCnF3odtE29pthltbUlA&expires1=1767366334&refer=OGEwNTI0NTMtYjk2NS00MWUxLThjOTQtODZmZmJhMWFkOTM5&y=0
-車迷TV,https://4gtvmobile-mozai.4gtv.tv/ro5398WOT_i6kfCgp1Q8LIAU3ZdVH57JkUEb98so3LA%3d/index.m3u8?token=1JO78n4iQY9NSj9Nx73djg&expires=1767366571&token1=NEhwscfI7EXHpqqQHmh3Bw&expires1=1767366571&refer=ZTRjNjU5MDItZGM2NS00Y2E0LWE0ODEtNjUyMzliMWE2Mjgz&y=0
 
 
 
