@@ -1721,16 +1721,6 @@
 "playerType": 2
 },
 
-    {
-      "name": "海豚(直播)(py)",
-      "type": 3,
-      "url": "",
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/海豚TV.py",
-      "ext": {}
-    },
-
-
-
 {"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
 {
@@ -1761,6 +1751,7 @@
 
 
 ]}
+
 
 
 
