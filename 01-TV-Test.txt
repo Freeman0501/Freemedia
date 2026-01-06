@@ -960,53 +960,39 @@ TVBS歡樂,http://165.154.226.214:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
 
 
 
-🍓 catvod,#genre#
+🍀 catvod,#genre#
 
 ABC News,https://live.catvod.com/live.php?id=abcnews_glo
-AFC 亞洲旅遊台,https://live.catvod.com/live.php?id=asiatravel_twn
-Al-Jazeera,https://live.catvod.com/live.php?id=aljazeera_twn
+AFC 
 Animal_Planet,https://live.catvod.com/live.php?id=animalplanet_twn
-Animax,https://live.catvod.com/live.php?id=Animax
-Arena 2,https://live.catvod.com/live.php?id=Arena2
-Arena,https://live.catvod.com/live.php?id=Arena
 Arirang,https://live.catvod.com/live.php?id=arirang_twn
-Asia Travel,https://live.catvod.com/live.php?id=asiatravel_twn
-Axn HD,https://live.catvod.com/live.php?id=Axn
-AXN Taiwan,https://live.catvod.com/live.php?id=axn_twn
-Baby TV Eng,https://live.catvod.com/live.php?id=Babytv
-Baby TV,https://live.catvod.com/live.php?id=babytv_twn
-BBC Earth HD,https://live.catvod.com/live.php?id=bbcearth_twn
+亞洲旅遊台,https://live.catvod.com/live.php?id=asiatravel_twn
+AXN,https://live.catvod.com/live.php?id=axn_twn
+BBC Earth,https://live.catvod.com/live.php?id=bbcearth_twn
 BBC Earth Lifestyle,https://live.catvod.com/live.php?id=bbclifestyle_twn
 BBC World News,https://live.catvod.com/live.php?id=Bbcnews
 BBC World News,https://live.catvod.com/live.php?id=bbcnews_twn
 Bloomberg News,https://live.catvod.com/live.php?id=bloomberg_twn
-BolaArena 1,https://live.catvod.com/live.php?id=Bolaarena1
-BolaArena 2,https://live.catvod.com/live.php?id=Bolaarena2
-Cartoon Network,https://live.catvod.com/live.php?id=Cn
-CBeebies,https://live.catvod.com/live.php?id=Cbeebies
-CBS HD,https://live.catvod.com/live.php?id=cbshd_glo
+CBS,https://live.catvod.com/live.php?id=cbshd_glo
 CBSN HD,https://live.catvod.com/live.php?id=cbsn_glo
-CGTN,https://live.catvod.com/live.php?id=CGTN
 CI,https://live.catvod.com/live.php?id=ci_twn
-Cinemax,https://live.catvod.com/live.php?id=Cinemax
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
 CNA,https://live.catvod.com/live.php?id=cna
 CNBC,https://live.catvod.com/live.php?id=cnbc_twn
-CNN backup,https://live.catvod.com/live.php?id=cnn_twn
+CNN International,https://live.catvod.com/live.php?id=cnn_twn
 CNN International,https://live.catvod.com/live.php?id=Cnn
 Discovery Asia,https://live.catvod.com/live.php?id=discoverytwn_twn
-Discovery HD,https://live.catvod.com/live.php?id=discoveryhd_twn
+DMAX,https://live.catvod.com/live.php?id=discoveryhd_twn
 Dreamworks,https://live.catvod.com/live.php?id=Dreamworks
-DW (Deutsch),https://live.catvod.com/live.php?id=dw_twn
+DW,https://live.catvod.com/live.php?id=dw_twn
 EYE 旅遊台,https://live.catvod.com/live.php?id=eyetvtravel_twn
 EYE 戲劇台,https://live.catvod.com/live.php?id=eyetvxiju_twn
 Fashion TV,https://live.catvod.com/live.php?id=fashiontv_twn
-Foodnetwork Hd,https://live.catvod.com/live.php?id=Foodnetwork
 Fox News,https://live.catvod.com/live.php?id=foxnews_twn
 France 24,https://live.catvod.com/live.php?id=france24_twn
-HBO Family,https://live.catvod.com/live.php?id=Hbofamily
-HBO HD,https://live.catvod.com/live.php?id=Hbo
-HBO Hits,https://live.catvod.com/live.php?id=Hbohitshd
+HBO Family,https://live.catvod.com/live.php?id=Hbofamily_twn
+HBO HD,https://live.catvod.com/live.php?id=Hbo_twn
+HBO Hits,https://live.catvod.com/live.php?id=Hbohitshd_twn
 HBO Signature,https://live.catvod.com/live.php?id=Hbosignature
 HBO_HD,https://live.catvod.com/live.php?id=hbohd_twn
 HBO_HITS,https://live.catvod.com/live.php?id=hbohit_twn
