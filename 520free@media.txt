@@ -18,7 +18,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/01/06",
+最終維護日 : 2026/01/07",
 
 "sites": [
 
@@ -451,20 +451,6 @@
 },
 
 {
-"key": "浪酷影视",
-"name": "浪酷",
-"type": 3,
-"api": "csp_AppRJ",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": {
-"url": "http://v.lkuys.cn"
-}
-},
-
-{
 "key": "仓鼠",
 "name": "倉鼠",
 "type": 3,
@@ -494,20 +480,6 @@
 },
 
 {
-"key": "优势",
-"name": "優勢",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "http://zxy-ys.810211.dpdns.org",
-"dataKey": "1234567890123456",
-"dataIv": "1234567890123456"
-}
-},
-
-{
 "key": "数字",
 "name": "數字",
 "type": 3,
@@ -518,20 +490,6 @@
 "url": "http://app1-0-0.87333.cc",
 "dataKey": "VwsHxkCViDXEExWa",
 "dataIv": "VwsHxkCViDXEExWa"
-}
-},
-
-{
-"key": "火锅",
-"name": "火鍋",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "https://ios.hgyx.vip",
-"dataKey": "062dec75d039980e",
-"dataIv": "062dec75d039980e"
 }
 },
 
@@ -647,26 +605,6 @@
 "api": "csp_XBPQ",
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/韩剧看看.json",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar"
-},
-
-{
-"key": "韩剧TV",
-"name": "韓劇TV",
-"type": 3,
-"api": "csp_XBPQ",
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/韩剧TV.json",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar"
-},
-
-{
-"key": "py_播剧网",
-"name": "播劇網",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/播剧网.py",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0
 },
 
 {
@@ -883,23 +821,6 @@
 },
 
 {
-"key": "云云",
-"name": "雲雲",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "",
-"site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
-"dataKey": "staraugust123456",
-"dataIv": "staraugust123456",
-"deviceId": "",
-"version": "120"
-}
-},
-
-{
 "key": "客星",
 "name": "客星",
 "type": 3,
@@ -927,24 +848,6 @@
 "site": "",
 "dataKey" : "JEWibY1AgWF0V1xx",
 "dataIv"  : "JEWibY1AgWF0V1xx",
-"deviceId": "",
-"version" : "",
-"ua": ""
-}
-},
-
-{
-"key": "追番",
-"name": "追番",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url" : "",
-"site": "https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt",
-"dataKey" : "A1akVPQmnnE4Fz9Z",
-"dataIv"  : "A1akVPQmnnE4Fz9Z",
 "deviceId": "",
 "version" : "",
 "ua": ""
@@ -1139,6 +1042,24 @@
 #待測區
 
 
+{
+"key": "t1_dian_ying_tian_tang_02",
+"name": "天堂",
+"type": 1,
+"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 1,
+"playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
+"categories": [
+"国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","海外剧","泰国剧", 
+"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","记录片","伦理片",
+"动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧",  
+"日韩综艺","欧美综艺","大陆综艺","港台综艺"
+]
+},
 
 
 
@@ -1733,6 +1654,7 @@
 
 
 ]}
+
 
 
 
