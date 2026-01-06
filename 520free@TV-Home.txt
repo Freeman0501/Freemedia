@@ -1151,22 +1151,25 @@ NASA Earth From Space,https://www.youtube.com/watch?v=QviXe8xvA50
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
 蠟筆小新,https://www.youtube.com/watch?v=ENnjj7jQ23g
+蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU
 
-葬送的芙莉蓮,https://www.youtube.com/watch?v=DAVfn4Sp8xw
+葬送的芙莉蓮,https://www.youtube.com/watch?v=T8RL2v8Uxnw
 間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c
 進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
 關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=ATsYVyh_Nwk
-JOJO的奇妙冒險,https://www.youtube.com/watch?v=40XW3y84HsA
+JOJO的奇妙冒險,https://www.youtube.com/watch?v=onDII58Iev8
 
-賽馬娘,https://www.youtube.com/watch?v=joOWGvaa9oA
 佐賀偶像是傳奇,https://www.youtube.com/watch?v=SNG8wNLU-_s
 遊戲王,https://www.youtube.com/watch?v=nGDX7qUl6mw
 
-TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
+TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
+TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
+TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
 豆豆先生,https://www.youtube.com/watch?v=dmSxr1TD8GQ
 
 豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
+
 萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
 
 11點熱吵店,https://www.youtube.com/watch?v=HIE1r3ELkbo
@@ -1210,10 +1213,9 @@ TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
 飢餓遊戲,https://www.youtube.com/watch?v=id-0Sz8s1pI
 飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 
-聽見幸福,https://www.youtube.com/watch?v=ZhpeJEioN8Q
-愛上哥們,https://www.youtube.com/watch?v=EfnPTsHqIs8
+愛情魔髮師,https://www.youtube.com/watch?v=ih93UlH3Q_k
+浮士德的微笑,https://www.youtube.com/watch?v=6CvUw2EAdG0
 
-終極三國,https://www.youtube.com/watch?v=Gso0c_oMO8g
 終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
 
 綜藝玩很大,https://www.youtube.com/watch?v=uehKhWmttVE
@@ -1631,6 +1633,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
