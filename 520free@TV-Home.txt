@@ -1172,7 +1172,12 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
 萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
 
+超級冰冰Show,https://www.youtube.com/watch?v=3bAc9rGxNPg
+
 11點熱吵店,https://www.youtube.com/watch?v=HIE1r3ELkbo
+
+台視時光機,https://www.youtube.com/watch?v=MlpGNrF88FI
+神機妙算劉伯溫,https://www.youtube.com/watch?v=fH2POwXR-xw
 
 九重紫,https://www.youtube.com/watch?v=ESCvRS78MBk
 倚天屠龍記,https://www.youtube.com/watch?v=7syefcmbpFE
@@ -1633,6 +1638,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
