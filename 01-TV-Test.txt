@@ -102,13 +102,12 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 🍀 543,#genre#
 
-
 AMC電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
 Arirang TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
 CLASSICA古典音樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
 ELTV生活英語,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
-韓國娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
+MCE,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
 MEZZO LIVE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
 Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
 TRACE URBAN,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
@@ -125,7 +124,6 @@ TVBS歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
 中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
 中視經典,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
 公視戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
-半島國際新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
 台視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
 台視財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
@@ -188,9 +186,8 @@ TVBS歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
 龍華經典,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
 龍華電影,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
 龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+韓國娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
 鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-
-
 
 
 
@@ -199,13 +196,12 @@ TVBS歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
 🍀 breezy(立方),#genre#
 
 
-
 AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
 Arirang TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
 CLASSICA古典音樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv059
 ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
 GINX Esports TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv053
-韓國娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
+MCE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
 MEZZO LIVE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv083
 Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
 TRACE URBAN,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv082
@@ -223,7 +219,6 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
 中視經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
 公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
-半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
 台視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
 台視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
 台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
@@ -284,12 +279,8 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn21
 龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
 龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
+韓國娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
 鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
-
-
-
-
-
 
 
 
@@ -971,7 +962,7 @@ CNN International,https://live.catvod.com/live.php?id=cnn_twn
 CN卡通,https://live.catvod.com/live.php?id=momo1_twn
 Discovery Asia,https://live.catvod.com/live.php?id=discoverytwn_twn
 DMAX,https://live.catvod.com/live.php?id=discoveryhd_twn
-Dreamworks,https://live.catvod.com/live.php?id=Dreamworks
+DreamWorks,https://live.catvod.com/live.php?id=Dreamworks
 DW德國之聲,https://live.catvod.com/live.php?id=dw_twn
 EYE旅遊,https://live.catvod.com/live.php?id=eyetvtravel_twn
 EYE戲劇,https://live.catvod.com/live.php?id=eyetvxiju_twn
@@ -1023,7 +1014,7 @@ TVBS歡樂,https://live.catvod.com/live.php?id=tvbshuanle_twn
 博斯無限台,https://live.catvod.com/live.php?id=bosiunlimited_twn
 博斯運動I,https://live.catvod.com/live.php?id=bosisport1_twn
 博斯運動II,https://live.catvod.com/live.php?id=bosisport2_twn
-博斯網球臺,https://live.catvod.com/live.php?id=bositennis_twn
+博斯網球,https://live.catvod.com/live.php?id=bositennis_twn
 華視,https://live.catvod.com/live.php?id=ctshd_twn
 愛奇藝,https://live.catvod.com/live.php?id=Qiyi
 愛爾達體育1,https://live.catvod.com/live.php?id=eltasport_twn
@@ -1034,7 +1025,6 @@ TVBS歡樂,https://live.catvod.com/live.php?id=tvbshuanle_twn
 靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn
 緯來日本,https://live.catvod.com/live.php?id=videolandjapan
 緯來電影,https://live.catvod.com/live.php?id=videolandmovie
-緯來精彩,https://live.catvod.com/live.php?id=videolandspecial_twn
 緯來體育,https://live.catvod.com/live.php?id=videolandsport
 寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 龍祥時代,https://live.catvod.com/live.php?id=lungxiangtime_twn
