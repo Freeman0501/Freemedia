@@ -1606,7 +1606,17 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
 
-{"name":"Judy","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
+{"name":"Judy-4GTV","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
+
+{"name":"Judy-Smart","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
+
+{
+"name":"Judy-SportChannel",
+"url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
+"type":0,
+"timeout":10,
+"playerType":2
+},
 
 {
 "name": "微風直播",
@@ -1625,14 +1635,6 @@
 },
 
 {"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
-
-{
-"name":"Sport channel",
-"url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
-"type":0,
-"timeout":10,
-"playerType":2
-},
 
 {
 "name":"YouTube直播",
@@ -1654,6 +1656,7 @@
 
 
 ]}
+
 
 
 
