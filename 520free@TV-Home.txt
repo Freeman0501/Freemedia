@@ -94,7 +94,7 @@ Discovery,http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u
 Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
 DMAX,https://live.catvod.com/live.php?id=discoveryhd_twn
 DreamWorks,http://141.11.87.241:20013/4gtv-live017/index.m3u8
-Dreamworks,https://live.catvod.com/live.php?id=Dreamworks
+DreamWorks,https://live.catvod.com/live.php?id=Dreamworks
 DW德國之聲,http://141.11.87.241:20013/4gtv-live071/index.m3u8
 DW德國之聲,https://4gtv.946985.filegear-sg.me/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
 DW德國之聲,https://live.catvod.com/live.php?id=dw_twn
@@ -168,6 +168,8 @@ NHK WORLD,http://211.23.114.106:9351/http/61.67.128.137:8081/hls/62/804/ch06.m3u
 NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
 NHK WORLD,https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+MCE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
+MCE,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
 Nick Jr,http://141.11.87.241:20013/4gtv-live032/index.m3u8
 Nick Jr,https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
 Nickelodeon,http://141.11.87.241:20013/4gtv-live105/index.m3u8
@@ -377,8 +379,6 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 公視戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87
 天映經典,https://live.catvod.com/live.php?id=Celestial2
 天映頻道,https://live.catvod.com/live.php?id=Celestial
-半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
-半島國際新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
 半島國際新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
 台視,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
 台視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
@@ -658,7 +658,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 博斯網球,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
 博斯網球,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
 博斯網球,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
-博斯網球臺,https://live.catvod.com/live.php?id=bositennis_twn
+博斯網球,https://live.catvod.com/live.php?id=bositennis_twn
 博斯魅力,http://141.11.87.241:20013/litv-longturn04/index.m3u8
 博斯魅力,http://165.154.226.214:50007/litv-longturn04/index.m3u8?proxy=true
 博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
@@ -837,7 +837,6 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 緯來電影,http://211.23.114.106:9354/http/61.67.128.137:8081/hls/69/811/ch35.m3u8
 緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
 緯來電影,https://live.catvod.com/live.php?id=videolandmovie
-緯來精彩,https://live.catvod.com/live.php?id=videolandspecial_twn
 緯來綜合,http://211.23.114.106:8536/http/59.120.8.187:8081/hls/68/810/ch32.m3u8
 緯來綜合,http://211.23.114.106:8536/http/61.67.128.137:8081/hls/68/810/ch32.m3u8
 緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
@@ -1632,6 +1631,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
