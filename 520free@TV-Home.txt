@@ -38,12 +38,12 @@ Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 AXN,http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
 AXN,http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
 AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
-AXN,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/211.ts
+AXN,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/211.ts
 BLOOMBERG TV,http://141.11.87.241:20013/4gtv-live059/index.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/59.120.8.187:8078/hls/43/80/bloomber.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
 BLOOMBERG TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
-CatchPlay電影,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/216.ts
+CatchPlay電影,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/216.ts
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.67.128.137:8078/hls/42/80/cctv4.m3u8
 CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
@@ -82,7 +82,7 @@ ELTV生活英語,http://165.154.226.214:50007/of-litv-longturn20/index.m3u8?prox
 ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
 ELTV生活英語,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 ELTV生活英語,https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
-EVE,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/291.ts
+EVE,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/291.ts
 EYE戲劇,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
 FRANCE 24,http://141.11.87.241:20013/4gtv-live146/index.m3u8
 FRANCE 24,https://4gtv.946985.filegear-sg.me/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
@@ -95,13 +95,13 @@ GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
 GINX Esports TV,https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
 Global Trekker,http://141.11.87.241:20013/4gtv-live112/index.m3u8
 Global Trekker,https://4gtv.946985.filegear-sg.me/playlist?channel=Global%20Trekker
-HBO Family,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/204.ts
-HBO Signature,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/203.ts
+HBO Family,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/204.ts
+HBO Signature,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/203.ts
 HBO,http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
-HBO,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/202.ts
+HBO,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/202.ts
 HITS,http://141.11.87.241:20013/4gtv-live620/index.m3u8
 HITS,https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 INULTRA,http://141.11.87.241:20013/4gtv-live096/index.m3u8
@@ -158,7 +158,7 @@ Smart知識台,http://165.154.226.214:50007/litv-longturn19/index.m3u8?proxy=tru
 Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
 Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
 Smart知識台,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
-Taiwan Plus,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/437.ts
+Taiwan Plus,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/437.ts
 thrill電影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
 TLC旅遊生活,http://211.23.114.106:9311/http/59.120.8.187:8081/hls/70/812/ch38.m3u8
 TLC旅遊生活,http://211.23.114.106:9311/http/61.67.128.137:8081/hls/70/812/ch38.m3u8
@@ -261,7 +261,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 大愛2台,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
 大愛2台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
 大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-小公視PTS-XS,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/200.ts
+小公視PTS-XS,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/200.ts
 中天亞洲,http://141.11.87.241:20013/4gtv-4gtv109/index.m3u8
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
 中天亞洲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
@@ -495,7 +495,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
 時尚運動X,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv014
 時尚運動X,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-高點綜合,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/324.ts
+高點綜合,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/324.ts
 動物星球,http://211.23.114.106:9312/http/59.120.8.187:8081/hls/70/812/ch37.m3u8
 動物星球,http://211.23.114.106:9312/http/61.67.128.137:8081/hls/70/812/ch37.m3u8
 動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
@@ -508,7 +508,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
 國會頻道2,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%932
 國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
-國興衛視,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/431.ts
+國興衛視,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/431.ts
 第1商業,http://141.11.87.241:20013/4gtv-4gtv104/index.m3u8
 第1商業,http://165.154.226.214:50007/4gtv-4gtv104/index.m3u8?proxy=true
 第1商業,http://165.154.226.214:50007/li-4gtv-4gtv104/index.m3u8?proxy=true
@@ -549,7 +549,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-壹新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/407.ts
+壹新聞,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/407.ts
 壹電影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
 智林體育,http://141.11.87.241:20013/4gtv-4gtv101/index.m3u8
 智林體育,http://165.154.226.214:50007/li-4gtv-4gtv101/index.m3u8?proxy=true
@@ -584,10 +584,10 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 愛爾達娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
 愛爾達娛樂,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
 愛爾達影劇,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-愛爾達體育1,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/257.ts
-愛爾達體育2,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/258.ts
-愛爾達體育3,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/259.ts
-愛爾達體育4,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/260.ts
+愛爾達體育1,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/257.ts
+愛爾達體育2,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/258.ts
+愛爾達體育3,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/259.ts
+愛爾達體育4,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/260.ts
 新唐人亞太,http://141.11.87.241:20013/4gtv-live050/index.m3u8
 新唐人亞太,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
@@ -731,7 +731,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 寰宇新聞台灣,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 歷史頻道,http://141.11.87.241:20013/4gtv-live026/index.m3u8
 歷史頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-龍祥時代,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/209.ts
+龍祥時代,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/209.ts
 龍華日韓,http://141.11.87.241:20013/litv-longturn11/index.m3u8
 龍華日韓,http://165.154.226.214:50007/li-litv-longturn11/index.m3u8?proxy=true
 龍華日韓,http://165.154.226.214:50007/litv-longturn11/index.m3u8?proxy=true
@@ -874,7 +874,7 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-壹新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/407.ts
+壹新聞,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/407.ts
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://141.11.87.241:20013/4gtv-4gtv052/index.m3u8
 華視新聞,http://165.154.226.214:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
@@ -1465,6 +1465,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
