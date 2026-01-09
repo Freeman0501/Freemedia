@@ -803,7 +803,6 @@ TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
-TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://141.11.87.241:20013/4gtv-live089/index.m3u8
@@ -817,7 +816,6 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
 中天新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
-中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 中天新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://141.11.87.241:20013/4gtv-4gtv074/index.m3u8
@@ -825,24 +823,20 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 中視新聞,http://165.154.226.214:50007/of-4gtv-4gtv074/index.m3u8?proxy=true
 中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
 中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
-中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
 中視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視財經,http://141.11.87.241:20013/4gtv-4gtv056/index.m3u8
 台視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
 台視財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
-台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 台視財經,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 台視新聞,http://165.154.226.214:50007/li-4gtv-4gtv051/index.m3u8?proxy=true
 台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
 台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
-台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://141.11.87.241:20013/litv-ftv13/index.m3u8
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
 民視新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
-民視新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
 民視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
@@ -853,7 +847,6 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
 東森財經新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
-東森財經新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 東森財經新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://141.11.87.241:20013/4gtv-4gtv152/index.m3u8
@@ -861,7 +854,6 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv152
 東森新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
-東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 東森新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://141.11.87.241:20013/4gtv-4gtv048/index.m3u8
@@ -870,12 +862,10 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
 非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
 非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
-非凡商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 非凡新聞,http://141.11.87.241:20013/4gtv-4gtv010/index.m3u8
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
 非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
-非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
@@ -884,18 +874,16 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-壹電影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+壹新聞,http://iptvpro.pw:35451//live/加QQ群1078393318/18182929/407.ts
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://141.11.87.241:20013/4gtv-4gtv052/index.m3u8
 華視新聞,http://165.154.226.214:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
 華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv052
 華視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
-華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 華視新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
 寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
 寰宇財經,http://165.154.226.214:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇財經,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,http://141.11.87.241:20013/litv-longturn14/index.m3u8
 寰宇新聞,http://165.154.226.214:50007/li-litv-longturn14/index.m3u8?proxy=true
@@ -905,7 +893,6 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
 寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
 寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
-寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 寰宇新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://141.11.87.241:20013/4gtv-4gtv156/index.m3u8
@@ -913,7 +900,6 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 寰宇新聞台灣,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新聞台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
 寰宇新聞台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
-寰宇新聞台灣,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 寰宇新聞台灣,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 寰宇新聞台灣,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -922,9 +908,7 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 鏡新聞,http://211.23.114.106:8545/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
 鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 鏡新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-
 
 
 
@@ -1481,6 +1465,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
