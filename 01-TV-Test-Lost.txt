@@ -142,113 +142,10 @@ WWE,https://smt.passwdword.xyz/Smart.php?id=Wwe
 
 
 
-🍀 vrvwfasiyxst,#genre#
-
-ELTV生活英語,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
-Smart知識台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
-三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
-中視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
-中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
-台視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
-台視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
-台灣戲劇,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
-好消息,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
-好消息2台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
-亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
-東森購物一台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
-東森購物二台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
-倪珍越南語新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
-倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
-國會頻道1,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
-國會頻道2,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
-第1商業,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
-華視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
-華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
-寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
-寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
-龍華日韓,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
-龍華卡通,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
-龍華洋片,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
-龍華偶像,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
-龍華經典,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
-龍華電影,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
-龍華戲劇,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
 
 
 
 
-
-
-
-
-🍀 211-61-219,#genre#
-
-
-AMC電影台,http://211.23.114.106:9359/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
-AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
-BLOOMBERG TV,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
-CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.219.99.20:8078/hls/42/80/cctv4.m3u8
-CINEMAX,http://211.23.114.106:9358/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
-DAZN體育1,http://211.23.114.106:8523/http/61.219.99.20:8078/hls/25/80/esport.m3u8
-DAZN體育2,http://211.23.114.106:8555/http/61.219.99.20:8078/hls/26/80/esport2.m3u8
-Discovery,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
-HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
-JET綜合,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
-MOMO TV,http://211.23.114.106:8511/http/61.219.99.20:8081/hls/76/818/momo_max.m3u8
-MOMO親子,http://211.23.114.106:8516/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
-NHK WORLD,http://211.23.114.106:9351/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
-Pet Club TV,http://211.23.114.106:9360/http/61.219.99.20:8078/hls/40/80/pettv.m3u8
-TLC旅遊生活,http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
-TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-TVBS新聞,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-TVBS歡樂,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
-人間衛視,http://211.23.114.106:9306/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
-八大第一,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
-八大綜合,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-八大戲劇,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
-三立台灣,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
-三立都會,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
-大愛,http://211.23.114.106:9307/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
-中天娛樂,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-中天綜合,http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-中視,http://211.23.114.106:8534/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
-公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
-民視,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-民視,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
-好消息,http://211.23.114.106:9308/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
-好萊塢電影,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
-年代MUCH,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
-年代新聞,http://211.23.114.106:8518/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
-年代新聞,http://211.23.114.106:8518/http/61.219.99.20:8088/hls/67/809/ch27.m3u8
-亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
-東風衛視,http://211.23.114.106:9327/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
-東森幼幼,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
-東森幼幼,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
-東森超視,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-東森綜合,http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
-東森戲劇,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
-非凡商業,http://211.23.114.106:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
-動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
-壹新聞,http://211.23.114.106:8545/http/61.219.99.20:8081/hls/66/808/ch024.m3u8
-華視,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
-鳳凰資訊,http://211.23.114.106:8548/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
-鳳凰衛視,http://211.23.114.106:8549/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
-緯來日本,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-緯來育樂,http://211.23.114.106:8513/http/61.219.99.20:8081/hls/68/810/ch30.m3u8
-緯來電影,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
-緯來綜合,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
-緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
-緯來體育,http://211.23.114.106:8528/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
-寰宇新聞,http://211.23.114.106:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-龍華日韓,http://211.23.114.106:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
-龍華日韓,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
-龍華卡通,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
-龍華電影,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
-龍華戲劇,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
-韓國娛樂,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
-鏡新聞,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 
 
 🍀 korice,#genre#
@@ -1164,98 +1061,7 @@ TVBS歡樂,https://live.catvod.com/live.php?id=tvbshuanle_twn
 龍華偶像,https://live.catvod.com/live.php?id=lunghuaidol_twn
 龍華戲劇,https://live.catvod.com/live.php?id=lunghuaxiju_twn
 
-🍀 xtvantsc,#genre#
 
-
-
-AMC電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
-Arirang TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv079
-ELTV生活英語,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
-CLASSICA古典音樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv059
-GINX Esports TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
-韓國娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
-MCE,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
-MEZZO LIVE,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv083
-Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
-TRACE URBAN,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
-TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
-TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
-TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
-TVBS歡樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
-VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
-八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
-八大綜合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
-中天亞洲,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
-中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
-中視菁采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
-中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
-中視經典,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
-公視戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
-台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
-台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
-台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
-台灣戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
-民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
-民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
-民視台灣,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
-民視旅遊,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
-民視第一,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
-民視新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
-民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
-民視影劇,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
-好消息,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
-好消息2台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
-亞洲旅遊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
-東森財經新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
-東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-采昌影劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
-非凡商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
-非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
-客家電視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
-時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
-國會頻道1,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv084
-國會頻道2,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
-第1商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
-博斯高球I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
-博斯高球II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
-博斯無限,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
-博斯無限II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
-博斯運動I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
-博斯運動II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
-博斯網球,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
-博斯魅力,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
-智林體育,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
-華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
-華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
-視納華仁紀實,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
-愛爾達娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
-達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
-靖天日本,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
-靖天卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
-靖天育樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv062
-靖天映畫,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
-靖天國際,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
-靖天資訊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
-靖天電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
-靖天綜合,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
-靖天戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
-靖天歡樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
-靖洋卡通,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
-靖洋戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
-影迷紀實,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
-影迷數位電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
-豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
-寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
-寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-寰宇新聞台灣,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
-龍華日韓,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
-龍華卡通,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
-龍華偶像,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
-龍華經典,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
-龍華電影,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
-龍華戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
-鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 
 
 #觀察區
@@ -1477,6 +1283,109 @@ TVBS歡樂,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3
 緯來體育,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
 
+
+🍀 vrvwfasiyxst,#genre#
+
+ELTV生活英語,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+Smart知識台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+中視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+台視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+台視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+台灣戲劇,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+好消息,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+好消息2台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+東森購物一台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+東森購物二台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
+倪珍越南語新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
+倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+國會頻道1,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+國會頻道2,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+第1商業,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+華視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+龍華日韓,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+龍華卡通,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+龍華洋片,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+龍華偶像,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+龍華經典,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+龍華電影,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+龍華戲劇,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+
+
+
+🍀 211-61-219,#genre#
+
+
+AMC電影台,http://211.23.114.106:9359/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+AXN,http://211.23.114.106:9357/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+BLOOMBERG TV,http://211.23.114.106:9350/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.219.99.20:8078/hls/42/80/cctv4.m3u8
+CINEMAX,http://211.23.114.106:9358/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+DAZN體育1,http://211.23.114.106:8523/http/61.219.99.20:8078/hls/25/80/esport.m3u8
+DAZN體育2,http://211.23.114.106:8555/http/61.219.99.20:8078/hls/26/80/esport2.m3u8
+Discovery,http://211.23.114.106:9310/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+HBO,http://211.23.114.106:9356/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+JET綜合,http://211.23.114.106:8505/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+MOMO TV,http://211.23.114.106:8511/http/61.219.99.20:8081/hls/76/818/momo_max.m3u8
+MOMO親子,http://211.23.114.106:8516/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+NHK WORLD,http://211.23.114.106:9351/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+Pet Club TV,http://211.23.114.106:9360/http/61.219.99.20:8078/hls/40/80/pettv.m3u8
+TLC旅遊生活,http://211.23.114.106:9311/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+TVBS新聞,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS歡樂,http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+人間衛視,http://211.23.114.106:9306/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+八大第一,http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+八大戲劇,http://211.23.114.106:9330/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+三立台灣,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會,http://211.23.114.106:8538/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+大愛,http://211.23.114.106:9307/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+中天娛樂,http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+中天綜合,http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+中視,http://211.23.114.106:8534/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+公視,http://211.23.114.106:8550/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+民視,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+民視,http://211.23.114.106:8501/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+好消息,http://211.23.114.106:9308/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+好萊塢電影,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+年代MUCH,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+年代新聞,http://211.23.114.106:8518/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+年代新聞,http://211.23.114.106:8518/http/61.219.99.20:8088/hls/67/809/ch27.m3u8
+亞洲旅遊,http://211.23.114.106:8512/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+東風衛視,http://211.23.114.106:9327/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+東森幼幼,http://211.23.114.106:8551/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+東森幼幼,http://211.23.114.106:8515/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+東森超視,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+東森綜合,http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+東森戲劇,http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+非凡商業,http://211.23.114.106:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+動物星球,http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+壹新聞,http://211.23.114.106:8545/http/61.219.99.20:8081/hls/66/808/ch024.m3u8
+華視,http://211.23.114.106:8504/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+鳳凰資訊,http://211.23.114.106:8548/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
+鳳凰衛視,http://211.23.114.106:8549/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
+緯來日本,http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+緯來育樂,http://211.23.114.106:8513/http/61.219.99.20:8081/hls/68/810/ch30.m3u8
+緯來電影,http://211.23.114.106:9354/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+緯來綜合,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+緯來體育,http://211.23.114.106:8528/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
+寰宇新聞,http://211.23.114.106:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+龍華日韓,http://211.23.114.106:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+龍華日韓,http://211.23.114.106:8525/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+龍華卡通,http://211.23.114.106:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+龍華電影,http://211.23.114.106:8509/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+龍華戲劇,http://211.23.114.106:8522/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+韓國娛樂,http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+鏡新聞,http://211.23.114.106:8545/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 
 
 
