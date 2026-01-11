@@ -1607,6 +1607,13 @@
 },
 
 {
+"name": "LITV直播(543)",
+"type": 3,
+"api": "https://iptv543.com/litv.php?token=885252&id=",
+"ext": {}
+},
+
+{
 "name":"Judy-SportChannel",
 "url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
 "type":0,
@@ -1630,11 +1637,11 @@
 "playerType": 2
 },
 
+{"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
+
 {"name":"Judy-4GTV(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
 
 {"name":"Judy-Smart(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
-
-{"name":"TV543(暫失效)","url":"https://tv543.cc/4gtv1.m3u"},
 
 {
 "name":"YouTube直播",
@@ -1657,6 +1664,7 @@
 
 
 ]}
+
 
 
 
