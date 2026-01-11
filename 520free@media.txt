@@ -1607,13 +1607,6 @@
 },
 
 {
-"name": "LITV直播(543)",
-"type": 3,
-"api": "https://iptv543.com/litv.php?type=m3u&token=885252",
-"ext": {}
-},
-
-{
 "name":"Judy-SportChannel",
 "url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
 "type":0,
@@ -1664,6 +1657,7 @@
 
 
 ]}
+
 
 
 
