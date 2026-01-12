@@ -1649,7 +1649,7 @@
 
 {"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"},
 
-{"name":"TV543(暫失效)","url":"https://tv543.cc/4gtv1.m3u"},
+{"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
 {"name":"Judy-4GTV(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
 
@@ -1663,6 +1663,7 @@
 
 
 ]}
+
 
 
 
