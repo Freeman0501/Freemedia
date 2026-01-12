@@ -18,7 +18,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/01/12",
+最終維護日 : 2026/01/13",
 
 "sites": [
 
@@ -1630,33 +1630,39 @@
 "playerType": 2
 },
 
-{"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
+{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+
+{"name": "SmartTV-1","url": "http://96.44.160.246:9999/smt.php"},
+
+{"name": "SmartTV-2","url": "http://52xinghe.top/smmmt.php"},    
+
+{"name": "台港陸綜合","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"},
+
+{
+"name": "DreamTV",
+"url": "http://dreamtv.sylu.net:2082/m3u8view?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw",
+"playerType": 2,
+"epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz，http://epg.52sw.top:668/?ch={name}&date={date}",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+},
+
+{"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"},
+
+{"name":"TV543(暫失效)","url":"https://tv543.cc/4gtv1.m3u"},
 
 {"name":"Judy-4GTV(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
 
 {"name":"Judy-Smart(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
 
-{
-"name":"YouTube直播",
-"type":0,
-"playerType":2,
-"url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.m3u"
-},
+{"name":"YouTube直播","type":0,"playerType":2,"url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.m3u"},
 
-{
-"name":"YouTube榜單",
-"type":0,
-"playerType":2,
-"url":"http://yt.850930.xyz/playlist.txt"
-},
+{"name":"YouTube榜單","type":0,"playerType":2,"url":"http://yt.850930.xyz/playlist.txt"},
 
-{"name":"🎧 My Music 🎧","url":"https://freeman0501.github.io/Freemedia/520free@music.txt"},
-
-{"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"}
-
+{"name":"🎧 My Music 🎧","url":"https://freeman0501.github.io/Freemedia/520free@music.txt"}
 
 
 ]}
+
 
 
 
