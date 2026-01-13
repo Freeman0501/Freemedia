@@ -47,6 +47,7 @@
 "name": "熱播排行榜-自動切換站源",
 "type": 3,
 "api": "csp_Douban",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 0,
 "quickSearch": 0,
 "changeable": 1
@@ -1674,6 +1675,7 @@
 
 
 ]}
+
 
 
 
