@@ -1644,7 +1644,9 @@
 
 {"name": "SmartTV-1","url": "http://96.44.160.246:9999/smt.php"},
 
-{"name": "SmartTV-2","url": "http://52xinghe.top/smmmt.php"},    
+{"name": "SmartTV-2","url": "http://52xinghe.top/smmmt.php"},
+
+{"name": "SmartTV-3","url": "https://files.catbox.moe/k734li.m3u"}, 
 
 {"name": "台港陸綜合","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"},
 
@@ -1672,6 +1674,7 @@
 
 
 ]}
+
 
 
 
