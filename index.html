@@ -4,7 +4,22 @@
 <meta http-equiv="Content-Language" content="zh-tw">
 <meta http-equiv="Content-Type" content="text/html; charset=big5">
 <title>Freeman</title>
-<bgsound src="oldclock.mid" loop="-1">
+<style>
+    /* 設定時間顯示的樣式 */
+    #current-time {
+        color: #FFFFFF;     /* 顏色為白色 */
+        text-align: center;  /* 文字置中 */
+        font-family: "Century Gothic", "Apple Gothic", "Copperplate", "Meiryo", sans-serif;
+        font-size: 1.1em;      /* 維持您設定的 1.1 倍字體 */
+        font-weight: normal;   /* 確保不加粗 */
+        margin-top: 20px;
+    }
+
+    /* 新增跑馬燈字體大小設定 */
+    marquee {
+        font-size: 1.5em;    /* 加大 UNDER CONSTRUCTION 為 1.5 倍 */
+    }
+</style>
 </head>
 
 <body bgcolor="#000000" background="background.jpg" style="background-attachment: fixed">
@@ -14,15 +29,39 @@
 <br>
 <br>
 <br>
-<img border="0" src="logo.png" width="565" height="180"></p>
-<p align="center"><font color="#FFFFFF"><br>
-....... 2026/01/01 .......</font></p>
+<img border="0" src="logo.png" width="785" height="253"></p>
+
+<!-- 顯示日期與時間的區域 -->
+<div id="current-time">載入中...</div>
+
 <p align="center"><b><font color="#00FFFF">
 <br>
 <marquee width="758">UNDER CONSTRUCTION</marquee></font></b></p>
 
+<script>
+    function updateClock() {
+        var now = new Date();
+        var year = now.getFullYear();
+        var month = String(now.getMonth() + 1).padStart(2, '0');
+        var day = String(now.getDate()).padStart(2, '0');
+        var hours = String(now.getHours()).padStart(2, '0');
+        var minutes = String(now.getMinutes()).padStart(2, '0');
+        var seconds = String(now.getSeconds()).padStart(2, '0');
+        
+        // 這裡維持您設定的 6 個 &nbsp; (對應顯示上的寬間距)
+        var datePart = year + "/" + month + "/" + day;
+        var timePart = hours + ":" + minutes + ":" + seconds;
+        var separator = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"; 
+        
+        var timeString = "....... " + datePart + separator + timePart + " .......";
+        
+        document.getElementById('current-time').innerHTML = timeString;
+    }
+
+    // 2026年即時更新
+    setInterval(updateClock, 1000);
+    updateClock();
+</script>
+
 </body>
-
 </html>
-
-
