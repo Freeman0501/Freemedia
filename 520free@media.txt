@@ -43,6 +43,16 @@
 },
 
 {
+"key": "豆瓣",
+"name": "熱播排行榜-自動切換站源",
+"type": 3,
+"api": "csp_Douban",
+"searchable": 0,
+"quickSearch": 0,
+"changeable": 1
+},
+
+{
 "key": "csp_xml_ikun",
 "name": "iKun",
 "type": 1,
@@ -1662,6 +1672,7 @@
 
 
 ]}
+
 
 
 
