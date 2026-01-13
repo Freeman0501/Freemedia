@@ -97,7 +97,10 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 
-
+愛爾達體育1,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport_twn
+愛爾達體育2,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport2_twn
+愛爾達體育3,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport3_twn
+愛爾達體育4,https://smt.1678520.xyz/smt3.2.3.php?id=eltasports4_twn
 
 
 🍀 543,#genre#
