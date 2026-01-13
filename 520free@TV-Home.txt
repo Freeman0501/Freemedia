@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0113 check,#genre#
+🚧 0114 check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=Cx0wbANAWxM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -372,9 +372,9 @@ TVBS歡樂,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%
 博斯運動II,http://141.11.87.241:20013/litv-longturn08/index.m3u8
 博斯網球,http://141.11.87.241:20013/litv-longturn09/index.m3u8
 博斯魅力,http://141.11.87.241:20013/litv-longturn04/index.m3u8
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹電影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
 智林體育,http://141.11.87.241:20013/4gtv-4gtv101/index.m3u8
 智林體育,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
@@ -394,6 +394,10 @@ TVBS歡樂,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%
 愛爾達娛樂,http://141.11.87.241:20013/4gtv-4gtv070/index.m3u8
 愛爾達娛樂,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
 愛爾達影劇,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+愛爾達體育1,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport_twn
+愛爾達體育2,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport2_twn
+愛爾達體育3,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport3_twn
+愛爾達體育4,https://smt.1678520.xyz/smt3.2.3.php?id=eltasports4_twn
 新唐人亞太,http://141.11.87.241:20013/4gtv-live050/index.m3u8
 新唐人亞太,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
@@ -947,10 +951,9 @@ TVBS新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-壹新聞,http://iptvpro.pw:35451/live/加QQ群1078393318/18182929/407.ts
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://141.11.87.241:20013/4gtv-4gtv052/index.m3u8
 華視新聞,http://165.154.226.214:50007/li-4gtv-4gtv052/index.m3u8?proxy=true
@@ -1524,6 +1527,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
