@@ -13,12 +13,12 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-TVBS News,video://https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立iNEWS,video://https://www.youtube.com/watch?v=pF507BLtbqU
-三立新聞,video://https://www.youtube.com/watch?v=QsGswQvRmtU
-中天新聞,video://https://www.youtube.com/watch?v=vr3XyVCR4T0
-中視新聞,video://https://www.youtube.com/watch?v=TCnaIE_SAtM
-公視,video://https://www.youtube.com/watch?v=C6gYqSHLRw4
+TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
