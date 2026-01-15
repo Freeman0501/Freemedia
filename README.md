@@ -6,8 +6,9 @@
 
 3.設定 - 點播(輸入以下網址)
 
-提供兩個,任選一個即可(因為都一樣)
+https://freeman.pse.is/freemovie
 
+另外提供兩個,任選一個即可(因為都一樣)
 
 https://s.yam.com/nJqVO
 
