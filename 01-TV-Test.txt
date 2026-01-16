@@ -988,7 +988,7 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 
 
 
-🍓 Test-1,#genre#JS=https://5266.kstore.space/t4Gmif.js
+🍓 Test-1,#genre#
 
 民视第一台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ftv003&key=湘西卫视2025
 民视台湾台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ftv001&key=湘西卫视2025
@@ -1232,7 +1232,7 @@ ELTV生活英语台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=longturn
 
 
 
-p2p-starvod,#genre#
+🍓 p2p-starvod,#genre#
 
 
 pₒₚc电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
