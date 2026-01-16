@@ -944,24 +944,26 @@ TVBS歡樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
 
 
 74,#genre#
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-民视,http://74.91.26.218:82/live/ftv.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
+🍀 74,#genre#
+
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視台語,http://74.91.26.218:82/live/ptsty.m3u8
+台視,http://74.91.26.218:82/live/ttv.m3u8
+台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
+民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
+民視台灣,http://74.91.26.218:82/live/ftvtw.m3u8
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 
 
 
