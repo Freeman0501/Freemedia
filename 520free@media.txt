@@ -18,7 +18,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/01/14",
+最終維護日 : 2026/01/17",
 
 "sites": [
 
@@ -329,21 +329,6 @@
 },
 
 {
-"key":"G1080",
-"name":"G1080",
-"type":3,
-"searchable":1,
-"changeable":1,
-"api":"csp_AppQi",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext":{
-"site":"https://dtqj1.gg1080.com:443/dtjp.txt",
-"url":"https://qj.ggtvb.cc",
-"dataKey":"kecbio48dsq131ed",
-"dataIv":"kecbio48dsq131ed"}
- },
- 
- {
 "key": "csp_LiteApple",
 "name": "小蘋果",
 "type": 3,
@@ -673,14 +658,13 @@
 "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
 },
 
-{"key":"csp_xml_暴风",
-"name": "暴風",
-"type": 1,
-"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"playerType": 2
+{
+"key":"暴风影视",
+"name":"暴風影視",
+"type":1,
+"api":"https://bfzyapi.com/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1
 },
 
 {
@@ -703,15 +687,6 @@
 "quickSearch": 1,
 "filterable": 0,
 "changeable": 1
-},
-
-{
-"key":"暴风影视",
-"name":"暴風影視",
-"type":1,
-"api":"https://bfzyapi.com/api.php/provide/vod/",
-"searchable":1,
-"quickSearch":1
 },
 
 {
@@ -983,18 +958,22 @@
 },
 
 {
-"key": "csp_桵空",
-"name": "櫻空",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
+"key": "t1_dian_ying_tian_tang_02",
+"name": "天堂",
+"type": 1,
+"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": {
-"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
-"分类": "电影$84#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85#综艺$91#"
-}
+"changeable": 1,
+"playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
+"categories": [
+"国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","海外剧","泰国剧", 
+"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","记录片","伦理片",
+"动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧",  
+"日韩综艺","欧美综艺","大陆综艺","港台综艺"
+]
 },
 
 {
@@ -1049,31 +1028,7 @@
 
 
 
-
 #待測區
-
-
-{
-"key": "t1_dian_ying_tian_tang_02",
-"name": "天堂",
-"type": 1,
-"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 1,
-"playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
-"categories": [
-"国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","海外剧","泰国剧", 
-"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","记录片","伦理片",
-"动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧",  
-"日韩综艺","欧美综艺","大陆综艺","港台综艺"
-]
-},
-
-
-
 
 
 
@@ -1165,18 +1120,6 @@
 },
 
 {
-"key": "七味短剧",
-"name": "七味🦄短劇",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/七味短剧.json"
-},
-
-{
 "key": "纽约短剧",
 "name": "紐約🦄短劇",
 "type": 3,
@@ -1254,17 +1197,6 @@
 "playerType": 2,
 "searchable": 1,
 "quickSearch":1,
-"changeable": 1
-},
-
-{"key": "Ysj",
-"name": "動漫🦉異世界",
-"type": 3,
-"api": "csp_Ysj",
-"jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt",
-"playerType": 2,
-"searchable": 1,
-"quickSearch": 1,
 "changeable": 1
 },
 
@@ -1677,6 +1609,7 @@
 
 
 ]}
+
 
 
 
