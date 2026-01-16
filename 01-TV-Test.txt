@@ -103,188 +103,26 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 愛爾達體育4,https://smt.1678520.xyz/smt3.2.3.php?id=eltasports4_twn
 
 
-🍀 543,#genre#
+🍀 74,#genre#
 
-AMC電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
-Arirang TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
-CLASSICA古典音樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
-ELTV生活英語,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
-GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
-MCE,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
-MEZZO LIVE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
-Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
-TRACE URBAN,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
-TVBS HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
-TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
-TVBS精采,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
-TVBS歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
-八大精彩,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
-八大綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
-中天亞洲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
-中天新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
-中視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
-中視菁采,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
-中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
-中視經典,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
-公視戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
-台視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
-台視財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
-台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
-台灣戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
-民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
-民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
-民視台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
-民視旅遊,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
-民視第一,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
-民視新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
-民視綜藝,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
-民視影劇,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
-好消息,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
-好消息2台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
-亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
-東森財經新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
-東森新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
-采昌影劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
-非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
-非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
-客家電視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
-時尚運動X,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv014
-國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
-國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
-第1商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv104
-博斯高球I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
-博斯高球II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
-博斯無限,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
-博斯無限II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn13
-博斯運動I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
-博斯運動II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
-博斯網球,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
-博斯魅力,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
-智林體育,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
-華視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
-華視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
-視納華仁紀實,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
-愛爾達娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
-達文西頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
-靖天日本,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
-靖天卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
-靖天育樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
-靖天映畫,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
-靖天國際,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
-靖天資訊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
-靖天電影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
-靖天綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
-靖天戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
-靖天歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
-靖洋卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
-靖洋戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
-影迷數位電影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
-豬哥亮歌廳秀,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
-寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
-寰宇新聞台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
-龍華日韓,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
-龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
-龍華洋片,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
-龍華偶像,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
-龍華經典,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
-龍華電影,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
-龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
-韓國娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
-鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-
-
-
-
-
-🍀 breezy(立方),#genre#
-
-
-AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
-Arirang TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
-CLASSICA古典音樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv059
-ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
-GINX Esports TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv053
-MCE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
-MEZZO LIVE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv083
-Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
-TRACE URBAN,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv082
-TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
-TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
-TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv067
-TVBS歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv068
-VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv03
-八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv034
-八大綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv039
-中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
-中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
-中視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv040
-中視菁采,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv064
-中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
-中視經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
-公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
-台視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
-台視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
-台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
-台灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn22
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
-民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
-民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv07
-民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv003
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
-民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv004
-民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv09
-好消息,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv16
-好消息2台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv17
-亞洲旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv076
-東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
-東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv152
-采昌影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv049
-非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
-非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
-客家電視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv043
-時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
-第1商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv104
-博斯高球I,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn05
-博斯高球II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn06
-博斯無限,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn10
-博斯無限II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn13
-博斯運動I,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn07
-博斯運動II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn08
-博斯網球,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
-博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
-智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv101
-華視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
-華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv052
-視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv013
-愛爾達娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv070
-達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv018
-靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv047
-靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv044
-靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
-靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
-靖天國際,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv063
-靖天資訊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv065
-靖天電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv061
-靖天綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv046
-靖天戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv058
-靖天歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv054
-靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv057
-靖洋戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv045
-影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv011
-豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv006
-寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
-寰宇新聞台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
-龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
-龍華卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn01
-龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn02
-龍華偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn12
-龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn21
-龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
-龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
-韓國娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
-鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
-
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視台語,http://74.91.26.218:82/live/ptsty.m3u8
+台視,http://74.91.26.218:82/live/ttv.m3u8
+台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
+民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
+民視台灣,http://74.91.26.218:82/live/ftvtw.m3u8
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 
 
 
@@ -417,51 +255,6 @@ TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3
 
 
 
-
-
-🍀 61,#genre#
-
-
-AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
-CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
-Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
-HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
-JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
-MOMO TV,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
-NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
-TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
-人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
-八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
-八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
-八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
-三立台灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
-三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
-三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
-大愛,http://61.221.81.93:8528/http/192.168.1.10:8088/hls/73/815/ch52.m3u8
-大愛2台,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
-中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
-中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
-中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
-好消息,http://61.221.81.93:8547/http/192.168.1.10:8088/hls/74/816/ch53.m3u8
-好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
-年代MUCH,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
-年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
-亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
-東風衛視,http://61.221.81.93:8569/http/192.168.1.10:8088/hls/68/810/ch31.m3u8
-東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
-東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
-東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
-東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
-東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
-非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
-非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
-國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
-緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
-緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
-寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
 
 
 
@@ -749,6 +542,96 @@ TVBS歡樂,http://141.11.87.241:20013/4gtv-4gtv068/index.m3u8
 鏡新聞,http://141.11.87.241:20013/4gtv-4gtv075/index.m3u8
 
 
+🍀 iptv543-litv,#genre#
+
+AMC電影台,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv017
+Arirang TV,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv079
+CLASSICA古典音樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv059
+ELTV生活英語,http://iptv543.com/litv.php?token=885252&id=litv-longturn20
+GINX Esports TV,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv053
+MCE,http://iptv543.com/litv.php?token=885252&id=litv-ftv10
+MEZZO LIVE,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv083
+Smart知識台,http://iptv543.com/litv.php?token=885252&id=litv-longturn19
+TRACE URBAN,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv082
+TVBS HD,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv073
+TVBS新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv072
+TVBS精采,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv067
+TVBS歡樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
+八大精彩,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv034
+八大綜藝,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv039
+中天亞洲,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv109
+中天新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv009
+中視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv040
+中視菁采,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv064
+中視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv074
+中視經典,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv080
+公視戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv042
+台視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv066
+台視財經,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv056
+台視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv051
+台灣戲劇,http://iptv543.com/litv.php?token=885252&id=litv-longturn22
+民視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv002
+民視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv155
+民視台灣,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv001
+民視旅遊,http://iptv543.com/litv.php?token=885252&id=litv-ftv07
+民視第一,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv003
+民視新聞,http://iptv543.com/litv.php?token=885252&id=litv-ftv13
+民視綜藝,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv004
+民視影劇,http://iptv543.com/litv.php?token=885252&id=litv-ftv09
+好消息,http://iptv543.com/litv.php?token=885252&id=litv-ftv16
+好消息2台,http://iptv543.com/litv.php?token=885252&id=litv-ftv17
+亞洲旅遊,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv076
+東森財經新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv153
+東森新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv152
+東森購物五台,http://iptv543.com/litv.php?token=885252&id=4gtv-live049
+采昌影劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv049
+非凡商業,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv048
+非凡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv010
+客家電視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv043
+時尚運動X,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv014
+國會頻道1,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv084
+國會頻道2,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv085
+第1商業,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv104
+博斯高球I,http://iptv543.com/litv.php?token=885252&id=litv-longturn05
+博斯高球II,http://iptv543.com/litv.php?token=885252&id=litv-longturn06
+博斯無限,http://iptv543.com/litv.php?token=885252&id=litv-longturn10
+博斯無限II,http://iptv543.com/litv.php?token=885252&id=litv-longturn13
+博斯運動I,http://iptv543.com/litv.php?token=885252&id=litv-longturn07
+博斯運動II,http://iptv543.com/litv.php?token=885252&id=litv-longturn08
+博斯網球,http://iptv543.com/litv.php?token=885252&id=litv-longturn09
+博斯魅力,http://iptv543.com/litv.php?token=885252&id=litv-longturn04
+智林體育,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv101
+華視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv041
+華視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv052
+視納華仁紀實,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv013
+愛爾達娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
+達文西頻道,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv018
+靖天日本,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv047
+靖天卡通,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv044
+靖天育樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv062
+靖天映畫,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv055
+靖天國際,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv063
+靖天資訊,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv065
+靖天電影,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv061
+靖天綜合,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv046
+靖天戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv058
+靖天歡樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv054
+靖洋卡通,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv057
+靖洋戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv045
+影迷數位電影,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv011
+豬哥亮歌廳秀,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv006
+寰宇新聞,http://iptv543.com/litv.php?token=885252&id=litv-longturn14
+寰宇新聞台灣,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv156
+龍華日韓,http://iptv543.com/litv.php?token=885252&id=litv-longturn11
+龍華卡通,http://iptv543.com/litv.php?token=885252&id=litv-longturn01
+龍華洋片,http://iptv543.com/litv.php?token=885252&id=litv-longturn02
+龍華偶像,http://iptv543.com/litv.php?token=885252&id=litv-longturn12
+龍華經典,http://iptv543.com/litv.php?token=885252&id=litv-longturn21
+龍華電影,http://iptv543.com/litv.php?token=885252&id=litv-longturn03
+龍華戲劇,http://iptv543.com/litv.php?token=885252&id=litv-longturn18
+韓國娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv016
+鏡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv075
+
 
 
 
@@ -851,119 +734,238 @@ TVBS歡樂,http://165.154.226.214:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
 龍華戲劇,http://165.154.226.214:50007/litv-longturn18/index.m3u8?proxy=true
 
 
-🍀 iptv543-litv,#genre#
 
-AMC電影台,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv017
-Arirang TV,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv079
-CLASSICA古典音樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv059
-ELTV生活英語,http://iptv543.com/litv.php?token=885252&id=litv-longturn20
-GINX Esports TV,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv053
-MCE,http://iptv543.com/litv.php?token=885252&id=litv-ftv10
-MEZZO LIVE,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv083
-Smart知識台,http://iptv543.com/litv.php?token=885252&id=litv-longturn19
-TRACE URBAN,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv082
-TVBS HD,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv073
-TVBS新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv072
-TVBS精采,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv067
-TVBS歡樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
-八大精彩,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv034
-八大綜藝,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv039
-中天亞洲,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv109
-中天新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv009
-中視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv040
-中視菁采,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv064
-中視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv074
-中視經典,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv080
-公視戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv042
-台視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv066
-台視財經,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv056
-台視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv051
-台灣戲劇,http://iptv543.com/litv.php?token=885252&id=litv-longturn22
-民視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv002
-民視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv155
-民視台灣,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv001
-民視旅遊,http://iptv543.com/litv.php?token=885252&id=litv-ftv07
-民視第一,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv003
-民視新聞,http://iptv543.com/litv.php?token=885252&id=litv-ftv13
-民視綜藝,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv004
-民視影劇,http://iptv543.com/litv.php?token=885252&id=litv-ftv09
-好消息,http://iptv543.com/litv.php?token=885252&id=litv-ftv16
-好消息2台,http://iptv543.com/litv.php?token=885252&id=litv-ftv17
-亞洲旅遊,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv076
-東森財經新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv153
-東森新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv152
-東森購物五台,http://iptv543.com/litv.php?token=885252&id=4gtv-live049
-采昌影劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv049
-非凡商業,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv048
-非凡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv010
-客家電視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv043
-時尚運動X,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv014
-國會頻道1,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv084
-國會頻道2,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv085
-第1商業,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv104
-博斯高球I,http://iptv543.com/litv.php?token=885252&id=litv-longturn05
-博斯高球II,http://iptv543.com/litv.php?token=885252&id=litv-longturn06
-博斯無限,http://iptv543.com/litv.php?token=885252&id=litv-longturn10
-博斯無限II,http://iptv543.com/litv.php?token=885252&id=litv-longturn13
-博斯運動I,http://iptv543.com/litv.php?token=885252&id=litv-longturn07
-博斯運動II,http://iptv543.com/litv.php?token=885252&id=litv-longturn08
-博斯網球,http://iptv543.com/litv.php?token=885252&id=litv-longturn09
-博斯魅力,http://iptv543.com/litv.php?token=885252&id=litv-longturn04
-智林體育,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv101
-華視,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv041
-華視新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv052
-視納華仁紀實,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv013
-愛爾達娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
-達文西頻道,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv018
-靖天日本,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv047
-靖天卡通,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv044
-靖天育樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv062
-靖天映畫,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv055
-靖天國際,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv063
-靖天資訊,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv065
-靖天電影,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv061
-靖天綜合,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv046
-靖天戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv058
-靖天歡樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv054
-靖洋卡通,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv057
-靖洋戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv045
-影迷數位電影,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv011
-豬哥亮歌廳秀,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv006
-寰宇新聞,http://iptv543.com/litv.php?token=885252&id=litv-longturn14
-寰宇新聞台灣,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv156
-龍華日韓,http://iptv543.com/litv.php?token=885252&id=litv-longturn11
-龍華卡通,http://iptv543.com/litv.php?token=885252&id=litv-longturn01
-龍華洋片,http://iptv543.com/litv.php?token=885252&id=litv-longturn02
-龍華偶像,http://iptv543.com/litv.php?token=885252&id=litv-longturn12
-龍華經典,http://iptv543.com/litv.php?token=885252&id=litv-longturn21
-龍華電影,http://iptv543.com/litv.php?token=885252&id=litv-longturn03
-龍華戲劇,http://iptv543.com/litv.php?token=885252&id=litv-longturn18
-韓國娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv016
-鏡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv075
+🍀 543,#genre#
+
+AMC電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
+Arirang TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
+CLASSICA古典音樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
+ELTV生活英語,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
+GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
+MCE,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
+MEZZO LIVE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
+Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
+TRACE URBAN,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
+TVBS HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
+TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
+TVBS精采,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
+TVBS歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
+八大精彩,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
+八大綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
+中天亞洲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
+中天新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
+中視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
+中視菁采,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
+中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
+中視經典,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
+公視戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
+台視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
+台視財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
+台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
+台灣戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
+民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
+民視台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
+民視旅遊,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
+民視第一,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
+民視新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
+民視綜藝,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
+民視影劇,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
+好消息,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
+好消息2台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
+亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
+東森財經新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
+東森新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
+采昌影劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
+非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
+非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+客家電視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
+時尚運動X,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv014
+國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
+國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
+第1商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv104
+博斯高球I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
+博斯高球II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
+博斯無限,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
+博斯無限II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn13
+博斯運動I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
+博斯運動II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
+博斯網球,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
+博斯魅力,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
+智林體育,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
+華視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
+華視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
+視納華仁紀實,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
+愛爾達娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
+達文西頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
+靖天日本,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
+靖天卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
+靖天育樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
+靖天映畫,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
+靖天國際,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
+靖天資訊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
+靖天電影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
+靖天綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
+靖天戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
+靖天歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
+靖洋卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
+靖洋戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
+影迷數位電影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
+豬哥亮歌廳秀,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
+寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
+寰宇新聞台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
+龍華日韓,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
+龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
+龍華洋片,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
+龍華偶像,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
+龍華經典,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
+龍華電影,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
+龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+韓國娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
+鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+
+
+🍀 61,#genre#
+
+
+AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
+CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
+Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
+HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
+JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
+MOMO TV,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
+NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
+TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
+人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
+八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
+八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
+八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
+三立台灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
+三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
+三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
+大愛,http://61.221.81.93:8528/http/192.168.1.10:8088/hls/73/815/ch52.m3u8
+大愛2台,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
+中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
+中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
+中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
+好消息,http://61.221.81.93:8547/http/192.168.1.10:8088/hls/74/816/ch53.m3u8
+好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
+年代MUCH,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
+年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
+亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
+東風衛視,http://61.221.81.93:8569/http/192.168.1.10:8088/hls/68/810/ch31.m3u8
+東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
+東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
+東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
+東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
+東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
+非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
+非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
+動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
+國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
+緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
+緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
+寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
 
 
 
-74,#genre#
-🍀 74,#genre#
 
-小公視,http://74.91.26.218:82/live/ptsse.m3u8
-中視,http://74.91.26.218:82/live/ctv.m3u8
-中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
-中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
-公視,http://74.91.26.218:82/live/pts.m3u8
-公視台語,http://74.91.26.218:82/live/ptsty.m3u8
-台視,http://74.91.26.218:82/live/ttv.m3u8
-台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-民視,http://74.91.26.218:82/live/ftv.m3u8
-民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
-民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
-民視台灣,http://74.91.26.218:82/live/ftvtw.m3u8
-華視,http://74.91.26.218:82/live/cts.m3u8
-華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
+
+🍀 breezy(立方),#genre#
+
+
+AMC電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
+Arirang TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
+CLASSICA古典音樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv059
+ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
+GINX Esports TV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv053
+MCE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
+MEZZO LIVE,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv083
+Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
+TRACE URBAN,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv082
+TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
+TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
+TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv067
+TVBS歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv068
+VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv03
+八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv034
+八大綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv039
+中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
+中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv040
+中視菁采,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv064
+中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
+中視經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
+公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
+台視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
+台視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
+台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
+台灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn22
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
+民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
+民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv07
+民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv003
+民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
+民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv004
+民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv09
+好消息,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv16
+好消息2台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv17
+亞洲旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv076
+東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
+東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv152
+采昌影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv049
+非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
+非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
+客家電視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv043
+時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
+第1商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv104
+博斯高球I,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn05
+博斯高球II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn06
+博斯無限,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn10
+博斯無限II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn13
+博斯運動I,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn07
+博斯運動II,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn08
+博斯網球,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
+博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
+智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv101
+華視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
+華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv052
+視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv013
+愛爾達娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv070
+達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv018
+靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv047
+靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv044
+靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
+靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
+靖天國際,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv063
+靖天資訊,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv065
+靖天電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv061
+靖天綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv046
+靖天戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv058
+靖天歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv054
+靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv057
+靖洋戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv045
+影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv011
+豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv006
+寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
+寰宇新聞台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
+龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
+龍華卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn01
+龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn02
+龍華偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn12
+龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn21
+龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
+龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
+韓國娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
+鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
+
+
+
+
+
 
 
 
