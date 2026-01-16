@@ -1633,13 +1633,15 @@
 },
 
 {
-"name":"Gather",
+"name":"Gather-1",
 "type": 0,
 "url": "https://tv.iill.top/m3u/Gather",
 "ua": "okhttp/3.8.1",
 "timeout": 30,
 "playerType": 2
 },
+
+{"name": "Gather-2","url": "https://4gtv.iill.top/4gtv.m3u"},
 
 {"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
 
@@ -1675,6 +1677,7 @@
 
 
 ]}
+
 
 
 
