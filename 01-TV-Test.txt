@@ -990,20 +990,20 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 
 🍀 ku9,#genre#
 
-民视第一台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ftv003&key=湘西卫视2025
-民视台湾台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ftv001&key=湘西卫视2025
-民视HD,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ftv002&key=湘西卫视2025
-大爱电视,http:/A/ku9/js/湘西卫视中华电信专用.js?id=daai007&key=湘西卫视2025
-中视,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ctv040&key=湘西卫视2025
-中视经典台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ctv080&key=湘西卫视2025
-华视,http:/A/ku9/js/湘西卫视中华电信专用.js?id=cts041&key=湘西卫视2025
-三立综合,http:/A/ku9/js/湘西卫视中华电信专用.js?id=sanli207&key=湘西卫视2025
-客家电视,http:/A/ku9/js/湘西卫视中华电信专用.js?id=hakka043&key=湘西卫视2025
-八大综艺,http:/A/ku9/js/湘西卫视中华电信专用.js?id=gta039&key=湘西卫视2025
-中视菁采台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ctv064&key=湘西卫视2025
-TVBS精采台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=tvbs067&key=湘西卫视2025
-ELTA娱乐,http:/A/ku9/js/湘西卫视中华电信专用.js?id=elta070&key=湘西卫视2025
-靖天综合,http:/A/ku9/js/湘西卫视中华电信专用.js?id=jt046&key=湘西卫视2025
+民视第一台,http://A/ku9/js/湘西卫视中华电信专用.js?id=ftv003&key=湘西卫视2025
+民视台湾台,http://A/ku9/js/湘西卫视中华电信专用.js?id=ftv001&key=湘西卫视2025
+民视HD,http://A/ku9/js/湘西卫视中华电信专用.js?id=ftv002&key=湘西卫视2025
+大爱电视,http://A/ku9/js/湘西卫视中华电信专用.js?id=daai007&key=湘西卫视2025
+中视,http://A/ku9/js/湘西卫视中华电信专用.js?id=ctv040&key=湘西卫视2025
+中视经典台,http://A/ku9/js/湘西卫视中华电信专用.js?id=ctv080&key=湘西卫视2025
+华视,http://A/ku9/js/湘西卫视中华电信专用.js?id=cts041&key=湘西卫视2025
+三立综合,http://A/ku9/js/湘西卫视中华电信专用.js?id=sanli207&key=湘西卫视2025
+客家电视,http://A/ku9/js/湘西卫视中华电信专用.js?id=hakka043&key=湘西卫视2025
+八大综艺,http://A/ku9/js/湘西卫视中华电信专用.js?id=gta039&key=湘西卫视2025
+中视菁采台,http://A/ku9/js/湘西卫视中华电信专用.js?id=ctv064&key=湘西卫视2025
+TVBS精采台,http://A/ku9/js/湘西卫视中华电信专用.js?id=tvbs067&key=湘西卫视2025
+ELTA娱乐,http://A/ku9/js/湘西卫视中华电信专用.js?id=elta070&key=湘西卫视2025
+靖天综合,http://A/ku9/js/湘西卫视中华电信专用.js?id=jt046&key=湘西卫视2025
 靖天日本,http:/A/ku9/js/湘西卫视中华电信专用.js?id=jt047&key=湘西卫视2025
 新唐人亚太台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=ntd050&key=湘西卫视2025
 Arirang TV,http:/A/ku9/js/湘西卫视中华电信专用.js?id=arirang079&key=湘西卫视2025
@@ -1232,84 +1232,6 @@ ELTV生活英语台,http:/A/ku9/js/湘西卫视中华电信专用.js?id=longturn
 
 
 
-🍓 p2p-starvod,#genre#
-
-
-pₒₚc电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
-美亚电影,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
-私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-爱奇艺综,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-Ftv_城市,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
-Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
-Ftv1时代西晴,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
-Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
-thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
-中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
-中视经典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
-民视第一,P2p://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
-民视闽语,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
-台视财经,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
-台视综合,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
-寰宇闽南,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
-tvbs亚洲,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
-tvbs精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
-龙华偶像,P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
-龙华戏剧,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
-采昌影剧,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
-数位电影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
-壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
-靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
-靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
-靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
-靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
-靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
-靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
-ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
-SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
-韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
-三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
-三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
-
-壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
-靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
-靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
-靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
-靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
-靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
-靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
-ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
-SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
-韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
-三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
-三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
-纬来精采,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
-壹综合'tv,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-靖洋戏剧,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
-中视菁采,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
-八大优频道,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
-
-壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
-靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
-靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
-靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
-靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
-靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
-靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
-ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
-SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
-韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
-三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
 
 
 
