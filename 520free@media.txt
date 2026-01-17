@@ -1584,7 +1584,7 @@
 
 {"name": "Gather-2","url": "https://4gtv.iill.top/4gtv.m3u"},
 
-
+{"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
 
 {"name": "litv-vhr","url": "https://litv.vhr.dpdns.org/litv.php"},
 
@@ -1622,6 +1622,7 @@
 
 
 ]}
+
 
 
 
