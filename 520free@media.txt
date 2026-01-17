@@ -1586,6 +1586,8 @@
 
 {"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
 
+{"name": "litv-vhr","url": "https://litv.vhr.dpdns.org/litv.php"},
+
 {"name": "SmartTV-1","url": "http://96.44.160.246:9999/smt.php"},
 
 {"name": "SmartTV-2","url": "http://52xinghe.top/smmmt.php"},
@@ -1618,6 +1620,7 @@
 
 
 ]}
+
 
 
 
