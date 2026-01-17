@@ -51,7 +51,7 @@
 
 {
 "name":"FreeTV Test","url":"https://freeman0501.github.io/Freemedia/01-TV-Test.txt",
-"playerType":2,
+"playerType":1,
 "type": 0,
 "timeout":30,
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -100,6 +100,7 @@
 
 
 ]}
+
 
 
 
