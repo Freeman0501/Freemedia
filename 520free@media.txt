@@ -1550,6 +1550,15 @@
 },
 
 {
+"name": "YouTubeLive",
+"ua": "okhttp/3.0",
+"playerType": 2,
+"url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt ",
+"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"Judy-SportChannel",
 "url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
 "type":0,
@@ -1609,6 +1618,7 @@
 
 
 ]}
+
 
 
 
