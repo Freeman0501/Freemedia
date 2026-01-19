@@ -4,14 +4,14 @@
 
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
-"notice": "歡迎使用 🌸 Free Movie 🌸
+"notice": "🌸 Free Movie Test 🌸
 最終維護日 : 2026/01/18",
 
 "sites": [
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20251224 建議更新至 Free Movie 3.5.7 版 >",
+"name": "🌸Free Movie",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -102,6 +102,7 @@
 
 
 ]}
+
 
 
 
