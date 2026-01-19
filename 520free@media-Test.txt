@@ -37,13 +37,7 @@
 #動漫區
 
 #紳士區
-{"name":"🔞18-1","url":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/me.json"}, 
 
-{"name":"🔞18-2","url":"https://ghfast.top/https://raw.githubusercontent.com/QFDPY/ss/refs/heads/main/%E4%B8%83%E5%93%A5.json"}, 
-
-{"name":"🔞18-3","url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json"}, 
-
-{"name":"🔞18-4","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
 
 
 
@@ -57,6 +51,13 @@
   
 "lives": [
 
+{"name":"🔞18-1","url":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/me.json"}, 
+
+{"name":"🔞18-2","url":"https://ghfast.top/https://raw.githubusercontent.com/QFDPY/ss/refs/heads/main/%E4%B8%83%E5%93%A5.json"}, 
+
+{"name":"🔞18-3","url":"https://git.acwing.com/abai/tv/-/raw/main/a18.json"}, 
+
+{"name":"🔞18-4","url":"https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"},
 
 {
 "name":"FreeTV Test","url":"https://freeman0501.github.io/Freemedia/01-TV-Test.txt",
@@ -109,6 +110,7 @@
 
 
 ]}
+
 
 
 
