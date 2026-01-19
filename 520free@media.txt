@@ -1524,19 +1524,6 @@
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
 },
 
-{
-"name": "Free 4G直播",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/4G.py",
-"ext": {}
-},
-
-{
-"name": "LITV直播",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/live_litv.py",
-"ext": {}
-},
 
 {
 "name":"歡樂看",
@@ -1586,15 +1573,15 @@
 
 {"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
 
-{"name": "litv-vhr","url": "https://litv.vhr.dpdns.org/litv.php"},
+{"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
 
-{"name": "SmartTV-1","url": "http://96.44.160.246:9999/smt.php"},
+{"name": "台湾TV","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"},
 
-{"name": "SmartTV-2","url": "http://52xinghe.top/smmmt.php"},
+{"name": "地方港台","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/地方港台"},
 
-{"name": "SmartTV-3","url": "https://files.catbox.moe/k734li.m3u"}, 
+{"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
 
-{"name": "台港陸綜合","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"},
+{"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
 
 {
 "name": "DreamTV",
@@ -1608,7 +1595,24 @@
 
 {"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
-{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+
+
+
+{"name": "海豚(暫失效)","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+
+{
+"name": "Free 4G直播(暫失效)",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/4G.py",
+"ext": {}
+},
+
+{
+"name": "LITV直播(暫失效)",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/live_litv.py",
+"ext": {}
+},
 
 {"name":"Judy-4GTV(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
 
@@ -1622,6 +1626,7 @@
 
 
 ]}
+
 
 
 
