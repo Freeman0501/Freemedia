@@ -100,6 +100,12 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 愛爾達體育3,https://smt.1678520.xyz/smt3.2.3.php?id=eltasport3_twn
 愛爾達體育4,https://smt.1678520.xyz/smt3.2.3.php?id=eltasports4_twn
 
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+Taiwan Plus,http://tw.护法.cloudns.ch:21096/mk.php?id=live1238
+ANIMAX,http://tw.护法.cloudns.ch:21096/mk.php?id=live1060
+壹新聞,http://tw.护法.cloudns.ch:21096/mk.php?id=live1242
+Pet Club TV,http://tw.护法.cloudns.ch:21096/mk.php?id=live1040
+
 
 🍀 74,#genre#
 
