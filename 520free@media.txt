@@ -18,7 +18,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/01/20",
+最終維護日 : 2026/01/22",
 
 "sites": [
 
@@ -1545,6 +1545,9 @@
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
 
+{"name": "夢想TV","url": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/dream-20260122.txt"},
+
+
 {
 "name":"Judy-SportChannel",
 "url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
@@ -1626,6 +1629,7 @@
 
 
 ]}
+
 
 
 
