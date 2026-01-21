@@ -1537,16 +1537,20 @@
 },
 
 {
+"name": "夢想TV",
+"url": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/dream-20260122.txt",
+"logo":"https://epg.112114.xyz/logo/{name}.png",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+},
+
+{
 "name": "YouTubeLive",
 "ua": "okhttp/3.0",
 "playerType": 2,
-"url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt ",
+"url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
-
-{"name": "夢想TV","url": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/dream-20260122.txt"},
-
 
 {
 "name":"Judy-SportChannel",
@@ -1629,6 +1633,7 @@
 
 
 ]}
+
 
 
 
