@@ -43,6 +43,7 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/jable.user.js",
         "debug": false,
@@ -92,6 +93,7 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/netflav.user.js",
         "debug": false,
@@ -141,6 +143,7 @@
         "ratio": 1.49
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/123av.user.js",
         "debug": false,
@@ -192,6 +195,7 @@
         "ratio": 1.49
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/missav.user.js",
         "debug": false,
@@ -244,6 +248,7 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/supjav.user.js",
         "debug": false,
@@ -311,6 +316,7 @@
         "ratio": 1.78
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
       "ext": {
         "userScript": "./userScripts/xojav.user.js",
         "debug": false,
@@ -2697,6 +2703,7 @@
 
 
 ]}
+
 
 
 
