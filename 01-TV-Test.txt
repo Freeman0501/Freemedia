@@ -118,7 +118,8 @@ Discovery Asia,http://52xinghe.top/smmmt.php?id=discoverytwn_twn&h=52xinghe.top&
 HBO Family,http://52xinghe.top/smmmt.php?id=fyi_twn&h=52xinghe.top&p=7788
 BBC Earth,http://52xinghe.top/smmmt.php?id=bbcearth_twn&h=52xinghe.top&p=7788
 BBC Lifestyle,http://52xinghe.top/smmmt.php?id=bbclifestyle_twn&h=52xinghe.top&p=7788
-CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn=52xinghe.top&p=7788
+CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
+CatchPlay電影,,http://52xinghe.top/smmmt.php?id=catchplay_twn&h=52xinghe.top&p=7788
 
 
 🍀 74,#genre#
