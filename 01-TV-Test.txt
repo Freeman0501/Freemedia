@@ -106,6 +106,9 @@ Pet Club TV,http://tw.护法.cloudns.ch:21096/mk.php?id=live1040
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
 
 
+1,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
+2.http://52xinghe.top/smmmt.php?id=eltasport2_twn&sec=085200_1769258018.ts
+
 
 🍀 74,#genre#
 
