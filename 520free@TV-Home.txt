@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0123 check,#genre#
+🚧 0125 check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=Cx0wbANAWxM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -36,12 +36,15 @@ Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 AXN,http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
 AXN,http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
 AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
+BBC Earth,http://52xinghe.top/smmmt.php?id=bbcearth_twn&h=52xinghe.top&p=7788
+BBC Lifestyle,http://52xinghe.top/smmmt.php?id=bbclifestyle_twn&h=52xinghe.top&p=7788
 BLOOMBERG TV,http://211.23.114.106:9350/http/59.120.8.187:8078/hls/43/80/bloomber.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.67.128.137:8078/hls/42/80/cctv4.m3u8
 CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
 CCTV4 中文國際(美洲),https://www.youtube.com/watch?v=f6Kq93wnaZ8
+CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
 CINEMAX,http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://211.23.114.106:9358/http/61.67.128.137:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
@@ -54,17 +57,22 @@ DAZN體育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 DAZN體育2,http://211.23.114.106:8555/http/61.67.128.137:8078/hls/26/80/esport2.m3u8
 DAZN體育2,rtmp://f13h.mine.nu/sat/tv741
+Discovery Asia,http://52xinghe.top/smmmt.php?id=discoverytwn_twn&h=52xinghe.top&p=7788
 Discovery,http://211.23.114.106:9310/http/59.120.8.187:8081/hls/71/813/ch44.m3u8
 Discovery,http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u8
 Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
+DMAX,http://52xinghe.top/smmmt.php?id=discoveryhd_twn&h=52xinghe.top&p=7788
+DMAX,http://52xinghe.top/smmmt.php?id=natgeohd_twn&h=52xinghe.top&p=7788
 ELTV生活英語,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang20
 ELTV生活英語,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang20
 ELTV生活英語,http://iptv543.com/litv.php?token=885252&id=litv-longturn20
 ELTV生活英語,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
+GagaOOLala,https://4gtv.iill.top/4gtv/4gtv-live139
 GINX Esports TV,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv053
 GINX Esports TV,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv053
 GINX Esports TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
+HBO Family,http://52xinghe.top/smmmt.php?id=fyi_twn&h=52xinghe.top&p=7788
 HBO,http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
@@ -295,6 +303,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 東森幼幼,http://211.23.114.106:8551/http/59.120.8.187:8081/hls/63/805/ch09.m3u8
 東森幼幼,http://211.23.114.106:8551/http/61.67.128.137:8081/hls/63/805/ch09.m3u8
 東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
+東森洋片,http://52xinghe.top/smmmt.php?id=ettvwestern&h=52xinghe.top&p=7788
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森財經新聞,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
@@ -382,6 +391,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 博斯魅力,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
+壹新聞,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
 壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://tw.护法.cloudns.ch:21096/mk.php?id=live1242
 智林體育,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv101
@@ -407,6 +417,10 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 愛爾達娛樂,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv070
 愛爾達娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
 愛爾達娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
+愛爾達體育1,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
+愛爾達體育2,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
+愛爾達體育3,http://52xinghe.top/smmmt.php?id=eltasport3_twn&h=52xinghe.top&p=7788
+愛爾達體育4,http://52xinghe.top/smmmt.php?id=natgeowild_twn&h=52xinghe.top&p=7788
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 達文西頻道,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv018
 達文西頻道,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv018
@@ -447,6 +461,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 靖洋戲劇,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv045
 靖洋戲劇,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv045
 靖洋戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
+滾動力 Rollor,https://4gtv.iill.top/4gtv/4gtv-live012
 鳳凰資訊,http://211.23.114.106:8548/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 鳳凰資訊,http://211.23.114.106:8548/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
 鳳凰衛視,http://211.23.114.106:8549/http/59.120.8.187.20:8078/hls/21/80/phoenixch.m3u8
@@ -521,6 +536,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 鏡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv075
 鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
 
 
 
@@ -1458,6 +1474,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
