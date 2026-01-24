@@ -1024,6 +1024,7 @@ TVBS歡樂台,https://4gtv.iill.top/4gtv/4gtv-4gtv068
 AMC電影台,https://4gtv.iill.top/4gtv/4gtv-4gtv017
 Arirang TV,https://4gtv.iill.top/4gtv/4gtv-4gtv079
 Bloomberg TV,https://4gtv.iill.top/4gtv/4gtv-live059
+CI 罪案偵查頻道,https://4gtv.iill.top/4gtv/4gtv-live027
 DreamWorks,,https://4gtv.iill.top/4gtv/4gtv-live017
 ELTV生活英語,https://4gtv.iill.top/4gtv/litv-longturn20
 FRANCE 24,https://4gtv.iill.top/4gtv/4gtv-live146
