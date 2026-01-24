@@ -107,7 +107,7 @@ Pet Club TV,http://tw.护法.cloudns.ch:21096/mk.php?id=live1040
 
 
 1,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
-2.http://52xinghe.top/smmmt.php?id=eltasport2_twn&sec=085200_1769258018.ts
+2,http://52xinghe.top/smmmt.php?id=eltasport2_twn&sec=085200_1769258018.ts
 
 
 🍀 74,#genre#
