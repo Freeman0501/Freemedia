@@ -125,13 +125,6 @@ CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7
 GagaOOLala,https://4gtv.iill.top/4gtv/4gtv-live139
 
 
-CI 罪案偵查頻道,http://7.iptv543.com:50007/4gtv-live027/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-Nick Jr,http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-Nickelodeon,http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-ROCK Action,http://7.iptv543.com:50007/4gtv-live138/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-ROCK Entertainment,http://7.iptv543.com:50007/4gtv-live080/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
-幸福空間居家,http://7.iptv543.com:50007/4gtv-live206/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 
 Discovery,http://iptv543.com/smt.php?id=discoverych_twn
 HBO,http://iptv543.com/smt.php?id=hbohd_twn
@@ -1058,6 +1051,7 @@ FRANCE 24,http://7.iptv543.com:50007/4gtv-live146/index.m3u8?token=8PE99oo8n5Nsk
 FUN 4K探索娛樂,http://7.iptv543.com:50007/4gtv-live011/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 GINX Esports TV,http://7.iptv543.com:50007/4gtv-4gtv053/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 Global Trekker,http://7.iptv543.com:50007/4gtv-live112/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+GagaOOLala,http://7.iptv543.com:50007/4gtv-live139/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 HITS,http://7.iptv543.com:50007/4gtv-live620/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 INULTRA,http://7.iptv543.com:50007/4gtv-live096/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 Lifetime,http://7.iptv543.com:50007/4gtv-live029/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
