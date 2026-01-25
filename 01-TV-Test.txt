@@ -124,6 +124,18 @@ CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7
 滾動力 Rollor,https://4gtv.iill.top/4gtv/4gtv-live012
 GagaOOLala,https://4gtv.iill.top/4gtv/4gtv-live139
 
+Discovery,http://iptv543.com/smt.php?id=discoverych_twn
+CI 罪案偵查頻道,http://7.iptv543.com:50007/4gtv-live027/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+HBO,http://iptv543.com/smt.php?id=hbohd_twn
+愛爾達體育1,http://iptv543.com/smt.php?id=eltasport1_twn
+愛爾達體育2,http://iptv543.com/smt.php?id=eltasport2_twn
+愛爾達體育3,http://iptv543.com/smt.php?id=eltasport3_twn
+愛爾達體育4,http://iptv543.com/smt.php?id=natgeowild_twn
+Nick Jr,http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+Nickelodeon,http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+ROCK Action,http://7.iptv543.com:50007/4gtv-live138/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+ROCK Entertainment,http://7.iptv543.com:50007/4gtv-live080/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 
 🍀 74,#genre#
 
