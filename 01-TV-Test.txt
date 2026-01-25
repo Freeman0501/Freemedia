@@ -131,6 +131,7 @@ Nickelodeon,http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=8PE99oo8n5N
 ROCK Action,http://7.iptv543.com:50007/4gtv-live138/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 ROCK Entertainment,http://7.iptv543.com:50007/4gtv-live080/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+幸福空間居家,http://7.iptv543.com:50007/4gtv-live206/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 
 Discovery,http://iptv543.com/smt.php?id=discoverych_twn
 HBO,http://iptv543.com/smt.php?id=hbohd_twn
