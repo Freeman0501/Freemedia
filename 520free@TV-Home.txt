@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0125 check,#genre#
+🚧 0126 check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=Cx0wbANAWxM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -45,6 +45,7 @@ CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.67.128.137:8078/hl
 CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
 CCTV4 中文國際(美洲),https://www.youtube.com/watch?v=f6Kq93wnaZ8
 CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
+CI 罪案偵查頻道,http://7.iptv543.com:50007/4gtv-live027/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 CINEMAX,http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://211.23.114.106:9358/http/61.67.128.137:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
@@ -61,6 +62,7 @@ Discovery Asia,http://52xinghe.top/smmmt.php?id=discoverytwn_twn&h=52xinghe.top&
 Discovery,http://211.23.114.106:9310/http/59.120.8.187:8081/hls/71/813/ch44.m3u8
 Discovery,http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u8
 Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
+Discovery,http://iptv543.com/smt.php?id=discoverych_twn
 DMAX,http://52xinghe.top/smmmt.php?id=discoveryhd_twn&h=52xinghe.top&p=7788
 DMAX,http://52xinghe.top/smmmt.php?id=natgeohd_twn&h=52xinghe.top&p=7788
 ELTV生活英語,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang20
@@ -77,6 +79,7 @@ HBO,http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
+HBO,http://iptv543.com/smt.php?id=hbohd_twn
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
@@ -96,10 +99,14 @@ NHK WORLD,http://211.23.114.106:9351/http/59.120.8.187:8081/hls/62/804/ch06.m3u8
 NHK WORLD,http://211.23.114.106:9351/http/61.67.128.137:8081/hls/62/804/ch06.m3u8
 NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+Nick Jr,http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+Nickelodeon,http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 Pet Club TV,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 Pet Club TV,http://211.23.114.106:9360/http/61.67.128.137:8078/hls/40/80/pettv.m3u8
 Pet Club TV,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv110
 Pet Club TV,http://tw.护法.cloudns.ch:21096/mk.php?id=live1040
+ROCK Action,http://7.iptv543.com:50007/4gtv-live138/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+ROCK Entertainment,http://7.iptv543.com:50007/4gtv-live080/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 Smart知識台,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang19
 Smart知識台,http://iptv543.com/litv.php?token=885252&id=litv-longturn19
@@ -155,6 +162,7 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 八大戲劇,http://211.23.114.106:9330/http/59.120.8.187:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://211.23.114.106:9330/http/61.67.128.137:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
+三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立台灣,http://211.23.114.106:9378/http/59.120.8.187:8081/hls/65/807/ch20.m3u8
@@ -418,8 +426,11 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 愛爾達娛樂,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
 愛爾達娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
 愛爾達體育1,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
+愛爾達體育1,http://iptv543.com/smt.php?id=eltasport1_twn
 愛爾達體育2,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
+愛爾達體育2,http://iptv543.com/smt.php?id=eltasport2_twn
 愛爾達體育3,http://52xinghe.top/smmmt.php?id=eltasport3_twn&h=52xinghe.top&p=7788
+愛爾達體育3,http://iptv543.com/smt.php?id=eltasport3_twn
 愛爾達體育4,http://52xinghe.top/smmmt.php?id=natgeowild_twn&h=52xinghe.top&p=7788
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 達文西頻道,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv018
@@ -536,6 +547,121 @@ VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
 鏡新聞,http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv075
 鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+
+
+AMC電影台,https://4gtv.iill.top/4gtv/4gtv-4gtv017
+Arirang TV,https://4gtv.iill.top/4gtv/4gtv-4gtv079
+Bloomberg TV,https://4gtv.iill.top/4gtv/4gtv-live059
+CI 罪案偵查頻道,https://4gtv.iill.top/4gtv/4gtv-live027
+DreamWorks,,https://4gtv.iill.top/4gtv/4gtv-live017
+ELTV生活英語,https://4gtv.iill.top/4gtv/litv-longturn20
+FRANCE 24,https://4gtv.iill.top/4gtv/4gtv-live146
+FUN 4K探索娛樂,https://4gtv.iill.top/4gtv/4gtv-live011
+GagaOOLala,https://4gtv.iill.top/4gtv/4gtv-live139
+GagaOOLala,https://4gtv.iill.top/4gtv/4gtv-live139
+Global Trekker,https://4gtv.iill.top/4gtv/4gtv-live112
+INULTRA,https://4gtv.iill.top/4gtv/4gtv-live096
+LiveABC互動英語,https://4gtv.iill.top/4gtv/4gtv-live030
+LUXE TV,https://4gtv.iill.top/4gtv/4gtv-live121
+Magellan TV,https://4gtv.iill.top/4gtv/4gtv-live123
+MCE,https://4gtv.iill.top/4gtv/litv-ftv10
+MOMO親子,https://4gtv.iill.top/4gtv/4gtv-live107
+NHK WORLD,https://4gtv.iill.top/4gtv/4gtv-live168
+TV5MONDE Style,https://4gtv.iill.top/4gtv/4gtv-live122
+TVBS台劇,https://4gtv.iill.top/4gtv/4gtv-live088
+TVBS精采,https://4gtv.iill.top/4gtv/4gtv-4gtv067
+TVBS綜藝,https://4gtv.iill.top/4gtv/4gtv-live087
+TVBS歡樂,https://4gtv.iill.top/4gtv/4gtv-4gtv068
+人間衛視,https://4gtv.iill.top/4gtv/4gtv-live008
+三立iNEWS,https://4gtv.iill.top/4gtv/4gtv-live089
+三立綜合,https://4gtv.iill.top/4gtv/4gtv-live207
+大愛,https://4gtv.iill.top/4gtv/4gtv-live007
+中天新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv009
+中視,https://4gtv.iill.top/4gtv/4gtv-4gtv040
+中視新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv074
+公視戲劇,https://4gtv.iill.top/4gtv/4gtv-4gtv042
+台視財經,https://4gtv.iill.top/4gtv/4gtv-4gtv056
+台視新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv051
+台灣戲劇,https://4gtv.iill.top/4gtv/litv-longturn22
+民視,https://4gtv.iill.top/4gtv/4gtv-4gtv002
+民視,https://4gtv.iill.top/4gtv/4gtv-4gtv155
+民視台灣,https://4gtv.iill.top/4gtv/4gtv-4gtv001
+民視旅遊,https://4gtv.iill.top/4gtv/litv-ftv07
+民視第一,https://4gtv.iill.top/4gtv/4gtv-4gtv003
+民視新聞,https://4gtv.iill.top/4gtv/litv-ftv13
+民視綜藝,https://4gtv.iill.top/4gtv/4gtv-4gtv004
+民視影劇,https://4gtv.iill.top/4gtv/litv-ftv09
+全球財經,https://4gtv.iill.top/4gtv/4gtv-live060
+好消息,https://4gtv.iill.top/4gtv/litv-ftv16
+好消息2台,https://4gtv.iill.top/4gtv/litv-ftv17
+車迷TV,https://4gtv.iill.top/4gtv/4gtv-live201
+亞洲旅遊,https://4gtv.iill.top/4gtv/4gtv-4gtv076
+幸福空間居家,https://4gtv.iill.top/4gtv/4gtv-live206
+東森財經新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv153
+東森新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv152
+采昌影劇,https://4gtv.iill.top/4gtv/4gtv-4gtv049
+金光布袋戲,https://4gtv.iill.top/4gtv/4gtv-live144
+非凡商業,https://4gtv.iill.top/4gtv/4gtv-4gtv048
+非凡新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv010
+客家電視,https://4gtv.iill.top/4gtv/4gtv-4gtv043
+原住民族電視,https://4gtv.iill.top/4gtv/4gtv-live014
+時尚運動X,https://4gtv.iill.top/4gtv/4gtv-4gtv014
+國會頻道1,https://4gtv.iill.top/4gtv/4gtv-4gtv084
+國會頻道2,https://4gtv.iill.top/4gtv/4gtv-4gtv085
+第1商業,https://4gtv.iill.top/4gtv/4gtv-4gtv104
+博斯高球I,https://4gtv.iill.top/4gtv/litv-longturn05
+博斯高球II,https://4gtv.iill.top/4gtv/litv-longturn06
+博斯無限,https://4gtv.iill.top/4gtv/litv-longturn10
+博斯無限II,https://4gtv.iill.top/4gtv/litv-longturn13
+博斯運動I,https://4gtv.iill.top/4gtv/litv-longturn07
+博斯運動II,https://4gtv.iill.top/4gtv/litv-longturn08
+博斯網球,https://4gtv.iill.top/4gtv/litv-longturn09
+博斯魅力,https://4gtv.iill.top/4gtv/litv-longturn04
+智林體育,https://4gtv.iill.top/4gtv/4gtv-4gtv101
+華視,https://4gtv.iill.top/4gtv/4gtv-4gtv041
+華視新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv052
+視納華仁紀實,https://4gtv.iill.top/4gtv/4gtv-4gtv013
+愛爾達生活旅遊,https://4gtv.iill.top/4gtv/4gtv-live120
+愛爾達娛樂,https://4gtv.iill.top/4gtv/4gtv-4gtv070
+新唐人亞太,https://4gtv.iill.top/4gtv/4gtv-live050
+經典卡通,https://4gtv.iill.top/4gtv/4gtv-live022
+經典電影,https://4gtv.iill.top/4gtv/4gtv-live021
+達文西頻道,https://4gtv.iill.top/4gtv/4gtv-4gtv018
+靖天日本,https://4gtv.iill.top/4gtv/4gtv-4gtv047
+靖天卡通,https://4gtv.iill.top/4gtv/4gtv-4gtv044
+靖天育樂,https://4gtv.iill.top/4gtv/4gtv-4gtv062
+靖天映畫,https://4gtv.iill.top/4gtv/4gtv-4gtv055
+靖天國際,https://4gtv.iill.top/4gtv/4gtv-4gtv063
+靖天資訊,https://4gtv.iill.top/4gtv/4gtv-4gtv065
+靖天電影,https://4gtv.iill.top/4gtv/4gtv-4gtv061
+靖天綜合,https://4gtv.iill.top/4gtv/4gtv-4gtv046
+靖天戲劇,https://4gtv.iill.top/4gtv/4gtv-4gtv058
+靖天歡樂,https://4gtv.iill.top/4gtv/4gtv-4gtv054
+靖洋卡通,https://4gtv.iill.top/4gtv/4gtv-4gtv057
+靖洋戲劇,https://4gtv.iill.top/4gtv/4gtv-4gtv045
+滾動力 Rollor,https://4gtv.iill.top/4gtv/4gtv-live012
+滾動力 Rollor,https://4gtv.iill.top/4gtv/4gtv-live012
+精選動漫台,https://4gtv.iill.top/4gtv/4gtv-live024
+影迷紀實,https://4gtv.iill.top/4gtv/litv-ftv15
+影迷數位電影,https://4gtv.iill.top/4gtv/4gtv-4gtv011
+豬哥亮歌廳秀,https://4gtv.iill.top/4gtv/4gtv-4gtv006
+寰宇財經,https://4gtv.iill.top/4gtv/4gtv-4gtv158
+寰宇新聞,https://4gtv.iill.top/4gtv/litv-longturn14
+寰宇新聞台灣,https://4gtv.iill.top/4gtv/4gtv-4gtv156
+歷史頻道,https://4gtv.iill.top/4gtv/4gtv-live026
+龍華日韓,https://4gtv.iill.top/4gtv/litv-longturn11
+龍華卡通,https://4gtv.iill.top/4gtv/litv-longturn01
+龍華洋片,https://4gtv.iill.top/4gtv/litv-longturn02
+龍華偶像,https://4gtv.iill.top/4gtv/litv-longturn12
+龍華經典,https://4gtv.iill.top/4gtv/litv-longturn21
+龍華電影,https://4gtv.iill.top/4gtv/litv-longturn03
+龍華戲劇,https://4gtv.iill.top/4gtv/litv-longturn18
+戲劇免費看,https://4gtv.iill.top/4gtv/4gtv-live010
+韓國娛樂,https://4gtv.iill.top/4gtv/4gtv-4gtv016
+鏡新聞,https://4gtv.iill.top/4gtv/4gtv-4gtv075
+霹靂布袋戲,https://4gtv.iill.top/4gtv/4gtv-live145
+
 
 
 
@@ -1474,6 +1600,7 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
