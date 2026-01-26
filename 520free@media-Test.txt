@@ -1,7 +1,7 @@
 {
 
-"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
-
+#"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 "notice": "🌸 Free Movie Test 🌸",
@@ -359,6 +359,7 @@
 
 
 ]}
+
 
 
 
