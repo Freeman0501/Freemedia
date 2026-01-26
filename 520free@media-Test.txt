@@ -4,7 +4,7 @@
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
-"notice": "🌸 Free Movie Test 🌸",
+"notice": "🌸 Free Movie Test 01 🌸",
 
 
 "sites": [
@@ -358,6 +358,7 @@
 
 
 ]}
+
 
 
 
