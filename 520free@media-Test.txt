@@ -1,7 +1,9 @@
 {
 
 #"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+
+
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 "notice": "🌸 Free Movie Test 🌸",
@@ -11,7 +13,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie 01",
+"name": "🌸Free Movie 02",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -358,6 +360,7 @@
 
 
 ]}
+
 
 
 
