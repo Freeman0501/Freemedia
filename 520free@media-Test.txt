@@ -31,7 +31,8 @@
 
 
 #測試區
- "key": "netflav",
+
+{ "key": "netflav",
       "name": "NETFLAV",
       "type": 3,
       "searchable": 1,
@@ -359,6 +360,7 @@
 
 
 ]}
+
 
 
 
