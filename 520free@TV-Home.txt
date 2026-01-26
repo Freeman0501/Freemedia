@@ -1806,50 +1806,42 @@ Coffee Jazz,https://www.youtube.com/watch?v=fEvM-OUbaKs
 Deep & Melodic House,https://www.youtube.com/watch?v=WsDyRAPFBC8
 Deep House Radio,https://www.youtube.com/watch?v=IkmLXvBfVv0
 Deep House,https://www.youtube.com/watch?v=Ihm9OQWmibA
-Hits Radio 1,https://www.youtube.com/watch?v=SwiqSo3mXSE
-jazz lofi radio.https://www.youtube.com/watch?v=HuFYqnbVbzY
-Jeka,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-KKBOX華語單曲,https://www.youtube.com/watch?v=0NmaXNsHONI
-Live POP Radio,https://www.youtube.com/watch?v=TtNXER1Cgzo
+Hits Radio 1,https://www.youtube.com/watch?v=3MOrgUjiigE
+Best Radio 1 POP Hits,https://www.youtube.com/watch?v=b-bK2Vn3D38
+jazz lofi radio,https://www.youtube.com/watch?v=HuFYqnbVbzY
+KKBOX華語單曲排行週榜,https://www.youtube.com/watch?v=99rLT2xf8T8
+Live POP Radio,https://www.youtube.com/watch?v=p7ZIMv7SqW4
 lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 Morning Vibes 2025,https://www.youtube.com/watch?v=ZHkkgIA0Dy4
 Music Radio 1,https://www.youtube.com/watch?v=FVLNVecHzvI
-OKK,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-Old Love Songs,https://www.youtube.com/watch?v=ZTqt3CYehuE
+Old Beautiful Soft Rock,https://www.youtube.com/watch?v=ZTqt3CYehuE
 Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
-POP Star,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
 Radio POP Mix,https://www.youtube.com/watch?v=x-JC7sJJUW8
 Rainy Piano Radio,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
-Rock&Roll,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-Slow Jazz,https://www.youtube.com/watch?v=Dx5qFachd3A
+Relaxing Jazz Piano,https://www.youtube.com/watch?v=Dx5qFachd3A
 Spa Music,https://www.youtube.com/watch?v=DnoTqKe04Rc
-Space Ambient Music,https://www.youtube.com/watch?v=tNkZsRW7h2c
-Spring Lounge 2025,https://www.youtube.com/watch?v=eoFU5bMS_uY
+Space Ambient Music,https://www.youtube.com/watch?v=QOzC_AbsPlw
+Winter Luxury Lounge 2026,https://www.youtube.com/watch?v=eoFU5bMS_uY
 Starbucks Music,https://www.youtube.com/watch?v=Efu7J9uQMxY
 The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-THE K-POP2,https://www.youtube.com/watch?v=8fHegYsHwZQ
-Vibing with K-POP,https://www.youtube.com/watch?v=jhsltv-xwQg
-WorldwideM,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-抖音歌曲2025,https://www.youtube.com/watch?v=vBLdfhjMIoI
 美丽城市和软钢琴音乐,https://www.youtube.com/watch?v=TZikBxNaaQk
 浪漫吉他音樂,https://www.youtube.com/watch?v=xNgv8mIk0tA
 減輕壓力音樂,https://www.youtube.com/watch?v=wKg71lcs5Nw
 舒緩神經音樂,https://www.youtube.com/watch?v=DO9WCXMfRuc
-溫暖英文歌單,https://www.youtube.com/watch?v=Faao4mkcwY4
+溫暖英文歌單,https://www.youtube.com/watch?v=IomlsrbTFsQ
 睡眠音樂-1,https://www.youtube.com/watch?v=b_TW4NYsbOo
 睡眠音樂-2,https://www.youtube.com/watch?v=TO4CiZXapP0
 睡眠音樂-3,https://www.youtube.com/watch?v=G6M5Upcrwf8
 睡眠音樂-4,https://www.youtube.com/watch?v=hYz1oOcAuk8
-睡眠音樂-5,https://www.youtube.com/watch?v=zutrCU4N0hk
-睡眠音樂-6,https://www.youtube.com/watch?v=zoz0eXzFFns
-緩解壓力-1,https://www.youtube.com/watch?v=jvXwD1dMvYM
+睡眠音樂-5,https://www.youtube.com/watch?v=zoz0eXzFFns
+緩解壓力-1,https://www.youtube.com/watch?v=c9n4t53pAA0
 緩解壓力-2,https://www.youtube.com/watch?v=BcwNV1cCoaU
 緩解壓力-3,https://www.youtube.com/watch?v=SjkGdCuT8zg
-緩解壓力-4https://www.youtube.com/watch?v=pw5gYa4-yGI
-心情放鬆的韓文歌,https://www.youtube.com/watch?v=EmY9P98hOSU
+緩解壓力-4,https://www.youtube.com/watch?v=pw5gYa4-yGI
+心情放鬆的韓文歌,https://www.youtube.com/watch?v=z5GAa0JdnNU
 
 
 
@@ -1864,55 +1856,38 @@ AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲電台,http://stream.rcs.revma.com/xpgtqc74hv8uv
-BestRadio好事903,http://live.cooltv.top/tv/bestradio_backup.php?id=2
-BestRadio好事935,http://live.cooltv.top/tv/bestradio_backup.php?id=4
-BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
-BestRadio港都983,http://live.cooltv.top/tv/bestradio_backup.php?id=3
 BravoFM臺北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
 CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 CityFM大苗栗,http://fm983.cityfm.tw:8080/983.mp3
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM臺北健康,http://fm901.cityfm.tw:8080/901.mp3
-CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 CRI 南海之聲,http://sk.cri.cn/nhzs.m3u8
-CRI 輕鬆調頻,http://sk.cri.cn/915.m3u8
 HD音樂,https://lhttp.qingting.fm/live/15318341/64k.mp3
-KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
 Lounge Radio,http://streaming.radionomy.com/JamendoLounge
 M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv
 M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
-News98 新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 News98新聞台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
 News98新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
 News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
-PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
 RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-TRACE,http://tv543.cc/litv.php?id=4gtv-4gtv082
-VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
-VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
-VOCALO,https://stream.wbez.org/vocalolinear
-YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
-天籟之音-國風,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
 天籟古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 太陽電台,http://211.20.119.102:8081
 心靈音樂館,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
 古典音樂台,http://59.120.88.155:8000/live.mp3
-台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+古典音樂台,https://onair.family977.com.tw:8977/live.mp3
 台中廣播電臺,http://211.20.119.101:8081
 台南知音,http://fm971.cityfm.tw:8080/971.mp3
-台灣古典音樂台,http://59.120.88.155:8000/live.mp3
 正義電台,http://211.20.119.103:8081
 正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
 正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
 民謠藍調,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-光華之聲,http://live.cooltv.top/tv/kwongwah.php
 全國治安交通台,http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
 私房音樂,http://livestream.1766.today:1769/live1.mp3
@@ -1921,11 +1896,6 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 亞洲粵語,https://lhttp.qingting.fm/live/15318569/64k.mp3
 亞洲經典,https://lhttp.qingting.fm/live/5021912/64k.mp3
 亞洲熱歌,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
-佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
-佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/chunklist.m3u8
-佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
-佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/chunklist.m3u8
-佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
 店頭音樂,http://livestream.1766.today:1781/live2.mp3
 飛特電台,https://phate.io/listen.ogg
 飛碟電台,http://n08.rcs.revma.com/em90w4aeewzuv
@@ -1945,9 +1915,6 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 動感音樂台4,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 國立教育電台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 清晨音樂台,http://live.xmcdn.com:80/live/1011/64.m3u8
-復興電台,http://live.cooltv.top/tv/fhbs.php
-漢聲廣播電台AM,http://live.cooltv.top/tv/voh.php?id=2
-漢聲廣播電台FM,http://live.cooltv.top/tv/voh.php?id=1
 臺北廣播電台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 臺灣Lounge Radio音樂,http://streaming.radionomy.com/JamendoLounge
 臺灣古典音樂台,http://59.120.88.155:8000/live.mp3
@@ -1956,33 +1923,6 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
