@@ -4,14 +4,14 @@
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
-"notice": "🌸 Free Movie Test 01 🌸",
+"notice": "🌸 Free Movie Test 🌸",
 
 
 "sites": [
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie",
+"name": "🌸Free Movie 01",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -358,6 +358,7 @@
 
 
 ]}
+
 
 
 
