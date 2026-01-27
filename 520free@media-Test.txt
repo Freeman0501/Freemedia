@@ -35,7 +35,7 @@
 
    {
       "key": "py_椰子_APP",
-      "name": "🎡｜椰子",
+      "name": "動漫🦉椰子",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/appfox.py",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },    
     {
       "key": "py_丫丫_APP",
-      "name": "🎡｜丫丫",
+      "name": "動漫🦉丫丫",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -60,7 +60,7 @@
     },
     {
       "key": "py_漫屋_APP",
-      "name": "🎡｜漫屋",
+      "name": "動漫🦉漫屋",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "py_方舟_APP",
-      "name": "🎡｜方舟",
+      "name": "動漫🦉方舟",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -90,7 +90,7 @@
     },
     {
       "key": "py_元咲_APP",
-      "name": "🎡｜元纓",
+      "name": "動漫🦉元纓",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "py_番薯_APP",
-      "name": "🎡｜番薯",
+      "name": "動漫🦉番薯",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -120,7 +120,7 @@
     },
     {
       "key": "py_曼波_APP",
-      "name": "🎡｜曼波",
+      "name": "動漫🦉曼波",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
     {
       "key": "py_咕咕_APP",
-      "name": "🎡｜咕咕",
+      "name": "動漫🦉咕咕",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "漫国動漫",
-      "name": "🎡｜漫國动漫",
+      "name": "動漫🦉漫國",
       "type": 3,
       "api": "csp_AppSy",
       "ext": {
@@ -162,7 +162,7 @@
     },
     {
       "key": "csp_動漫巴士",
-      "name": "🎡｜動漫巴士",
+      "name": "動漫🦉巴士1",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -173,7 +173,7 @@
     },
     {
       "key": "巴士动漫",
-      "name": "🎡｜巴士动漫",
+      "name": "動漫🦉巴士2",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -181,7 +181,7 @@
     },
     {
       "key": "csp_天天動漫",
-      "name": "🎡｜天天動漫",
+      "name": "動漫🦉天天",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -203,7 +203,7 @@
     },
     {
       "key": "csp_桵空",
-      "name": "🎡｜桵空动漫",
+      "name": "動漫🦉桵空",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -217,7 +217,7 @@
     },
     {
       "key": "櫻花動漫2",
-      "name": "🎡｜櫻花动漫",
+      "name": "動漫🦉櫻花",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -231,7 +231,7 @@
     },
     {
       "key": "魔都",
-      "name": "🎡｜魔都动漫",
+      "name": "動漫🦉魔都1",
       "type": 0,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -240,7 +240,7 @@
     },
     {
       "key": "魔都资源",
-      "name": "🎡｜魔資动漫",
+      "name": "動漫🦉魔督2",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
@@ -249,7 +249,7 @@
     },
     {
       "key": "csp_AG動漫",
-      "name": "🎡｜AG動漫",
+      "name": "動漫🦉AG",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -264,7 +264,7 @@
     },
     {
       "key": "hipy_js_NT动漫[漫]",
-      "name": "🎡｜牛顿动漫",
+      "name": "動漫🦉牛顿",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
@@ -276,7 +276,7 @@
     },
     {
       "key": "drpy_js_去看吧",
-      "name": "🎡｜去看动漫",
+      "name": "動漫🦉去看",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -287,7 +287,7 @@
     },
     {
       "key": "好看动漫",
-      "name": "🎡｜好看动漫",
+      "name": "動漫🦉好看",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -298,7 +298,7 @@
     },
     {
       "key": "drpy_js_爱弹幕",
-      "name": "🎡｜爱动漫",
+      "name": "動漫🦉爱动漫",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -309,7 +309,7 @@
     },
     {
       "key": "hipy_js_七色番[漫]",
-      "name": "🎡｜七色番动漫",
+      "name": "動漫🦉七色番",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "hipy_js_爱弹幕[漫]",
-      "name": "🎡｜爱动漫",
+      "name": "動漫🦉爱动漫",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
@@ -331,7 +331,7 @@
     },
     {
       "key": "异世界",
-      "name": "🎡｜异世界动漫",
+      "name": "動漫🦉异世界",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
@@ -406,6 +406,7 @@
 
 
 ]}
+
 
 
 
