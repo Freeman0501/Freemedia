@@ -33,6 +33,101 @@
 
 #測試區
 
+   {
+      "key": "mqtv",
+      "name": "麻雀视频 | 自营",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.71
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./userScripts/mqtv.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "https://hm.baidu.com/*",
+            "https://*.n3f2.cn/*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://*/obj/tos-*",
+          "*://*/*.mp4*",
+          "*://*/*.m3u8*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://www.mqtv.cc/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://www.mqtv.cc/type/${tid}"
+          },
+          "detailContent": {
+            "loadUrl": "https://www.mqtv.cc${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://www.mqtv.cc${url}#${anchor}"
+          },
+          "searchContent": {
+            "loadUrl": "https://www.mqtv.cc/search/${key}"
+          }
+        }
+      }
+    },
+    {
+      "key": "gaze",
+      "name": "注视影视 | 自营",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.66
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./userScripts/gaze.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "https://*.bytecdntp.com/cdn/expire-1-M/font-awesome/*",
+            "https://*.clarity.ms/*",
+            "https://gaze.run/visitorslog.php*",
+            "*.css*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://dl-b.cloud.189.cn/corp/downloadFile.action?*",
+          "https://gaze.run/gaze_filey/pb/*.m3u8",
+          "https://*/obj/tos*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://gaze.run/filter"
+          },
+          "categoryContent": {
+            "loadUrl": "https://gaze.run/filter"
+          },
+          "detailContent": {
+            "loadUrl": "https://gaze.run/play/${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://gaze.run/play/${mcid}#${path}"
+          },
+          "searchContent": {
+            "loadUrl": "https://gaze.run/filter"
+          }
+        }
+      }
+    },
+
 
 
 
@@ -97,6 +192,7 @@
 
 
 ]}
+
 
 
 
