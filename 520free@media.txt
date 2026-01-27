@@ -330,17 +330,6 @@
 },
 
 {
-"key": "csp_LiteApple",
-"name": "小蘋果",
-"type": 3,
-"api": "csp_LiteApple",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/feimao-0611.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
- },
-
- {
 "key":"界影視",
 "name":"界影視",
 "type":3,
@@ -448,35 +437,6 @@
 },
 
 {
-"key": "仓鼠",
-"name": "倉鼠",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-"dataKey": "da61247f5b662597",
-"dataIv": "da61247f5b662597",
-"version": "120"
-}
-},
-
-{
-"key": "鲸鱼",
-"name": "鯨魚",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-"dataKey": "AAdgrdghjfgswerA",
-"dataIv": "AAdgrdghjfgswerA"
-}
-},
-
-{
 "key": "数字",
 "name": "數字",
 "type": 3,
@@ -513,18 +473,6 @@
 "changeable": 1,
 "filterable": 1,
 "quickSearch": 1
-},
-
-{
-"key": "天龙",
-"name": "天龍",
-"type": 3,
-"jar":"https://tvbox.catvod.com/catvod.jar",
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/tianlong.json"
 },
 
 {
@@ -860,24 +808,6 @@
 },
 
 {
-"key": "小猪1",
-"name": "大豬",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url" : "",
-"site": "https://xz4k.top/url.txt",
-"dataKey" : "1785acb6c963184b",
-"dataIv"  : "1785acb6c963184b",
-"deviceId": "",
-"version" : "",
-"ua": ""
-}
-},
-
-{
 "key": "小猪2",
 "name": "小豬",
 "type": 3,
@@ -929,7 +859,7 @@
 
 {
 "key":"csp_XBPQ_短剧4",
-"name":"愛短劇.CC",
+"name":"愛短劇",
 "type":3,
 "api":"csp_XBPQ",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
@@ -975,32 +905,6 @@
 "动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","短剧",  
 "日韩综艺","欧美综艺","大陆综艺","港台综艺"
 ]
-},
-
-{
-"key": "huochetaidu",
-"name": "火車太堵",
-"type": 3,
-"timeout": 120,
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 0,
-"style": {"type": "rect", "ratio": 0.71},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/huochetaidu.user.js",
-"debug": false,
-"webViewSettings": {"blockNetworkImage": true,"blockList": ["https://hm.baidu.com/*"]},
-"playUrlMatch": ["*://*/*.m3u8*"],
-"spider": {"homeContent": {"loadUrl": "https://www.tdgo.shop/"},
-"categoryContent": {
-"loadUrl": "https://www.tdgo.shop/vodshow/${tid}-${index0:-}-${index1:-}-${index2:-}-${index3:-}-${index4:-}-${index5:-}-${index6:-}-${pg:-1}-${index8:-}-${index9:-}-${index10:-}.html"},
-"detailContent": {"loadUrl": "https://www.tdgo.shop${id}"},
-"playerContent": {"loadUrl": "https://www.tdgo.shop${playUrl}"},
-"searchContent": {"loadUrl": "https://www.tdgo.shop/vodsearch/${key}----------${pg:-1}---.html"}
-}
-}
 },
 
 {
@@ -1964,6 +1868,7 @@
 
 
 ]}
+
 
 
 
