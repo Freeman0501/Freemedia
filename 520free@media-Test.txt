@@ -1,7 +1,6 @@
 {
 
-#"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
 
 
 
@@ -44,8 +43,9 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "./userScripts/netflav.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/netflav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -94,8 +94,9 @@
         "ratio": 1.49
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "./userScripts/123av.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/123av.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -145,8 +146,9 @@
         "ratio": 1.49
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "./userScripts/missav.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/missav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -197,8 +199,9 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "./userScripts/supjav.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/supjav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": false,
@@ -265,8 +268,9 @@
         "ratio": 1.78
       },
       "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "./userScripts/xojav.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/xojav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -360,6 +364,7 @@
 
 
 ]}
+
 
 
 
