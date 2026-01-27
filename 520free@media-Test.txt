@@ -12,7 +12,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie 01",
+"name": "🌸Free Movie 02",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -33,11 +33,70 @@
 
 #測試區
 
-{ "key": "netflav",
+  {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      },
+      "api": "csp_GM",
+"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
+      "ext": {
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/jable.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.ico*",
+            "*.png*",
+            "*.css*",
+            "https://*.adsco.re/*",
+            "https://*.googleapis.com/*",
+            "https://*.googlesyndication.com/*",
+            "https://*.googletagmanager.com/*",
+            "https://*.hpyjmp.com/*",
+            "https://*.magsrv.com/*",
+            "https://*.mnaspm.com/*",
+            "https://*.shukriya90.com/*",
+            "https://*.tapioni.com/*",
+            "https://*.tsyndicate.com/*",
+            "https://assets.jable.tv/assets/js/player.js"
+          ]
+
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://jable.tv/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://jable.tv/videos/${id}/"
+          },
+          "searchContent": {
+            "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+          }
+        }
+      }
+    },
+
+   {
+      "key": "netflav",
       "name": "NETFLAV",
       "type": 3,
+      "quickSearch": 1,
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.48
@@ -83,12 +142,15 @@
       }
     },
 
-    {
+   {
       "key": "123av",
       "name": "123AV",
       "type": 3,
+      "quickSearch": 1,
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.49
@@ -96,7 +158,7 @@
       "api": "csp_GM",
 "jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
       "ext": {
-        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/123av.user.js",
+        "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/123av.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -114,20 +176,20 @@
           ]
         },
         "playUrlMatch": [
-          "https://*.skyearth*.xyz/*/v.m3u8"
+          "https://*/v.m3u8"
         ],
         "spider": {
           "homeContent": {
-            "loadUrl": "https://123av.com/zh/"
+            "loadUrl": "https://123av.com/zh/dm9"
           },
           "categoryContent": {
             "loadUrl": "https://123av.com/zh/${tid}?page=${pg:-1}${filter:-}${sort:-}"
           },
           "detailContent": {
-            "loadUrl": "https://123av.com/zh/v/${id}"
+            "loadUrl": "https://123av.com/zh/${id}"
           },
           "playerContent": {
-            "loadUrl": "https://123av.com/zh/v/${vod_id}"
+            "loadUrl": "https://123av.com/zh/${vod_id}"
           },
           "searchContent": {
             "loadUrl": "https://123av.com/zh/search?keyword=${key}&page=${pg:-1}"
@@ -135,12 +197,16 @@
         }
       }
     },
+
     {
       "key": "MissAV",
       "name": "MissAV",
       "type": 3,
+      "quickSearch": 1,
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.49
@@ -188,12 +254,16 @@
         }
       }
     },
+
     {
       "key": "supjav",
-      "name": "Supjav",
+      "name": "SupJav",
       "type": 3,
+      "quickSearch": 0,
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.48
@@ -204,7 +274,7 @@
         "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/supjav.user.js",
         "debug": false,
         "webViewSettings": {
-          "blockNetworkImage": false,
+          "blockNetworkImage": true,
           "blockList": [
             "https://*.adforcast.com/*",
             "https://*.adxadserv.com/*",
@@ -257,12 +327,16 @@
       }
     },
 
-    {
+
+   {
       "key": "XOJAV",
       "name": "XOJAV",
       "type": 3,
+      "quickSearch": 1,
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.78
@@ -301,6 +375,10 @@
         }
       }
     },
+
+
+
+
 
 
 #結尾防當機
@@ -364,6 +442,7 @@
 
 
 ]}
+
 
 
 
