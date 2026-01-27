@@ -33,213 +33,7 @@
 
 #測試區
 
-   {
-      "key": "py_椰子_APP",
-      "name": "動漫🦉椰子",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"host": "http://nico.oiio.fun", "ver": "2"}
-    },    
-    {
-      "key": "py_丫丫_APP",
-      "name": "動漫🦉丫丫",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "http://tv.yy-fun.cc",
-        "api"    : "/api.php/getappapi",
-        "datakey": "qkxnwkfjwpcnwycl",
-        "dataiv" : "qkxnwkfjwpcnwycl"
-      }
-    },
-    {
-      "key": "py_漫屋_APP",
-      "name": "動漫🦉漫屋",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "https://www.yunwuee.icu",
-        "api"    : "/api.php/getappapi",
-        "datakey": "ygcnb9bdcmb8aeiw",
-        "dataiv" : "ygcnb9bdcmb8aeiw"
-      }
-    },
-    {
-      "key": "py_方舟_APP",
-      "name": "動漫🦉方舟",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "https://www.cyfz.vip",
-        "api"    : "/api.php/getappapi",
-        "datakey": "e72cdfd629e8895d",
-        "dataiv" : "e72cdfd629e8895d"
-      }
-    },
-    {
-      "key": "py_元咲_APP",
-      "name": "動漫🦉元纓",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "http://cic.aicg.fun",
-        "api"    : "/api.php/getappapi",
-        "datakey": "2c4h36abd96se10u",
-        "dataiv" : "2c4h36abd96se10u"
-      }
-    },
-    {
-      "key": "py_番薯_APP",
-      "name": "動漫🦉番薯",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "https://new.app.bytegooty.com",
-        "api"    : "/api.php/getappapi",
-        "datakey": "N4yj7l7xKxHF4*gz",
-        "dataiv" : "N4yj7l7xKxHF4*gz"
-      }
-    },
-    {
-      "key": "py_曼波_APP",
-      "name": "動漫🦉曼波",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "https://app.omofun1.top",
-        "api"    : "/api.php/getappapi",
-        "datakey": "66dc309cbeeca454",
-        "dataiv" : "66dc309cbeeca454"
-      }
-    },
-    {
-      "key": "py_咕咕_APP",
-      "name": "動漫🦉咕咕",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host"   : "https://www.gugu3.com",
-        "api"    : "/api.php/getappapi",
-        "datakey": "nKfZ8KX6JTNWRzTD",
-        "dataiv" : "nKfZ8KX6JTNWRzTD"
-      }
-    },
-    {
-      "key": "漫国動漫",
-      "name": "動漫🦉漫國",
-      "type": 3,
-      "api": "csp_AppSy",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-      "ext": {
-        "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-        "siteKey": "rectangleadsadxa",
-        "listKey": "aassddwwxxllsx1x",
-        "parsesKey": "aassddwwxxllsx1x"
-      }
-    },
 
-    {
-      "key": "巴士动漫",
-      "name": "動漫🦉巴士",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/巴士动漫.json"
-    },
-    {
-      "key": "csp_天天動漫",
-      "name": "動漫🦉天天",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "线路二次截取": "class=\"module-tab-items-box&&lass=\"swiper[替换:</div>>></a>]",
-        "线路数组": "class=\"module-tab-item tab-item&&</a>",
-        "线路标题": "<span>&&</span>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "主页url": "https://www.ttdm.me/vod-type/1/",
-        "分类url": "https://www.ttdm.me/vod-show/{cateId}--{by}-{class}-----{catePg}---/",
-        "分类": " 中国动漫$1#日本动漫$2#欧美动漫$3#其他动漫$4#动画电影$5",
-        "劇情": "玄幻&科幻&武侠&冒险&战斗&搞笑&恋爱&魔幻&竞技&热血&治愈&励志&机战&奇幻&悬疑&日常&校园&真人&推理&历史&经典&美食&偶像"
-      }
-    },
-    {
-      "key": "csp_桵空",
-      "name": "動漫🦉桵空",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
-        "分类": "电影$84#综艺$91#大陆劇$81#港台劇$82#海外劇$83#纪录片$88#动漫$1#日劇$32#日漫$46#国漫$47#美漫$85"
-      }
-    },
-
-    {
-      "key": "魔都",
-      "name": "動漫🦉魔都1",
-      "type": 0,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
-    },
-    {
-      "key": "魔都资源",
-      "name": "動漫🦉魔都2",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_AG動漫",
-      "name": "動漫🦉AG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://agdm.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "日本动漫$6#国产动漫$7#欧美动漫$8#海外动漫$21#劇场版$9",
-        "地区": "日本&大陆&美国"
-      }
-    },
 
 
 
@@ -256,7 +50,7 @@
 ],
 
 
-  
+
 "lives": [
 
 {
@@ -310,6 +104,7 @@
 
 
 ]}
+
 
 
 
