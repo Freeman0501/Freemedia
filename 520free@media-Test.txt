@@ -153,6 +153,7 @@
       "name": "動漫🦉漫國",
       "type": 3,
       "api": "csp_AppSy",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
       "ext": {
         "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
         "siteKey": "rectangleadsadxa",
@@ -160,20 +161,10 @@
         "parsesKey": "aassddwwxxllsx1x"
       }
     },
-    {
-      "key": "csp_動漫巴士",
-      "name": "動漫🦉巴士1",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/動漫巴士.json"
-    },
+
     {
       "key": "巴士动漫",
-      "name": "動漫🦉巴士2",
+      "name": "動漫🦉巴士",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
@@ -215,20 +206,7 @@
         "分类": "电影$84#综艺$91#大陆劇$81#港台劇$82#海外劇$83#纪录片$88#动漫$1#日劇$32#日漫$46#国漫$47#美漫$85"
       }
     },
-    {
-      "key": "櫻花動漫2",
-      "name": "動漫🦉櫻花",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.857kan.com/show/{cateId}--------{catePg}---{year}.html",
-        "分类": "動漫電影$4#日本動漫$1#大陸動漫$3#歐美動漫$6"
-      }
-    },
+
     {
       "key": "魔都",
       "name": "動漫🦉魔都1",
@@ -240,7 +218,7 @@
     },
     {
       "key": "魔都资源",
-      "name": "動漫🦉魔督2",
+      "name": "動漫🦉魔都2",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
@@ -262,83 +240,9 @@
         "地区": "日本&大陆&美国"
       }
     },
-    {
-      "key": "hipy_js_NT动漫[漫]",
-      "name": "動漫🦉牛顿",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/NT动漫[漫].js"
-    },
-    {
-      "key": "drpy_js_去看吧",
-      "name": "動漫🦉去看",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/去看吧.js"
-    },
-    {
-      "key": "好看动漫",
-      "name": "動漫🦉好看",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/HKDM.js"
-    },
-    {
-      "key": "drpy_js_爱弹幕",
-      "name": "動漫🦉爱动漫",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/爱弹幕.js"
-    },
-    {
-      "key": "hipy_js_七色番[漫]",
-      "name": "動漫🦉七色番",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/七色番[漫].js"
-    },
-    {
-      "key": "hipy_js_爱弹幕[漫]",
-      "name": "動漫🦉爱动漫",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/爱弹幕[漫].js"
-    },
-    {
-      "key": "异世界",
-      "name": "動漫🦉异世界",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/异世界.js"
-    },
+
+
+
 
 
 
@@ -406,6 +310,7 @@
 
 
 ]}
+
 
 
 
