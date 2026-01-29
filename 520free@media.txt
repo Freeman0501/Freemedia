@@ -25,7 +25,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260130 ➡️強烈建議更新至 Free Movie 3.6.6 版⬅️ >",
+"name": "🌸Free Movie < 20260130 👉 強烈建議更新至 Free Movie 3.6.6 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -2090,6 +2090,7 @@
 
 
 ]}
+
 
 
 
