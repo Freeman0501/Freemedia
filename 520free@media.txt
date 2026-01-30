@@ -553,6 +553,18 @@
 },
 
 {
+"key":"Hxq",
+"name":"韓劇",
+"type":3,
+"api":"csp_HxqAmns",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+{
 "key":"Cori爱壹帆",
 "name":"Cori愛壹帆",
 "type":3,
@@ -573,6 +585,18 @@
 "playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},
 "searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}},
 "jar":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+},
+
+{
+"key":"Aiyf",
+"name":"愛壹帆",
+"type":3,
+"api":"csp_AiyfAmns",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
 },
 
 {
@@ -956,29 +980,7 @@
 "changeable":1
 },
 
-{
-"key":"Aiyf",
-"name":"愛壹帆",
-"type":3,
-"api":"csp_AiyfAmns",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
-"searchable":1,
-"filterable":1,
-"quickSearch":1,
-"changeable":1
-},
 
-{
-"key":"Hxq",
-"name":"韓劇",
-"type":3,
-"api":"csp_HxqAmns",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
-"searchable":1,
-"filterable":1,
-"quickSearch":1,
-"changeable":1
-},
 
 
 
@@ -2137,6 +2139,7 @@
 
 
 ]}
+
 
 
 
