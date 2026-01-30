@@ -931,6 +931,56 @@
 "changeable": 0
 },
 
+{
+"key":"NewGr",
+"name":"春天",
+"type":3,
+"api":"csp_NewGrAmns",
+"jar":"./jar/aowu.jar;md5;aaf6e104b096112ad8baf14b61108a6e",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
+},
+
+{
+"key":"TnewGr",
+"name":"糖心",
+"type":3,
+"api":"csp_TnewGrAmns",
+"jar": "./jar/aowu.jar;md5;aaf6e104b096112ad8baf14b61108a6e",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+{
+"key":"Aiyf",
+"name":"愛壹帆",
+"type":3,
+"api":"csp_AiyfAmns",
+"jar": "./jar/aowu.jar;md5;aaf6e104b096112ad8baf14b61108a6e",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+{
+"key":"Hxq",
+"name":"韓劇",
+"type":3,
+"api":"csp_HxqAmns",
+"jar": "./jar/aowu.jar;md5;aaf6e104b096112ad8baf14b61108a6e",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+
 
 
 #待測區
@@ -2087,6 +2137,7 @@
 
 
 ]}
+
 
 
 
