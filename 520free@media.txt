@@ -2018,13 +2018,6 @@
 },
 
 {
-"name": "微風直播",
-"url": "http://breezy-audrie-zspace-7524863c.koyeb.app/sub?type=m3u&token=leifeng",
-"timeout": 30,
-"pass": true
-},
-
-{
 "name":"Gather-1",
 "type": 0,
 "url": "https://tv.iill.top/m3u/Gather",
@@ -2035,15 +2028,15 @@
 
 {"name": "Gather-2","url": "https://4gtv.iill.top/4gtv.m3u"},
 
+{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+
 {"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
 
 {"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
 
-{"name": "台湾TV","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"},
-
-{"name": "地方港台","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/地方港台"},
-
 {"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
+
+{"name": "地方直播2","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/地方直播2"},
 
 {"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
 
@@ -2057,12 +2050,16 @@
 
 {"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"},
 
-{"name":"TV543","url":"https://tv543.cc/4gtv1.m3u"},
 
 
+{"name":"TV543(暫失效)","url":"https://tv543.cc/4gtv1.m3u"},
 
-
-{"name": "海豚(暫失效)","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+{
+"name": "微風直播(暫失效)",
+"url": "http://breezy-audrie-zspace-7524863c.koyeb.app/sub?type=m3u&token=leifeng",
+"timeout": 30,
+"pass": true
+},
 
 {
 "name": "Free 4G直播(暫失效)",
@@ -2082,7 +2079,7 @@
 
 {"name":"Judy-Smart(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
 
-{"name":"YouTube直播","type":0,"playerType":2,"url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.m3u"},
+{"name":"YouTube直播","type":0,"playerType":2,"url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u"},
 
 {"name":"YouTube榜單","type":0,"playerType":2,"url":"http://yt.850930.xyz/playlist.txt"},
 
@@ -2090,6 +2087,7 @@
 
 
 ]}
+
 
 
 
