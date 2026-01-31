@@ -602,8 +602,8 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 
 🍓 Test-1,#genre#
 
-
-
+RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Discovery,http://iptv.izyi.vip:3588/apps/epg/live_proxy_epg.php?id=Discovery
 
 
 🍓 Test-1,#genre#
