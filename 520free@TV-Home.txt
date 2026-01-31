@@ -172,13 +172,6 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 TVBS歡樂,http://7.iptv543.com:50007/4gtv-4gtv068/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
-🍀 211-59-120,#genre#
-🍀 211-61-67,#genre#
-🍀 61,#genre#
-🍀 74,#genre#
-🍀 7-iptv543,#genre#
-🍀 dreamtv,#genre#
-🍀 Mix Source,#genre#
 人間衛視,http://211.23.114.106:9306/http/59.120.8.187:8081/hls/69/811/ch36.m3u8
 人間衛視,http://211.23.114.106:9306/http/61.67.128.137:8081/hls/69/811/ch36.m3u8
 人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
@@ -1190,6 +1183,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
