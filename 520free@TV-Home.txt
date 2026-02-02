@@ -433,10 +433,10 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 博斯網球,http://7.iptv543.com:50007/litv-xinchuang09/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 博斯網球,https://live.catvod.com/live.php?id=bositennis_twn
 博斯魅力,http://7.iptv543.com:50007/litv-xinchuang04/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://tw.護法.cloudns.ch:21096/mk.php?id=live1242
 智林體育,http://7.iptv543.com:50007/4gtv-4gtv101/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 智林體育,http://dreamtv.sylu.net:2082/play/4gtv-4gtv101/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -584,6 +584,7 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -594,6 +595,8 @@ TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSn
 中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
 中天新聞,http://7.iptv543.com:50007/4gtv-4gtv009/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中天新聞,https://live.catvod.com/live.php?id=ctiasia_twn
+中天新聞,https://live.catvod.com/live.php?id=ctinews
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://7.iptv543.com:50007/4gtv-4gtv074/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -608,6 +611,7 @@ TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSn
 民視新聞,http://7.iptv543.com:50007/litv-ftv13/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -615,6 +619,7 @@ TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSn
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森財經新聞,http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森財經新聞,https://live.catvod.com/live.php?id=ettvcaijing_twn
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 東森新聞,http://7.iptv543.com:50007/4gtv-4gtv152/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
@@ -626,15 +631,16 @@ TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSn
 非凡商業,http://7.iptv543.com:50007/4gtv-4gtv048/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
 非凡新聞,http://7.iptv543.com:50007/4gtv-4gtv010/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
 壹新聞,http://tw.护法.cloudns.ch:21096/mk.php?id=live1242
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -649,6 +655,7 @@ TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSn
 寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
 寰宇新聞,http://7.iptv543.com:50007/litv-xinchuang14/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -1254,6 +1261,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
