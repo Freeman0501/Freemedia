@@ -403,8 +403,7 @@ TVBS歡樂,http://106.107.234.186:50007/4gtv-4gtv068/index.m3u8?token=BccuJN0Bpd
 韓國娛樂,http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 鏡新聞,http://106.107.234.186:50007/4gtv-4gtv075/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 
-
-
+TEST,http://106.107.234.186:50007/4gtv-4gtv012/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 
 
 
@@ -459,14 +458,14 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 
 ANN News,https://live.catvod.com/live.php?id=ttvnews_twn
 Arirang TV,https://live.catvod.com/live.php?id=arirang_twn
-AXN Taiwan,https://live.catvod.com/live.php?id=axn_twn
+AXN,https://live.catvod.com/live.php?id=axn_twn
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
 DAZN體育1,https://live.catvod.com/live.php?id=dazn1_twn
 DAZN體育2,https://live.catvod.com/live.php?id=dazn2_twn
 DW德國之聲,https://live.catvod.com/live.php?id=dw_twn
 EYE戲劇,https://live.catvod.com/live.php?id=eyetvxiju_twn
 HBO-Hits,https://live.catvod.com/live.php?id=hbohits_twn
-Smart知識台https://live.catvod.com/live.php?id=eyetvtravel_twn
+Smart知識台,https://live.catvod.com/live.php?id=eyetvtravel_twn
 TVBS HD,https://live.catvod.com/live.php?id=tvbs
 TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 八大第一,https://live.catvod.com/live.php?id=badafirst
