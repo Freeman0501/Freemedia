@@ -3,7 +3,7 @@ parse=1
 Decoder=3
 timeout=30
 playerType=2
-ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2
+ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2
 
 
 
@@ -638,7 +638,6 @@ TVBS新聞,http://106.107.234.186:50007/media-live072/index.m3u8?token=uBF072o50
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://hls-pull-tvpublica.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lpr38ITf0CHqgjYOaOYV5JSmoP2.flv
-TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://106.107.234.186:50007/4gtv-live089/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -651,8 +650,6 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 中天新聞,http://hls-pull-tvpublica.speedws.com/live/ogVoQHd38ITfdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天新聞,http://live-broadcast-sh-service.vcinema.cn/live/cc389f36ae96443281cfda92b3b3db29.flv
-中天新聞,https://live.catvod.com/live.php?id=ctiasia_twn
-中天新聞,https://live.catvod.com/live.php?id=ctinews
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -673,7 +670,6 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 民視新聞,http://hls-pull-tvpublica.speedws.com/live/5CkUiYhpTaUWi38ITfVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
 民視新聞,http://live-broadcast-sh-service.vcinema.cn/live/3d84dc437578ee710deb1d58bd11468c.flv
-民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -681,7 +677,6 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 東森財經新聞,http://106.107.234.186:50007/4gtv-4gtv153/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
 東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-東森財經新聞,https://live.catvod.com/live.php?id=ettvcaijing_twn
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://106.107.234.186:50007/4gtv-4gtv152/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
@@ -696,7 +691,6 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
 非凡新聞,http://106.107.234.186:50007/4gtv-4gtv010/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
@@ -722,7 +716,6 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 寰宇新聞,http://hls-pull-tvpublica.speedws.com/live/3cDvCNn38ITfBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
 寰宇新聞,http://live-broadcast-sh-service.vcinema.cn/live/57cc03aded048718cd1fd6ef10f493fc.flv
-寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -1505,6 +1498,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
