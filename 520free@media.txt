@@ -1964,35 +1964,13 @@
 },
 
 {
-"name":"Judy-SportChannel",
-"url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/CricHD.m3u",
-"type":0,
-"timeout":10,
-"playerType":2
-},
-
-{
-"name":"Gather-1",
+"name":"Gather",
 "type": 0,
 "url": "https://tv.iill.top/m3u/Gather",
 "ua": "okhttp/3.8.1",
 "timeout": 30,
 "playerType": 2
 },
-
-{"name": "Gather-2","url": "https://4gtv.iill.top/4gtv.m3u"},
-
-{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
-
-{"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
-
-{"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
-
-{"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
-
-{"name": "地方直播2","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/地方直播2"},
-
-{"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
 
 {
 "name": "DreamTV",
@@ -2001,6 +1979,17 @@
 "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz，http://epg.52sw.top:668/?ch={name}&date={date}",
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
+
+
+{"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
+
+{"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
+
+{"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
+
+{"name": "IPTV-Pro","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro.txt"},
+
+{"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
 
 {"name": "日本頻道","url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"},
 
@@ -2016,6 +2005,8 @@
 "timeout": 30,
 "pass": true
 },
+
+{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
 
 {
 "name": "Free 4G直播(暫失效)",
@@ -2033,7 +2024,7 @@
 
 {"name":"Judy-4GTV(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"},
 
-{"name":"Judy-Smart(暫失效)","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
+{"name":"Judy-Smart(暫失效)","ua":"Mozilla/5.2","url":"https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u"},
 
 {"name":"YouTube直播","type":0,"playerType":2,"url":"https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u"},
 
@@ -2043,6 +2034,7 @@
 
 
 ]}
+
 
 
 
