@@ -1313,7 +1313,69 @@ VOA美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng
 鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
 
 
+🍀 iptv543-catvod,#genre#
 
+
+
+ANN News,https://live.catvod.com/live.php?id=ttvnews_twn
+Arirang TV,https://live.catvod.com/live.php?id=arirang_twn
+AXN,https://live.catvod.com/live.php?id=axn_twn
+CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
+DAZN體育1,https://live.catvod.com/live.php?id=dazn1_twn
+DAZN體育2,https://live.catvod.com/live.php?id=dazn2_twn
+DW德國之聲,https://live.catvod.com/live.php?id=dw_twn
+EYE戲劇,https://live.catvod.com/live.php?id=eyetvxiju_twn
+HBO Hits,https://live.catvod.com/live.php?id=hbohits_twn
+Smart知識台,https://live.catvod.com/live.php?id=eyetvtravel_twn
+TVBS HD,https://live.catvod.com/live.php?id=tvbs
+TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
+八大第一,https://live.catvod.com/live.php?id=badafirst
+三立都會,https://live.catvod.com/live.php?id=sanlidouhui_twn
+三立綜合,https://live.catvod.com/live.php?id=sanlizhonghe
+大愛,https://live.catvod.com/live.php?id=daai_twn
+大愛2台,https://live.catvod.com/live.php?id=daai2_twn
+中天娛樂,https://live.catvod.com/live.php?id=ctient
+中天新聞,https://live.catvod.com/live.php?id=ctiasia_twn
+中天新聞,https://live.catvod.com/live.php?id=ctinews
+中天綜合,https://live.catvod.com/live.php?id=ctizhonghe
+公視台語,https://live.catvod.com/live.php?id=ctv2_twn
+天映經典,https://live.catvod.com/live.php?id=ccm01
+天映頻道,https://live.catvod.com/live.php?id=ctv18_twn
+天映頻道,https://live.catvod.com/live.php?id=typd03
+台視,https://live.catvod.com/live.php?id=ttv_taiwan
+台視綜合,https://live.catvod.com/live.php?id=ttvzhonghe
+民視,https://live.catvod.com/live.php?id=ftvhd_taiwan
+民視台灣,https://live.catvod.com/live.php?id=ftvtaiwan_twn
+民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
+好消息2台,https://live.catvod.com/live.php?id=good2_twn
+好萊塢電影,https://live.catvod.com/live.php?id=hollywoodmovies_twn
+東森幼幼,https://live.catvod.com/live.php?id=yoyo_twn
+東森洋片,https://live.catvod.com/live.php?id=ettvwestern
+東森財經新聞,https://live.catvod.com/live.php?id=ettvcaijing_twn
+東森戲劇,https://live.catvod.com/live.php?id=ettvdrama
+非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
+美亞電影,https://live.catvod.com/live.php?id=meiyamovie_twn
+博斯高球II,https://live.catvod.com/live.php?id=bosigolf2_twn
+博斯無限,https://live.catvod.com/live.php?id=bosiunlimited_twn
+博斯運動I,https://live.catvod.com/live.php?id=bosisport1_twn
+博斯運動II,https://live.catvod.com/live.php?id=bosisport2_twn
+博斯網球,https://live.catvod.com/live.php?id=bositennis_twn
+華視,https://live.catvod.com/live.php?id=ctshd_twn
+愛爾達綜合,https://live.catvod.com/live.php?id=eltadrama_twn
+愛爾達體育1,https://live.catvod.com/live.php?id=eltasport1_twn
+愛爾達體育3,https://live.catvod.com/live.php?id=eltasport3_twn
+靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn
+鳳凰資訊,https://live.catvod.com/live.php?id=phoenixinfo_hd
+鳳凰衛視,https://live.catvod.com/live.php?id=phoenixtv_hd
+緯來育樂,https://live.catvod.com/live.php?id=videolandmax
+緯來電影,https://live.catvod.com/live.php?id=videolandmovie
+緯來綜合,https://live.catvod.com/live.php?id=videolandzonghe
+寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
+龍華日韓,https://live.catvod.com/live.php?id=lhrh01
+龍華偶像,https://live.catvod.com/live.php?id=lhox01
+龍華電影,https://live.catvod.com/live.php?id=lhdy01
+龍華戲劇,https://live.catvod.com/live.php?id=lhxj01
+龍華戲劇,https://live.catvod.com/live.php?id=lunghuaxiju_twn
 
 
 
