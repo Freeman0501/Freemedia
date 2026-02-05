@@ -1988,6 +1988,7 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
+{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
 
 {"name": "jackTV","url": "https://php.946985.filegear-sg.me/jackTV.m3u"},
 
@@ -2014,7 +2015,7 @@
 "pass": true
 },
 
-{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+
 
 {
 "name": "Free 4G直播(暫失效)",
@@ -2042,6 +2043,7 @@
 
 
 ]}
+
 
 
 
