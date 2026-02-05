@@ -737,12 +737,12 @@ TVBS新聞,http://hls-pull-tvpublica.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lpr
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -759,8 +759,6 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-
 
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
@@ -1498,6 +1496,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
