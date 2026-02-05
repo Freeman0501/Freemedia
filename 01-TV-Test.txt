@@ -58,9 +58,6 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 
-ELTa体壹,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport1
-ELTa体贰,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2
-ELTa体叁,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3
 
 
 
