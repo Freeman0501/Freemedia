@@ -1937,6 +1937,14 @@
 },
 
 {
+"name": "543",
+"url": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/TV543.txt",
+"ua": "Mozilla/5.2",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"歡樂看",
 "playerType":2,
 "type":0,
@@ -2034,6 +2042,7 @@
 
 
 ]}
+
 
 
 
