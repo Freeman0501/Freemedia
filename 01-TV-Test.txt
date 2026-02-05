@@ -18,7 +18,6 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -56,7 +55,7 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 三立話時代人物,https://www.youtube.com/watch?v=IsMymW2JAPI
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
-
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
 
 
