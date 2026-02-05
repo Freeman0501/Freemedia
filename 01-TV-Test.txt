@@ -13,12 +13,12 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
@@ -36,8 +36,6 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-
-
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
@@ -48,6 +46,17 @@ KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
+
+
+
+🦋 YouTubeLive,#genre#
+
+
+三立祝你健康,https://www.youtube.com/watch?v=uuCS098Ho54
+三立話時代人物,https://www.youtube.com/watch?v=IsMymW2JAPI
+公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
+
 
 
 
