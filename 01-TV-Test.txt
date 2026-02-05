@@ -51,11 +51,15 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 🦋 YouTubeLive,#genre#
 
 
+8視界,https://www.youtube.com/watch?v=RvSOIM620bA
 三立祝你健康,https://www.youtube.com/watch?v=uuCS098Ho54
 三立話時代人物,https://www.youtube.com/watch?v=IsMymW2JAPI
+大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+
 
 
 
@@ -93,11 +97,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
-8視界,https://www.youtube.com/watch?v=RvSOIM620bA
-大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
-大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 
