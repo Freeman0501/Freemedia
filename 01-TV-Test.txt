@@ -119,8 +119,6 @@ HBO,http://52xinghe.top/smmmt.php?id=hbohd_twn&h=52xinghe.top&p=7788
 HBO Hits,http://52xinghe.top/smmmt.php?id=hbohits_twn&h=52xinghe.top&p=7788
 HBO Signature,http://52xinghe.top/smmmt.php?id=hbosignature_twn&h=52xinghe.top&p=7788
 
-
-
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 Pet Club TV,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u
@@ -136,6 +134,21 @@ CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 美亞電影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亞電影,http://74.91.26.218:82/live/mydy.m3u8
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
+
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+龍華經典,http://cdn8.163189.xyz/163189/lhjd
+龍華卡通,http://cdn8.163189.xyz/163189/lhkt
+龍華偶像,http://cdn8.163189.xyz/163189/lhox
+龍華日韓,http://cdn8.163189.xyz/163189/lhrh
+龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
+天映頻道,http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
+天映經典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
+
+
+
+
+
+
 
 
 🍀 74,#genre#
