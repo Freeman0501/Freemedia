@@ -14,6 +14,7 @@ https://s.yam.com/nJqVO
 
 https://freeman0501.github.io/Freemedia/520free@storehouse.txt
 
+_______________________________________________________________________
 
 另外記得在"Free Movie"設定以下的規則...以獲取良好的觀看體驗
 
@@ -21,5 +22,6 @@ https://freeman0501.github.io/Freemedia/520free@storehouse.txt
 
 2.設定 - 個性設定 - AI去廣告（改成開啟）
 
+_______________________________________________________________________
 
 以上所有資源皆於github或網上收集,參考與學習使用,不得用於非法牟利
