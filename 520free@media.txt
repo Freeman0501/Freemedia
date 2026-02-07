@@ -19,7 +19,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/02/07",
+最終維護日 : 2026/02/08",
 
 "sites": [
 
@@ -1913,8 +1913,8 @@
 "timeout":30,
 "playerType":2,
 "ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz，http://epg.52sw.top:668/?ch={name}&date={date}",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+"logo":"https://epg.112114.xyz/logo/{name}.png",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
 },
 
 {
@@ -2001,6 +2001,7 @@
 
 
 ]}
+
 
 
 
