@@ -20,3 +20,6 @@ https://freeman0501.github.io/Freemedia/520free@storehouse.txt
 1.設定 - 彈幕設定 - 彈幕載入（改成關閉）
 
 2.設定 - 個性設定 - AI去廣告（改成開啟）
+
+
+以上所有資源皆於github或網上收集,參考與學習使用,不得用於非法牟利
