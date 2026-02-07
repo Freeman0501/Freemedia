@@ -173,6 +173,28 @@ CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 
 
+🍀 vrvwfasiyxst,#genre#
+
+三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+中視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+好消息,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+好消息2台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+東森購物一台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+東森購物二台,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
+倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+國會頻道1,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+國會頻道2,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+第1商業,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+華視,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+
+
 
 
 
