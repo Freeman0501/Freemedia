@@ -1937,6 +1937,13 @@
 },
 
 {
+"name": "SMT543",
+"url": "https://iptv543.com/smt1.m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"歡樂看",
 "playerType":2,
 "type":0,
@@ -2001,6 +2008,7 @@
 
 
 ]}
+
 
 
 
