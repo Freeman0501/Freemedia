@@ -848,19 +848,6 @@
 },
 
 {
-"key": "hipy_py_爱瓜APP",
-"name": "愛瓜3",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "爱瓜APP",
-"lang": "hipy",
-"ext": ""
-},
-
-{
 "key": "csp_XBiu考拉TV",
 "name": "考拉",
 "type": 3,
@@ -1287,11 +1274,20 @@
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/PTT短剧.json"
 },
 
-{"key":"星芽短剧","name":"星芽🦄短劇","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{
+"key":"星芽短剧",
+"name":"星芽1🦄短劇",
+"type":3,
+"api":"https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+"searchable":1,
+"changeable":1,
+"quickSearch":1,
+"filterable":1
+},
 
 {
 "key": "drpyS_星芽短剧",
-"name": "(DS)星芽🦄短劇",
+"name": "星芽2🦄短劇",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/星芽短剧?pwd=dzyyds",
 "searchable": 2,
@@ -1424,20 +1420,6 @@
 },
 
 {
-"key": "元咲动漫",
-"name": "動漫🦉元咲",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"ext": {
-"url": "http://cic.aicg.fun",
-"dataKey": "2c4h36abd96se10u",
-"dataIv": "2c4h36abd96se10u"
-}
-},
-
-{
 "key": "番薯动漫",
 "name": "動漫🦉番薯",
 "type": 3,
@@ -1507,22 +1489,6 @@
 },
 
 {
-"key": "py_漫屋_APP",
-"name": "動漫🦉漫屋",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://www.yunwuee.icu",
-"api" : "/api.php/getappapi",
-"datakey": "ygcnb9bdcmb8aeiw",
-"dataiv" : "ygcnb9bdcmb8aeiw"
-}
-},
-
-{
 "key": "py_方舟_APP",
 "name": "動漫🦉方舟",
 "type": 3,
@@ -1535,22 +1501,6 @@
 "api" : "/api.php/getappapi",
 "datakey": "e72cdfd629e8895d",
 "dataiv" : "e72cdfd629e8895d"
-}
-},
-
-{
-"key": "py_元咲_APP",
-"name": "動漫🦉元纓",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "http://cic.aicg.fun",
-"api" : "/api.php/getappapi",
-"datakey": "2c4h36abd96se10u",
-"dataiv" : "2c4h36abd96se10u"
 }
 },
 
@@ -2281,6 +2231,7 @@
 
 
 ]}
+
 
 
 
