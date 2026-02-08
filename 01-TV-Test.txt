@@ -144,7 +144,17 @@ CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 天映經典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
 
 
-
+EYE戲劇,http://142.171.248.206:5050/smart.php?id=eyetvxiju_twn&token=885252
+亞洲旅遊,http://142.171.248.206:5050/smart.php?id=asiatravel_twn&token=885252
+HBO,http://142.171.248.206:5050/smart.php?id=hbohd_twn&token=885252
+AXN,http://142.171.248.206:5050/smart.php?id=axn_twn&token=885252
+東森電影,http://142.171.248.206:5050/smart.php?id=ettvmovie&token=885252
+東森洋片,http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
+龍祥時代,http://142.171.248.206:5050/smart.php?id=lungxiangtime_twn&token=885252
+HBO Signature,http://142.171.248.206:5050/smart.php?id=Hbosignature&token=885252
+CI 罪案偵查頻道,http://142.171.248.206:5050/smart.php?id=ci_twn&token=885252
+BBC Earth,http://142.171.248.206:5050/smart.php?id=bbcearth_twn&token=885252
+BBC Lifestyle,http://142.171.248.206:5050/smart.php?id=bbclifestyle_twn&token=885252
 
 
 
