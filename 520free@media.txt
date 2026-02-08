@@ -333,6 +333,16 @@
 },
 
 {
+"key": "csp_123TV",
+"name": "123TV",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/123TV.py",
+"searchable": 1,
+"filterable": 0,
+"changeable": 0
+}, 
+
+{
 "key": "drpyS_永乐视频[优]",
 "name": "永乐视频",
 "type": 4,
@@ -2231,6 +2241,7 @@
 
 
 ]}
+
 
 
 
