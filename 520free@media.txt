@@ -347,11 +347,9 @@
 "ext": "https://tvbox.catvod.com/js/sg.js"
 },
 
-
-
-  {
+{
 "key": "drpyS_永乐视频[优]",
-"name": "永乐视频[优](DS)",
+"name": "永乐视频",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/永乐视频[优]?pwd=dzyyds",
 "searchable": 1,
@@ -361,10 +359,11 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "drpyS_小苹果[优]",
-"name": "小苹果[优](DS)",
+"name": "小苹果",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/小苹果[优]?pwd=dzyyds",
 "searchable": 1,
@@ -375,11 +374,11 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
+},
 
-    {
+{
 "key": "drpyS_55影视",
-"name": "55影视(DS)",
+"name": "55影视",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/55影视?pwd=dzyyds",
 "searchable": 2,
@@ -389,10 +388,11 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "drpyS_可视影院",
-"name": "可视影院(DS)",
+"name": "可视影院",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/可视影院?pwd=dzyyds",
 "searchable": 2,
@@ -402,10 +402,11 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "drpyS_枫林影视",
-"name": "枫林影视(DS)",
+"name": "枫林影视",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/枫林影视?pwd=dzyyds",
 "searchable": 2,
@@ -415,10 +416,11 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "drpyS_泥视频",
-"name": "泥视频(DS)",
+"name": "泥视频",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/泥视频?pwd=dzyyds",
 "searchable": 1,
@@ -429,10 +431,25 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-  {
+},
+
+{
+"key": "drpyS_非凡采集[采]",
+"name": "非凡采集",
+"type": 4,
+"api": "http://142.171.248.206:5757/api/非凡采集[采]?pwd=dzyyds",
+"searchable": 2,
+"filterable": 0,
+"quickSearch": 1,
+"title": "非凡采集[采]",
+"类型": "影视",
+"lang": "ds",
+"ext": ""
+},
+
+{
 "key": "catvod_月光影视",
-"name": "月光影视(cat)",
+"name": "月光影视",
 "type": 3,
 "api": "http://142.171.248.206:5757/cat/月光影视.js?pwd=dzyyds",
 "searchable": 1,
@@ -441,10 +458,11 @@
 "title": "月光影视",
 "lang": "cat",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "catvod_荐片",
-"name": "荐片(cat)",
+"name": "荐片",
 "type": 3,
 "api": "http://142.171.248.206:5757/cat/荐片.js?pwd=dzyyds",
 "searchable": 1,
@@ -453,10 +471,11 @@
 "title": "荐片",
 "lang": "cat",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "hipy_py_一起看[Ayq]",
-"name": "一起看[Ayq](hipy)",
+"name": "一起看",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -474,10 +493,11 @@
   "version": "1.3.10",
   "versionCode": 1104
 }
-    },
-    {
+},
+
+{
 "key": "hipy_py_橘子TV[Ayq]",
-"name": "橘子TV[Ayq](hipy)",
+"name": "橘子TV",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -495,10 +515,11 @@
   "version": "1.0.1",
   "versionCode": 1000
 }
-    },
-    {
+},
+
+{
 "key": "hipy_py_新浪资源",
-"name": "新浪资源(hipy)",
+"name": "新浪资源",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/新浪资源?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -507,10 +528,11 @@
 "title": "新浪资源",
 "lang": "hipy",
 "ext": ""
-    },
-    {
+},
+
+{
 "key": "hipy_py_新韩剧网",
-"name": "新韩剧网(hipy)",
+"name": "新韩剧网",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/新韩剧网?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -519,22 +541,11 @@
 "title": "新韩剧网",
 "lang": "hipy",
 "ext": ""
-    },
-    {
-"key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "爱瓜APP",
-"lang": "hipy",
-"ext": ""
-    },
-    {
+},
+
+{
 "key": "hipy_py_独播库",
-"name": "独播库(hipy)",
+"name": "独播库",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/独播库?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -543,11 +554,11 @@
 "title": "独播库",
 "lang": "hipy",
 "ext": ""
-    },
+},
 
-  {
+{
 "key": "hipy_py_瓜子",
-"name": "瓜子(hipy)",
+"name": "瓜子",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/瓜子?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -556,37 +567,11 @@
 "title": "瓜子",
 "lang": "hipy",
 "ext": ""
-    },
-    {
-"key": "drpyS_小苹果[优]",
-"name": "小苹果[优](DS)",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/小苹果[优]?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 0,
-"title": "小苹果[优]",
-"author": "EylinSir",
-"类型": "影视",
-"lang": "ds",
-"ext": ""
-    },
-    {
-"key": "drpyS_永乐视频[优]",
-"name": "永乐视频[优](DS)",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/永乐视频[优]?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "永乐视频[优]",
-"类型": "影视",
-"lang": "ds",
-"ext": ""
-    },
-    {
+},
+
+{
 "key": "drpyS_荐片[优]",
-"name": "荐片[优](DS)",
+"name": "荐片",
 "type": 4,
 "api": "http://142.171.248.206:5757/api/荐片[优]?pwd=dzyyds",
 "searchable": 1,
@@ -596,25 +581,7 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-    },
-    {
-"key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "爱瓜APP",
-"lang": "hipy",
-"ext": ""
-    },
-
-
-
-
-
-
+},
 
 {
 "key": "bili",
@@ -907,6 +874,19 @@
 "quickSearch": 1,
 "filterable": 0,
 "changeable": 1
+},
+
+{
+"key": "hipy_py_爱瓜APP",
+"name": "愛瓜3",
+"type": 4,
+"api": "http://142.171.248.206:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "爱瓜APP",
+"lang": "hipy",
+"ext": ""
 },
 
 {
@@ -2316,6 +2296,7 @@
 
 
 ]}
+
 
 
 
