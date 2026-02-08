@@ -29,10 +29,13 @@ AMC電影台,http://211.23.114.106:9359/http/59.120.8.187:8092/upload/115/AMC_TS
 AMC電影台,http://211.23.114.106:9359/http/61.67.128.137:8092/upload/115/AMC_TS-1111_1.m3u8
 Arirang TV,http://106.107.237.222:50007/4gtv-4gtv079/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+AXN,http://142.171.248.206:5050/smart.php?id=axn_twn&token=885252
 AXN,http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
 AXN,http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
 AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
+BBC Earth,http://142.171.248.206:5050/smart.php?id=bbcearth_twn&token=885252
 BBC Earth,http://52xinghe.top/smmmt.php?id=bbcearth_twn&h=52xinghe.top&p=7788
+BBC Lifestyle,http://142.171.248.206:5050/smart.php?id=bbclifestyle_twn&token=885252
 BBC Lifestyle,http://52xinghe.top/smmmt.php?id=bbclifestyle_twn&h=52xinghe.top&p=7788
 BLOOMBERG TV,http://211.23.114.106:9350/http/59.120.8.187:8078/hls/43/80/bloomber.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
@@ -43,6 +46,7 @@ CCTV4 中文國際(美洲),https://www.youtube.com/watch?v=f6Kq93wnaZ8
 CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CI 罪案偵查頻道,http://106.107.237.222:50007/4gtv-live027/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+CI 罪案偵查頻道,http://142.171.248.206:5050/smart.php?id=ci_twn&token=885252
 CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
 Cinema World,http://106.107.237.222:50007/4gtv-live069/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 CINEMAX,http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
@@ -69,6 +73,7 @@ ELTV生活英語,http://106.107.237.222:50007/4gtv-live132/index.m3u8?token=lOYs
 ELTV生活英語,http://106.107.237.222:50007/litv-xinchuang20/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 ELTV生活英語,http://106.107.237.222:50007/of-litv-xinchuang20/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 ELTV生活英語,http://106.107.237.222:5051/litv-xinchuang20/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+EYE戲劇,http://142.171.248.206:5050/smart.php?id=eyetvxiju_twn&token=885252
 FRANCE 24,http://106.107.237.222:50007/4gtv-live146/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 FUN 4K探索娛樂,http://106.107.237.222:50007/4gtv-live011/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -77,7 +82,9 @@ GINX Esports TV,http://106.107.237.222:50007/4gtv-4gtv053/index.m3u8?token=lOYsR
 Global Trekker,http://106.107.237.222:50007/4gtv-live112/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 HBO Family,http://52xinghe.top/smmmt.php?id=fyi_twn&h=52xinghe.top&p=7788
 HBO Hits,http://52xinghe.top/smmmt.php?id=hbohits_twn&h=52xinghe.top&p=7788
+HBO Signature,http://142.171.248.206:5050/smart.php?id=Hbosignature&token=885252
 HBO Signature,http://52xinghe.top/smmmt.php?id=hbosignature_twn&h=52xinghe.top&p=7788
+HBO,http://142.171.248.206:5050/smart.php?id=hbohd_twn&token=885252
 HBO,http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
@@ -280,6 +287,7 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 車迷TV,http://106.107.237.222:50007/4gtv-live201/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 亞洲旅遊,http://106.107.237.222:50007/4gtv-4gtv076/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 亞洲旅遊,http://106.107.237.222:5051/4gtv-4gtv076/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+亞洲旅遊,http://142.171.248.206:5050/smart.php?id=asiatravel_twn&token=885252
 亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
@@ -291,6 +299,7 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 東森幼幼,http://211.23.114.106:8551/http/59.120.8.187:8081/hls/63/805/ch09.m3u8
 東森幼幼,http://211.23.114.106:8551/http/61.67.128.137:8081/hls/63/805/ch09.m3u8
 東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
+東森洋片,http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
 東森洋片,http://52xinghe.top/smmmt.php?id=ettvwestern&h=52xinghe.top&p=7788
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,http://106.107.237.222:50007/4gtv-4gtv153/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -306,6 +315,7 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 東森新聞,http://106.107.237.222:50007/4gtv-4gtv152/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森電影,http://142.171.248.206:5050/smart.php?id=ettvmovie&token=885252
 東森綜合,http://211.23.114.106:8535/http/59.120.8.187:8081/hls/63/805/ch12.m3u8
 東森綜合,http://211.23.114.106:8535/http/61.67.128.137:8081/hls/63/805/ch12.m3u8
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
@@ -446,6 +456,7 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 歷史頻道,http://106.107.237.222:50007/4gtv-live026/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+龍祥時代,http://142.171.248.206:5050/smart.php?id=lungxiangtime_twn&token=885252
 龍華日韓,http://106.107.237.222:50007/litv-xinchuang11/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 龍華日韓,http://106.107.237.222:5051/litv-xinchuang11/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
 龍華日韓,http://cdn8.163189.xyz/163189/lhrh
@@ -472,6 +483,7 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 鏡新聞,http://211.23.114.106:8545/http/59.120.8.187:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,http://211.23.114.106:8545/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
 
 
 
@@ -1247,6 +1259,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
