@@ -2207,6 +2207,17 @@
 },
 
 {
+"name": "电视家",
+"url": "https://down.nigx.cn/dsj.zzong6599.workers.dev/",
+"header": {
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+"Referer": "",
+"cookie": ""
+},
+"epg": "https://iptv.crestekk.cn/epgphp/index.php"
+},
+
+{
 "name": "DreamTV",
 "url": "http://dreamtv.sylu.net:2082/m3u8view?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw",
 "playerType": 2,
@@ -2242,6 +2253,7 @@
 
 
 ]}
+
 
 
 
