@@ -59,7 +59,7 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
+東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 
 
 
@@ -98,7 +98,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
-東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
+
 
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
@@ -125,14 +125,11 @@ Pet Club TV,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m
 非凡商業,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
 
 愛奇藝,http://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
-天映頻道,http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
-天映經典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u
 
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-淘電影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-美亞電影,http://iptv.4666888.xyz/iptv2A.php?id=30
-美亞電影,http://74.91.26.218:82/live/mydy.m3u8
+
+
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 
 龍華電影,http://cdn8.163189.xyz/163189/lhdy
@@ -140,8 +137,7 @@ CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 龍華偶像,http://cdn8.163189.xyz/163189/lhox
 龍華日韓,http://cdn8.163189.xyz/163189/lhrh
 龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
-天映頻道,http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
-天映經典,http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
+
 
 
 EYE戲劇,http://142.171.248.206:5050/smart.php?id=eyetvxiju_twn&token=885252
@@ -597,57 +593,28 @@ TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
 
 🍓 電視家,#genre#
 
-BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+Concerto TV,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 Discovery,http://111.59.139.82:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0失效
-ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
-Love Nature,http://tl.061833.xyz/tl/lovenaturehd
-MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
-NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
-NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
-NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
-NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
-NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
-PopC電影,http://tl.061833.xyz/tl/popc
 ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50#http://tl.061833.xyz/tl/rockaction
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
-TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-TVBS,http://rihou.cc:555/tv/[Hv]tvbS閩南
-TVBS新聞,http://rihou.cc:555/tv/[FY]tvbS新聞
+TRACE URBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
-小公視,http://74.91.26.218:82/live/ptsse.m3u8
-中天新聞,http://hls-pull-usmanriaz.speedws.com/live/中天新聞台.flv
-中天新聞http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
-中視,rtmp://f13h.mine.nu/sat/tv091
-中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,http://rihou.cc:555/tv/[Hk]中視新聞
-中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
 公視,http://211.72.174.95:8116/0.ts$原生解碼最佳
-公視台語,http://74.91.26.218:82/live/ptsty.m3u8
 天映經典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映頻道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 台視,http://211.72.174.95:8112/0.ts$原生解碼最佳
-台視,rtmp://f13h.mine.nu/sat/tv071
-台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
 台視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
 民視,http://211.72.174.95:8115/0.ts$原生解碼最佳
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
-民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視臺灣,http://74.91.26.218:82/live/ftvtw.m3u8
 民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森新聞,http://rihou.cc:555/tv/[Hk]東森新聞
 東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
 東森綜合,http://111.59.139.82:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -655,9 +622,6 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 美亞電影(港),http://tl.061833.xyz/tl/null-5
 動物星球,http://111.59.139.82:8181/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0失效
 華視,http://211.72.174.95:8114/0.ts$原生解碼最佳
-華視,rtmp://f13h.mine.nu/sat/tv111
-華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
-華視體育,http://74.91.26.218:82/live/ctsjy.m3u8
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 華數影院1,http://123.115.206.166:7151/hls/44/index.m3u8
 華數影院2,http://123.115.206.166:7151/hls/45/index.m3u8
@@ -668,9 +632,6 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 新視覺HD,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
 寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新聞
 龍華日韓,http://cdn8.163189.xyz/163189/lhrh
 龍華卡通,http://cdn8.163189.xyz/163189/lhkt
