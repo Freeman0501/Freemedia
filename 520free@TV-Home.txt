@@ -1151,6 +1151,10 @@ lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 Morning Vibes 2025,https://www.youtube.com/watch?v=ZHkkgIA0Dy4
 Music Radio 1,https://www.youtube.com/watch?v=FVLNVecHzvI
+NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 Old Beautiful Soft Rock,https://www.youtube.com/watch?v=ZTqt3CYehuE
 Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
 Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
@@ -1259,6 +1263,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
 
 
 
