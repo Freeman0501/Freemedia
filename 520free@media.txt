@@ -25,7 +25,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260212 👉 建議更新至 Free Movie 3.6.8 版 >",
+"name": "🌸Free Movie < 20260212 👉 建議更新至 Free Movie 3.6.9 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -1443,23 +1443,6 @@
 }
 },
 
-
-{
-"key": "py_咕咕_APP",
-"name": "動漫🦉咕咕1",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://www.gugu3.com",
-"api" : "/api.php/getappapi",
-"datakey": "nKfZ8KX6JTNWRzTD",
-"dataiv" : "nKfZ8KX6JTNWRzTD"
-}
-},
-
 {
 "key": "米饭",
 "name": "動漫🦉米飯",
@@ -1568,26 +1551,6 @@
 "分类": " 中国动漫$1#日本动漫$2#欧美动漫$3#其他动漫$4#动画电影$5",
 "劇情": "玄幻&科幻&武侠&冒险&战斗&搞笑&恋爱&魔幻&竞技&热血&治愈&励志&机战&奇幻&悬疑&日常&校园&真人&推理&历史&经典&美食&偶像"
 }
-},
-
-{
-"key": "魔都",
-"name": "動漫🦉魔都1",
-"type": 0,
-"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
-"searchable": 1,
-"changeable": 1,
-"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
-},
-
-{
-"key": "魔都资源",
-"name": "動漫🦉魔都2",
-"type": 1,
-"api": "https://caiji.moduapi.cc/api.php/provide/vod",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
-"searchable": 1,
-"changeable": 1
 },
 
 {
@@ -2215,6 +2178,7 @@
 
 
 ]}
+
 
 
 
