@@ -50,6 +50,42 @@
 },
 
 
+{
+"key": "py_椰子_APP",
+"name": "動漫🦉椰子",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/appfox.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {"host": "http://nico.oiio.fun", "ver": "2"}
+},
+
+{
+"key": "魔都",
+"name": "動漫🦉魔都1",
+"type": 0,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+"searchable": 1,
+"changeable": 1,
+"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
+},
+
+{
+"key": "魔都资源",
+"name": "動漫🦉魔都2",
+"type": 1,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
+"searchable": 1,
+"changeable": 1
+},
+
+
+
+
+
+
 
 
 
@@ -118,6 +154,7 @@
 
 
 ]}
+
 
 
 
