@@ -6,7 +6,7 @@
 
 
 #"spider":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-#"spider":"http://tv543.cc/catvod.jar",
+#"spider":"https://tvbox.catvod.com/catvod.jar",
 
 
 
@@ -698,7 +698,7 @@
 "name": "黑狐",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "http://tv543.cc/",
+"jar": "https://tvbox.catvod.com/catvod.jar",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -710,7 +710,7 @@
 "name": "奇優",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "http://tv543.cc/",
+"jar": "https://tvbox.catvod.com/catvod.jar",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -722,7 +722,7 @@
 "name": "片吧",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "http://tv543.cc/",
+"jar": "https://tvbox.catvod.com/catvod.jar",
 "searchable": 1,
 "quickSearch": 1,
 "ext": "https://tvbox.catvod.com/js/pianba.json"
@@ -2253,6 +2253,7 @@
 
 
 ]}
+
 
 
 
