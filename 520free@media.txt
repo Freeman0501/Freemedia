@@ -1130,20 +1130,6 @@
 #待測區
 
 
-{
-"key":"360",
-"name": "360資源",
-"type": 1,"api": "https://360zy.com/api.php/provide/vod",
-"searchable": 1,
-"changeable": 1,
-"categories": [
-"国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","泰国剧","海外剧",
-"科幻片","动作片","喜剧片","爱情片","犯罪片","恐怖片","剧情片","战争片","灾难片","惊悚片","悬疑片","西部片","家庭篇","纪录片","历史片","古装片","动画片",
-"日韩动漫","欧美动漫","国产动漫","港台动漫",
-"日韩综艺","欧美综艺","港台综艺","大陆综艺","欧美综艺","日韩综艺",
-"未分类","短片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭"
-]
-},
 
 
 
@@ -1457,6 +1443,23 @@
 }
 },
 
+
+{
+"key": "py_咕咕_APP",
+"name": "動漫🦉咕咕1",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"host": "https://www.gugu3.com",
+"api" : "/api.php/getappapi",
+"datakey": "nKfZ8KX6JTNWRzTD",
+"dataiv" : "nKfZ8KX6JTNWRzTD"
+}
+},
+
 {
 "key": "米饭",
 "name": "動漫🦉米飯",
@@ -1469,17 +1472,6 @@
 "dataKey": "GETMIFUNGEIMIFUN",
 "dataIv": "GETMIFUNGEIMIFUN"
 }
-},
-
-{
-"key": "py_椰子_APP",
-"name": "動漫🦉椰子",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/appfox.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {"host": "http://nico.oiio.fun", "ver": "2"}
 },
 
 {
@@ -1547,36 +1539,6 @@
 },
 
 {
-"key": "py_咕咕_APP",
-"name": "動漫🦉咕咕",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://www.gugu3.com",
-"api" : "/api.php/getappapi",
-"datakey": "nKfZ8KX6JTNWRzTD",
-"dataiv" : "nKfZ8KX6JTNWRzTD"
-}
-},
-
-{
-"key": "漫国動漫",
-"name": "動漫🦉漫國",
-"type": 3,
-"api": "csp_AppSy",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-"siteKey": "rectangleadsadxa",
-"listKey": "aassddwwxxllsx1x",
-"parsesKey": "aassddwwxxllsx1x"
-}
-},
-
-{
 "key": "巴士动漫",
 "name": "動漫🦉巴士",
 "type": 3,
@@ -1585,7 +1547,7 @@
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/巴士动漫.json"
  },
 
- {
+{
 "key": "csp_天天動漫",
 "name": "動漫🦉天天",
 "type": 3,
@@ -2253,6 +2215,7 @@
 
 
 ]}
+
 
 
 
