@@ -2088,7 +2088,7 @@
 
 {
 "name": "TV543",
-"url": "http://66.103.204.107/list.php",
+"url": "http://iptv543.com/543.m3u",
 "ua": "Mozilla/5.2",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -2178,6 +2178,7 @@
 
 
 ]}
+
 
 
 
