@@ -1130,6 +1130,17 @@
 #待測區
 
 
+{
+"key": "麻雀",
+"name": "麻雀",
+"type": 4,
+"api": "http://115.191.55.109:8080/video/qqqys?token=47f318660fa5ca46",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/mi-0213.jar",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1
+},
 
 
 
@@ -2176,6 +2187,7 @@
 
 
 ]}
+
 
 
 
