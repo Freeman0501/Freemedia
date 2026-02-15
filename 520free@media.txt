@@ -2087,7 +2087,7 @@
 },
 
 {
-"name": "60-LiveTV",
+"name": "MQiTV",
 "type": 3,
 "jar": "https://5413.kstore.space/DM/jar/fm.jar",
 "api": "csp_MQiTV",
@@ -2176,6 +2176,7 @@
 
 
 ]}
+
 
 
 
