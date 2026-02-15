@@ -1138,7 +1138,6 @@ ELTV生活英語台,http://49.213.188.67:50007/4gtv-live132/index.m3u8?token=zhD
 ELTV生活英語台,http://49.213.188.67:50007/of-litv-xinchuang20/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 FRANCE24 英文台,http://49.213.188.67:50007/4gtv-live146/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 fun探索娛樂台,http://49.213.188.67:50007/4gtv-live011/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-GagaOOLala 精選LGBTQ+好劇,http://49.213.188.67:50007/4gtv-live139/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 GINX Esports TV,http://49.213.188.67:50007/4gtv-4gtv053/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 Global Trekker,http://49.213.188.67:50007/4gtv-live112/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 HITS頻道,http://49.213.188.67:50007/4gtv-live620/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
@@ -1337,30 +1336,29 @@ TVBS 歡樂台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 🦄 YouTube影視,#genre#
 
 
-Love Nature 1,https://www.youtube.com/watch?v=daqB3i9WYIY
-Love Nature 2,https://www.youtube.com/watch?v=vBnErz43N1A
+Love Nature,https://www.youtube.com/watch?v=vBnErz43N1A
 
 
 International Space Station,https://www.youtube.com/watch?v=0FBiyFpV__g
-NASA Earth From Space,https://www.youtube.com/watch?v=QviXe8xvA50
-
+NASA Earth From Space,https://www.youtube.com/watch?v=vytmBNhc9ig
+Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
 
 中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
-新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
+新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
 蠟筆小新,https://www.youtube.com/watch?v=ENnjj7jQ23g
 蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU
 
 
 獵人,https://www.youtube.com/watch?v=UVouDle2jHc
-戀上換裝娃娃,https://www.youtube.com/watch?v=7WD9k5BT5zU
+間諜家家酒,https://www.youtube.com/watch?v=hdgvUXazd1w
+BanG Dream,https://www.youtube.com/watch?v=iZ44tIBbfH0
 JOJO的奇妙冒險,https://www.youtube.com/watch?v=4_JnTQCn9Kg
 葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs
 進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
 輝夜姬想讓人告白系列,https://www.youtube.com/watch?v=wEkaLDlGyIU
 
 
-搖曳露營,https://www.youtube.com/watch?v=NRxuI4TULWs
 遊戲王,https://www.youtube.com/watch?v=SHngPS2mRac
 
 
@@ -1368,23 +1366,25 @@ TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
 TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
 TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
-豆豆先生,https://www.youtube.com/watch?v=dmSxr1TD8GQ
+豆豆先生,https://www.youtube.com/watch?v=Pyj8Tat0Sf4
 
 豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
 
 萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
 
-超級冰冰Show,https://www.youtube.com/watch?v=3bAc9rGxNPg
+超級冰冰Show,https://www.youtube.com/watch?v=ON6bMdKXBC4
 
-11點熱吵店,https://www.youtube.com/watch?v=HIE1r3ELkbo
+11點熱吵店,https://www.youtube.com/watch?v=xAy9o8uGjso
 
-台視時光機,https://www.youtube.com/watch?v=MlpGNrF88FI
-神機妙算劉伯溫,https://www.youtube.com/watch?v=fH2POwXR-xw
-星星知我心,https://www.youtube.com/watch?v=2z1QW5OptRE
+一秒回到青春時代,https://www.youtube.com/watch?v=odQOO4j594c
+神機妙算劉伯溫,https://www.youtube.com/watch?v=sI7skw-v-ok
 流氓教授,https://www.youtube.com/watch?v=nt6SoW6D5i8
+風流才子唐伯虎,https://www.youtube.com/watch?v=cctPGjBUu98
+華語民歌傳奇,https://www.youtube.com/watch?v=0BxDAYfAV3o
 精彩類戲劇,https://www.youtube.com/watch?v=MlpGNrF88FI
 
 
+熱門短劇,https://www.youtube.com/watch?v=1u5qooKaACs
 九重紫,https://www.youtube.com/watch?v=ESCvRS78MBk
 神鵰俠侶2,https://www.youtube.com/watch?v=OyTd6lXP32Y
 神鵰俠侶3,https://www.youtube.com/watch?v=7syefcmbpFE
@@ -1401,17 +1401,18 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
 
 台灣龍捲風,https://www.youtube.com/watch?v=LywmGVSqUxg
-世間情,https://www.youtube.com/watch?v=PEK0rwBXl2M
-阿爸的願望,https://www.youtube.com/watch?v=fsykZDGND_o
+天道,https://www.youtube.com/watch?v=hkufBJcd8ps
+炮仔聲,https://www.youtube.com/watch?v=GBrN5vzJwNc
 一家團圓,https://www.youtube.com/watch?v=FuRbrw9lliI
 天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
 
-包青天,https://www.youtube.com/watch?v=_AKIOe2Sh_g
+包青天,https://www.youtube.com/watch?v=2FNoip54KcE
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
+羋月傳,https://www.youtube.com/watch?v=Jn8ulwzkehE
+後宮甄嬛傳,https://www.youtube.com/watch?v=_GL9HgmaFfU
 微微一笑很傾城,https://www.youtube.com/watch?v=o1_-ArZ32Dw
-知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=Kalt-NQXFMU
-琅琊榜,https://www.youtube.com/watch?v=H4X-DA9BMR0
+知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
 
 
 飛龍在天,https://www.youtube.com/watch?v=Nfwr1WBXt9I
@@ -1419,17 +1420,18 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 豬哥秀直播馬拉松,https://www.youtube.com/watch?v=DFqBPb7EW5g
 親戚不計較,https://www.youtube.com/watch?v=GjXBXz5dl6E
 
-飢餓遊戲,https://www.youtube.com/watch?v=wiwPHyJj6pI
+飢餓遊戲,https://www.youtube.com/watch?v=dKCewm0l1nM
 飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
+飢餓遊戲-峮峮點閱人氣榜,https://www.youtube.com/watch?v=m58hzaOCnmQ
 
-愛情魔髮師,https://www.youtube.com/watch?v=ih93UlH3Q_k
-浮士德的微笑,https://www.youtube.com/watch?v=6CvUw2EAdG0
+未來媽媽+狼王子,https://www.youtube.com/watch?v=Os5orue62go
+真愛趁現在+真愛黑白配,https://www.youtube.com/watch?v=LifgWpNjkdI
 
 終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
 
 綜藝玩很大,https://www.youtube.com/watch?v=uehKhWmttVE
 
-戲說台灣,https://www.youtube.com/watch?v=rfSblpvy_rY
+戲說台灣,https://www.youtube.com/watch?v=JPJFLo9r1gA
 
 翻牆的記憶,https://www.youtube.com/watch?v=Ok_6gWYl_-Y
 
@@ -1545,7 +1547,6 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 不丹是教室,video://https://www.faintv.com/channel/21646
 死屍日,video://https://www.faintv.com/channel/17686
 無間行者之生死潛行,video://http://www.faintv.com/channel/16501
-阿虎,video://http://www.faintv.com/channel/19230
 寒戰2,video://http://www.faintv.com/channel/16473
 三國殺幻,video://https://www.faintv.com/channel/21642
 變種人幽靈戰姬,video://https://www.faintv.com/channel/21648
@@ -1571,11 +1572,6 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 如常,video://https://www.faintv.com/channel/17895
 美女郊遊遊,video://http://www.faintv.com/channel/19121
 臺灣文西Only You,video://https://www.faintv.com/channel/19409
-
-
-
-
-
 
 
 
@@ -1901,6 +1897,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
