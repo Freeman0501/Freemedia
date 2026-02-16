@@ -178,6 +178,7 @@ TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3
 🍀 litv.go,#genre#
 
 
+
 AMC電影台,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv017
 Arirang TV,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv079
 CI 罪案偵查頻道,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live027
@@ -194,7 +195,6 @@ FRANCE 24,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live146
 FUN 4K探索娛樂,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live011
 GINX Esports TV,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv053
 Global Trekker,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live112
-Globetrotter,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv016
 HITS,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live620
 INULTRA,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live096
 Lifetime,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live029
@@ -319,6 +319,7 @@ VOA美國之音,http://litv.go-iptv.ggff.net/litv.php?id=litv-ftv03
 鏡新聞,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv075
 霹靂布袋戲,http://litv.go-iptv.ggff.net/litv.php?id=4gtv-live145
 歡樂綜合台,http://litv.go-iptv.ggff.net/litv.php?id=litv-fast1223
+
 
 
 
