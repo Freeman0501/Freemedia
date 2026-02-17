@@ -226,14 +226,14 @@ TRACE Sport Stars,http://106.107.234.186:50007/4gtv-4gtv077/index.m3u8?token=C2s
 TRACE URBAN,http://106.107.234.186:50007/4gtv-4gtv082/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 TRACE URBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 TV5MONDE Style,http://106.107.234.186:50007/4gtv-live122/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+TVBS HD,http://106.107.234.186:50007/4gtv-4gtv073/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+TVBS HD,http://106.107.234.186:50007/media-live073/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 TVBS HD,http://211.23.114.106:9344/http/59.120.8.187:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://211.23.114.106:9344/http/61.67.128.137:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://iptv543.com/smt.php?id=tvbs
 TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS,http://106.107.234.186:50007/4gtv-4gtv073/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
-TVBS,http://106.107.234.186:50007/media-live073/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -1731,6 +1731,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
