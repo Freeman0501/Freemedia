@@ -869,11 +869,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 新視覺,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-龍華日韓,http://cdn8.163189.xyz/163189/lhrh
-龍華偶像,http://cdn8.163189.xyz/163189/lhox
-龍華經典,http://cdn8.163189.xyz/163189/lhjd
-龍華電影,http://cdn8.163189.xyz/163189/lhdy
-龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 
