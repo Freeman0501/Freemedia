@@ -19,7 +19,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/02/16 萬馬奔騰迎新春",
+最終維護日 : 2026/02/19 萬馬奔騰迎新春",
 
 "sites": [
 
@@ -1011,24 +1011,6 @@
 },
 
 {
-"key": "紫金",
-"name": "紫金",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://www.zjcvod.com",
-"site": "",
-"dataKey": "ab4e9a421675f14b",
-"dataIv": "ab4e9a421675f14b",
-"deviceId": "",
-"version": "",
-"ua": ""
-}
-},
-
-{
 "key": "py_文才",
 "name": "文才",
 "type": 3,
@@ -1323,18 +1305,6 @@
 
 
 #動漫區
-
-{
-"key": "Dm84",
-"name": "動漫🦉巴士",
-"type": 3,
-"api": "csp_Dm84",
-"jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt",
-"playerType": 2,
-"searchable": 1,
-"quickSearch":1,
-"changeable": 1
-},
 
 {"key": "csp_AG動漫",
 "name": "動漫🦉AG動漫",
@@ -2187,6 +2157,7 @@
 
 
 ]}
+
 
 
 
