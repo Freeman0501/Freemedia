@@ -2144,6 +2144,19 @@
 {"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"},
 
 {
+"name"  : "MQi-TV",
+"spider": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/MQi-TV.jar",
+"jar"   : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/MQi-TV.jar",
+"api"   : "csp_MQiTV",
+"epg"   : "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei",
+"logo"  : "https://epg.112114.xyz/logo/{name}.png",
+"playerType":2,
+"ext": "http://220.134.196.147:1888"
+},
+
+
+
+{
 "name":"YouTube榜單",
 "url":"http://yt.850930.xyz/playlist.txt",
 "playerType":2
@@ -2157,6 +2170,7 @@
 
 
 ]}
+
 
 
 
