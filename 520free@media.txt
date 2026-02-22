@@ -2117,9 +2117,11 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
-{"name": "IPTV-Pro","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro.txt"},
-
-{"name": "海豚","url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0"}, 
+{
+"name": "海豚",
+"url": "http://hufa.zabc.net:8080/iptvpro.txt","ua":"okhttp/5.1.0",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+}, 
 
 {"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
 
@@ -2152,6 +2154,7 @@
 
 
 ]}
+
 
 
 
