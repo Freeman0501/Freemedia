@@ -2070,7 +2070,7 @@
 "type": 3,
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/FM-MQi-TV.jar",
 "api": "csp_MQiTV",
-"ext": [{"name": "MQi-TV","url": "http://220.134.196.147:1888"}]
+"ext": [{"name": "MQi-TV","url": "http://220.134.196.147:1888"}],
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
@@ -2151,6 +2151,7 @@
 
 
 ]}
+
 
 
 
