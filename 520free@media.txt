@@ -2081,13 +2081,6 @@
 },
 
 {
-"name": "543-SMT",
-"url": "https://iptv543.com/smt1.m3u",
-"ua":"okhttp/4.12.0",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-},
-
-{
 "name": "YouTubeLive",
 "ua": "okhttp/3.0",
 "playerType": 2,
@@ -2113,14 +2106,14 @@
 "Referer": "",
 "cookie": ""
 },
-"epg": "https://iptv.crestekk.cn/epgphp/index.php"
+"epg": "https://iptv.crestekk.cn/epgphp/index.php",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
 {
 "name": "DreamTV",
 "url": "http://dreamtv.sylu.net:2082/m3u8view?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw",
 "playerType": 2,
-"epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz，http://epg.52sw.top:668/?ch={name}&date={date}",
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
@@ -2133,6 +2126,13 @@
 {"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
 
 {"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
+
+{
+"name": "543-SMT(失效中)",
+"url": "https://iptv543.com/smt1.m3u",
+"ua":"okhttp/4.12.0",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+},
 
 {"name": "日本頻道","url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"},
 
@@ -2152,6 +2152,7 @@
 
 
 ]}
+
 
 
 
