@@ -11,9 +11,7 @@
 
 
 "wallpaper": "https://picsum.photos/1920/1080",
-#"wallpaper": "https://xn--spsx60cgim8pd.xxooo.cf/",
 #"wallpaper": "https://wp.upx8.com/api.php/",
-#"wallpaper": "https://imgs.catvod.com",
 #"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
@@ -2154,6 +2152,7 @@
 
 
 ]}
+
 
 
 
