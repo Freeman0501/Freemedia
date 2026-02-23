@@ -1130,11 +1130,6 @@ WTO姐妹會,http://dreamtv.sylu.net:2082/play/fast-live207/index.m3u8?token=lxb
 
 
 
-
-
-
-
-
 #以下為未編源暫放區
 
 
@@ -1144,19 +1139,6 @@ WTO姐妹會,http://dreamtv.sylu.net:2082/play/fast-live207/index.m3u8?token=lxb
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 🍓 Test-1,#genre#
 
 
@@ -1195,149 +1177,5 @@ WTO姐妹會,http://dreamtv.sylu.net:2082/play/fast-live207/index.m3u8?token=lxb
 
 
 
-
-
-🍓 My Home,#genre#
-
-
-
-AMC電影台,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv017
-Arirang TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv079
-CLASSICA古典音樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv059
-ELTV生活英語,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn20
-GINX Esports TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv053
-韓國娛樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv016
-MEZZO LIVE,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv083
-Smart知識台,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn19
-TRACE URBAN,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv082
-TVBS HD,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv073
-TVBS新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv072
-TVBS精采,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv067
-TVBS歡樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv068
-VOA美國之音,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv03
-八大精彩,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv034
-八大綜合,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv039
-中天亞洲,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv109
-中天新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv009
-中視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv040
-中視菁采,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv064
-中視新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv074
-中視經典,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv080
-公視戲劇,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv042
-台視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv066
-台視財經,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv056
-台視新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv051
-台灣戲劇,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn22
-民視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv002
-民視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv155
-民視台灣,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv001
-民視旅遊,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv07
-民視第一,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv003
-民視新聞,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv13
-民視綜藝,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv004
-民視影劇,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv09
-好消息,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv16
-好消息2台,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv17
-亞洲旅遊,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv076
-東森財經新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv153
-東森新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv152
-采昌影劇,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv049
-非凡商業,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv048
-非凡新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv010
-客家電視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv043
-時尚運動X,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv014
-第1商業,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv104
-博斯高球I,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn05
-博斯高球II,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn06
-博斯無限,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn10
-博斯無限II,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn13
-博斯運動I,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn07
-博斯運動II,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn08
-博斯網球,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn09
-博斯魅力,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn04
-智林體育,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv101
-華視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv041
-華視新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv052
-視納華仁紀實,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv013
-愛爾達娛樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv070
-達文西頻道,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv018
-靖天日本,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv047
-靖天卡通,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv044
-靖天育樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv062
-靖天映畫,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv055
-靖天國際,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv063
-靖天資訊,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv065
-靖天電影,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv061
-靖天綜合,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv046
-靖天戲劇,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv058
-靖天歡樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv054
-靖洋卡通,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv057
-靖洋戲劇,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv045
-影迷數位電影,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv011
-豬哥亮歌廳秀,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv006
-寰宇新聞,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn14
-寰宇新聞台灣,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv156
-龍華日韓,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn11
-龍華卡通,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn01
-龍華洋片,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn02
-龍華偶像,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn12
-龍華經典,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn21
-龍華電影,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn03
-鏡新聞,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv075
-
-
-
-龍華戲劇,http://172.16.1.11:8080/sub?token=leifeng&id=litv-longturn18
-寰宇財經,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv158
-影迷紀實,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv15
-國會頻道1,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv084
-國會頻道2,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv085
-MCE,http://172.16.1.11:8080/sub?token=leifeng&id=litv-ftv10
-CI 罪案偵查頻道,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live027
-Cinema World,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live069
-CMusic,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live031
-CNBC Asia,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live130
-DreamWorks,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live017
-DW德國之聲,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live071
-FRANCE24,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live146
-FUN 4K探索娛樂,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live011
-Global Trekker,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live112
-HITS,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live620
-INULTRA,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live096
-Lifetime,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live029
-LiveABC互動英語,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live030
-LOVE NATURE,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live208
-LUXE TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live121
-Magellan TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live123
-MOMO親子,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live107
-MTV Live,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live025
-NHK WORLD,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live168
-Nick Jr,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live032
-Nickelodeon,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live105
-Pet Club TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv110
-ROCK Action,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live138
-ROCK Entertainment,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live080
-TRACE Sport Stars,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-4gtv077
-TV5MONDE Style,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live122
-TVBS台劇,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live088
-TVBS綜藝,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live087
-人間衛視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live008
-三立iNEWS,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live089
-三立綜合,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live207
-大愛,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live007
-大愛2台,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live106
-全球財經,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live060
-車迷TV,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live201
-幸福空間居家,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live206
-金光布袋戲,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live144
-原住民族電視,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live014
-愛爾達生活旅遊,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live120
-新唐人亞太,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live050
-經典卡通,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live022
-經典電影,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live021
-精選動漫台,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live024
-歷史頻道,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live026
-戲劇免費看,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live010
-霹靂布袋戲,http://172.16.1.11:8080/sub?token=leifeng&id=4gtv-live145
 
 
