@@ -2054,19 +2054,6 @@
 },
 
 {
-"name":"Free test",
-"url":"https://freeman0501.github.io/Freemedia/520free@TV-Home.txt",
-"type":0,
-"timeout":30,
-"playerType":2,
-"ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/{name}.png"
-},
-
-
-
-
-{
 "name":"Free TV(備用)",
 "url":"https://media0501.github.io/Freemedia/520freerecha@tv.txt",
 "type":0,
@@ -2165,6 +2152,7 @@
 
 
 ]}
+
 
 
 
