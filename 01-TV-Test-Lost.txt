@@ -650,6 +650,115 @@ TVBS歡樂,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 
 
 
+🍀 smt-iptv543,#genre#
+
+ABC News,http://iptv543.com/smt.php?id=abcnews_glo
+Arirang TV,http://iptv543.com/smt.php?id=arirang_twn
+AXN,http://iptv543.com/smt.php?id=axn_twn
+BBC Earth,http://iptv543.com/smt.php?id=bbcearth_twn
+BBC Lifestyle,http://iptv543.com/smt.php?id=bbclifestyle_twn
+BBC World News,http://iptv543.com/smt.php?id=Bbcnews
+BBC World News,http://iptv543.com/smt.php?id=bbcnews_twn
+BLOOMBERG TV,http://iptv543.com/smt.php?id=bloomberg_twn
+CatchPlay電影,http://iptv543.com/smt.php?id=catchplay_twn
+CBS News,http://iptv543.com/smt.php?id=cbshd_glo
+CBS News,http://iptv543.com/smt.php?id=cbsn_glo
+CI 罪案偵查頻道,http://iptv543.com/smt.php?id=ci_twn
+CINEMAX,http://iptv543.com/smt.php?id=cinemax_twn
+CNA,http://iptv543.com/smt.php?id=cna
+CNBC Asia,http://iptv543.com/smt.php?id=cnbc_twn
+CNN International,http://iptv543.com/smt.php?id=Cnn
+CN卡通,http://iptv543.com/smt.php?id=momo1_twn
+DAZN體育1,http://iptv543.com/smt.php?id=golfchannel_twn
+Discovery Asia,http://iptv543.com/smt.php?id=discoverytwn_twn
+Discovery,http://iptv543.com/smt.php?id=discoverych_twn
+Discovery DMAX,http://iptv543.com/smt.php?id=discoveryhd_twn
+Discovery DMAX,http://iptv543.com/smt.php?id=natgeohd_twn
+DW德國之聲,http://iptv543.com/smt.php?id=dw_twn
+EYE旅遊,http://iptv543.com/smt.php?id=eyetvtravel_twn
+EYE戲劇,http://iptv543.com/smt.php?id=eyetvxiju_twn
+Fashion TV,http://iptv543.com/smt.php?id=fashiontv_twn
+Fox News,http://iptv543.com/smt.php?id=foxnews_twn
+FRANCE 24,http://iptv543.com/smt.php?id=france24_twn
+HBO Family,http://iptv543.com/smt.php?id=fyi_twn
+HBO,http://iptv543.com/smt.php?id=hbohd_twn
+MTV Live,http://iptv543.com/smt.php?id=mtvhd_twn
+Nick Jr,http://iptv543.com/smt.php?id=Nickjr
+Nickelodeon,http://iptv543.com/smt.php?id=Nickelodeon
+Sky News,http://iptv543.com/smt.php?id=skynews_antik
+Sky News,http://iptv543.com/smt.php?id=skynews_antik
+TLC旅遊生活,http://iptv543.com/smt.php?id=tlc_twn
+TVBS HD,http://iptv543.com/smt.php?id=tvbs
+TVBS新聞,http://iptv543.com/smt.php?id=tvbs_n
+TVBS歡樂,http://iptv543.com/smt.php?id=tvbshuanle_twn
+WWE,http://iptv543.com/smt.php?id=Wwe
+八大第一,http://iptv543.com/smt.php?id=badafirst
+八大綜合,http://iptv543.com/smt.php?id=badazhonghe
+八大戲劇,http://iptv543.com/smt.php?id=badadrama
+三立台灣,http://iptv543.com/smt.php?id=sanlitaiwan
+三立綜合,http://iptv543.com/smt.php?id=sanlizhonghe
+三立戲劇,http://iptv543.com/smt.php?id=sanlixiju_twn
+大愛,http://iptv543.com/smt.php?id=daai_twn
+中天亞洲,http://iptv543.com/smt.php?id=ctiasia_twn
+中天娛樂,http://iptv543.com/smt.php?id=ctient
+中天新聞,http://iptv543.com/smt.php?id=ctiasia_twn
+中天新聞,http://iptv543.com/smt.php?id=ctinews
+中天綜合,http://iptv543.com/smt.php?id=ctizhonghe
+中視,http://iptv543.com/smt.php?id=zhongshihd_twn
+中視新聞,http://iptv543.com/smt.php?id=zhongshinews_twn
+中視經典,http://iptv543.com/smt.php?id=zhongshi_twn
+公視,http://iptv543.com/smt.php?id=ctv_taiwan
+半島國際新聞,http://iptv543.com/smt.php?id=aljazeera_twn
+台視,http://iptv543.com/smt.php?id=ttv_taiwan
+台視新聞,http://iptv543.com/smt.php?id=ttvnews_twn
+民視,http://iptv543.com/smt.php?id=ftvhd_taiwan
+民視台灣,http://iptv543.com/smt.php?id=ftvtaiwan_twn
+民視第一,http://iptv543.com/smt.php?id=lunghuajingdian_twn
+民視新聞,http://iptv543.com/smt.php?id=ftvnew_taiwan
+好萊塢電影,http://iptv543.com/smt.php?id=hollywoodmovies_twn
+年代新聞,http://iptv543.com/smt.php?id=niandainews_twn
+亞洲美食,http://iptv543.com/smt.php?id=afc_twn
+亞洲旅遊,http://iptv543.com/smt.php?id=asiatravel_twn
+東森幼幼,http://iptv543.com/smt.php?id=yoyo_twn
+東森洋片,http://iptv543.com/smt.php?id=ettvwestern
+東森財經新聞,http://iptv543.com/smt.php?id=ettvcaijing_twn
+東森新聞,http://iptv543.com/smt.php?id=ettvnews
+東森電影,http://iptv543.com/smt.php?id=ettvmovie
+東森綜合,http://iptv543.com/smt.php?id=ettvzhonghe
+東森戲劇,http://iptv543.com/smt.php?id=ettvdrama
+非凡新聞,http://iptv543.com/smt.php?id=feifannews_twn
+美亞電影,http://iptv543.com/smt.php?id=meiyamovie_twn
+美食星球,http://iptv543.com/smt.php?id=foodplanet_twn
+動物星球,http://iptv543.com/smt.php?id=animalplanet_twn
+博斯高球I,http://iptv543.com/smt.php?id=bosigolf1_twn
+博斯高球II,http://iptv543.com/smt.php?id=bosigolf2_twn
+博斯運動I,http://iptv543.com/smt.php?id=bosisport1_twn
+博斯運動II,http://iptv543.com/smt.php?id=bosisport2_twn
+博斯網球,http://iptv543.com/smt.php?id=bositennis_twn
+壹新聞,http://iptv543.com/smt.php?id=yinews
+華視,http://iptv543.com/smt.php?id=ctshd_twn
+華藝中文,http://iptv543.com/smt.php?id=weishichinese_twn
+愛奇藝,http://iptv543.com/smt.php?id=Qiyi
+愛爾達影劇,http://iptv543.com/smt.php?id=eltayingju_twn
+愛爾達體育1,http://iptv543.com/smt.php?id=eltasport1_twn
+愛爾達體育2,http://iptv543.com/smt.php?id=eltasport2_twn
+愛爾達體育3,http://iptv543.com/smt.php?id=eltasport3_twn
+愛爾達體育4,http://iptv543.com/smt.php?id=eltasport4_twn
+靖天卡通,http://iptv543.com/smt.php?id=jingtiancartoon_twn
+靖天國際,http://iptv543.com/smt.php?id=jingtianintl_twn
+緯來日本,http://iptv543.com/smt.php?id=videolandjapan
+緯來體育,http://iptv543.com/smt.php?id=videolandsport
+寰宇新聞,http://iptv543.com/smt.php?id=huanyuxinwen_twn
+龍祥時代,http://iptv543.com/smt.php?id=lungxiangtime_twn
+龍華洋片,http://iptv543.com/smt.php?id=lunghuajingdian_twn
+龍華偶像,http://iptv543.com/smt.php?id=lunghuaidol_twn
+龍華電影,http://iptv543.com/smt.php?id=xingwei_movie
+龍華戲劇,http://iptv543.com/smt.php?id=lunghuaxiju_twn
+歡喜台,http://iptv543.com/smt.php?id=Huahee
+歡喜台,http://iptv543.com/smt.php?id=Huahee_backup
+
+
+
 
 
 
