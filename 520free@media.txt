@@ -291,6 +291,21 @@
 },
 
 {
+"key":"360",
+"name": "360資源",
+"type": 1,"api": "https://360zy.com/api.php/provide/vod",
+"searchable": 1,
+"changeable": 1,
+"categories": [
+"国产剧","韩国剧","欧美剧","日本剧","台湾剧","香港剧","泰国剧","海外剧",
+"科幻片","动作片","喜剧片","爱情片","犯罪片","恐怖片","剧情片","战争片","灾难片","惊悚片","悬疑片","西部片","家庭篇","纪录片","历史片","古装片","动画片",
+"日韩动漫","欧美动漫","国产动漫","港台动漫",
+"日韩综艺","欧美综艺","港台综艺","大陆综艺","欧美综艺","日韩综艺",
+"未分类","短片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭"
+]
+},
+
+{
 "key":"界影視",
 "name":"界影視",
 "type":3,
@@ -423,19 +438,6 @@
 "author": "eylinsir",
 "类型": "影视",
 "lang": "ds",
-"ext": ""
-},
-
-{
-"key": "catvod_月光影视",
-"name": "月光影视",
-"type": 3,
-"api": "http://142.171.248.206:5757/cat/月光影视.js?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "月光影视",
-"lang": "cat",
 "ext": ""
 },
 
@@ -1431,18 +1433,6 @@
 },
 
 {
-"key": "CCTV短剧",
-"name": "CCTV🦄短劇",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/cctv短剧.json"
-},
-
-{
 "key": "纽约短剧",
 "name": "紐約🦄短劇",
 "type": 3,
@@ -1496,26 +1486,13 @@
 
 {
 "key":"星芽短剧",
-"name":"星芽1🦄短劇",
+"name":"星芽🦄短劇",
 "type":3,
 "api":"https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
 "searchable":1,
 "changeable":1,
 "quickSearch":1,
 "filterable":1
-},
-
-{
-"key": "drpyS_星芽短剧",
-"name": "星芽2🦄短劇",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/星芽短剧?pwd=dzyyds",
-"searchable": 2,
-"filterable": 1,
-"quickSearch": 1,
-"title": "星芽短剧",
-"lang": "ds",
-"ext": ""
 },
 
 {
@@ -1718,22 +1695,6 @@
 },
 
 {
-"key": "py_曼波_APP",
-"name": "動漫🦉曼波",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://app.omofun1.top",
-"api" : "/api.php/getappapi",
-"datakey": "66dc309cbeeca454",
-"dataiv" : "66dc309cbeeca454"
-}
-},
-
-{
 "key": "巴士动漫",
 "name": "動漫🦉巴士",
 "type": 3,
@@ -1779,6 +1740,26 @@
 "分类": "日本动漫$6#国产动漫$7#欧美动漫$8#海外动漫$21#劇场版$9",
 "地区": "日本&大陆&美国"
 }
+},
+
+{
+"key": "魔都",
+"name": "動漫🦉魔都1",
+"type": 0,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+"searchable": 1,
+"changeable": 1,
+"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
+},
+
+{
+"key": "魔都资源",
+"name": "動漫🦉魔都2",
+"type": 1,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
+"searchable": 1,
+"changeable": 1
 },
 
 
@@ -2385,6 +2366,7 @@
 
 
 ]}
+
 
 
 
