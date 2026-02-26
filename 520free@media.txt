@@ -1016,6 +1016,7 @@
 "api": "csp_AppQi",
 "searchable": 1,
 "changeable": 1,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
 "dataKey": "lp3d4t53y9t5db8y",
@@ -1135,6 +1136,7 @@
 "api": "csp_AppQi",
 "searchable": 1,
 "changeable": 1,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://117.50.204.35:520",
 "dataKey": "ca94b06ca3c7d80e",
@@ -1150,6 +1152,7 @@
 "name": "愛影",
 "type": 3,
 "api": "csp_AppQi",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "changeable": 1,
 "ext": {
@@ -1165,6 +1168,7 @@
 "name": "白鴿",
 "type": 3,
 "api": "csp_AppGet",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "changeable": 1,
 "ext": {
@@ -1176,9 +1180,10 @@
 
 {
 "key": "魔方",
-"name": "魔方｜高清◎秒播(浮水印廣告)",
+"name": "魔方",
 "type": 3,
 "api": "csp_AppGet",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "changeable": 1,
 "ext": {
@@ -1193,6 +1198,7 @@
 "name": "零度",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://ld.ldysapp.cn",
 "header": {
@@ -1210,6 +1216,7 @@
 "name": "粉象",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://64.64.252.93:8080",
 "header": {
@@ -1227,6 +1234,7 @@
 "name": "橘貓",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "https://nox.jm4k.top",
 "header": {
@@ -1244,6 +1252,7 @@
 "name": "片喵",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "https://svip.2video.cc",
 "header": {
@@ -1261,6 +1270,7 @@
 "name": "火貓",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "https://jp5.ggtvb.cc",
 "header": {
@@ -1278,6 +1288,7 @@
 "name": "幕悦",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://111.170.7.114:8989",
 "header": {
@@ -1295,6 +1306,7 @@
 "name": "随看",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "https://skapp.tpmbt.cn",
 "header": {
@@ -1312,6 +1324,7 @@
 "name": "星影",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://110.81.153.7:8081",
 "header": {
@@ -1329,6 +1342,7 @@
 "name": "回響",
 "type": 3,
 "api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "ext": {
 "url": "http://110.42.37.69:8080",
 "header": {
@@ -2371,6 +2385,7 @@
 
 
 ]}
+
 
 
 
