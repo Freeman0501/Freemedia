@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0226 Check,#genre#
+🚧 0228 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -882,7 +882,78 @@ WWE,http://iptv543.com/smt.php?id=Wwe
 歡喜台,http://iptv543.com/smt.php?id=Huahee_backup
 
 
-
+ABC News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=abcnews_glo/playlist.m3u8
+ANIMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Animax/playlist.m3u8
+Arirang,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=arirang_twn/playlist.m3u8
+AXN,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=axn_twn/playlist.m3u8
+BBC Earth,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbclifestyle_twn/playlist.m3u8
+BBC World News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Bbcnews/playlist.m3u8
+CatchPlay電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=catchplay_twn/playlist.m3u8
+CBS,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cbshd_glo/playlist.m3u8
+CBS,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cbsn_glo/playlist.m3u8
+CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8
+CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8/playlist.m3u8
+CNN International,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Cnn/playlist.m3u8
+EYE旅遊,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eyetvtravel_twn/playlist.m3u8
+EYE戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eyetvxiju_twn/playlist.m3u8
+Fashion TV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=fashiontv_twn/playlist.m3u8
+Fox News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=foxnews_twn/playlist.m3u8
+HBO Hits,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohits_twn/playlist.m3u8
+HBO Signature,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hbosignature/playlist.m3u8
+HBO,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohd_twn/playlist.m3u8
+HGTV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=HGTV/playlist.m3u8
+MTV Live,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=mtvhd_twn/playlist.m3u8
+TVBS HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs/playlist.m3u8
+TVBS新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs_n/playlist.m3u8
+TVBS歡樂,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbshuanle_twn/playlist.m3u8
+八大戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=badadrama/playlist.m3u8
+三立台灣,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlitaiwan/playlist.m3u8
+三立都會,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlidouhui_twn/playlist.m3u8
+三立綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlizhonghe/playlist.m3u8
+三立戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlixiju_twn/playlist.m3u8
+中天娛樂,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctient/playlist.m3u8
+中天新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctiasia_twn/playlist.m3u8
+中天新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctinews/playlist.m3u8
+中天綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctizhonghe/playlist.m3u8
+中視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshihd_twn/playlist.m3u8
+中視新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshinews_twn/playlist.m3u8
+公視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctv_taiwan/playlist.m3u8
+台視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ttv_taiwan/playlist.m3u8
+民視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvhd_taiwan/playlist.m3u8
+民視台灣,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvtaiwan_twn/playlist.m3u8
+民視新聞 FTV News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvnew_taiwan/playlist.m3u8
+好萊塢電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hollywoodmovies_twn/playlist.m3u8
+年代新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=niandainews_twn/playlist.m3u8
+東森幼幼,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yoyo_twn/playlist.m3u8
+東森洋片,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvwestern/playlist.m3u8
+東森財經新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvcaijing_twn/playlist.m3u8
+東森新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvnews/playlist.m3u8
+東森電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvmovie/playlist.m3u8
+東森綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvzhonghe/playlist.m3u8
+東森戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvdrama/playlist.m3u8
+非凡新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=feifannews_twn/playlist.m3u8
+美亞電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=meiyamovie_twn/playlist.m3u8
+博斯高球I,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf1_twn/playlist.m3u8
+博斯高球II HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf2_twn/playlist.m3u8
+博斯無限,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosiunlimited_twn/playlist.m3u8
+博斯運動I,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport1_twn/playlist.m3u8
+博斯運動II,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport2_twn/playlist.m3u8
+博斯網球,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bositennis_twn/playlist.m3u8
+壹新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yinews/playlist.m3u8
+華視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctshd_twn/playlist.m3u8
+華藝中文,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=weishichinese_twn/playlist.m3u8
+愛奇藝,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Qiyi/playlist.m3u8
+愛爾達體育3,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eltasport3_twn/playlist.m3u8
+愛爾達體育4,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=natgeowild_twn/playlist.m3u8
+靖天卡通,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=jingtiancartoon_twn/playlist.m3u8
+緯來日本,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandjapan/playlist.m3u8
+緯來電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandmovie/playlist.m3u8
+緯來綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandzonghe/playlist.m3u8
+緯來體育,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandsport/playlist.m3u8
+寰宇新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=huanyuxinwen_twn/playlist.m3u8
+龍華戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lunghuaxiju_twn/playlist.m3u8
+龍詳時代,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lungxiangtime_twn/playlist.m3u8
 
 
 
@@ -1911,6 +1982,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
