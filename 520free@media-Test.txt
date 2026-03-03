@@ -37,55 +37,6 @@
 
 
 
-{
-"key": "CCTV短剧",
-"name": "CCTV🦄短劇",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/cctv短剧.json"
-},
-
-
-
-
-
-
-
-{
-"key": "py_椰子_APP",
-"name": "動漫🦉椰子",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/appfox.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {"host": "http://nico.oiio.fun", "ver": "2"}
-},
-
-
-{
-"key": "py_曼波_APP",
-"name": "動漫🦉曼波",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://app.omofun1.top",
-"api" : "/api.php/getappapi",
-"datakey": "66dc309cbeeca454",
-"dataiv" : "66dc309cbeeca454"
-}
-},
-
-
-
-
 
 
 
@@ -106,36 +57,22 @@
 
 {
 "name":"FreeTV Test","url":"https://freeman0501.github.io/Freemedia/01-TV-Test.txt",
-"playerType":2,
-"type": 0,
+"type":0,
 "timeout":30,
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"playerType":2,
+"ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
 
 {
 "name":"FreeTV Lost","url":"https://freeman0501.github.io/Freemedia/01-TV-Test-Lost.txt",
-"playerType":2,
-"type": 0,
+"type":0,
 "timeout":30,
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-
-
-
-{
-"name":"FreeTV+UA","url":"https://freeman0501.github.io/Freemedia/01-TV-Test.txt",
 "playerType":2,
-"type": 0,
-"timeout":30,
 "ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
-
-
 
 {
 "name":"catvod",
@@ -150,6 +87,7 @@
 
 
 ]}
+
 
 
 
