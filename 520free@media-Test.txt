@@ -12,7 +12,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie 02",
+"name": "🌸Free Movie",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -87,6 +87,7 @@
 
 
 ]}
+
 
 
 
