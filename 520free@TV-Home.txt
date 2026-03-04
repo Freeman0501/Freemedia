@@ -410,7 +410,7 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 年代新聞,http://211.23.95.147:18881/live/50_h265.ts
 年代新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
 車迷 TV,http://106.107.234.186:5050/4gtv-live201/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-車迷TV,http://dreamtv.sylu.net:2082/play/4gtv-live201/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+車迷 TV,http://dreamtv.sylu.net:2082/play/4gtv-live201/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 亞洲旅遊,http://106.107.234.186:5050/4gtv-4gtv076/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 亞洲旅遊,http://106.107.234.186:5050/of-4gtv-4gtv076/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 亞洲旅遊,http://dreamtv.sylu.net:2082/play/4gtv-4gtv076/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -533,8 +533,8 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 博斯高球II,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1qk5ReKQ4b2UPy2GnbDTk8G8udL8yZML7aLf_kdwx7H5EztzOhizLPw9ymrrMkZPTb5iSSQW4pBATmc0QFRtmo2oCFKr9lJ34W6GzSbJQj_39NDO9J9xE1W_o3my3OZOlWEhV3L1gq2o1RmucT_yQXDMVygGjFmzxBDeZt_kfF53JCj1SB2RvkSwsNph9CM9A.m3u8?u=1756878715
 博斯無限,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYF8tmiQU_gRtKyBQY9r4tfFzbyX8UCPTHS2WMEzHVq5s0FrrM7GNw2VyxuLv7eqXRihfFmPaWgNGtfh0lNUyjNyObDXY65X1k0fSnwS-VI8lGUvNUIw3rJbRrpzp5-_NWOLdyWdlAstOLzMfJgcbgIA7dYa--QDTp22AycQ6xOSPF-YFUbA7Q2inIJmltuBnhw.m3u8?u=1756878715
 博斯無限II,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULwTk1od2wAo0zQCYARIwskZYtSsQOnaaYUIlzd4HO7lDDLzlbztOx1LEwrYWtzo3hVJYxWMCYHCE46zQmPkBVIpAG5WOSgGDPcAmhVanQ2yyQ7zjPwodFwrK8FejDtX2RCReBJHgvnBwnS5wa2nbPuIRClime3TQTAsFKUN1gwgusYoGOcE6b5AaYkxH9Wd-5fg7sDUV0JJXsM0nH-eHLQ.m3u8?u=1756878715
-博斯運動,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
 博斯運動I,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
+博斯運動II,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
 博斯魅力,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at8iR1RR16NTFT0mvV1Tg8AWFDZH5fGfx3_F4S3vR7sROY4odfydHHNA3cW8ORur8l2UCb4r0jbcpezuXds-qoElRTu5YPI7Mar5idDn8bO9rnG-LPl1Q0rGv7TqI0__TqQqr-ocoiH6amzBmdhGNOwA0VuoTXELpibuEbL96Btrl-vMztDxsUGjkC8pzlwD9sQ.m3u8?u=1756878715
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
@@ -546,7 +546,7 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 壹綜合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at0owWpxcjFIiYKW-8IxzXuj6D4eBU2xtk92HydXRHHDcCLum2M9vqwAlM_lKqIol45koOXEoSXOfyclxvf4EAkmAyNSbtzfr-BrQwsOeBerw3gy3PaFpgADcNeyb1s7ur8BNdMGasY-JXOG5-d4RDEqgSgp1c00EU9nFbwTT6yS12aicZt-bSGTwl56TFHsTxg.m3u8?u=1756878715
 智林體育,http://106.107.234.186:5050/4gtv-4gtv101/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 智林體育,http://dreamtv.sylu.net:2082/play/4gtv-4gtv101/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-華納TV,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg5nyfTBbogpBcvdxQnhJXBxSTYwRPXzbZ315XNk3qsAzFVun-Ztblz-KYP9-Ef0cfTSmaFXko8C8HdRmMqltBgdcG3E_rZ53SQXB_TtxesMdLOCQpYZIBynwJkV1V21brQCU9HINEmqvVXJ0cIkIQ0PUpAgSWU9_J121N6WUmJQYGUeq34D9xihDhHPFyrnITw.m3u8?u=1756878715
+華納 TV,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg5nyfTBbogpBcvdxQnhJXBxSTYwRPXzbZ315XNk3qsAzFVun-Ztblz-KYP9-Ef0cfTSmaFXko8C8HdRmMqltBgdcG3E_rZ53SQXB_TtxesMdLOCQpYZIBynwJkV1V21brQCU9HINEmqvVXJ0cIkIQ0PUpAgSWU9_J121N6WUmJQYGUeq34D9xihDhHPFyrnITw.m3u8?u=1756878715
 華視,http://106.107.234.186:5050/4gtv-4gtv041/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 華視,http://106.107.234.186:5050/of-4gtv-4gtv041/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 華視,http://211.23.114.106:8504/http/59.120.8.187:8081/hls/89/80/Cts4max.m3u8
@@ -1539,6 +1539,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
