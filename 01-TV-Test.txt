@@ -1111,8 +1111,8 @@ WTO姐妹會,http://dreamtv.sylu.net:2082/play/fast-live207/index.m3u8?token=lxb
 🍓 Test-1,#genre#
 
 
-
-
+1,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live401/4gtv-live-mid/10801772373195.ts?token1=704XbKsSItUoL8itiKPANQ&expires1=1772675759
+2,http://106.107.234.186:5050/4gtv-live401/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5"
 
 
 
