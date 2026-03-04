@@ -1115,8 +1115,7 @@ Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
 BanG Dream,https://www.youtube.com/watch?v=iZ44tIBbfH0
 JOJO的奇妙冒險,https://www.youtube.com/watch?v=4_JnTQCn9Kg
 葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs
-進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
-輝夜姬想讓人告白系列,https://www.youtube.com/watch?v=wEkaLDlGyIU
+進擊的巨人,https://www.youtube.com/watch?v=cbFb2RC1ruI
 
 
 遊戲王,https://www.youtube.com/watch?v=SHngPS2mRac
@@ -1126,7 +1125,7 @@ TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
 TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
 TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
-豆豆先生,https://www.youtube.com/watch?v=Pyj8Tat0Sf4
+豆豆先生,https://www.youtube.com/watch?v=aYco1VpAoWc
 
 豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
 
@@ -1134,13 +1133,12 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
 超級冰冰Show,https://www.youtube.com/watch?v=ON6bMdKXBC4
 
-11點熱吵店,https://www.youtube.com/watch?v=xAy9o8uGjso
 
+龍兄虎弟,https://www.youtube.com/watch?v=gzJiMu3OKpo
 一秒回到青春時代,https://www.youtube.com/watch?v=odQOO4j594c
 神機妙算劉伯溫,https://www.youtube.com/watch?v=sI7skw-v-ok
 流氓教授,https://www.youtube.com/watch?v=nt6SoW6D5i8
 風流才子唐伯虎,https://www.youtube.com/watch?v=cctPGjBUu98
-華語民歌傳奇,https://www.youtube.com/watch?v=0BxDAYfAV3o
 精彩類戲劇,https://www.youtube.com/watch?v=MlpGNrF88FI
 
 
@@ -1160,18 +1158,17 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
 新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
 
-台灣龍捲風,https://www.youtube.com/watch?v=LywmGVSqUxg
-天道,https://www.youtube.com/watch?v=hkufBJcd8ps
 炮仔聲,https://www.youtube.com/watch?v=GBrN5vzJwNc
 一家團圓,https://www.youtube.com/watch?v=FuRbrw9lliI
 天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
+台灣龍捲風,https://www.youtube.com/watch?v=LywmGVSqUxg
 
-包青天,https://www.youtube.com/watch?v=2FNoip54KcE
+包青天,https://www.youtube.com/watch?v=Qq-uMi_1Rzk
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
+琅琊榜,https://www.youtube.com/watch?v=18ypxNBbMYY
 羋月傳,https://www.youtube.com/watch?v=Jn8ulwzkehE
 後宮甄嬛傳,https://www.youtube.com/watch?v=_GL9HgmaFfU
-微微一笑很傾城,https://www.youtube.com/watch?v=o1_-ArZ32Dw
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
 
 
@@ -1559,6 +1556,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
