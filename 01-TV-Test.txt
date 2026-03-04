@@ -79,11 +79,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 
-
-三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
-
-
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 Pet Club TV,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u
