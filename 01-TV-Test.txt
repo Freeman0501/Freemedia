@@ -30,7 +30,7 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
+寰宇財經,https://www.youtube.com/watch?v=eWj66MbDx1U
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -55,7 +55,7 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 三立祝你健康,https://www.youtube.com/watch?v=uuCS098Ho54
 三立話時代人物,https://www.youtube.com/watch?v=IsMymW2JAPI
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
-大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛2台,https://www.youtube.com/watch?v=OKvWtVoDR8I
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
@@ -66,26 +66,6 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 
 🍀 Mix Source,#genre#
 
-
-DAZN體育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN體育2,rtmp://f13h.mine.nu/sat/tv741
-MOMO TV,rtmp://f13h.mine.nu/sat/tv761
-中視,rtmp://f13h.mine.nu/sat/tv091
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-公視,rtmp://f13h.mine.nu/sat/tv771
-公視,rtmp://f13h.mine.nu:1935/sat/tv771
-台視,rtmp://f13h.mine.nu/sat/tv071
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
-華視,rtmp://f13h.mine.nu/sat/tv111
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
 
 HBO,http://220.134.196.147:9520/index.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -103,21 +83,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
 
-愛爾達體育1,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
-愛爾達體育2,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
-愛爾達體育3,http://52xinghe.top/smmmt.php?id=eltasport3_twn&h=52xinghe.top&p=7788
-愛爾達體育4,http://52xinghe.top/smmmt.php?id=natgeowild_twn&h=52xinghe.top&p=7788
-Discovery DMAX,http://52xinghe.top/smmmt.php?id=discoveryhd_twn&h=52xinghe.top&p=7788
-Discovery Asia,http://52xinghe.top/smmmt.php?id=discoverytwn_twn&h=52xinghe.top&p=7788
-年代MUCH,http://52xinghe.top/smmmt.php?id=ettvwestern&h=52xinghe.top&p=7788
-愛爾達體育1,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
-HBO Family,http://52xinghe.top/smmmt.php?id=fyi_twn&h=52xinghe.top&p=7788
-BBC Earth,http://52xinghe.top/smmmt.php?id=bbcearth_twn&h=52xinghe.top&p=7788
-BBC Lifestyle,http://52xinghe.top/smmmt.php?id=bbclifestyle_twn&h=52xinghe.top&p=7788
-CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
-HBO,http://52xinghe.top/smmmt.php?id=hbohd_twn&h=52xinghe.top&p=7788
-HBO Hits,http://52xinghe.top/smmmt.php?id=hbohits_twn&h=52xinghe.top&p=7788
-HBO Signature,http://52xinghe.top/smmmt.php?id=hbosignature_twn&h=52xinghe.top&p=7788
 
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
@@ -127,8 +92,6 @@ CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 
-華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-
 龍華電影,http://cdn8.163189.xyz/163189/lhdy
 龍華經典,http://cdn8.163189.xyz/163189/lhjd
 龍華偶像,http://cdn8.163189.xyz/163189/lhox
@@ -136,22 +99,7 @@ CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
 
 
-
-EYE戲劇,http://142.171.248.206:5050/smart.php?id=eyetvxiju_twn&token=885252
-亞洲旅遊,http://142.171.248.206:5050/smart.php?id=asiatravel_twn&token=885252
-HBO,http://142.171.248.206:5050/smart.php?id=hbohd_twn&token=885252
-AXN,http://142.171.248.206:5050/smart.php?id=axn_twn&token=885252
-東森電影,http://142.171.248.206:5050/smart.php?id=ettvmovie&token=885252
-東森洋片,http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
-龍祥時代,http://142.171.248.206:5050/smart.php?id=lungxiangtime_twn&token=885252
-HBO Signature,http://142.171.248.206:5050/smart.php?id=Hbosignature&token=885252
-CI 罪案偵查頻道,http://142.171.248.206:5050/smart.php?id=ci_twn&token=885252
-BBC Earth,http://142.171.248.206:5050/smart.php?id=bbcearth_twn&token=885252
-BBC Lifestyle,http://142.171.248.206:5050/smart.php?id=bbclifestyle_twn&token=885252
-
-
 TVBS HD,http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-TVBS新聞,http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 好萊塢電影,http://211.23.114.106:9353/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 年代MUCH,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 東森超視,http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
@@ -166,7 +114,6 @@ Discovery,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u
 HBO,http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
 TLC旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-亞洲旅遊,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
 東森新聞,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 東森綜合,http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
 
@@ -233,7 +180,6 @@ AMC電影台,http://211.23.114.106:9359/http/59.120.8.187:8092/upload/115/AMC_TS
 AXN,http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/59.120.8.187:8078/hls/43/80/bloomber.m3u8
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
-CINEMAX,http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
 DAZN體育1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN體育2,http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 Discovery,http://211.23.114.106:9310/http/59.120.8.187:8081/hls/71/813/ch44.m3u8
@@ -259,7 +205,6 @@ TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u
 民視,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/85/80/Ftv4max.m3u8
 好消息,http://211.23.114.106:9308/http/59.120.8.187:8081/hls/74/816/ch53.m3u8
 好萊塢電影,http://211.23.114.106:9353/http/59.120.8.187:8081/hls/74/816/ch55.m3u8
-年代MUCH,http://211.23.114.106:9328/http/59.120.8.187:8081/hls/72/814/ch45.m3u8
 東風衛視,http://211.23.114.106:9327/http/59.120.8.187:8081/hls/68/810/ch31.m3u8
 東森幼幼,http://211.23.114.106:8551/http/59.120.8.187:8081/hls/63/805/ch09.m3u8
 東森超視,http://211.23.114.106:9381/http/59.120.8.187:8081/hls/64/806/ch14.m3u8
@@ -275,7 +220,6 @@ TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u
 緯來育樂,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來電影,http://211.23.114.106:9354/http/59.120.8.187:8081/hls/69/811/ch35.m3u8
 緯來綜合,http://211.23.114.106:8536/http/59.120.8.187:8081/hls/68/810/ch32.m3u8
-緯來戲劇,http://211.23.114.106:9332/http/59.120.8.187:8081/hls/69/811/ch33.m3u8
 緯來體育,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
 韓國娛樂,http://211.23.114.106:8544/http/59.120.8.187:8092/upload/116/KMTV_TS-1111_1.m3u8
@@ -386,7 +330,6 @@ AMC電影台,http://211.23.114.106:9359/http/61.67.128.137:8092/upload/115/AMC_T
 AXN,http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
 BLOOMBERG TV,http://211.23.114.106:9350/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.67.128.137:8078/hls/42/80/cctv4.m3u8
-CINEMAX,http://211.23.114.106:9358/http/61.67.128.137:8081/hls/71/813/ch42.m3u8
 DAZN體育1,http://211.23.114.106:8523/http/61.67.128.137:8078/hls/25/80/esport.m3u8
 DAZN體育2,http://211.23.114.106:8555/http/61.67.128.137:8078/hls/26/80/esport2.m3u8
 Discovery,http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u8
@@ -394,7 +337,6 @@ HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 MOMO TV,http://211.23.114.106:8511/http/61.67.128.137:8081/hls/76/818/momo_max.m3u8
 MOMO親子,http://211.23.114.106:8516/http/61.67.128.137:8081/hls/90/80/momo4max.m3u8
 NHK WORLD,http://211.23.114.106:9351/http/61.67.128.137:8081/hls/62/804/ch06.m3u8
-Pet Club TV,http://211.23.114.106:9360/http/61.67.128.137:8078/hls/40/80/pettv.m3u8
 TLC旅遊生活,http://211.23.114.106:9311/http/61.67.128.137:8081/hls/70/812/ch38.m3u8
 TVBS HD,http://211.23.114.106:9344/http/61.67.128.137:8081/hls/75/817/ch58.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
@@ -413,7 +355,6 @@ TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3
 民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
 好消息,http://211.23.114.106:9308/http/61.67.128.137:8081/hls/74/816/ch53.m3u8
 好萊塢電影,http://211.23.114.106:9353/http/61.67.128.137:8081/hls/74/816/ch55.m3u8
-年代MUCH,http://211.23.114.106:9328/http/61.67.128.137:8081/hls/72/814/ch45.m3u8
 東風衛視,http://211.23.114.106:9327/http/61.67.128.137:8081/hls/68/810/ch31.m3u8
 東森幼幼,http://211.23.114.106:8551/http/61.67.128.137:8081/hls/63/805/ch09.m3u8
 東森幼幼,http://211.23.114.106:8515/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
@@ -430,7 +371,6 @@ TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3
 緯來育樂,http://211.23.114.106:8513/http/61.67.128.137:8081/hls/68/810/ch30.m3u8
 緯來電影,http://211.23.114.106:9354/http/61.67.128.137:8081/hls/69/811/ch35.m3u8
 緯來綜合,http://211.23.114.106:8536/http/61.67.128.137:8081/hls/68/810/ch32.m3u8
-緯來戲劇,http://211.23.114.106:9332/http/61.67.128.137:8081/hls/69/811/ch33.m3u8
 緯來體育,http://211.23.114.106:8528/http/61.67.128.137:8081/hls/67/809/ch28.m3u8
 寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 韓國娛樂,http://211.23.114.106:8544/http/61.67.128.137:8092/upload/116/KMTV_TS-1111_1.m3u8
@@ -483,12 +423,7 @@ Smart知識台,http://106.107.234.186:5050/litv-xinchuang19/index.m3u8?token=Eur
 TRACE Sport Stars,http://106.107.234.186:5050/4gtv-4gtv077/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 TRACE URBAN,http://106.107.234.186:5050/4gtv-4gtv082/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 TV5MONDE Style,http://106.107.234.186:5050/4gtv-live122/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-TVBS HD,http://106.107.234.186:5050/4gtv-4gtv073/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-TVBS HD,http://106.107.234.186:5050/media-live073/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-TVBS新聞,http://106.107.234.186:5050/4gtv-4gtv072/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 TVBS新聞,http://106.107.234.186:5050/media-live072/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-TVBS精采,http://106.107.234.186:5050/4gtv-4gtv067/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-TVBS歡樂,http://106.107.234.186:5050/4gtv-4gtv068/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 人間衛視,http://106.107.234.186:5050/4gtv-live008/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 八大精彩,http://106.107.234.186:5050/4gtv-4gtv034/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 八大綜藝,http://106.107.234.186:5050/4gtv-4gtv039/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
@@ -732,90 +667,24 @@ TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 
 
-
-
-
-
-
-
-🍀 61,#genre#
-
-
-AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
-CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
-Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
-HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
-JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
-MOMO TV,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
-NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
-TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
-人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
-八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
-八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
-八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
-三立台灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
-三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
-三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
-大愛,http://61.221.81.93:8528/http/192.168.1.10:8088/hls/73/815/ch52.m3u8
-大愛2台,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
-中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
-中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
-中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
-好消息,http://61.221.81.93:8547/http/192.168.1.10:8088/hls/74/816/ch53.m3u8
-好萊塢電影,http://61.221.81.93:8597/http/192.168.1.10:8088/hls/74/816/ch55.m3u8
-年代MUCH,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
-年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
-亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
-東風衛視,http://61.221.81.93:8569/http/192.168.1.10:8088/hls/68/810/ch31.m3u8
-東森幼幼,http://61.221.81.93:8556/http/192.168.1.10:8088/hls/63/805/ch09.m3u8
-東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
-東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
-東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
-東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
-非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
-非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
-國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
-緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
-緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
-緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
-寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
-
-
-
 🍀 電視家,#genre#
 
-BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 Concerto TV,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-Discovery,http://111.59.139.82:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0失效
-ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50#http://tl.061833.xyz/tl/rockaction
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 TRACE URBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
-中視新聞,http://rihou.cc:555/tv/[Hk]中視新聞
 公視,http://211.72.174.95:8116/0.ts$原生解碼最佳
-天映經典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-天映頻道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 台視,http://211.72.174.95:8112/0.ts$原生解碼最佳
-台視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
 民視,http://211.72.174.95:8115/0.ts$原生解碼最佳
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
-美亞電影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 華視,http://211.72.174.95:8114/0.ts$原生解碼最佳
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新視覺,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 
@@ -825,9 +694,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 🍀 github-Jsnzkpg,#genre#
 
 
-
 CatchPlay電影,http://208.87.242.79/livehttpplay?channel_id=10127
-CHC家庭影院,http://27.41.245.32:801/hls/905/index.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷電影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -838,50 +705,29 @@ HBO Hits,http://208.87.242.79/livehttpplay?channel_id=20091
 Now星影台,http://208.87.242.79/livehttpplay?channel_id=13003
 NOW新聞台,http://cdn.163189.xyz/163189/now
 Now爆穀台,http://208.87.242.79/livehttpplay?channel_id=13002
-ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 八大第一,http://208.87.242.79/livehttpplay?channel_id=20073
 八大綜合,http://208.87.242.79/livehttpplay?channel_id=20068
 八大戲劇,http://208.87.242.79/livehttpplay?channel_id=20071
 三立台灣,http://208.87.242.79/livehttpplay?channel_id=16074
 三立新聞,http://208.87.242.79/livehttpplay?channel_id=10126
 三立戲劇,http://208.87.242.79/livehttpplay?channel_id=10125
-天映經典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
 好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 好消息2台,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 好萊塢電影,http://208.87.242.79/livehttpplay?channel_id=20062
 東森新聞,http://208.87.242.79/livehttpplay?channel_id=20082
-東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
 邵氏武俠,http://feilong123.vip/409990236/tv.php?id=sswx
-邵氏武俠,http://iptv.4666888.xyz/iptv2A.php?id=40
 邵氏動作,http://feilong123.vip/409990236/tv.php?id=ssdz
 邵氏喜劇,http://feilong123.vip/409990236/tv.php?id=ssxj
 邵氏電影,http://feilong123.vip/409990236/tv.php?id=ssdy
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-華數電影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-愛奇藝,http://php.jdshipin.com/smt.php?id=Qiyi
-愛奇藝,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 愛爾達綜合,http://208.87.242.79/livehttpplay?channel_id=16076
 愛爾達體育1,http://208.87.242.79/livehttpplay?channel_id=20129
 愛爾達體育2,http://208.87.242.79/livehttpplay?channel_id=20107
 愛爾達體育3,http://208.87.242.79/livehttpplay?channel_id=21422
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖天歡樂,http://208.87.242.79/livehttpplay?channel_id=30021
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-鳳凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
-鳳凰資訊,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 龍華日韓,https://cdn8.163189.xyz/163189/lhrh
 龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華經典,https://cdn8.163189.xyz/163189/lhjd
@@ -890,81 +736,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 
-🍀 huanqiuzhibo,#genre#
-
-
-ABC News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=abcnews_glo/playlist.m3u8
-ANIMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Animax/playlist.m3u8
-Arirang,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=arirang_twn/playlist.m3u8
-AXN,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=axn_twn/playlist.m3u8
-BBC Earth,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbcearth_twn/playlist.m3u8
-BBC Lifestyle,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bbclifestyle_twn/playlist.m3u8
-BBC World News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Bbcnews/playlist.m3u8
-CatchPlay電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=catchplay_twn/playlist.m3u8
-CBS,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cbshd_glo/playlist.m3u8
-CBS,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cbsn_glo/playlist.m3u8
-CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8
-CINEMAX,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=cinemax_twn/playlist.m3u8/playlist.m3u8
-CNN International,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Cnn/playlist.m3u8
-EYE旅遊,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eyetvtravel_twn/playlist.m3u8
-EYE戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eyetvxiju_twn/playlist.m3u8
-Fashion TV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=fashiontv_twn/playlist.m3u8
-Fox News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=foxnews_twn/playlist.m3u8
-HBO Hits,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohits_twn/playlist.m3u8
-HBO Signature,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Hbosignature/playlist.m3u8
-HBO,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hbohd_twn/playlist.m3u8
-HGTV,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=HGTV/playlist.m3u8
-MTV Live,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=mtvhd_twn/playlist.m3u8
-TVBS HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs/playlist.m3u8
-TVBS新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs_n/playlist.m3u8
-TVBS歡樂,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbshuanle_twn/playlist.m3u8
-八大戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=badadrama/playlist.m3u8
-三立台灣,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlitaiwan/playlist.m3u8
-三立都會,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlidouhui_twn/playlist.m3u8
-三立綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlizhonghe/playlist.m3u8
-三立戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=sanlixiju_twn/playlist.m3u8
-中天娛樂,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctient/playlist.m3u8
-中天新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctiasia_twn/playlist.m3u8
-中天新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctinews/playlist.m3u8
-中天綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctizhonghe/playlist.m3u8
-中視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshihd_twn/playlist.m3u8
-中視新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshinews_twn/playlist.m3u8
-公視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctv_taiwan/playlist.m3u8
-台視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ttv_taiwan/playlist.m3u8
-民視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvhd_taiwan/playlist.m3u8
-民視台灣,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvtaiwan_twn/playlist.m3u8
-民視新聞 FTV News,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvnew_taiwan/playlist.m3u8
-好萊塢電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hollywoodmovies_twn/playlist.m3u8
-年代新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=niandainews_twn/playlist.m3u8
-東森幼幼,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yoyo_twn/playlist.m3u8
-東森洋片,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvwestern/playlist.m3u8
-東森財經新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvcaijing_twn/playlist.m3u8
-東森新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvnews/playlist.m3u8
-東森電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvmovie/playlist.m3u8
-東森綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvzhonghe/playlist.m3u8
-東森戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvdrama/playlist.m3u8
-非凡新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=feifannews_twn/playlist.m3u8
-美亞電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=meiyamovie_twn/playlist.m3u8
-博斯高球I,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf1_twn/playlist.m3u8
-博斯高球II HD,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosigolf2_twn/playlist.m3u8
-博斯無限,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosiunlimited_twn/playlist.m3u8
-博斯運動I,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport1_twn/playlist.m3u8
-博斯運動II,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bosisport2_twn/playlist.m3u8
-博斯網球,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=bositennis_twn/playlist.m3u8
-壹新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yinews/playlist.m3u8
-華視,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctshd_twn/playlist.m3u8
-華藝中文,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=weishichinese_twn/playlist.m3u8
-愛奇藝,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=Qiyi/playlist.m3u8
-愛爾達體育3,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=eltasport3_twn/playlist.m3u8
-愛爾達體育4,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=natgeowild_twn/playlist.m3u8
-靖天卡通,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=jingtiancartoon_twn/playlist.m3u8
-緯來日本,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandjapan/playlist.m3u8
-緯來電影,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandmovie/playlist.m3u8
-緯來綜合,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandzonghe/playlist.m3u8
-緯來體育,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=videolandsport/playlist.m3u8
-寰宇新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=huanyuxinwen_twn/playlist.m3u8
-龍華戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lunghuaxiju_twn/playlist.m3u8
-龍詳時代,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lungxiangtime_twn/playlist.m3u8
 
 
 
@@ -982,12 +753,10 @@ CMusic,http://dreamtv.sylu.net:2082/play/4gtv-live031/index.m3u8?token=lxbjj8O2w
 CNBC Asia,http://dreamtv.sylu.net:2082/play/4gtv-live130/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 DreamWorks,http://dreamtv.sylu.net:2082/play/4gtv-live017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 DW德國之聲,http://dreamtv.sylu.net:2082/play/4gtv-live071/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-ELTV生活英語,http://dreamtv.sylu.net:2082/play/4gtv-live132/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 FRANCE 24,http://dreamtv.sylu.net:2082/play/4gtv-live146/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 FUN 4K探索娛樂,http://dreamtv.sylu.net:2082/play/4gtv-live011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 GINX Esports TV,http://dreamtv.sylu.net:2082/play/4gtv-4gtv053/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 Global Trekker,http://dreamtv.sylu.net:2082/play/4gtv-live112/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-HITS,http://dreamtv.sylu.net:2082/play/4gtv-live620/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 INULTRA,http://dreamtv.sylu.net:2082/play/4gtv-live096/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 Lifetime,http://dreamtv.sylu.net:2082/play/4gtv-live029/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 LiveABC互動英語,http://dreamtv.sylu.net:2082/play/4gtv-live030/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -1001,12 +770,9 @@ NHK WORLD,http://dreamtv.sylu.net:2082/play/4gtv-live168/index.m3u8?token=lxbjj8
 Nick Jr,http://dreamtv.sylu.net:2082/play/4gtv-live032/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 Nickelodeon,http://dreamtv.sylu.net:2082/play/4gtv-live105/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 ROCK Action,http://dreamtv.sylu.net:2082/play/4gtv-live138/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-ROCK Entertainment,http://dreamtv.sylu.net:2082/play/4gtv-live080/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 TRACE URBAN,http://dreamtv.sylu.net:2082/play/4gtv-4gtv082/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 TV5MONDE Style,http://dreamtv.sylu.net:2082/play/4gtv-live122/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-TVBS台劇,http://dreamtv.sylu.net:2082/play/4gtv-live088/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 TVBS精采,http://dreamtv.sylu.net:2082/play/4gtv-4gtv067/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-TVBS綜藝,http://dreamtv.sylu.net:2082/play/4gtv-live087/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 人間衛視,http://dreamtv.sylu.net:2082/play/4gtv-live008/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 八大精彩,http://dreamtv.sylu.net:2082/play/4gtv-4gtv034/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
@@ -1076,6 +842,9 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 歷史頻道,http://dreamtv.sylu.net:2082/play/4gtv-live026/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 韓國娛樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv016/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 鏡新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv075/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+
+
+
 
 
 
