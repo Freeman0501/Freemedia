@@ -929,7 +929,6 @@ DreamWorks 夢工廠動畫,http://106.107.234.186:5050/4gtv-live017/index.m3u8?t
 DW德國之聲,http://106.107.234.186:5050/4gtv-live071/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTA生活旅遊,http://106.107.234.186:5050/4gtv-live120/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTA娛樂,http://106.107.234.186:5050/4gtv-4gtv070/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-ELTV生活英語台,http://106.107.234.186:5050/litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTV生活英語台,http://106.107.234.186:5050/of-litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 FashionTV 時尚頻道,http://106.107.234.186:5050/4gtv-live085/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 FRANCE24 英文台,http://106.107.234.186:5050/4gtv-live146/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -959,12 +958,7 @@ Smart知識台,http://106.107.234.186:5050/litv-xinchuang19/index.m3u8?token=Udw
 TRACE Sport Stars,http://106.107.234.186:5050/4gtv-4gtv077/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 TRACE Urban,http://106.107.234.186:5050/4gtv-4gtv082/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 TV5MONDE STYLE HD 生活時尚,http://106.107.234.186:5050/4gtv-live122/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-TVBS,http://106.107.234.186:5050/4gtv-4gtv073/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-TVBS,http://106.107.234.186:5050/media-live073/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-TVBS新聞台,http://106.107.234.186:5050/4gtv-4gtv072/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 TVBS新聞台,http://106.107.234.186:5050/media-live072/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-TVBS精采台,http://106.107.234.186:5050/4gtv-4gtv067/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-TVBS歡樂台,http://106.107.234.186:5050/4gtv-4gtv068/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 人間衛視,http://106.107.234.186:5050/4gtv-live008/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 八大精彩,http://106.107.234.186:5050/4gtv-4gtv034/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 八大綜藝,http://106.107.234.186:5050/4gtv-4gtv039/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -1011,7 +1005,7 @@ TVBS歡樂台,http://106.107.234.186:5050/4gtv-4gtv068/index.m3u8?token=UdwlzQnX
 東森購物二台,http://106.107.234.186:5050/4gtv-live046/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 東森購物二台,http://106.107.234.186:5050/of-4gtv-4gtv103/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 東森購物三台,http://106.107.234.186:5050/4gtv-live048/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-東森購物四台,http://106.107.234.186:5050/4gtv-live049/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+東森購物五台,http://106.107.234.186:5050/4gtv-live049/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 采昌影劇,http://106.107.234.186:5050/4gtv-4gtv049/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 金光布袋戲,http://106.107.234.186:5050/4gtv-live144/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 客家電視,http://106.107.234.186:5050/4gtv-4gtv043/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -1541,6 +1535,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
