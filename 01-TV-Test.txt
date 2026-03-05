@@ -375,7 +375,7 @@ TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3
 
 
 
-🍀 7-iptv543,#genre#
+🍀 543TV,#genre#
 
 
 AMC電影台,http://106.107.234.186:5050/4gtv-4gtv017/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -391,7 +391,6 @@ DreamWorks,http://106.107.234.186:5050/4gtv-live017/index.m3u8?token=UdwlzQnXKpa
 DW德國之聲,http://106.107.234.186:5050/4gtv-live071/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTA生活旅遊,http://106.107.234.186:5050/4gtv-live120/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTA娛樂,http://106.107.234.186:5050/4gtv-4gtv070/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-ELTV生活英語,http://106.107.234.186:5050/4gtv-live132/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 ELTV生活英語,http://106.107.234.186:5050/of-litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 Fashion TV,http://106.107.234.186:5050/4gtv-live085/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 FRANCE 24,http://106.107.234.186:5050/4gtv-live146/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -449,7 +448,7 @@ TVBS新聞,http://106.107.234.186:5050/media-live072/index.m3u8?token=UdwlzQnXKp
 民視新聞,http://106.107.234.186:5050/litv-ftv13/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 民視綜藝,http://106.107.234.186:5050/4gtv-4gtv004/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 民視影劇,http://106.107.234.186:5050/litv-ftv09/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-全球財經台,http://106.107.234.186:5050/4gtv-live060/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+全球財經,http://106.107.234.186:5050/4gtv-live060/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 好消息,http://106.107.234.186:5050/litv-ftv16/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 好消息,http://106.107.234.186:5050/of-litv-ftv16/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 好消息2台,http://106.107.234.186:5050/litv-ftv17/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -498,7 +497,7 @@ TVBS新聞,http://106.107.234.186:5050/media-live072/index.m3u8?token=UdwlzQnXKp
 靖天電影,http://106.107.234.186:5050/4gtv-4gtv061/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 靖天綜合,http://106.107.234.186:5050/4gtv-4gtv046/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 靖天戲劇,http://106.107.234.186:5050/4gtv-4gtv058/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-靖天歡樂,http://106.107.234.186:5050/4gtv-4gtv054/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+靖天歡樂台http://106.107.234.186:5050/4gtv-4gtv054/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 靖洋卡通,http://106.107.234.186:5050/4gtv-4gtv057/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 靖洋戲劇,http://106.107.234.186:5050/4gtv-4gtv045/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 滾動力 Rollor,http://106.107.234.186:5050/4gtv-live012/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -522,6 +521,7 @@ TVBS新聞,http://106.107.234.186:5050/media-live072/index.m3u8?token=UdwlzQnXKp
 龍華戲劇,http://106.107.234.186:5050/litv-xinchuang18/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 韓國娛樂,http://106.107.234.186:5050/4gtv-4gtv016/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 鏡新聞,http://106.107.234.186:5050/4gtv-4gtv075/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+
 
 
 
