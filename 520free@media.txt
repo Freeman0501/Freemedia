@@ -291,6 +291,15 @@
 },
 
 {
+"key": "dbokutv_key",
+"name": "獨播庫",
+"type": 3,
+"api": "https://files.catbox.moe/gd1tos.js",
+"style": {"type": "rect","ratio": 1.33},
+"changeable": 1
+},
+
+{
 "key":"360",
 "name": "360資源",
 "type": 1,"api": "https://360zy.com/api.php/provide/vod",
@@ -2382,6 +2391,7 @@
 
 
 ]}
+
 
 
 
