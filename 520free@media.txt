@@ -2302,6 +2302,12 @@
 },
 
 {
+"name": "四季TV",
+"url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+},
+
+{
 "name":"Free TV(綜合)",
 "url":"http://156.238.248.80:8880/live.txt?key=654974",
 "type":0,
@@ -2378,6 +2384,7 @@
 
 
 ]}
+
 
 
 
