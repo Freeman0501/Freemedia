@@ -649,7 +649,7 @@ TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://49.213.188.67:5055/media-live072/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
+TVBS新聞,http://49.213.188.67:5055/4gtv-4gtv072/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
@@ -1440,6 +1440,7 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
