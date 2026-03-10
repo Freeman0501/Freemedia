@@ -2318,16 +2318,6 @@
 },
 
 {
-"name":"Free TV(綜合)",
-"url":"http://156.238.248.80:8880/live.txt?key=654974",
-"type":0,
-"timeout":10,
-"playerType":2,
-"ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-},
-
-{
 "name": "FreeIPTV",
 "url":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/IPTV-Merged.txt",
 "ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
@@ -2363,18 +2353,9 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
-{"name": "SmartTV","url": "http://52xinghe.top/smmmt.php"},
-
 {"name": "港台大陆","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
 
 {"name": "港台大陆无18内容","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"},
-
-{
-"name": "543-SMT",
-"url": "https://iptv543.com/smt1.m3u",
-"ua":"okhttp/4.12.0",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-},
 
 {"name": "日本頻道","url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"},
 
@@ -2394,6 +2375,7 @@
 
 
 ]}
+
 
 
 
