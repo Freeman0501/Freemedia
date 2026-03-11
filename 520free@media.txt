@@ -917,7 +917,6 @@
 "ext": "https://tvbox.catvod.com/js/bili.js"
 },
 
-
 {
 "key": "五八",
 "name": "五八",
@@ -1067,14 +1066,6 @@
 "changeable":1
 },
 
-
-
-
-
-
-#待測區
-
-
 {
 "key": "顾我1",
 "name": "故我",
@@ -1110,36 +1101,6 @@
 },
 
 {
-"key": "白鸽",
-"name": "白鴿",
-"type": 3,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"changeable": 1,
-"ext": {
-"url": "https://cy.baige.asia",
-"dataKey": "599D0FE5178642FD",
-"dataIv": "599D0FE5178642FD"
-}
-},
-
-{
-"key": "魔方",
-"name": "魔方",
-"type": 3,
-"api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"changeable": 1,
-"ext": {
-"url": "http://www.613mf4k12.top",
-"dataKey": "1234567887654321",
-"dataIv": "1234567887654321"
-}
-},
-
-{
 "key": "零度",
 "name": "零度",
 "type": 3,
@@ -1158,24 +1119,6 @@
 },
 
 {
-"key": "粉象",
-"name": "粉象",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://64.64.252.93:8080",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
-"x-app-package": "com.fenxiang.make",
-"x-app-version-code": "1",
-"x-app-version-name": "1.0.0"
-}
-}
-},
-
-{
 "key": "橘猫",
 "name": "橘貓",
 "type": 3,
@@ -1189,24 +1132,6 @@
 "x-app-package": "com.gnzhis.nru",
 "x-app-version-code": "2",
 "x-app-version-name": "2.4.1"
-}
-}
-},
-
-{
-"key": "片喵",
-"name": "片喵",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "https://svip.2video.cc",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-"x-app-package": "com.ds.wlss",
-"x-app-version-code": "56",
-"x-app-version-name": "1.2.6"
 }
 }
 },
@@ -1283,23 +1208,13 @@
 }
 },
 
-{
-"key": "回响",
-"name": "回響",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://110.42.37.69:8080",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
-"x-app-package": "com.recall.app",
-"x-app-version-code": "22",
-"x-app-version-name": "2.2.0"
-}
-}
-},
+
+
+
+
+#待測區
+
+
 
 
 
@@ -1316,14 +1231,6 @@
 
 
 #短劇區
-
-{
-"key": "聚合短剧",
-"name": "聚合🦄短劇",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/聚合短剧.js",
-"changeable": 1
-},
 
 {
 "key": "剧王短剧",
@@ -2316,6 +2223,7 @@
 
 
 ]}
+
 
 
 
