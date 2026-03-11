@@ -17,13 +17,13 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/03/11",
+最終維護日 : 2026/03/12",
 
 "sites": [
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260304 👉 建議更新至 Free Movie 3.7.3 版 >",
+"name": "🌸Free Movie < 20260312 👉 建議更新至 Free Movie 3.7.5 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -324,37 +324,6 @@
 },
 
 {
-"key": "爱奇艺",
-"name": "愛奇藝",
-"type": 3,
-"playerType": "2",
-"searchable": 1,
-"changeable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/aqy2.js"
-},
-
-{
-"key": "腾讯",
-"name": "騰訊",
-"type": 3,
-"playerType": "2",
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"ext": "https://tvbox.catvod.com/js/tx.js"
-},
-
-{
-"key": "搜狗",
-"name": "搜狗",
-"type": 3,
-"playerType": "2",
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"ext": "https://tvbox.catvod.com/js/sg.js"
-},
-
-{
 "key": "csp_123TV",
 "name": "123TV",
 "type": 3,
@@ -447,19 +416,6 @@
 "author": "eylinsir",
 "类型": "影视",
 "lang": "ds",
-"ext": ""
-},
-
-{
-"key": "catvod_荐片",
-"name": "荐片",
-"type": 3,
-"api": "http://142.171.248.206:5757/cat/荐片.js?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "荐片",
-"lang": "cat",
 "ext": ""
 },
 
@@ -571,16 +527,6 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-},
-
-{
-"key": "bili",
-"name": "bili",
-"type": 3,
-"playerType": "2",
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": "https://tvbox.catvod.com/js/bili.js"
 },
 
 {
@@ -845,19 +791,8 @@
 },
 
 {
-"key": "py_aiguatv",
-"name": "愛瓜1",
-"type": 3,
-"api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_aigua.py",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 1
-},
-
-{
 "key": "py_愛瓜app.py",
-"name": "愛瓜2",
+"name": "愛瓜",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/爱瓜TVAPP.py",
 "searchable": 1,
@@ -2381,6 +2316,7 @@
 
 
 ]}
+
 
 
 
