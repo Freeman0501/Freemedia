@@ -147,16 +147,6 @@ TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3
 TVBS新聞,http://49.213.188.67:5055/media-live072/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
-🍀 211-59-120,#genre#
-🍀 211-61-67,#genre#
-🍀 543Test-1,#genre#
-🍀 543TV,#genre#
-🍀 74,#genre#
-🍀 github-Jsnzkpg,#genre#
-🍀 Mix Source,#genre#
-🍀 vrvwfasiyxst,#genre#
-🍀 電視家,#genre#
-🦋 YouTubeLive,#genre#
 人間衛視,http://211.23.114.106:9306/http/59.120.8.187:8081/hls/69/811/ch36.m3u8
 人間衛視,http://211.23.114.106:9306/http/61.67.128.137:8081/hls/69/811/ch36.m3u8
 人間衛視,http://49.213.188.67:5055/4gtv-live008/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
