@@ -10,7 +10,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 🚧 0318 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
-AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
+AI倪珍今日新聞,https://www.youtube.com/watch?v=MrZ8_4kuSRc
 AI倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
