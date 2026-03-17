@@ -532,119 +532,92 @@ TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,http://49.213.188.67:5055/media-live072/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TVBS新聞,http://49.213.188.67:5055/media-live072/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://49.213.188.67:5055/4gtv-live089/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 三立iNEWS,http://49.213.188.67:5055/iNEWS/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-三立新聞,http://208.87.242.79/livehttpplay?channel_id=10126
-三立新聞,http://211.23.95.147:18881/live/54_h265.ts
 三立新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://49.213.188.67:5055/4gtv-4gtv009/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 中天新聞,http://49.213.188.67:5055/4gtv-live409/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 中天新聞,http://49.213.188.67:5055/of-4gtv-4gtv009/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 中天新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
-中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://49.213.188.67:5055/4gtv-4gtv074/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 中視新聞,http://49.213.188.67:5055/4gtv-live474/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 中視新聞,http://49.213.188.67:5055/of-4gtv-4gtv074/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
-中視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv074/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-台視財經,http://211.23.95.147:18881/live/dtv16_h265.ts
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
 台視財經,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHp7E-CuonjF010qAiPHigkGYqbKZsX6DZCE8_CI1L4hKLl68-9hU26UwhCeNzgR0KJGiymp6ThaU3VXxNUMFdQwsWE6lzsD8djD6Ycb33QBB5LdTVMFMVyzrFOGD9i65LnSc5my2O22T6hhJ5koRGnB13qft3b8fJdHTZOSnH8p5i2tJsReRYAFoKCkIKyAJQ.m3u8?u=1756878715
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-台視新聞,http://211.23.95.147:18881/live/dtv15_h265.ts
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 台視新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,http://49.213.188.67:5055/4gtv-live413/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 民視新聞,http://49.213.188.67:5055/litv-ftv13/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-民視新聞,http://211.23.95.147:18881/live/dtv9_h265.ts
-民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHdV2sgD9eLXBTtpA8gvijo2TECYOuADgePR1KGB1I0kBeQk6nfWoWYZS8LBGnrwe-H0Y5zDerMJ20JnIYjg7FdzsWdk2VzlYLRS7nw6e46l7FidsTRkFTa7r8OcBlACj9McQ4HcQZuv-LIAtu0KWX_F3p1gvJPvugSkVD9JO18SLD9aoCCItP557mqCgCQ0ug.m3u8?u=1756878715
-民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://211.23.95.147:18881/live/50_h265.ts
 年代新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,http://49.213.188.67:5055/4gtv-4gtv153/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
-東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞,http://49.213.188.67:5055/4gtv-4gtv152/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-東森新聞,http://208.87.242.79/livehttpplay?channel_id=20082
-東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
-東森新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森新聞,http://49.213.188.67:5055/4gtv-4gtv152/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/74/816/ch56.m3u8
 非凡商業,http://211.23.114.106:8511/http/61.67.128.137:8081/hls/74/816/ch56.m3u8
-非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡商業,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYPZz2oe8Te9gwNdMmKdpLv_XCCdQG3YLsqIwCUmrSv1BVF-mOX5zcL3JmxkHPKnnEMmho0vY8qfz3e-vf0WyAyQxCJNVg43qVtlN915ASo1i4cV68lXL5uN9MdhrSeAdBdKZZ6MLCTrPK7h67-bronqL841aA-WVmH206VY58WBRJaDVVJifPtcoT5McmLOJUQ.m3u8?u=1756878715
-非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
 非凡新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 非凡新聞,http://iptv.fr.to/test/Fmtv.php?id=ffxw
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
-倪珍播新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
+倪珍播新聞,https://www.youtube.com/watch?v=MrZ8_4kuSRc
 倪珍播新聞,http://49.213.188.67:5055/nnews-zh/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
-壹新聞,http://211.23.95.147:18881/live/49_h265.ts
 壹新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
-華視教育體育文化,http://211.23.95.147:18881/live/dtv19_h265.ts
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://49.213.188.67:5055/4gtv-4gtv052/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 華視新聞,http://49.213.188.67:5055/4gtv-live452/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 華視新聞,http://49.213.188.67:5055/of-4gtv-4gtv052/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-華視新聞,http://211.23.95.147:18881/live/dtv20_h265.ts
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
-華視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv052/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
 寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
 寰宇財經,http://49.213.188.67:5055/of-4gtv-4gtv158/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
+寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://49.213.188.67:5055/4gtv-live408/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 寰宇新聞,http://49.213.188.67:5055/litv-longturn14/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 寰宇新聞,http://49.213.188.67:5055/of-litv-longturn14/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
-寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
-寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://49.213.188.67:5055/4gtv-4gtv156/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 寰宇新聞台灣,http://49.213.188.67:5055/of-4gtv-4gtv156/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 寰宇新聞台灣,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rvx6mPFYFBkkZvn9WFnIWrnrmw-PJg94VdaIFjhKLLslS3hVgt8K1Gxhccp_R67ZRq_HQNtWBy3po4j7bv2IwqnZT9T8D5Ef3z7y9ybvoYR_r9iPLH8ejARDMhF9S1XKesCvpRSuc2dxQIegka38FuTXru3e7plTyOLICLjP8wL2__-kVV5BF8U8VV7BewaGHGdqMycRKCnq0nX0iQk4S_Kk.m3u8?u=1756878715
-寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-鏡新聞,http://49.213.188.67:5055/4gtv-4gtv075/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 鏡新聞,http://211.23.114.106:8545/http/59.120.8.187:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,http://211.23.114.106:8545/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
-鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
-鏡新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv075/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+鏡新聞,http://49.213.188.67:5055/4gtv-4gtv075/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 
@@ -863,7 +836,7 @@ TVBS歡樂台,http://49.213.188.67:5055/4gtv-4gtv068/index.m3u8?token=6KbdNACKhD
 🦄 YouTube影視,#genre#
 
 
-Love Nature,https://www.youtube.com/watch?v=vBnErz43N1A
+Love Nature,https://www.youtube.com/watch?v=QhahoVG0BfI
 
 
 International Space Station,https://www.youtube.com/watch?v=0FBiyFpV__g
@@ -875,18 +848,18 @@ Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
 新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
 蠟筆小新,https://www.youtube.com/watch?v=ENnjj7jQ23g
 蠟筆小新劇場版系列,https://www.youtube.com/watch?v=tBYG62NeTdU
-
-
-獵人,https://www.youtube.com/watch?v=UVouDle2jHc
-間諜家家酒,https://www.youtube.com/watch?v=hdgvUXazd1w
-BanG Dream,https://www.youtube.com/watch?v=iZ44tIBbfH0
-JOJO的奇妙冒險,https://www.youtube.com/watch?v=4_JnTQCn9Kg
+獵人HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc
 葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs
+
+歡迎來到實力至上主義的教室,https://www.youtube.com/watch?v=m_jf145GR68
+入間同學入魔了,https://www.youtube.com/watch?v=tbDTejyARHc
+鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak
 進擊的巨人,https://www.youtube.com/watch?v=cbFb2RC1ruI
 
 
-遊戲王,https://www.youtube.com/watch?v=SHngPS2mRac
-
+遊戲王,https://www.youtube.com/watch?v=2CuQvkii45g
+OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM
+月光下的異世界之旅,https://www.youtube.com/watch?v=TB1c1MJly6U
 
 TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
 TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
@@ -902,7 +875,6 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
 
 龍兄虎弟,https://www.youtube.com/watch?v=gzJiMu3OKpo
-一秒回到青春時代,https://www.youtube.com/watch?v=odQOO4j594c
 神機妙算劉伯溫,https://www.youtube.com/watch?v=sI7skw-v-ok
 流氓教授,https://www.youtube.com/watch?v=nt6SoW6D5i8
 風流才子唐伯虎,https://www.youtube.com/watch?v=cctPGjBUu98
@@ -933,11 +905,10 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 包青天,https://www.youtube.com/watch?v=Qq-uMi_1Rzk
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
+齊天大聖孫悟空,https://www.youtube.com/watch?v=pEYrYno2uWc
 琅琊榜,https://www.youtube.com/watch?v=18ypxNBbMYY
 羋月傳,https://www.youtube.com/watch?v=Jn8ulwzkehE
-後宮甄嬛傳,https://www.youtube.com/watch?v=_GL9HgmaFfU
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
-
 
 飛龍在天,https://www.youtube.com/watch?v=Nfwr1WBXt9I
 意難忘,https://www.youtube.com/watch?v=yzdKYRUCdxQ
@@ -947,8 +918,9 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 飢餓遊戲,https://www.youtube.com/watch?v=dKCewm0l1nM
 飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 
-未來媽媽+狼王子,https://www.youtube.com/watch?v=Os5orue62go
-真愛趁現在+真愛黑白配,https://www.youtube.com/watch?v=LifgWpNjkdI
+比賽開始,https://www.youtube.com/watch?v=Cz3T1FwPumg
+放羊的星星,https://www.youtube.com/watch?v=PP5bsVCPiMA
+薰衣草,https://www.youtube.com/watch?v=LifgWpNjkdI
 
 終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
 
@@ -970,12 +942,14 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 軍武大觀,video://https://www.faintv.com/channel/18271
 歡樂看新聞,video://http://www.faintv.com/channel/19670
 CNEX紀實頻道,video://http://www.faintv.com/channel/18295
+鳳凰衛視中文台,video://https://www.faintv.com/channel/204
+鳳凰衛視資訊台,video://https://www.faintv.com/channel/120
 鳳凰衛視香港台,video://http://www.faintv.com/channel/18965
 新唐人電視,video://http://www.faintv.com/channel/8976
 台灣啟示錄,video://http://www.faintv.com/channel/18254
-大大平評理,video://http://www.faintv.com/channel/18310
+政治狠狠問,video://https://www.faintv.com/channel/21235
 LINE TODAY看世界,video://http://www.faintv.com/channel/18948
-論政天下之鬥而不破,video://https://www.faintv.com/channel/16488
+論政天下之鬥而不破,https://www.faintv.com/channel/16174
 謝龍介直播,video://https://www.faintv.com/channel/23092
 小宇宙大爆發,video://http://www.faintv.com/channel/18475
 
@@ -984,6 +958,7 @@ LINE TODAY看世界,video://http://www.faintv.com/channel/18948
 中天亞洲台,video://https://www.faintv.com/channel/121
 Smart知識台,video://http://www.faintv.com/channel/68
 ETtoday綜合台,video://http://www.faintv.com/channel/146
+海峽衛視台,,video://https://www.faintv.com/channel/211
 大愛一台,video://http://www.faintv.com/channel/1869
 大愛二台,video://http://www.faintv.com/channel/11877
 好消息綜合台,video://http://www.faintv.com/channel/101
@@ -995,10 +970,11 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 
 
 
-雲端創作音樂台,video://http://www.faintv.com/channel/18271
-雲端電音音樂台,video://http://www.faintv.com/channel/16174
+雲端創作音樂台,video://https://www.faintv.com/channel/17617
+雲端電音音樂台,video://https://www.faintv.com/channel/16488
 吉馬欣代音樂,video://http://www.faintv.com/channel/18636
 楊桃美食台,video://http://www.faintv.com/channel/16650
+全民星攻略,video://https://www.faintv.com/channel/18310
 行動電源出發吧,video://https://www.faintv.com/channel/20308
 請問今晚住誰家,video://http://www.faintv.com/channel/20309
 花甲少年趣旅行,video://http://www.faintv.com/channel/20559
@@ -1021,11 +997,9 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 歡樂兒童台,,video://https://www.faintv.com/channel/22768
 森林特工大腳丫家族,video://https://www.faintv.com/channel/15300
 北海小英雄,video://https://www.faintv.com/channel/19468
-菲利斯之永夜島歷險記,video://https://www.faintv.com/channel/21556
 紅鞋公主與七矮人,video://https://www.faintv.com/channel/21516
 新幹線變形機器人,video://https://www.faintv.com/channel/21553
 露西亞的聖誕願望,video://https://www.faintv.com/channel/20362
-小狼童阿飛,video://https://www.faintv.com/channel/21557
 迷雁返家路,video://https://www.faintv.com/channel/22103
 
 
@@ -1043,7 +1017,7 @@ Pace Sport,video://http://www.faintv.com/channel/5353
 
 
 EuroNews,video://http://www.faintv.com/channel/17576
-CNA News,video://http://www.faintv.com/channel/12284
+CNA News,video:/https://www.faintv.com/channel/23099
 FRANCE 24,video://http://www.faintv.com/channel/16271
 ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
@@ -1051,14 +1025,8 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 雍正王朝,video://https://www.faintv.com/channel/17309
 善德女王,video://https://www.faintv.com/channel/15359
-雙軌,video://https://www.faintv.com/channel/20370
 家宴,video://https://www.faintv.com/channel/6945
 鳯囚凰,video://https://www.faintv.com/channel/17313
-愛上ㄆㄤˋ滋味,video://https://www.faintv.com/channel/21568
-路邊董事長,video://https://www.faintv.com/channel/18199
-人生算什麼,video://https://www.faintv.com/channel/18197
-天下第一招,video://https://www.faintv.com/channel/21869
-
 
 
 玩命賽道,video://http://www.faintv.com/channel/21028
@@ -1066,6 +1034,7 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 史前魔種,video://https://www.faintv.com/channel/21641
 不丹是教室,video://https://www.faintv.com/channel/21646
 死屍日,video://https://www.faintv.com/channel/17686
+原振俠與衛斯理,video://https://www.faintv.com/channel/15766
 無間行者之生死潛行,video://http://www.faintv.com/channel/16501
 寒戰2,video://http://www.faintv.com/channel/16473
 三國殺幻,video://https://www.faintv.com/channel/21642
@@ -1075,7 +1044,6 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 古劍奇譚之流月昭明,video://https://www.faintv.com/channel/21031
 
 
-
 雲端爵士樂,video://https://www.faintv.com/channel/21549
 雲端鋼琴音樂,video://https://www.faintv.com/channel/22124
 雲端水晶音樂,video://https://www.faintv.com/channel/22125
@@ -1083,14 +1051,18 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 雲端舒眠音樂,video://https://www.faintv.com/channel/23025
 
 
-
-交換旅遊日記,video://http://www.faintv.com/channel/18978
+如常,video://https://www.faintv.com/channel/17895
 富士山朝聖之旅,video://http://www.faintv.com/channel/19407
 煮吧換咗我阿媽,video://https://www.faintv.com/channel/19194
 餸情,video://https://www.faintv.com/channel/19459
-如常,video://https://www.faintv.com/channel/17895
-美女郊遊遊,video://http://www.faintv.com/channel/19121
-臺灣文西Only You,video://https://www.faintv.com/channel/19409
+車站人生,video://https://www.faintv.com/channel/18978
+姊姊向前衝,video://https://www.faintv.com/channel/19121
+黃金大天團,video://https://www.faintv.com/channel/19409
+菜頭梗的滋味,video://https://www.faintv.com/channel/20370
+愛上ㄆㄤˋ滋味,video://https://www.faintv.com/channel/21568
+路邊董事長,video://https://www.faintv.com/channel/18199
+人生算什麼,video:/https://www.faintv.com/channel/18197
+天下第一招,video://https://www.faintv.com/channel/21869
 
 
 
