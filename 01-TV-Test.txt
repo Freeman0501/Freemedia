@@ -63,6 +63,27 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 
 🍀 Mix Source,#genre#
 
+DAZN體育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN體育2,rtmp://f13h.mine.nu/sat/tv741
+MOMO TV,rtmp://f13h.mine.nu/sat/tv761
+中視,rtmp://f13h.mine.nu/sat/tv091
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
+華視,rtmp://f13h.mine.nu/sat/tv111
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+
+
 
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -77,6 +98,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+HBO,http://220.134.196.147:9520/index.m3u8
 
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭電影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
