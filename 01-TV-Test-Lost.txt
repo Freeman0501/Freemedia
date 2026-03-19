@@ -12,101 +12,6 @@ url=https://tv.iill.top/m3u/Gather
 
 
 
-🍀 211-23-95,#genre#
-
-
-AMC電影台,http://211.23.95.147:18881/live/69_h265.ts
-AXN,http://211.23.95.147:18881/live/67_h265.ts
-BS日テレ東,http://211.23.95.147:18881/live/dtv40_h265.ts
-CCTV-15音樂,http://211.23.95.147:18881/live/dtv26_h265.ts
-CCTV-4中文國際,http://211.23.95.147:18881/live/dtv34_h265.ts
-CCTV-9紀录,http://211.23.95.147:18881/live/dtv32_h265.ts
-CCTV-娛樂,http://211.23.95.147:18881/live/dtv37_h265.ts
-CINEMAX,http://211.23.95.147:18881/live/71_h265.ts
-DAZN體育1,http://211.23.95.147:18881/live/73_h265.ts
-DAZN體育2,http://211.23.95.147:18881/live/74_h265.ts
-Discovery,http://211.23.95.147:18881/live/19_h265.ts
-HBO,http://211.23.95.147:18881/live/65_h265.ts
-JET綜合,http://211.23.95.147:18881/live/45_h265.ts
-NHK BS,http://211.23.95.147:18881/live/dtv39_h265.ts
-NHK WORLD,http://211.23.95.147:18881/live/95_h265.ts
-TLC旅遊生活,http://211.23.95.147:18881/live/21_h265.ts
-TVBS HD,http://211.23.95.147:18881/live/56_h265.ts
-TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
-TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
-人間衛視,http://211.23.95.147:18881/live/dtv24_h265.ts
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-八大第一,http://211.23.95.147:18881/live/27_h265.ts
-八大綜合,http://211.23.95.147:18881/live/28_h265.ts
-八大戲劇,http://211.23.95.147:18881/live/41_h265.ts
-三立台灣,http://211.23.95.147:18881/live/29_h265.ts
-三立都會,http://211.23.95.147:18881/live/30_h265.ts
-三立新聞,http://211.23.95.147:18881/live/54_h265.ts
-大愛,http://211.23.95.147:18881/live/dtv23_h265.ts
-中天娛樂,http://211.23.95.147:18881/live/39_h265.ts
-中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-中天綜合,http://211.23.95.147:18881/live/36_h265.ts
-中視,http://211.23.95.147:18881/live/dtv1_h265.ts
-中視菁采,http://211.23.95.147:18881/live/dtv4_h265.ts
-中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
-中視經典,http://211.23.95.147:18881/live/dtv3_h265.ts
-公視,http://211.23.95.147:18881/live/dtv5_h265.ts
-公視台語,http://211.23.95.147:18881/live/dtv6_h265.ts
-小公視,http://211.23.95.147:18881/live/dtv11_h265.ts
-台視,http://211.23.95.147:18881/live/dtv14_h265.ts
-台視財經,http://211.23.95.147:18881/live/dtv16_h265.ts
-台視新聞,http://211.23.95.147:18881/live/dtv15_h265.ts
-台視綜合,http://211.23.95.147:18881/live/dtv17_h265.ts
-Taiwan+,http://211.23.95.147:18881/live/dtv21_h265.ts
-民視,http://211.23.95.147:18881/live/dtv7_h265.ts
-民視台灣,http://211.23.95.147:18881/live/dtv10_h265.ts
-民視第一,http://211.23.95.147:18881/live/dtv8_h265.ts
-民視新聞,http://211.23.95.147:18881/live/dtv9_h265.ts
-好萊塢電影,http://211.23.95.147:18881/live/68_h265.ts
-年代MUCH,http://211.23.95.147:18881/live/38_h265.ts
-年代新聞,http://211.23.95.147:18881/live/50_h265.ts
-東方衛視國際,http://211.23.95.147:18881/live/dtv38_h265.ts
-東風衛視,http://211.23.95.147:18881/live/37_h265.ts
-東森幼幼,http://211.23.95.147:18881/live/25_h265.ts
-東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
-東森超視,http://211.23.95.147:18881/live/33_h265.ts
-東森新聞,http://211.23.95.147:18881/live/51_h265.ts
-東森綜合,http://211.23.95.147:18881/live/32_h265.ts
-東森戲劇,http://211.23.95.147:18881/live/40_h265.ts
-Discovery,http://211.23.95.147:18881/live/dtv29_h265.ts
-非凡商業,http://211.23.95.147:18881/live/89_h265.ts
-非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
-客家電視,http://211.23.95.147:18881/live/dtv12_h265.ts
-原住民電視,http://211.23.95.147:18881/live/dtv13_h265.ts
-動物星球,http://211.23.95.147:18881/live/22_h265.ts
-國會頻道1,http://61.58.60.230:9319/live/123.m3u8
-國會頻道2,http://211.23.95.147:18881/live/dtv22_h265.ts
-國會頻道2,http://61.58.60.230:9319/live/124.m3u8
-國興衛視,http://211.23.114.106:8523/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
-國興衛視,http://211.23.95.147:18881/live/78_h265.ts
-壹新聞,http://211.23.95.147:18881/live/49_h265.ts
-壹電影,http://211.23.95.147:18881/live/102_h265.ts
-壹綜合,http://211.23.95.147:18881/live/104_h265.ts
-華視,http://211.23.95.147:18881/live/dtv18_h265.ts
-華視教育體育文化,http://211.23.95.147:18881/live/dtv19_h265.ts
-華視新聞,http://211.23.95.147:18881/live/dtv20_h265.ts
-韓國娛樂,http://211.23.95.147:18881/live/31_h265.ts
-Discovery SCI,http://211.23.95.147:18881/live/dtv31_h265.ts
-緯來日本,http://211.23.95.147:18881/live/77_h265.ts
-緯來育樂,http://211.23.95.147:18881/live/70_h265.ts
-緯來電影,http://211.23.95.147:18881/live/63_h265.ts
-緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
-緯來綜合,http://211.23.95.147:18881/live/26_h265.ts
-緯來戲劇,http://211.23.95.147:18881/live/43_h265.ts
-緯來體育,http://211.23.95.147:18881/live/72_h265.ts
-鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
-
-
-
-
-
-
 
 
 
@@ -974,6 +879,209 @@ TVBS歡樂,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbshuanle_twn/playlist
 寰宇新聞,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=huanyuxinwen_twn/playlist.m3u8
 龍華戲劇,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lunghuaxiju_twn/playlist.m3u8
 龍詳時代,http://us.huanqiuzhibo.cn/huanqiusmart.php?id=lungxiangtime_twn/playlist.m3u8
+
+
+🍀 dreamtv,#genre#
+
+
+AMC電影台,http://dreamtv.sylu.net:2082/play/4gtv-4gtv017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Arirang TV,http://dreamtv.sylu.net:2082/play/4gtv-4gtv079/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+BLOOMBERG TV,http://dreamtv.sylu.net:2082/play/4gtv-live059/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+CI 罪案偵查頻道,http://dreamtv.sylu.net:2082/play/4gtv-live027/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Cinema World,http://dreamtv.sylu.net:2082/play/4gtv-live069/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+CLASSICA古典音樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv059/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+CMusic,http://dreamtv.sylu.net:2082/play/4gtv-live031/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+CNBC Asia,http://dreamtv.sylu.net:2082/play/4gtv-live130/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+DreamWorks,http://dreamtv.sylu.net:2082/play/4gtv-live017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+DW德國之聲,http://dreamtv.sylu.net:2082/play/4gtv-live071/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+FRANCE 24,http://dreamtv.sylu.net:2082/play/4gtv-live146/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+FUN 4K探索娛樂,http://dreamtv.sylu.net:2082/play/4gtv-live011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+GINX Esports TV,http://dreamtv.sylu.net:2082/play/4gtv-4gtv053/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Global Trekker,http://dreamtv.sylu.net:2082/play/4gtv-live112/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+INULTRA,http://dreamtv.sylu.net:2082/play/4gtv-live096/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Lifetime,http://dreamtv.sylu.net:2082/play/4gtv-live029/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+LiveABC互動英語,http://dreamtv.sylu.net:2082/play/4gtv-live030/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+LOVE NATURE,http://dreamtv.sylu.net:2082/play/4gtv-live208/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+LUXE TV,http://dreamtv.sylu.net:2082/play/4gtv-live121/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Magellan TV,http://dreamtv.sylu.net:2082/play/4gtv-live123/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+MCE,http://dreamtv.sylu.net:2082/play/litv-ftv10/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+MEZZO LIVE,http://dreamtv.sylu.net:2082/play/4gtv-4gtv083/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+MOMO親子,http://dreamtv.sylu.net:2082/play/4gtv-live107/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+NHK WORLD,http://dreamtv.sylu.net:2082/play/4gtv-live168/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Nick Jr,http://dreamtv.sylu.net:2082/play/4gtv-live032/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Nickelodeon,http://dreamtv.sylu.net:2082/play/4gtv-live105/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+ROCK Action,http://dreamtv.sylu.net:2082/play/4gtv-live138/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TRACE URBAN,http://dreamtv.sylu.net:2082/play/4gtv-4gtv082/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TV5MONDE Style,http://dreamtv.sylu.net:2082/play/4gtv-live122/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS精采,http://dreamtv.sylu.net:2082/play/4gtv-4gtv067/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+人間衛視,http://dreamtv.sylu.net:2082/play/4gtv-live008/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+八大精彩,http://dreamtv.sylu.net:2082/play/4gtv-4gtv034/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+三立綜合,http://dreamtv.sylu.net:2082/play/4gtv-live207/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+大愛,http://dreamtv.sylu.net:2082/play/4gtv-live007/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+大愛2台,http://dreamtv.sylu.net:2082/play/4gtv-live106/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv040/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv074/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+公視戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv042/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv002/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv155/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv001/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視旅遊,http://dreamtv.sylu.net:2082/play/litv-ftv07/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視第一,http://dreamtv.sylu.net:2082/play/4gtv-4gtv003/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視綜藝,http://dreamtv.sylu.net:2082/play/4gtv-4gtv004/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視影劇,http://dreamtv.sylu.net:2082/play/litv-ftv09/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+全球財經,http://dreamtv.sylu.net:2082/play/4gtv-live060/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+好消息,http://dreamtv.sylu.net:2082/play/litv-ftv16/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+好消息2台,http://dreamtv.sylu.net:2082/play/litv-ftv17/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+車迷 TV,http://dreamtv.sylu.net:2082/play/4gtv-live201/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+亞洲旅遊,http://dreamtv.sylu.net:2082/play/4gtv-4gtv076/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+幸福空間居家,http://dreamtv.sylu.net:2082/play/4gtv-live206/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森購物一台,http://dreamtv.sylu.net:2082/play/4gtv-live047/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森購物二台,http://dreamtv.sylu.net:2082/play/4gtv-live046/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森購物三台,http://dreamtv.sylu.net:2082/play/4gtv-live048/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森購物五台,http://dreamtv.sylu.net:2082/play/4gtv-live049/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+采昌影劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv049/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+金光布袋戲,http://dreamtv.sylu.net:2082/play/4gtv-live144/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+客家電視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv043/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+原住民族電視,http://dreamtv.sylu.net:2082/play/4gtv-live014/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+時尚運動X,http://dreamtv.sylu.net:2082/play/4gtv-4gtv014/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+國會頻道1,http://dreamtv.sylu.net:2082/play/4gtv-4gtv084/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+國會頻道2,http://dreamtv.sylu.net:2082/play/4gtv-4gtv085/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+智林體育,http://dreamtv.sylu.net:2082/play/4gtv-4gtv101/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv041/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv052/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+視納華仁紀實,http://dreamtv.sylu.net:2082/play/4gtv-4gtv013/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+愛爾達生活旅遊,http://dreamtv.sylu.net:2082/play/4gtv-live120/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+新唐人亞太,http://dreamtv.sylu.net:2082/play/4gtv-live050/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+經典卡通,http://dreamtv.sylu.net:2082/play/4gtv-live022/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+經典電影,http://dreamtv.sylu.net:2082/play/4gtv-live021/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+達文西頻道,http://dreamtv.sylu.net:2082/play/4gtv-4gtv018/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天日本,http://dreamtv.sylu.net:2082/play/4gtv-4gtv047/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天卡通,http://dreamtv.sylu.net:2082/play/4gtv-4gtv044/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天育樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv062/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天映畫,http://dreamtv.sylu.net:2082/play/4gtv-4gtv055/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天國際,http://dreamtv.sylu.net:2082/play/4gtv-4gtv063/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天資訊,http://dreamtv.sylu.net:2082/play/4gtv-4gtv065/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天電影,http://dreamtv.sylu.net:2082/play/4gtv-4gtv061/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天綜合,http://dreamtv.sylu.net:2082/play/4gtv-4gtv046/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv058/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv054/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖洋卡通,http://dreamtv.sylu.net:2082/play/4gtv-4gtv057/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖洋戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv045/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+滾動力 Rollor,http://dreamtv.sylu.net:2082/play/4gtv-live012/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+精選動漫台,http://dreamtv.sylu.net:2082/play/4gtv-live024/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+影迷紀實,http://dreamtv.sylu.net:2082/play/litv-ftv15/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+影迷數位電影,http://dreamtv.sylu.net:2082/play/4gtv-4gtv011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+豬哥亮歌廳秀,http://dreamtv.sylu.net:2082/play/4gtv-4gtv006/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+歷史頻道,http://dreamtv.sylu.net:2082/play/4gtv-live026/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+韓國娛樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv016/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+鏡新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv075/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+
+
+
+
+
+
+
+
+🐣 FastTV飛速看,#genre#
+
+
+007情報員,http://dreamtv.sylu.net:2082/play/fast-live035/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+11點熱吵店,http://dreamtv.sylu.net:2082/play/fast-live206/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+2025雙北世壯運,http://dreamtv.sylu.net:2082/play/fast-live238/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Duck TV兒童卡通,http://dreamtv.sylu.net:2082/play/fast-live409/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+FOOD超人,http://dreamtv.sylu.net:2082/play/fast-live410/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+GoGoTaiwan,http://dreamtv.sylu.net:2082/play/fast-live235/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+HahaTai 哈哈台,http://dreamtv.sylu.net:2082/play/fast-live243/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS看板人物,http://dreamtv.sylu.net:2082/play/fast-live222/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+WTO姐妹會,http://dreamtv.sylu.net:2082/play/fast-live207/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+一字千金,http://dreamtv.sylu.net:2082/play/fast-live202/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+一起追韓星,http://dreamtv.sylu.net:2082/play/fast-live239/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+大兵日記,http://dreamtv.sylu.net:2082/play/fast-live039/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+大愛精選,http://dreamtv.sylu.net:2082/play/fast-live023/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+女人我最大,http://dreamtv.sylu.net:2082/play/fast-live204/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+女力故事館,http://dreamtv.sylu.net:2082/play/fast-live043/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+女力報到,http://dreamtv.sylu.net:2082/play/fast-live047/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中國傳奇故事,http://dreamtv.sylu.net:2082/play/fast-live045/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+公視好劇,http://dreamtv.sylu.net:2082/play/fast-live006/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+天才衝衝衝,http://dreamtv.sylu.net:2082/play/fast-live201/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+日劇一丁目,http://dreamtv.sylu.net:2082/play/fast-live041/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+日韓電影大賞,http://dreamtv.sylu.net:2082/play/fast-live022/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+世間路,http://dreamtv.sylu.net:2082/play/fast-live028/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+以家人之名,http://dreamtv.sylu.net:2082/play/fast-live012/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+以愛為營,http://dreamtv.sylu.net:2082/play/fast-live031/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+加油喜事,http://dreamtv.sylu.net:2082/play/fast-live013/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+包青天,http://dreamtv.sylu.net:2082/play/fast-live034/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+去有風的地方,http://dreamtv.sylu.net:2082/play/fast-live014/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+古裝武俠劇,http://dreamtv.sylu.net:2082/play/fast-live030/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+台灣No.1棒球精選,http://dreamtv.sylu.net:2082/play/fast-live242/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+台灣傳奇,http://dreamtv.sylu.net:2082/play/fast-live026/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+台灣靈異事件,http://dreamtv.sylu.net:2082/play/fast-live010/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+市井豪門,http://dreamtv.sylu.net:2082/play/fast-live001/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視健康美麗生活,http://dreamtv.sylu.net:2082/play/fast-live210/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+全家有智慧,http://dreamtv.sylu.net:2082/play/fast-live209/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+全能歌手,http://dreamtv.sylu.net:2082/play/fast-live216/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+同學！搞什麼鬼,http://dreamtv.sylu.net:2082/play/fast-live232/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+多情城市,http://dreamtv.sylu.net:2082/play/fast-live015/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+免費精選動畫,http://dreamtv.sylu.net:2082/play/fast-live407/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+別打擾我種田,http://dreamtv.sylu.net:2082/play/fast-live018/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+我的成長,http://dreamtv.sylu.net:2082/play/fast-live219/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+姊妹亮起來,http://dreamtv.sylu.net:2082/play/fast-live211/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+幸福保衛戰,http://dreamtv.sylu.net:2082/play/fast-live231/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+怪獸之王,http://dreamtv.sylu.net:2082/play/fast-live413/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東離劍遊紀,http://dreamtv.sylu.net:2082/play/fast-live414/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+武媚娘傳奇,http://dreamtv.sylu.net:2082/play/fast-live042/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+爸媽囧很大,http://dreamtv.sylu.net:2082/play/fast-live233/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+花千骨,http://dreamtv.sylu.net:2082/play/fast-live017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+金光布袋戲,http://dreamtv.sylu.net:2082/play/fast-live402/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+哆啦A夢,http://dreamtv.sylu.net:2082/play/fast-live405/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+威廉沈歡樂送,http://dreamtv.sylu.net:2082/play/fast-live208/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+客家好劇,http://dreamtv.sylu.net:2082/play/fast-live007/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+飛龍在天,http://dreamtv.sylu.net:2082/play/fast-live024/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+食尚玩家,http://dreamtv.sylu.net:2082/play/fast-live205/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+娛樂百分百,http://dreamtv.sylu.net:2082/play/fast-live212/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+恐怖電影,http://dreamtv.sylu.net:2082/play/fast-live029/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+浩克慢遊,http://dreamtv.sylu.net:2082/play/fast-live227/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+鬥陣大廟埕,http://dreamtv.sylu.net:2082/play/fast-live218/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+健康2.0,http://dreamtv.sylu.net:2082/play/fast-live220/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+國外電影精選,http://dreamtv.sylu.net:2082/play/fast-live021/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+野蠻遊戲：We Play,http://dreamtv.sylu.net:2082/play/fast-live223/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+最愛韓星,http://dreamtv.sylu.net:2082/play/fast-live224/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視好劇,http://dreamtv.sylu.net:2082/play/fast-live005/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+超人力霸王《TV版》,http://dreamtv.sylu.net:2082/play/fast-live403/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+超人力霸王《劇場版》,http://dreamtv.sylu.net:2082/play/fast-live404/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+超級冰冰Show,http://dreamtv.sylu.net:2082/play/fast-live213/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+黃金歲月,http://dreamtv.sylu.net:2082/play/fast-live016/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+新兵日記,http://dreamtv.sylu.net:2082/play/fast-live011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+經典卡通,http://dreamtv.sylu.net:2082/play/fast-live406/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+經典迪士尼,http://dreamtv.sylu.net:2082/play/fast-live408/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+葉青歌仔戲,http://dreamtv.sylu.net:2082/play/fast-live038/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+精彩陸劇,http://dreamtv.sylu.net:2082/play/fast-live033/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+精選華語電影,http://dreamtv.sylu.net:2082/play/fast-live009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+綜藝大集合,http://dreamtv.sylu.net:2082/play/fast-live203/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+綜藝大贏家,http://dreamtv.sylu.net:2082/play/fast-live241/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+綜藝新時代,http://dreamtv.sylu.net:2082/play/fast-live230/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+輕鬆看法律,http://dreamtv.sylu.net:2082/play/fast-live221/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+豬哥會社,http://dreamtv.sylu.net:2082/play/fast-live214/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+機智校園生活,http://dreamtv.sylu.net:2082/play/fast-live046/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+親子一起看,http://dreamtv.sylu.net:2082/play/fast-live412/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+親戚不計較(特輯),http://dreamtv.sylu.net:2082/play/fast-live040/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+環遊世界800天,http://dreamtv.sylu.net:2082/play/fast-live228/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+韓流美食料理秀,http://dreamtv.sylu.net:2082/play/fast-live240/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+藍色水玲瓏,http://dreamtv.sylu.net:2082/play/fast-live032/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+醫學大聯盟,http://dreamtv.sylu.net:2082/play/fast-live234/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+懷舊經典電影,http://dreamtv.sylu.net:2082/play/fast-live008/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+
+
+
 
 
 
