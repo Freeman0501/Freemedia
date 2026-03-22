@@ -1,67 +1,164 @@
 <html>
 
 <head>
-<meta http-equiv="Content-Language" content="zh-tw">
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<title>Freeman</title>
-<style>
-    /* 設定時間顯示的樣式 */
-    #current-time {
-        color: #FFFFFF;     /* 顏色為白色 */
-        text-align: center;  /* 文字置中 */
-        font-family: "Century Gothic", "Apple Gothic", "Copperplate", "Meiryo", sans-serif;
-        font-size: 1.1em;      /* 維持您設定的 1.1 倍字體 */
-        font-weight: normal;   /* 確保不加粗 */
-        margin-top: 20px;
-    }
+    <meta http-equiv="Content-Language" content="zh-tw">
+    <meta charset="UTF-8">
+    <title>Freeman</title>
+    <link rel="icon" href="logo.jpg" type="image/jpeg">
+    <style>
+        /* 設定時間顯示的樣式 */
+        /* 設定時間顯示的樣式 */
+        #current-time {
+            color: #fff;
+            text-shadow: 0 0 5px #fff, 0 0 10px #d580ff, 0 0 20px #b026ff, 0 0 40px #b026ff, 0 0 80px #8a2be2;
+            text-align: center;
+            font-family: "Century Gothic", "Apple Gothic", "Copperplate", "Meiryo", sans-serif;
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-top: 20px;
+        }
 
-    /* 新增跑馬燈字體大小設定 */
-    marquee {
-        font-size: 1.5em;    /* 加大 UNDER CONSTRUCTION 為 1.5 倍 */
-    }
-</style>
+        /* 新增動畫設定 */
+        .bouncing-container {
+            position: fixed;
+            bottom: 25px;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .bouncing-text {
+            font-size: 1.2em;
+            display: inline-block;
+            white-space: nowrap;
+            animation: bounce 6s ease-in-out infinite alternate;
+        }
+
+        @keyframes bounce {
+            0% {
+                transform: translateX(-40vw);
+            }
+
+            100% {
+                transform: translateX(40vw);
+            }
+        }
+
+        /* 遊戲連結區塊樣式 */
+        .game-links {
+            text-align: center;
+            margin-top: 35px;
+            display: flex;
+            justify-content: center;
+            gap: 45px;
+            perspective: 1000px;
+        }
+
+        .game-links a {
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .game-label {
+            color: #d580ff;
+            font-size: 1rem;
+            font-weight: bold;
+            text-shadow: 0 0 5px #b026ff;
+            transition: all 0.3s ease;
+        }
+
+        .game-links a:hover .game-label {
+            color: #fff;
+            text-shadow: 0 0 10px #fff, 0 0 20px #b026ff;
+            transform: translateY(-8px);
+        }
+
+        .game-links img {
+            width: 110px;
+            height: 110px;
+            border-radius: 24px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .game-links a:hover img {
+            transform: translateY(-15px) scale(1.1) rotate(2deg);
+            box-shadow: 0 15px 30px rgba(176, 38, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.3);
+            border-color: #d580ff;
+        }
+
+        .game-links a:active img {
+            transform: scale(0.95);
+        }
+    </style>
 </head>
 
 <body bgcolor="#000000" background="background.jpg" style="background-attachment: fixed">
 
-<p align="center">
-<br>
-<br>
-<br>
-<br>
-<img border="0" src="logo.png" width="785" height="253"></p>
+    <p align="center">
+        <br>
+        <br>
+        <br>
+        <br>
+        <img border="0" src="logo.png" width="785" height="253">
+    </p>
 
-<!-- 顯示日期與時間的區域 -->
-<div id="current-time">載入中...</div>
+    <!-- 顯示日期與時間的區域 -->
+    <div id="current-time">載入中...</div>
 
-<p align="center"><b><font color="#00FFFF">
-<br>
-<marquee width="758">UNDER CONSTRUCTION</marquee></font></b></p>
+    <!-- 遊戲快速連結區域 -->
+    <div class="game-links">
+        <a href="https://freeman0501.github.io/Freemedia/AmberShooter/index.html" target="_blank" title="小蜜蜂遊戲">
+            <img src="game_shooter.png" alt="Amber Shooter">
+            <div class="game-label">Amber & Cats</div>
+        </a>
+        <a href="https://freeman0501.github.io/Freemedia/SnakeGame/index.html" target="_blank" title="貪吃蛇遊戲">
+            <img src="game_snake.png" alt="Snake Game">
+            <div class="game-label">貪吃蛇</div>
+        </a>
+        <a href="https://freeman0501.github.io/Freemedia/TetrisGame/index.html" target="_blank" title="俄羅斯方塊">
+            <img src="game_tetris.png" alt="Tetris Game">
+            <div class="game-label">俄羅斯方塊</div>
+        </a>
+    </div>
 
-<script>
-    function updateClock() {
-        var now = new Date();
-        var year = now.getFullYear();
-        var month = String(now.getMonth() + 1).padStart(2, '0');
-        var day = String(now.getDate()).padStart(2, '0');
-        var hours = String(now.getHours()).padStart(2, '0');
-        var minutes = String(now.getMinutes()).padStart(2, '0');
-        var seconds = String(now.getSeconds()).padStart(2, '0');
-        
-        // 這裡維持您設定的 6 個 &nbsp; (對應顯示上的寬間距)
-        var datePart = year + "/" + month + "/" + day;
-        var timePart = hours + ":" + minutes + ":" + seconds;
-        var separator = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"; 
-        
-        var timeString = "....... " + datePart + separator + timePart + " .......";
-        
-        document.getElementById('current-time').innerHTML = timeString;
-    }
+    <div class="bouncing-container"><b>
+            <font color="#00FFFF">
+                <div class="bouncing-text">UNDER CONSTRUCTION</div>
+            </font>
+        </b></div>
 
-    // 2026年即時更新
-    setInterval(updateClock, 1000);
-    updateClock();
-</script>
+    <script>
+        function updateClock() {
+            var now = new Date();
+            var year = now.getFullYear();
+            var month = String(now.getMonth() + 1).padStart(2, '0');
+            var day = String(now.getDate()).padStart(2, '0');
+            var hours = String(now.getHours()).padStart(2, '0');
+            var minutes = String(now.getMinutes()).padStart(2, '0');
+            var seconds = String(now.getSeconds()).padStart(2, '0');
+
+            // 這裡維持您設定的 6 個 &nbsp; (對應顯示上的寬間距)
+            var datePart = year + "/" + month + "/" + day;
+            var timePart = hours + ":" + minutes + ":" + seconds;
+            var separator = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+
+            var timeString = "....... " + datePart + separator + timePart + " .......";
+
+            document.getElementById('current-time').innerHTML = timeString;
+        }
+
+        // 2026年即時更新
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
 
 </body>
+
 </html>
