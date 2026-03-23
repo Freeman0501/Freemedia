@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>萬用圖像轉換器 - Universal Image Converter</title>
+    <link rel="icon" href="logo.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="glass-container">
+        <header>
+            <div class="logo-area">
+                <img src="logo.jpg" alt="Logo" class="app-logo">
+                <h1>萬用圖像轉換器</h1>
+            </div>
+            <p class="subtitle">專業級圖片格式轉換與縮放工具</p>
+        </header>
+
+        <main>
+            <section class="upload-section" id="drop-zone">
+                <input type="file" id="file-input" accept="image/*" hidden>
+                <div class="upload-placeholder">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                        <polyline points="17 8 12 3 7 8" />
+                        <line x1="12" y1="3" x2="12" y2="15" />
+                    </svg>
+                    <p>點擊或拖放圖片至此處</p>
+                    <span>支援 PNG, JPG, WebP, BMP, GIF ,SVG, ICO 等格式
+                </div>
+                <div id="preview-container" class="preview-container hidden">
+                    <img id="image-preview" src="" alt="Preview">
+                    <div class="image-info">
+                        <span id="original-info">解析度: -- x -- | 檔案大小: --</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="controls-section hidden" id="controls">
+                <div class="control-group">
+                    <label for="format-select">目標格式</label>
+                    <select id="format-select">
+                        <option value="image/png">PNG</option>
+                        <option value="image/jpeg">JPEG</option>
+                        <option value="image/webp">WebP</option>
+                        <option value="image/bmp">BMP</option>
+                        <option value="image/gif">GIF</option>
+                        <option value="image/svg+xml">SVG</option>
+                        <option value="image/x-icon">ICO</option>
+                    </select>
+                </div>
+
+                <div class="dimension-group">
+                    <div class="control-group">
+                        <label for="width-input">寬度 (px)</label>
+                        <input type="number" id="width-input" placeholder="寬度">
+                    </div>
+                    <div class="lock-aspect">
+                        <button id="aspect-lock" title="鎖定寬高比例" class="active">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
+                                <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="control-group">
+                        <label for="height-input">高度 (px)</label>
+                        <input type="number" id="height-input" placeholder="高度">
+                    </div>
+                </div>
+
+                <div class="quality-group" id="quality-container">
+                    <label for="quality-range">品質: <span id="quality-value">90</span>%</label>
+                    <input type="range" id="quality-range" min="1" max="100" value="90">
+                </div>
+
+                <div class="actions">
+                    <button id="convert-btn" class="primary-btn">
+                        <span>轉換並下載</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                            <polyline points="7 10 12 15 17 10" />
+                            <line x1="12" y1="15" x2="12" y2="3" />
+                        </svg>
+                    </button>
+                    <button id="reset-btn" class="secondary-btn">重新選擇</button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 萬用圖像轉換器. All Rights Reserved by Freeman
+        </footer>
+    </div>
+
+    <div class="bg-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
