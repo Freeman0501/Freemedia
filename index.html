@@ -96,6 +96,50 @@
         .game-links a:active img {
             transform: scale(0.95);
         }
+
+        /* 霓虹閃爍分隔線 */
+        .neon-divider {
+            width: 800px;
+            height: 2px;
+            margin: 40px auto;
+            background: #fff;
+            box-shadow: 
+                0 0 7px #fff,
+                0 0 10px #fff,
+                0 0 21px #fff,
+                0 0 42px #b026ff,
+                0 0 82px #b026ff,
+                0 0 92px #b026ff,
+                0 0 102px #b026ff,
+                0 0 151px #b026ff;
+            animation: flicker 1.5s infinite alternate;
+            border-radius: 5px;
+        }
+
+        @keyframes flicker {
+            0%, 18%, 22%, 25%, 53%, 57%, 100% {
+                text-shadow:
+                0 0 4px #fff,
+                0 0 11px #fff,
+                0 0 19px #fff,
+                0 0 40px #b026ff,
+                0 0 80px #b026ff,
+                0 0 90px #b026ff,
+                0 0 100px #b026ff,
+                0 0 150px #b026ff;
+                opacity: 1;
+            }
+            20%, 24%, 55% {        
+                text-shadow: none;
+                opacity: 0.5;
+            }
+        }
+
+        /* 工具連結專屬樣式 (位於日期下方) */
+        .tool-links {
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 
@@ -112,7 +156,22 @@
     <!-- 顯示日期與時間的區域 -->
     <div id="current-time">載入中...</div>
 
-    <!-- 遊戲快速連結區域 -->
+    <!-- 新增工具連結區域 (日期下方) -->
+    <div class="game-links tool-links">
+        <a href="https://freeman0501.github.io/Freemedia/m3u-converter/" target="_blank" title="M3U TO TXT 轉換器">
+            <img src="m3u_txt_icon.png" alt="M3U TO TXT">
+            <div class="game-label">M3U TO TXT</div>
+        </a>
+        <a href="https://freeman0501.github.io/Freemedia/ImageConverter/" target="_blank" title="萬用圖像轉換器">
+            <img src="img_converter_icon.png" alt="Universal Image Converter">
+            <div class="game-label">Image Converter</div>
+        </a>
+    </div>
+
+    <!-- 霓虹閃爍分隔線 -->
+    <div class="neon-divider"></div>
+
+    <!-- 遊戲快速連結區域 (原有的3個連結) -->
     <div class="game-links">
         <a href="https://freeman0501.github.io/Freemedia/AmberShooter/index.html" target="_blank" title="小蜜蜂遊戲">
             <img src="game_shooter.png" alt="Amber Shooter">
@@ -120,11 +179,11 @@
         </a>
         <a href="https://freeman0501.github.io/Freemedia/SnakeGame/index.html" target="_blank" title="貪吃蛇遊戲">
             <img src="game_snake.png" alt="Snake Game">
-            <div class="game-label">貪吃蛇</div>
+            <div class="game-label">SnakeGame</div>
         </a>
         <a href="https://freeman0501.github.io/Freemedia/TetrisGame/index.html" target="_blank" title="俄羅斯方塊">
             <img src="game_tetris.png" alt="Tetris Game">
-            <div class="game-label">俄羅斯方塊</div>
+            <div class="game-label">TetrisGame</div>
         </a>
     </div>
 
