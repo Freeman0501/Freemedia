@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/03/26",
+最終維護日 : 2026/03/28",
 
 "sites": [
 
@@ -715,6 +715,18 @@
 },
 
 {
+"key": "lzxw新韩剧网",
+"name": "新韓網",
+"type": 3,
+"api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/新韩剧网.py",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 0,
+"changeable": 0,
+"ext": []
+},
+
+{
 "key":"Cori爱壹帆",
 "name":"Cori愛壹帆",
 "type":3,
@@ -1244,6 +1256,13 @@
 },
 
 {
+"key": "红果js",
+"name": "紅果",
+"type": 3,
+"api": "https://gitee.com/M60m/abandoned/raw/master/js/红果短剧.js"
+},
+
+{
 "key": "找短劇",
 "name": "找短劇🦄短劇",
 "type": 3,
@@ -1360,33 +1379,7 @@
 "ext": ""
 },
 
-       {
-            "key": "裤佬剧王短剧",
-            "name": "剧王🍑短剧线",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/b9c6c381312dcd5b510ac3e6bb49aa0f.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "红果js",
-            "name": "红果🍑短剧线",
-            "type": 3,
-            "api": "https://gitee.com/M60m/abandoned/raw/master/js/红果短剧.js"
-        },
-        {
-            "key": "lzxw新韩剧网",
-            "name": "韩剧🐷新韩网",
-            "type": 3,
-            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/新韩剧网.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": []
-        },
+
 
 
 #動漫區
