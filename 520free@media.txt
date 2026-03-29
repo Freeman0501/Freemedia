@@ -17,13 +17,13 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/03/28",
+最終維護日 : 2026/03/30",
 
 "sites": [
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260326 👉 建議更新至 Free Movie 5.0.3 版 >",
+"name": "🌸Free Movie < 20260330 👉 建議更新至 Free Movie 5.0.6 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -1987,6 +1987,18 @@
 }
 }
 }
+},
+
+{
+"key":"csp_XYQHiker_missav.app",
+"name":"🔞MissAV2",
+"type":3,
+"api":"csp_XYQHiker",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/json/missav.app.json",
+"jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyq.jar"
 },
 
 {
