@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/03/30",
+最終維護日 : 2026/04/02",
 
 "sites": [
 
@@ -1241,12 +1241,11 @@
 
 
 
-
 #短劇區
 
 {
 "key": "剧王短剧",
-"name": "劇王🦄短劇",
+"name": "劇王1🦄短劇",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/剧王短剧.py",
 "searchable": 1,
@@ -1256,10 +1255,33 @@
 },
 
 {
+"key": "裤佬剧王短剧",
+"name": "劇王2🦄短劇",
+"type": 3,
+"api": "https://mpimg.cn/down.php/剧王短剧.py",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+{
 "key": "红果js",
-"name": "紅果",
+"name": "紅果🦄短劇",
 "type": 3,
 "api": "https://gitee.com/M60m/abandoned/raw/master/js/红果短剧.js"
+},
+
+{
+"key": "红果漫劇",
+"name": "紅果漫劇🦄短劇",
+"type": 3,
+"api": "https://wp.kayyw.com/f/YqgRHo/红果短剧.py",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"playerType": 2
 },
 
 {
