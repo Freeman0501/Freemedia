@@ -1245,20 +1245,9 @@
 
 {
 "key": "剧王短剧",
-"name": "劇王1🦄短劇",
+"name": "劇王🦄短劇",
 "type": 3,
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/剧王短剧.py",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
-
-{
-"key": "裤佬剧王短剧",
-"name": "劇王2🦄短劇",
-"type": 3,
-"api": "https://mpimg.cn/down.php/b9c6c381312dcd5b510ac3e6bb49aa0f.py",
 "searchable": 1,
 "changeable": 1,
 "quickSearch": 1,
