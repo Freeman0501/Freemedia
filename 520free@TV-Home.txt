@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0403 Check,#genre#
+🚧 0404 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -139,6 +139,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
+TVBS新聞,http://49.213.188.67:50002/index.m3u8?pid=media-live072@473&fun=TV4GTV&proxy=true&token=8852
 TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://49.213.188.67:50007/media-live072/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
@@ -543,6 +544,8 @@ TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
+TVBS新聞,http://49.213.188.67:50002/index.m3u8?pid=media-live072@473&fun=TV4GTV&proxy=true&token=8852
 TVBS新聞,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://49.213.188.67:50007/media-live072/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
