@@ -1,0 +1,395 @@
+:root {
+            --primary-color: #ff9a9e;
+            --secondary-color: #fecfef;
+            --accent-color: #a18cd1;
+            --text-color: #4a4a4a;
+            --hole-color: #5c4033;
+            --hole-inner: #3a2822;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Nunito', sans-serif;
+            background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--text-color);
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* 浮動雲朵背景動畫 */
+        .background-decorations {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .cloud {
+            position: absolute;
+            background: white;
+            border-radius: 50px;
+            opacity: 0.8;
+            animation: floatClouds 30s linear infinite;
+        }
+
+        .cloud::before, .cloud::after {
+            content: '';
+            position: absolute;
+            background: white;
+            border-radius: 50%;
+        }
+
+        .cloud-1 { width: 120px; height: 40px; top: 10%; left: -150px; animation-duration: 35s; }
+        .cloud-1::before { width: 60px; height: 60px; top: -30px; left: 15px; }
+        .cloud-1::after { width: 40px; height: 40px; top: -20px; left: 65px; }
+
+        .cloud-2 { width: 150px; height: 50px; top: 30%; left: -200px; animation-duration: 45s; animation-delay: -10s; opacity: 0.6; transform: scale(0.8); }
+        .cloud-2::before { width: 70px; height: 70px; top: -40px; left: 20px; }
+        .cloud-2::after { width: 50px; height: 50px; top: -25px; left: 80px; }
+
+        .cloud-3 { width: 100px; height: 35px; top: 60%; left: -120px; animation-duration: 25s; animation-delay: -5s; opacity: 0.7; transform: scale(1.2); }
+        .cloud-3::before { width: 50px; height: 50px; top: -25px; left: 15px; }
+        .cloud-3::after { width: 35px; height: 35px; top: -15px; left: 55px; }
+
+        @keyframes floatClouds {
+            from { transform: translateX(-200px); }
+            to { transform: translateX(calc(100vw + 200px)); }
+        }
+
+        .game-container {
+            width: 90vw;
+            /* 將主要遊戲區再縮小，整體設定為約原本的 4/5 或更小，設定最多 500px */
+            max-width: min(500px, 70vh);
+            position: relative;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        /* 頂部功能區懸浮按鈕 */
+        .top-controls {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 15px;
+            z-index: 100;
+        }
+
+        .icon-btn {
+            background: rgba(255, 255, 255, 0.4);
+            border: 2px solid rgba(255,255,255,0.7);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-color);
+        }
+
+        .icon-btn:hover {
+            background: rgba(255, 255, 255, 0.9);
+            transform: scale(1.15) rotate(5deg);
+        }
+
+        .icon-btn:active {
+            transform: scale(0.95);
+        }
+
+        /* 毛玻璃面板共用樣式 */
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.4);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+
+        header {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .game-title {
+            font-family: 'Fredoka One', cursive;
+            font-size: 2.5rem;
+            color: #ff6b81;
+            text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+            letter-spacing: 2px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .title-logo {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .stats-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.6);
+            border-radius: 15px;
+            padding: 10px;
+        }
+
+        .stat-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .stat-label {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #888;
+            text-transform: uppercase;
+        }
+
+        .stat-value {
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.8rem;
+            color: var(--accent-color);
+        }
+
+        /* 按鈕樣式 */
+        .btn {
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.2rem;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .btn:hover {
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        .btn:active {
+            transform: translateY(1px);
+        }
+
+        .primary-btn {
+            background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+            color: white;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        .success-btn {
+            background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
+            color: white;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        /* 遊戲網格 */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            background: rgba(144, 238, 144, 0.4);
+            border-radius: 30px;
+            padding: 30px;
+            backdrop-filter: blur(5px);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0 10px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .hole {
+            width: 100%;
+            aspect-ratio: 1; /* 正方形 */
+            background: var(--hole-inner);
+            border-radius: 50%;
+            position: relative;
+            overflow: hidden;
+            box-shadow: inset 0 10px 15px rgba(0,0,0,0.6), 
+                        0 5px 0 var(--hole-color), 
+                        0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        /* 讓洞口有透視感 */
+        .hole::after {
+            content: '';
+            position: absolute;
+            bottom: -15px;
+            left: -10%;
+            width: 120%;
+            height: 40px;
+            background: #4a3424;
+            border-radius: 50%;
+            z-index: 2;
+        }
+
+        /* 瑪爾濟斯 (地鼠) */
+        .maltese {
+            width: 100%;
+            height: 100%;
+            background-image: url('assets/maltese.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            position: absolute;
+            bottom: -100%; /* 預設藏在洞裡 */
+            left: 0;
+            transition: bottom 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* 出洞的彈跳動畫 */
+            cursor: pointer;
+            z-index: 1;
+            /* 防止被圖片拖曳干擾點擊 */
+            user-select: none;
+            -webkit-user-drag: none;
+        }
+
+        /* 探出頭的狀態 */
+        .hole.up .maltese {
+            bottom: 0px;
+        }
+
+        /* 被打中的狀態 */
+        .maltese.hit {
+            filter: brightness(0.7) drop-shadow(0 0 10px red);
+            transform: scale(0.8) translateY(10px);
+            transition: all 0.1s;
+        }
+
+        /* 疊加彈出視窗 */
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(5px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 20px;
+            z-index: 10;
+            opacity: 1;
+            transition: opacity 0.3s;
+        }
+
+        .overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .overlay-content {
+            padding: 40px;
+            width: 80%;
+            max-width: 400px;
+        }
+
+        .overlay-content h2 {
+            font-family: 'Fredoka One', cursive;
+            color: #ff6b81;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .overlay-content p {
+            font-size: 1.2rem;
+            margin-bottom: 25px;
+            line-height: 1.5;
+        }
+
+        .overlay-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        /* 底部霓虹字體 */
+        .footer {
+            position: absolute;
+            bottom: 15px;
+            width: 100%;
+            text-align: center;
+            font-family: 'Nunito', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #ffffff;
+            text-shadow: 
+                0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 20px #ff00ff,
+                0 0 30px #ff00ff,
+                0 0 40px #ff00ff;
+            pointer-events: none;
+            z-index: 5;
+            letter-spacing: 1px;
+        }
+
+        /* 響應式調整 */
+        @media (max-width: 600px) {
+            .game-title {
+                font-size: 1.8rem;
+                gap: 10px;
+            }
+            .title-logo {
+                width: 40px;
+                height: 40px;
+            }
+            .grid-container {
+                gap: 10px;
+                padding: 15px;
+            }
+            .top-controls {
+                top: 10px;
+                right: 10px;
+                gap: 10px;
+            }
+            .icon-btn {
+                width: 40px;
+                height: 40px;
+                font-size: 1.2rem;
+            }
+            .stats-container {
+                padding: 5px;
+            }
+            .stat-value {
+                font-size: 1.4rem;
+            }
+            .btn {
+                padding: 10px 20px;
+                font-size: 1rem;
+            }
+        }

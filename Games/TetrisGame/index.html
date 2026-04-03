@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>斯俄羅斯方塊</title>
+    <link rel="icon" href="logo.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@500;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="video-bg"></div>
+
+    <div class="game-layout">
+        <aside class="side-panel left">
+            <div class="stat-box">
+                <span class="label">最高分數</span>
+                <span class="value" id="high-score">0</span>
+            </div>
+            <div class="stat-box">
+                <span class="label">等級</span>
+                <span class="value" id="level">1</span>
+            </div>
+            <div class="action-box">
+                <button id="mute-btn" class="cyber-btn" title="切換靜音">🔊</button>
+            </div>
+        </aside>
+
+        <main class="canvas-container">
+            <canvas id="tetris" width="240" height="480"></canvas>
+
+            <div id="overlay" class="overlay">
+                <div class="panel">
+                    <h1 id="overlay-title">TETRIS</h1>
+                    <p id="overlay-msg">準備好挑戰了嗎？</p>
+                    <button id="start-btn" class="cyber-btn primary">開始任務</button>
+                </div>
+            </div>
+        </main>
+
+        <aside class="side-panel right">
+            <div class="stat-box">
+                <span class="label">目前分數</span>
+                <span class="value" id="score">0</span>
+            </div>
+            <div class="next-box">
+                <span class="label">下一塊</span>
+                <canvas id="nextPiece" width="100" height="100"></canvas>
+            </div>
+            <div class="controls-hint">
+                <p>◀ ▶ 移動</p>
+                <p>▲ 旋轉</p>
+                <p>▼ 加速</p>
+                <p>空白鍵 快速落下</p>
+            </div>
+        </aside>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
