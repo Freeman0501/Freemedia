@@ -311,6 +311,8 @@ TVBS歡樂,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森新聞,http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv152@292&fun=TV4GTV&proxy=true&token=8852
+東森新聞,https://gptapi.passwdword.xyz/live/encrypted/MmIyYTA5OTFlMTY0MWE1OWRiOGExMTFhOTM1NzVkNjY6NWU1NzAzZTlkZWQ2ZTM0ZTZjMmYwMzY4NTQyZDlhYTBkZjYzODFjYmQ3YWFmNTU0NGY0YjJlMmFkNmMyZmY3NmFkMjM1ZmIxNGUwZDlkODdjNzg0NDkxMDIyYWIxMmE2MTFhMWQ3NmFiYmY3YWQ4ZjBjMGRlZjEyNDUzOWE3ZGZjZTk5NWE5YTEyMmY4MjYxODQ2MWZiYTAwMTI2OGM4MWQ2NmE0ZWExOTllNThiZDIyMWE4ZDQzMmUxNmJjMGUwZDlkODgxYWFlMWZkNzA0MDJiYjMzNmZmYjgxMWM3MmRhNTYyYjBjOTE3ZmFiYjllYzU2OGY1YjVlNjU3NDFlYzEyYmMwYzVmNjE4YTZjNGI2Y2FiYWEyZTY1MjcxYjBlODc4N2ViNjQzYmY4YTYxYzE2MTNkZTIxNjg5MmZkNTA0NWVmNTIzOTA0YmIyNmJkYTlkY2NiZjcxMjA3NGQwYzdiYjllNzY1YmFkODU2NzkyMjA4MzcwN2I3ZjJiMTFkNTJmOTAyYjViZWM0ZTY3MmNmMDg4NWJkODFhNzgyZjc?username=tg_0ypy6s61
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 東森新聞,http://49.213.188.67:50007/4gtv-4gtv152/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
@@ -594,6 +596,8 @@ TVBS新聞,http://49.213.188.67:50007/media-live072/index.m3u8?token=hi2EiSlYUie
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 東森財經新聞,http://49.213.188.67:50007/4gtv-4gtv153/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞,http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv152@292&fun=TV4GTV&proxy=true&token=8852
+東森新聞,https://gptapi.passwdword.xyz/live/encrypted/MmIyYTA5OTFlMTY0MWE1OWRiOGExMTFhOTM1NzVkNjY6NWU1NzAzZTlkZWQ2ZTM0ZTZjMmYwMzY4NTQyZDlhYTBkZjYzODFjYmQ3YWFmNTU0NGY0YjJlMmFkNmMyZmY3NmFkMjM1ZmIxNGUwZDlkODdjNzg0NDkxMDIyYWIxMmE2MTFhMWQ3NmFiYmY3YWQ4ZjBjMGRlZjEyNDUzOWE3ZGZjZTk5NWE5YTEyMmY4MjYxODQ2MWZiYTAwMTI2OGM4MWQ2NmE0ZWExOTllNThiZDIyMWE4ZDQzMmUxNmJjMGUwZDlkODgxYWFlMWZkNzA0MDJiYjMzNmZmYjgxMWM3MmRhNTYyYjBjOTE3ZmFiYjllYzU2OGY1YjVlNjU3NDFlYzEyYmMwYzVmNjE4YTZjNGI2Y2FiYWEyZTY1MjcxYjBlODc4N2ViNjQzYmY4YTYxYzE2MTNkZTIxNjg5MmZkNTA0NWVmNTIzOTA0YmIyNmJkYTlkY2NiZjcxMjA3NGQwYzdiYjllNzY1YmFkODU2NzkyMjA4MzcwN2I3ZjJiMTFkNTJmOTAyYjViZWM0ZTY3MmNmMDg4NWJkODFhNzgyZjc?username=tg_0ypy6s61
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 東森新聞,http://49.213.188.67:50007/4gtv-4gtv152/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
@@ -842,7 +846,6 @@ TVBS歡樂台,http://49.213.188.67:50007/4gtv-4gtv068/index.m3u8?token=hi2EiSlYU
 龍華戲劇,http://49.213.188.67:50007/litv-xinchuang18/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 韓國娛樂台,http://49.213.188.67:50007/4gtv-4gtv016/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 鏡電視新聞台,http://49.213.188.67:50007/4gtv-4gtv075/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-
 
 
 
