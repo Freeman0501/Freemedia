@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0413 Check,#genre#
+🚧 0414 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -854,8 +854,92 @@ TVBS歡樂台,http://49.213.188.67:50007/4gtv-4gtv068/index.m3u8?token=hi2EiSlYU
 
 
 
-🐳 LiTV,#genre#
+🐳 一日Smart,#genre#
 
+
+Arirang,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn
+AXN Taiwan,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn
+CINEMAX,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn
+EYE 旅遊台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
+EYE 戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
+HBO_HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn
+HBO_HITS,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohit_twn
+MTV Live,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn
+TLC旅遊生活,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn
+TVBS HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs
+TVBS 新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n
+TVBS 歡樂台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
+八大娛樂台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badaentertain
+八大第一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badafirst
+八大綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badazhonghe
+八大戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badadrama
+三立都會台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlidouhui
+三立綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlizhonghe
+三立臺灣台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlitaiwan
+三立戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
+大愛二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn
+大愛電視,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai_twn
+中天亞洲,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctiasia_twn
+中天娛樂,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctient
+中天新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews
+中天綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctizhonghe
+中視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
+中視新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
+中視經典,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshi_twn
+公視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv_taiwan
+公視台語台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv2_twn
+台視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttv_taiwan
+台視新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn
+台視綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvzhonghe
+民視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
+民視新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
+民視臺灣台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
+好消息 2,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=good2_twn
+好萊塢電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
+年代新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=niandainews_twn
+亞洲美食,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn
+亞洲旅遊台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asiatravel_twn
+東森幼幼台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn
+東森洋片台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern
+東森財經新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
+東森超視,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvsuper
+東森新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews
+東森電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie
+東森綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvzhonghe
+東森戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvdrama
+非凡新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn
+美亞電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
+美食星球,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foodplanet_twn
+博斯高球一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
+博斯高球二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
+博斯無限台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
+博斯運動一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport1_twn
+博斯運動二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport2_twn
+博斯網球台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn
+華視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctshd_twn
+華藝綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn
+愛爾達綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
+愛爾達影劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltayingju_twn
+愛爾達體育1台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport_twn
+愛爾達體育2台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn
+愛爾達體育3台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+靖天卡通,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
+靖天國際,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
+緯來日本,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandjapan
+緯來育樂,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandyule
+緯來電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmovie
+緯來精彩,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
+緯來綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandzonghe
+緯來體育,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandsport
+衛視電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishimovie_twn
+寰宇財經台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
+寰宇新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
+龍祥時代,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
+龍華洋片,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
+龍華偶像,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
+龍華經典,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
+龍華電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=xingwei_movie
+龍華戲劇,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
 
 
 
