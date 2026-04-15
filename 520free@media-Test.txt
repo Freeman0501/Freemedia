@@ -75,6 +75,23 @@
 },
 
 {
+"name": "MQiTV",
+"type": 3,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/FM-MQi-TV.jar",
+"api": "csp_MQiTV",
+"ext": [{"name": "MQi-TV","url": "http://220.134.196.147:1888"}],
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+},
+
+
+{
+"name": "TV543-Smart",
+"url": "http://smt.iptv543.com",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"catvod",
 "url":"https://live.catvod.com/live.php?token=7ef13144fc727695769c92e8ef37914bb31e4c9f53b16d3eec159f5bc61f2af5",
 "type":0,
