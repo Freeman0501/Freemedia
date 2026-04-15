@@ -1958,12 +1958,6 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
-{
-"name": "TV543-Smart",
-"url": "http://smt.iptv543.com",
-"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png"
-},
 
 {
 "name": "FreeIPTV",
@@ -1983,14 +1977,7 @@
 
 {"name": "港台大陸","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
 
-{
-"name": "MQiTV",
-"type": 3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/FM-MQi-TV.jar",
-"api": "csp_MQiTV",
-"ext": [{"name": "MQi-TV","url": "http://220.134.196.147:1888"}],
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-},
+
 
 {"name": "日本頻道","url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"},
 
