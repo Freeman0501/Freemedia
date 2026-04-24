@@ -10,6 +10,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 </head>
 
 <body>
@@ -24,7 +27,7 @@
 
         <main>
             <section class="upload-section" id="drop-zone">
-                <input type="file" id="file-input" accept="image/*" hidden>
+                <input type="file" id="file-input" accept="image/*,application/pdf" hidden>
                 <div class="upload-placeholder">
                     <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
                         stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
@@ -33,7 +36,7 @@
                         <line x1="12" y1="3" x2="12" y2="15" />
                     </svg>
                     <p>點擊或拖放圖片至此處</p>
-                    <span>支援 PNG, JPG, WebP, BMP, GIF ,SVG, ICO 等格式
+                    <span>支援 PNG, JPG, WebP, BMP, GIF, SVG, ICO, PDF 等格式</span>
                 </div>
                 <div id="preview-container" class="preview-container hidden">
                     <img id="image-preview" src="" alt="Preview">
@@ -47,13 +50,14 @@
                 <div class="control-group">
                     <label for="format-select">目標格式</label>
                     <select id="format-select">
+                        <option value="image/jpeg">JPG</option>
                         <option value="image/png">PNG</option>
-                        <option value="image/jpeg">JPEG</option>
                         <option value="image/webp">WebP</option>
                         <option value="image/bmp">BMP</option>
                         <option value="image/gif">GIF</option>
                         <option value="image/svg+xml">SVG</option>
                         <option value="image/x-icon">ICO</option>
+                        <option value="application/pdf">PDF</option>
                     </select>
                 </div>
 
