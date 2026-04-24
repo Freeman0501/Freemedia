@@ -152,7 +152,7 @@
             const KEY = 'freemedia';
             
             // 抓取次數並增加 (up 會讓數值 +1)
-            fetch(`https://api.counterapi.dev/v1/${NAMESPACE}/${KEY}/up`)
+            fetch(`https://api.counterapi.dev/v2/${NAMESPACE}/${KEY}/up`)
                 .then(res => res.json())
                 .then(res => {
                     const baseCount = 1688;
