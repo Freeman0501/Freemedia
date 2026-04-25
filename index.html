@@ -10,10 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- 訪客計數器 -->
-    <div id="visitor-counter">
-        您是第 <span id="counter-number">000000</span> 位光臨的貴賓
-    </div>
+    <!-- 訪客計數器已移除 -->
 
     <header>
         <img src="assets/logo.png" alt="Freeman Logo" class="main-logo">
@@ -145,31 +142,8 @@
             document.getElementById('current-time').textContent = `${hours} : ${minutes} : ${seconds}`;
         }
 
-        // 計數器邏輯 - 使用更穩定的 CounterAPI (counterapi.dev)
-        // 初始值 0000，加上 API 回傳的累計次數
-        function updateCounter() {
-            const NAMESPACE = 'freeman0501';
-            const KEY = 'freemedia';
-            
-            // 抓取次數並增加 (up 會讓數值 +1)
-            fetch(`https://api.counterapi.dev/v2/${NAMESPACE}/${KEY}/up`)
-                .then(res => res.json())
-                .then(res => {
-                    const baseCount = 1688;
-                    // CounterAPI 的回傳欄位為 count
-                    const totalCount = baseCount + (res.count || 0);
-                    const formattedCount = String(totalCount).padStart(6, '0');
-                    document.getElementById('counter-number').textContent = formattedCount;
-                })
-                .catch(err => {
-                    console.error('Counter error:', err);
-                    document.getElementById('counter-number').textContent = '000000';
-                });
-        }
-
         setInterval(updateClock, 1000);
         updateClock();
-        updateCounter();
     </script>
 </body>
 </html>
