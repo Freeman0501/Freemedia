@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/04/27",
+最終維護日 : 2026/04/28",
 
 "sites": [
 
@@ -187,6 +187,25 @@
 },
 
 {
+"key": "vod_無盡",
+"name": "無盡資源(備)",
+"type": 1,
+"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": [
+"Netflix电影","Netflix自制剧","4K电影",
+"国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧",
+"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","惊悚片","奇幻片","动画片","纪录片","邵氏电影",
+"国产动漫", "日韩动漫", "欧美动漫", "动画片",  "港台动漫", "海外动漫",
+"演唱会","大陆综艺", "日韩综艺", "港台综艺", "欧美综艺",
+"现代都市","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","爽文短剧",
+"写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
+]
+},
+
+{
 "key":"最大资源",
 "name":"最大資源",
 "type":1,
@@ -272,31 +291,25 @@
 },
 
 {
-"key": "vod_無盡",
-"name": "無盡",
-"type": 1,
-"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": [
-"Netflix电影","Netflix自制剧","4K电影",
-"国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧",
-"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","惊悚片","奇幻片","动画片","纪录片","邵氏电影",
-"国产动漫", "日韩动漫", "欧美动漫", "动画片",  "港台动漫", "海外动漫",
-"演唱会","大陆综艺", "日韩综艺", "港台综艺", "欧美综艺",
-"现代都市","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","爽文短剧",
-"写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
-]
-},
-
-{
 "key": "dbokutv_key",
 "name": "獨播庫",
 "type": 3,
 "api": "https://files.catbox.moe/gd1tos.js",
 "style": {"type": "rect","ratio": 1.33},
 "changeable": 1
+},
+
+{
+"key": "hipy_py_独播库",
+"name": "獨播庫(備)",
+"type": 4,
+"api": "http://142.171.248.206:5757/api/独播库?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "独播库",
+"lang": "hipy",
+"ext": ""
 },
 
 {
@@ -477,19 +490,6 @@
 },
 
 {
-"key": "hipy_py_独播库",
-"name": "独播库",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/独播库?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "独播库",
-"lang": "hipy",
-"ext": ""
-},
-
-{
 "key": "hipy_py_瓜子",
 "name": "瓜子",
 "type": 4,
@@ -589,7 +589,7 @@
 
 {
 "key": "豆瓣1",
-"name": "豆瓣1",
+"name": "豆瓣",
 "type": 3,
 "api": "csp_Douban",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
@@ -601,7 +601,7 @@
 
 {
 "key": "豆瓣2",
-"name": "豆瓣2",
+"name": "豆瓣(備)",
 "type": 3,
 "api": "csp_Douban",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pg.jar",
@@ -671,16 +671,6 @@
 },
 
 {
-"key": "py_两个BTPY",
-"name": "兩個BT",
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/两个BT.py",
-"filterable": 1,
-"quickSearch": 1,
-"searchable": 1,
-"type": 3
-},
-
-{
 "key":"Hxq",
 "name":"韓劇",
 "type":3,
@@ -693,20 +683,8 @@
 },
 
 {
-"key": "lzxw新韩剧网",
-"name": "新韓網",
-"type": 3,
-"api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/新韩剧网.py",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"changeable": 0,
-"ext": []
-},
-
-{
 "key":"Cori爱壹帆",
-"name":"愛壹帆(主)",
+"name":"愛壹帆",
 "type":3,
 "searchable":1,
 "changeable":1,
@@ -893,42 +871,6 @@
 },
 
 {
-"key": "小猪2",
-"name": "小豬1",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppQi",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "",
-"site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
-"dataKey": "seb5tq9mykp2w9ry",
-"dataIv": "seb5tq9mykp2w9ry",
-"deviceId": "",
-"version": "",
- "ua": "okhttp/3.10.0"
-}
-},
-  
-{
-"key": "小猪",
-"name": "小豬2",
-"type": 3,
-"api": "csp_AppQi",
-"searchable": 1,
-"changeable": 1,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
-"dataKey": "lp3d4t53y9t5db8y",
-"dataIv": "lp3d4t53y9t5db8y",
-"search": "searchList9",
-"init": "initV122",
-"ua": "okhttp/3.10.0"
-}
-},
-
-{
 "key": "py_文才",
 "name": "文才",
 "type": 3,
@@ -1023,22 +965,6 @@
 },
 
 {
-"key": "爱影",
-"name": "愛影",
-"type": 3,
-"api": "csp_AppQi",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"changeable": 1,
-"ext": {
-"site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q16.txt",
-"dataKey": "dj382hsyqp98kqn8",
-"dataIv": "dj382hsyqp98kqn8",
-"search": "mineInfo"
-}
-},
-
-{
 "key": "零度",
 "name": "零度",
 "type": 3,
@@ -1052,42 +978,6 @@
 "x-app-package": "com.mjyx.jhxq",
 "x-app-version-code": "36",
 "x-app-version-name": "2.2.6"
-}
-}
-},
-
-{
-"key": "橘猫",
-"name": "橘貓",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "https://nox.jm4k.top",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38",
-"x-app-package": "com.gnzhis.nru",
-"x-app-version-code": "2",
-"x-app-version-name": "2.4.1"
-}
-}
-},
-
-{
-"key": "幕悦",
-"name": "幕悦",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://111.170.7.114:8989",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3",
-"x-app-package": "com.muyuesg.app",
-"x-app-version-code": "12",
-"x-app-version-name": "0.1.2"
 }
 }
 },
@@ -1122,25 +1012,6 @@
 "changeable": 1,
 "quickSearch": 1,
 "filterable": 1
-},
-
-{
-"key": "红果js",
-"name": "紅果🦄短劇",
-"type": 3,
-"api": "https://gitee.com/M60m/abandoned/raw/master/js/红果短剧.js"
-},
-
-{
-"key": "红果漫劇",
-"name": "紅果漫劇🦄短劇",
-"type": 3,
-"api": "https://wp.kayyw.com/f/YqgRHo/红果短剧.py",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"playerType": 2
 },
 
 {
@@ -1352,22 +1223,6 @@
 },
 
 {
-"key": "py_丫丫_APP",
-"name": "動漫🦉丫丫",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "http://tv.yy-fun.cc",
-"api" : "/api.php/getappapi",
-"datakey": "qkxnwkfjwpcnwycl",
-"dataiv" : "qkxnwkfjwpcnwycl"
-}
-},
-
-{
 "key": "py_方舟_APP",
 "name": "動漫🦉方舟",
 "type": 3,
@@ -1433,7 +1288,7 @@
 
 {
 "key": "魔都",
-"name": "動漫🦉魔都1",
+"name": "動漫🦉魔都",
 "type": 0,
 "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
 "searchable": 1,
@@ -1443,7 +1298,7 @@
 
 {
 "key": "魔都资源",
-"name": "動漫🦉魔都2",
+"name": "動漫🦉魔都(備)",
 "type": 1,
 "api": "https://caiji.moduapi.cc/api.php/provide/vod",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
@@ -1470,17 +1325,6 @@
 "filterable": 0,
 "changeable": 0,
 "ext": {}
-},
-
-{
-"key": "XJCJ",
-"name": "🔞香蕉",
-"type": 1,
-"api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": ["欧美精品","卡通动漫","乱伦中出","传媒原创","口爆颜射","岛国女优","萝莉少女","国产直播","岛国群交","中文字幕","岛国素人","吃瓜爆料","淫娃自慰","公开漏出","户外打野","高潮喷水","AI换脸","AV解说","伦理三级","韩国直播"]
 },
 
 {
@@ -1783,7 +1627,7 @@
 
 {
 "key":"csp_XYQHiker_missav.app",
-"name":"🔞MissAV2",
+"name":"🔞MissAV(備)",
 "type":3,
 "api":"csp_XYQHiker",
 "searchable":1,
@@ -1972,6 +1816,14 @@
 "ua": "okhttp/3.8.1",
 "timeout": 30,
 "playerType": 2
+},
+
+{
+"name": "Judy",
+"url": "https://iptv.judy.edu.kg/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+"User-Agent": "PharosTVPlayer",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
 },
 
 {
