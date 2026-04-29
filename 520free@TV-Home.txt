@@ -114,14 +114,6 @@ TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N
 TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uRTFJak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD01ZTJhMWM4YSZjbj05ZDRkYjYwMyZjcD1lODA2ZWJkMyZjdT05NzBmMDY5ZiZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=911b2f8f526c1a23f26df6a427bb83f2
 TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
-🍀 211-23-95,#genre#
-🍀 543TV,#genre#
-🍀 74,#genre#
-🍀 github-Jsnzkpg,#genre#
-🍀 Mix Source,#genre#
-🍀 vrvwfasiyxst,#genre#
-🍀 電視家,#genre#
-🦋 YouTubeLive,#genre#
 人間衛視,http://211.23.95.147:18881/live/dtv24_h265.ts
 人間衛視,http://49.213.188.67:50007/4gtv-live008/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -518,13 +510,11 @@ TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+台視新聞,https://www.youtube.com/watch?v=sNtCBxP-8LY
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -543,8 +533,6 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
-CCTV4 中文國際(美洲),https://www.youtube.com/watch?v=f6Kq93wnaZ8
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
@@ -717,90 +705,6 @@ TVBS歡樂台,http://49.213.188.67:50007/4gtv-4gtv068/index.m3u8?token=hi2EiSlYU
 🐳 一日Smart,#genre#
 
 
-Arirang,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn
-AXN Taiwan,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn
-CINEMAX,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn
-EYE 旅遊台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
-EYE 戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
-HBO_HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn
-HBO_HITS,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohit_twn
-MTV Live,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn
-TLC旅遊生活,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn
-TVBS HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs
-TVBS 新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n
-TVBS 歡樂台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
-八大娛樂台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badaentertain
-八大第一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badafirst
-八大綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badazhonghe
-八大戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badadrama
-三立都會台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlidouhui
-三立綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlizhonghe
-三立臺灣台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-三立戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-大愛二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn
-大愛電視,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai_twn
-中天亞洲,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctiasia_twn
-中天娛樂,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctient
-中天新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews
-中天綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctizhonghe
-中視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
-中視新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-中視經典,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshi_twn
-公視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv_taiwan
-公視台語台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv2_twn
-台視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttv_taiwan
-台視新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-台視綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvzhonghe
-民視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
-民視新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-民視臺灣台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
-好消息 2,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=good2_twn
-好萊塢電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-年代新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=niandainews_twn
-亞洲美食,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn
-亞洲旅遊台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asiatravel_twn
-東森幼幼台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn
-東森洋片台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern
-東森財經新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-東森超視,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvsuper
-東森新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews
-東森電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie
-東森綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvzhonghe
-東森戲劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvdrama
-非凡新聞,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn
-美亞電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
-美食星球,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foodplanet_twn
-博斯高球一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
-博斯高球二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
-博斯無限台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
-博斯運動一台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport1_twn
-博斯運動二台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport2_twn
-博斯網球台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn
-華視 HD,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctshd_twn
-華藝綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn
-愛爾達綜合台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
-愛爾達影劇台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltayingju_twn
-愛爾達體育1台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport_twn
-愛爾達體育2台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-愛爾達體育3台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-靖天卡通,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-靖天國際,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
-緯來日本,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandjapan
-緯來育樂,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandyule
-緯來電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmovie
-緯來精彩,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
-緯來綜合,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandzonghe
-緯來體育,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandsport
-衛視電影台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishimovie_twn
-寰宇財經台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
-寰宇新聞台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-龍祥時代,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
-龍華洋片,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
-龍華偶像,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
-龍華經典,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-龍華電影,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=xingwei_movie
-龍華戲劇,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
-
 
 
 🦄 YouTube影視,#genre#
@@ -821,16 +725,14 @@ Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 
 
-關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=WyZfs0YYQtM
 轉生為第七王子,https://www.youtube.com/watch?v=Xfzxwd2KsBM
 異世界悠閒農家,https://www.youtube.com/watch?v=OjUwZvPMAKA
 暗殺教室,https://www.youtube.com/watch?v=mSPqk2R70Vk
 鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak
 獵人HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc
-葬送的芙莉蓮,https://www.youtube.com/watch?v=v1ZmBzh9pxs
 
 
-遊戲人生,https://www.youtube.com/watch?v=U2-jr_GcCds
+堀與宮村,https://www.youtube.com/watch?v=P3KJbsmK3Nw
 OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM
 
 
@@ -847,9 +749,10 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 超級冰冰Show,https://www.youtube.com/watch?v=ON6bMdKXBC4
 
 
+神機妙算劉伯溫,https://www.youtube.com/watch?v=gmZbGTY5ssg
 龍兄虎弟,https://www.youtube.com/watch?v=AhWzXw6dIiQ
 風流才子唐伯虎,https://www.youtube.com/watch?v=0RheAOjDYkY
-精彩類戲劇,https://www.youtube.com/watch?v=Ys4chwt-Gfo
+精彩類戲劇一次看個夠,https://www.youtube.com/watch?v=Ys4chwt-Gfo
 流氓教授,https://www.youtube.com/watch?v=WHWOr4FBQmM
 
 
@@ -882,14 +785,13 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
 
 步步驚心,https://www.youtube.com/watch?v=B74dPMDRRjo
-齊天大聖孫悟空,https://www.youtube.com/watch?v=pEYrYno2uWc
 琅琊榜,https://www.youtube.com/watch?v=18ypxNBbMYY
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
 
 
+舉頭三尺有神明,https://www.youtube.com/watch?v=7ojC3WAaXoY
 夜市人生,https://www.youtube.com/watch?v=CUmdyNBtuCw
-意難忘,https://www.youtube.com/watch?v=yzdKYRUCdxQ
-豬哥秀直播馬拉松,https://www.youtube.com/watch?v=DFqBPb7EW5g
+豬哥亮回來啦,https://www.youtube.com/watch?v=DFqBPb7EW5g
 親戚不計較,https://www.youtube.com/watch?v=GjXBXz5dl6E
 
 
@@ -946,7 +848,6 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 東森購物5台,video://http://www.faintv.com/channel/16556
 
 
-
 雲端創作音樂台,video://https://www.faintv.com/channel/17617
 雲端電音音樂台,video://https://www.faintv.com/channel/16488
 吉馬欣代音樂,video://http://www.faintv.com/channel/18636
@@ -955,10 +856,6 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 行動電源出發吧,video://https://www.faintv.com/channel/20308
 請問今晚住誰家,video://http://www.faintv.com/channel/20309
 花甲少年趣旅行,video://http://www.faintv.com/channel/20559
-對不起標籤你2,video://https://www.faintv.com/channel/22632
-點相II破局,video://https://www.faintv.com/channel/22633
-寂寞是幫兇,video://https://www.faintv.com/channel/22634
-
 
 
 龍華電影台,video://http://www.faintv.com/channel/132
@@ -970,16 +867,10 @@ ETtoday綜合台,video://http://www.faintv.com/channel/146
 龍華卡通台,video://http://www.faintv.com/channel/89
 
 
-
 歡樂兒童台,,video://https://www.faintv.com/channel/22768
 豬豬俠之超星五靈俠,video://https://www.faintv.com/channel/20602
 森林特工大腳丫家族,video://https://www.faintv.com/channel/15300
 北海小英雄,video://https://www.faintv.com/channel/19468
-紅鞋公主與七矮人,video://https://www.faintv.com/channel/21516
-新幹線變形機器人,video://https://www.faintv.com/channel/21553
-露西亞的聖誕願望,video://https://www.faintv.com/channel/20362
-迷雁返家路,video://https://www.faintv.com/channel/22103
-
 
 
 MOMO運動綜合台,video://http://www.faintv.com/channel/14009
@@ -1000,24 +891,21 @@ FRANCE 24,video://http://www.faintv.com/channel/16271
 ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
-
-雍正王朝,video://https://www.faintv.com/channel/17309
-善德女王,video://https://www.faintv.com/channel/15359
-家宴,video://https://www.faintv.com/channel/6945
-鳯囚凰,video://https://www.faintv.com/channel/17313
-
-
 玩命賽道,video://http://www.faintv.com/channel/21028
+假球風暴,video://https://www.faintv.com/channel/20363
 史前魔種,video://https://www.faintv.com/channel/21641
 不丹是教室,video://https://www.faintv.com/channel/21646
 死屍日,video://https://www.faintv.com/channel/17686
 原振俠與衛斯理,video://https://www.faintv.com/channel/15766
+如常,,video://https://www.faintv.com/channel/17895
 寒戰2,video://http://www.faintv.com/channel/16473
 三國殺幻,video://https://www.faintv.com/channel/21642
 變種人幽靈戰姬,video://https://www.faintv.com/channel/21648
 臥底巨星,video://https://www.faintv.com/channel/22095
 西遊記-女兒國,video://https://www.faintv.com/channel/17920
 古劍奇譚之流月昭明,video://https://www.faintv.com/channel/21031
+霹靂先鋒,video://https://www.faintv.com/channel/23380
+疾凍救援,video://https://www.faintv.com/channel/23382
 
 
 雲端爵士樂,video://https://www.faintv.com/channel/21549
