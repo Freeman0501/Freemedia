@@ -1804,14 +1804,6 @@
 },
 
 {
-"name": "TV123",
-"type": 0,
-"ua": "okhttp",
-"url": "http://tv123.vvvv.ee/tv.m3u"
-},
-
-
-{
 "name": "TV543",
 "url": "https://iptv543.com/bbb.php",
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
