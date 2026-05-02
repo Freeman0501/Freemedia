@@ -174,11 +174,17 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
-        let filename = 'playlist.txt';
+        const now = new Date();
+        const year = now.getFullYear();
+        const month = String(now.getMonth() + 1).padStart(2, '0');
+        const day = String(now.getDate()).padStart(2, '0');
+        const dateStr = `${year}-${month}-${day}`;
+        
+        let filename = `${dateStr} playlist.txt`;
         let mimeType = 'text/plain';
 
         if (currentOutputFormat === 'm3u') {
-            filename = 'playlist.m3u';
+            filename = `${dateStr} playlist.m3u`;
             mimeType = 'audio/x-mpegurl';
         }
 
