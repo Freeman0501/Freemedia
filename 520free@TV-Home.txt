@@ -699,60 +699,39 @@ CMusic,http://live1.robyang.dpdns.org:50001?id=4gtv-live031
 CNBC Asia,http://live1.robyang.dpdns.org:50001?id=4gtv-live130
 DreamWorks,http://live1.robyang.dpdns.org:50001?id=4gtv-live017
 DW德國之聲,http://live1.robyang.dpdns.org:50001?id=4gtv-live071
-ELTV生活英語,http://live1.robyang.dpdns.org:50001?id=litv-longturn20
 FRANCE 24,http://live1.robyang.dpdns.org:50001?id=4gtv-live146
 FUN 4K探索娛樂,http://live1.robyang.dpdns.org:50001?id=4gtv-live011
-GagaOOLala,http://live1.robyang.dpdns.org:50001?id=4gtv-live139
 GINX Esports TV,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv053
 Global Trekker,http://live1.robyang.dpdns.org:50001?id=4gtv-live112
 HITS,http://live1.robyang.dpdns.org:50001?id=4gtv-live620
-INULTRA,http://live1.robyang.dpdns.org:50001?id=4gtv-live096
 Lifetime,http://live1.robyang.dpdns.org:50001?id=4gtv-live029
 LiveABC互動英語,http://live1.robyang.dpdns.org:50001?id=4gtv-live030
 LOVE NATURE,http://live1.robyang.dpdns.org:50001?id=4gtv-live208
 LUXE TV,http://live1.robyang.dpdns.org:50001?id=4gtv-live121
-Magellan TV,http://live1.robyang.dpdns.org:50001?id=4gtv-live123
-MCE,http://live1.robyang.dpdns.org:50001?id=litv-ftv10
 MEZZO LIVE,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv083
 MOMO親子,http://live1.robyang.dpdns.org:50001?id=4gtv-live107
-MTV Live,http://live1.robyang.dpdns.org:50001?id=4gtv-live025
-NHK WORLD,http://live1.robyang.dpdns.org:50001?id=4gtv-live168
 Nick Jr,http://live1.robyang.dpdns.org:50001?id=4gtv-live032
 Nickelodeon,http://live1.robyang.dpdns.org:50001?id=4gtv-live105
-Pet Club TV,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv110
 ROCK Action,http://live1.robyang.dpdns.org:50001?id=4gtv-live138
 ROCK Entertainment,http://live1.robyang.dpdns.org:50001?id=4gtv-live080
-Smart知識台,http://live1.robyang.dpdns.org:50001?id=litv-longturn19
-TRACE Sport Stars,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv077
 TRACE URBAN,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv082
 TV5MONDE Style,http://live1.robyang.dpdns.org:50001?id=4gtv-live122
 TVBS HD,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv073
-TVBS台劇,http://live1.robyang.dpdns.org:50001?id=4gtv-live088
 TVBS新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv072
 TVBS精采,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv067
-TVBS綜藝,http://live1.robyang.dpdns.org:50001?id=4gtv-live087
 TVBS歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv068
-VOA美國之音,http://live1.robyang.dpdns.org:50001?id=litv-ftv03
 人間衛視,http://live1.robyang.dpdns.org:50001?id=4gtv-live008
 八大精彩,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv034
-八大綜藝,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv039
+八大綜合,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv039
 三立iNEWS,http://live1.robyang.dpdns.org:50001?id=4gtv-live089
 三立綜合,http://live1.robyang.dpdns.org:50001?id=4gtv-live207
 大愛,http://live1.robyang.dpdns.org:50001?id=4gtv-live007
 大愛2台,http://live1.robyang.dpdns.org:50001?id=4gtv-live106
-中天亞洲,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv109
 中天新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv009
 中視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv040
-中視菁采,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv064
 中視新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv074
-中視經典,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv080
 公視戲劇,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv042
-台視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv066
-台視財經,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv056
-台視新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv051
-台灣戲劇,http://live1.robyang.dpdns.org:50001?id=litv-longturn22
 民視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv002
-民視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv155
 民視台灣,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv001
 民視旅遊,http://live1.robyang.dpdns.org:50001?id=litv-ftv07
 民視第一,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv003
@@ -773,28 +752,17 @@ VOA美國之音,http://live1.robyang.dpdns.org:50001?id=litv-ftv03
 東森購物五台,http://live1.robyang.dpdns.org:50001?id=4gtv-live049
 采昌影劇,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv049
 金光布袋戲,http://live1.robyang.dpdns.org:50001?id=4gtv-live144
-非凡商業,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv048
-非凡新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv010
 客家電視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv043
 原住民族電視,http://live1.robyang.dpdns.org:50001?id=4gtv-live014
 時尚運動X,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv014
 國會頻道1,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv084
 國會頻道2,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv085
-第1商業,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv104
-博斯高球I,http://live1.robyang.dpdns.org:50001?id=litv-longturn05
-博斯高球II,http://live1.robyang.dpdns.org:50001?id=litv-longturn06
-博斯無限,http://live1.robyang.dpdns.org:50001?id=litv-longturn10
-博斯無限II,http://live1.robyang.dpdns.org:50001?id=litv-longturn13
-博斯運動I,http://live1.robyang.dpdns.org:50001?id=litv-longturn07
-博斯運動II,http://live1.robyang.dpdns.org:50001?id=litv-longturn08
-博斯網球,http://live1.robyang.dpdns.org:50001?id=litv-longturn09
-博斯魅力,http://live1.robyang.dpdns.org:50001?id=litv-longturn04
 智林體育,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv101
 華視,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv041
 華視新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv052
 視納華仁紀實,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv013
 愛爾達生活旅遊,http://live1.robyang.dpdns.org:50001?id=4gtv-live120
-愛爾達娛樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv070
+愛爾達寵物運動,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv070
 新唐人亞太,http://live1.robyang.dpdns.org:50001?id=4gtv-live050
 經典卡通,http://live1.robyang.dpdns.org:50001?id=4gtv-live022
 經典電影,http://live1.robyang.dpdns.org:50001?id=4gtv-live021
@@ -805,7 +773,6 @@ VOA美國之音,http://live1.robyang.dpdns.org:50001?id=litv-ftv03
 靖天映畫,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv055
 靖天國際,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv063
 靖天資訊,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv065
-靖天電影,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv061
 靖天綜合,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv046
 靖天戲劇,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv058
 靖天歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv054
@@ -813,24 +780,23 @@ VOA美國之音,http://live1.robyang.dpdns.org:50001?id=litv-ftv03
 靖洋戲劇,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv045
 滾動力 Rollor,http://live1.robyang.dpdns.org:50001?id=4gtv-live012
 精選動漫台,http://live1.robyang.dpdns.org:50001?id=4gtv-live024
-影迷紀實,http://live1.robyang.dpdns.org:50001?id=litv-ftv15
 影迷數位電影,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv011
 豬哥亮歌廳秀,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv006
-寰宇財經,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv158
 寰宇新聞,http://live1.robyang.dpdns.org:50001?id=litv-longturn14
 寰宇新聞台灣,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv156
 歷史頻道,http://live1.robyang.dpdns.org:50001?id=4gtv-live026
-龍華日韓,http://live1.robyang.dpdns.org:50001?id=litv-longturn11
-龍華卡通,http://live1.robyang.dpdns.org:50001?id=litv-longturn01
-龍華洋片,http://live1.robyang.dpdns.org:50001?id=litv-longturn02
-龍華偶像,http://live1.robyang.dpdns.org:50001?id=litv-longturn12
-龍華經典,http://live1.robyang.dpdns.org:50001?id=litv-longturn21
-龍華電影,http://live1.robyang.dpdns.org:50001?id=litv-longturn03
-龍華戲劇,http://live1.robyang.dpdns.org:50001?id=litv-longturn18
-戲劇免費看,http://live1.robyang.dpdns.org:50001?id=4gtv-live010
-韓國娛樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv016
 鏡新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv075
-霹靂布袋戲,http://live1.robyang.dpdns.org:50001?id=4gtv-live145
+
+
+
+
+
+
+
+
+
+
+
 
 
 
