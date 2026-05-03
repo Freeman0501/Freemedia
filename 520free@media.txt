@@ -1819,14 +1819,6 @@
 },
 
 {
-"name": "Judy",
-"url": "https://iptv.judy.edu.kg/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
-"User-Agent": "PharosTVPlayer",
-"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-
-{
 "name":"RobYang3",
 "type":0,
 "url":"http://www3.RobYang.dpdns.org/VodLive/lb8ffa",
@@ -1889,6 +1881,14 @@
 },
 
 {"name": "港台大陸","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
+
+{
+"name": "Judy",
+"url": "https://iptv.judy.edu.kg/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+"User-Agent": "PharosTVPlayer",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
 
 {"name": "日本頻道","url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"},
 
