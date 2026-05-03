@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/05/03",
+最終維護日 : 2026/05/04",
 
 "sites": [
 
@@ -1827,23 +1827,58 @@
 },
 
 {
-"name":"Robyang(主)",
-"url":"http://RobYang.zone.id",
+"name":"RobYang3",
 "type":0,
-"timeout":30,
-"playerType":2,
-"ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+"url":"http://www3.RobYang.dpdns.org/VodLive/lb8ffa",
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
 },
 
 {
-"name":"Robyang(備)",
-"url":"http://RobYang.dpdns.org/",
+"name":"RobYang4",
 "type":0,
-"timeout":30,
-"playerType":2,
-"ua":"http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0 Mozilla/5.0 Mozilla/5.2 Mozilla/5.2 AppleWebKit/537.36 Chrome/108.0.0.0 Safari/537.36 okhttp/5.3.2",
-"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+"url":"http://www4.RobYang.dpdns.org/VodLive/lb8ffa",
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
+"name":"RobYang1",
+"type":0,"url":"http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1",
+"X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,"epg":
+"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
+"name":"RobYang7",
+"source":"Azure",
+"url":"http://www7.RobYang.dpdns.org/VodLive/lb8ffa",
+"type":0,
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{"name":"RobYang(備)",
+"type":0,"url":"http://RobYang.runasp.net/VodLive/lb8ffa",
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
+"name":"Jack",
+"ua":"Goiptv/8.8.8",
+"url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong"
 },
 
 {
