@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/05/04",
+最終維護日 : 2026/05/05",
 
 "sites": [
 
@@ -1810,6 +1810,14 @@
 },
 
 {
+"name": "🔞TV543🔞",
+"type": 0,
+"url": "https://iptv543.com/aaa.php",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"Gather",
 "type": 0,
 "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u",
@@ -1881,6 +1889,20 @@
 },
 
 {"name": "港台大陸","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
+
+{
+"name": "冰茶",
+"type": 0,
+"playerType": 2,
+"url": "https://ds65.tv1288.xyz",
+"ua": "bingcha/1.1 (mianfeifenxiang)"
+},
+
+{
+"name": "CAT直播",
+"url": "http://tv.anbox.ip-ddns.com/live7"
+},
+
 
 {
 "name": "Judy",
