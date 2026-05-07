@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0507 Check,#genre#
+🚧 0508 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -99,6 +99,8 @@ TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=zbK
 TRACE URBAN,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TRACE URBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 TV5MONDE Style,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS HD,http://106.107.242.201:50007/media-live073/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS HD,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS HD,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjZHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9MjM2Y2Q2ZTkmY249MDdiY2ZjY2QmY3A9MzY5OGQxYzEmY3U9NGI2YTU5NmYmcnA9bkxRNGRQRk5qTHBXakxUT2Rf&tk=6759a8f65e7035b71b11e5478c66f764
 TVBS HD,https://iptv.judy.edu.kg/live/encrypted/NDQ0YWVkNjlhYTY3M2NiZjMyMzM4OWYzNTJjMmIzMjk6MDc2YmZlNTBlMTYzMGIyZjExZDQxM2U2N2U5NDI4Y2E4YzE4ZGNjN2JiMDY5YzVhMzI4N2I5MTFjNzQ1MjYyOGExYzQyYTEyZmZjODcyNDk1Y2RkMDVkZjQ3YTljOGVlOGY1OTk4ZTMzMTBlYzE3ZTBhZDZkNWVlMWFjYzQwMGE0NGI0MzRiZDAzMjUxY2YyOTFhMzgwMDM1YzMyNGU3MjUyNTk3MGNiOTkxNDBmM2U0ODg2ZDBhMGEwMDk4NWJlNTkwZGU3OTk4M2RlM2M4YWNhYmUzNWJiMWJmMmM2OTVmMTI3YTZmMzM0Zjk0ZThjY2VmZWUxNTRhNzFlYjk5OTkzZmYzNmJmZWVkNjJkM2NkYWVmZGIzYTRlOGMzNTA0Mzc4MGEzZGE4MjMxMTNiYTUxMGIwMmRmYzFlYmNmMDU1MWYwZTQzNDM2M2JjZjQ5NWY0NTBhODkyMWY3ZjYzYw?username=tg_0ypy6s61
 TVBS HD,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
@@ -111,8 +113,9 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0yMzZjZDZlOSZjbj0wN2JjZmNjZCZjcD02OWI3ZjVkNyZjdT00YjZhNTk2ZiZycD1uTFE0ZFBGTmpMcFdqTFRPZF8&tk=6759a8f65e7035b71b11e5478c66f764
+TVBS新聞台,http://106.107.242.201:50007/media-live072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS新聞台,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N2Q2OTQzYWFjNGU6ZDFiZmY0MzMwY2M2ZDkyOWI1YzVjYmVjZGQ0ZDI2ZDcxMzdmYWQ0ZjZlNjc4NDQ3ODU2OGI1ZDNlOWMxNzFiZWE0MGE3MmRlNGZjODJjMTdkMzVjZTRjMjIwOTRiMDE1ZjA4OTQ4YzQ4MDI2NjY3MjYzM2MwZTBlODY0ZmJhMDMxNGRhODI2YzY1ZDNjNzg0MjI4MmM3M2IxMDM0ZjM4ZDRjZGZkMWUzOTFjYTgwOTA1NGU2NTRlNmZjZTU2ZTBkOGRmOTc5ZTcwOGQyM2YyZDZhOWIwN2QxZjQ4YmRmODQ3MWE5MWY5ZjA5ODY4NzRkNTgzYzg0NjFkYTFmYjQwNWVhN2M1YjA1ZTkzOGUyNTMyYmI0MDU2OTA3ZmQwNDdlY2VkM2ZlYTJiNjgwMzI5ZjBkZTZiZjVlMjNjYmRhYTZmZDIyZGNkNjc1ZTM3YWQ2NDgzMTQyZjM0NTgwYzcxYWQ2M2EwMzQ0NzVjYWFiYTQ5MjUzYjBkZWRhMGI5NTYx?username=tg_0ypy6s61
 TVBS新聞,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
@@ -579,8 +582,10 @@ Smart知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=zb
 TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TRACE Urban,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TV5MONDE STYLE HD 生活時尚,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS,http://106.107.242.201:50007/media-live073/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
