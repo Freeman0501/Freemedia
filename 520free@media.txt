@@ -1903,7 +1903,7 @@
 
 {
 "name": "Judy",
-"url": "https://iptv.judy.edu.kg/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+"url": "https://iptv.8plus.eu.org/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
 "User-Agent": "PharosTVPlayer",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
