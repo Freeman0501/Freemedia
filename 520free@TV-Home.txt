@@ -694,7 +694,7 @@ TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zbKLB9o
 
 
 
-🐠 四季線上(備1),#genre#
+🦀 四季線上(備1),#genre#
 parse=1
 
 
@@ -811,7 +811,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 
 
 
-🐳 四季線上TV(備2),#genre#
+🐳 四季線上(備2),#genre#
 
 AMC電影台,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv017
 Arirang TV,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv079
