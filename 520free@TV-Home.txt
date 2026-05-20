@@ -19,7 +19,7 @@ AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 
 
 📺 Free TV頻道,#genre#
-parse=1
+
 
 
 8視界,https://www.youtube.com/watch?v=RvSOIM620bA
@@ -113,8 +113,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+TVBS新聞,http://104.253.175.55:19950/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=885252
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N2Q2OTQzYWFjNGU6ZDFiZmY0MzMwY2M2ZDkyOWI1YzVjYmVjZGQ0ZDI2ZDcxMzdmYWQ0ZjZlNjc4NDQ3ODU2OGI1ZDNlOWMxNzFiZWE0MGE3MmRlNGZjODJjMTdkMzVjZTRjMjIwOTRiMDE1ZjA4OTQ4YzQ4MDI2NjY3MjYzM2MwZTBlODY0ZmJhMDMxNGRhODI2YzY1ZDNjNzg0MjI4MmM3M2IxMDM0ZjM4ZDRjZGZkMWUzOTFjYTgwOTA1NGU2NTRlNmZjZTU2ZTBkOGRmOTc5ZTcwOGQyM2YyZDZhOWIwN2QxZjQ4YmRmODQ3MWE5MWY5ZjA5ODY4NzRkNTgzYzg0NjFkYTFmYjQwNWVhN2M1YjA1ZTkzOGUyNTMyYmI0MDU2OTA3ZmQwNDdlY2VkM2ZlYTJiNjgwMzI5ZjBkZTZiZjVlMjNjYmRhYTZmZDIyZGNkNjc1ZTM3YWQ2NDgzMTQyZjM0NTgwYzcxYWQ2M2EwMzQ0NzVjYWFiYTQ5MjUzYjBkZWRhMGI5NTYx?username=tg_0ypy6s61
 TVBS新聞,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
@@ -403,7 +402,7 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 
 
 🌎 新聞時事News,#genre#
-parse=1
+
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://104.253.175.55:19950/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=885252
@@ -553,10 +552,6 @@ CLASSICA 古典樂,http://104.253.175.55:19950/playlist?channel=CLASSICA%20%E5%8
 CNBC Asia 財經台,http://104.253.175.55:19950/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0&token=885252
 DreamWorks 夢工廠動畫,http://104.253.175.55:19950/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB&token=885252
 DW德國之聲,http://104.253.175.55:19950/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2&token=885252
-Elta體育1台,http://66.103.204.107:5678/live/stream-8bbf5631-f703-49ce-be8f-18acc2c12e91/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
-Elta體育2台,http://66.103.204.107:5678/live/stream-686d50b1-1ba0-4bbd-88eb-13f772f6ac52/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
-Elta體育3台,http://66.103.204.107:5678/live/stream-b01b71e0-f1ed-4117-82c3-6d7f8434214a/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
-Elta體育4台,http://66.103.204.107:5678/live/stream-dc09415d-df8c-48de-a356-87c494a132d6/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
 ELTV生活英語台,http://104.253.175.55:19950/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0&token=885252
 FRANCE24 英文台,http://104.253.175.55:19950/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0&token=885252
 fun探索娛樂台,http://104.253.175.55:19950/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0&token=885252
@@ -641,6 +636,10 @@ TVBS歡樂台,http://104.253.175.55:19950/playlist?channel=TVBS%E6%AD%A1%E6%A8%8
 視納華仁紀實頻道,http://104.253.175.55:19950/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93&token=885252
 愛爾達生活旅遊台,http://104.253.175.55:19950/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0&token=885252
 愛爾達寵物運動台,http://104.253.175.55:19950/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%AF%B5%E7%89%A9%E9%81%8B%E5%8B%95%E5%8F%B0&token=885252
+愛爾達體育1台,http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+愛爾達體育2台,http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+愛爾達體育3台,http://61.61.67.208:5678/live/stream-c4deadf8-60e0-4a57-9cb3-88c59ceadecb/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+愛爾達體育4台,http://61.61.67.208:5678/live/stream-527da6a7-8ed8-4169-9935-7708eee0f742/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 新唐人亞太台,http://104.253.175.55:19950/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0&token=885252
 經典卡通台,http://104.253.175.55:19950/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0&token=885252
 經典電影台,http://104.253.175.55:19950/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0&token=885252
@@ -660,12 +659,13 @@ TVBS歡樂台,http://104.253.175.55:19950/playlist?channel=TVBS%E6%AD%A1%E6%A8%8
 精選動漫台,http://104.253.175.55:19950/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0&token=885252
 影迷數位紀實台,http://104.253.175.55:19950/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0&token=885252
 影迷數位電影台,http://104.253.175.55:19950/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0&token=885252
-緯來體育台,http://66.103.204.107:5678/live/stream-86b5c545-6da7-4316-af3a-9f6d2a43b003/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
+緯來體育台,http://61.61.67.208:5678/live/stream-2bc632c0-30fd-49fb-b4cf-5b5c700cd41c/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 豬哥亮歌廳秀,http://104.253.175.55:19950/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80&token=885252
 寰宇新聞台,http://104.253.175.55:19950/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0&token=885252
 寰宇新聞台灣台,http://104.253.175.55:19950/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=885252
 韓國娛樂台 KMTV,http://104.253.175.55:19950/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV&token=885252
 鏡電視新聞台,http://104.253.175.55:19950/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0&token=885252
+
 
 
 
