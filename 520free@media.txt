@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/05/10",
+最終維護日 : 2026/05/26",
 
 "sites": [
 
@@ -133,23 +133,6 @@
 "演唱会","大陆综艺", "日韩综艺", "港台综艺", "欧美综艺",
 "现代都市","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑",
 "写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
-]
-},
-
-{
-"key":"卧龙资源",
-"name":"臥龍資源",
-"type":1,
-"api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-"searchable":1,
-"quickSearch":1,
-"categories": [
-"国产剧","韩国剧","欧美剧","日本剧","香港剧","台湾剧","泰国剧","海外剧",
-"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","惊悚片","家庭片","古装片","历史片","纪录片","邵氏电影",
-"动画片","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫",
-"演唱会","大陆综艺","韩国综艺","港台综艺","欧美综艺",
-"短剧","短片",
-"伦理片"
 ]
 },
 
@@ -300,19 +283,6 @@
 },
 
 {
-"key": "hipy_py_独播库",
-"name": "獨播庫(備)",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/独播库?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "独播库",
-"lang": "hipy",
-"ext": ""
-},
-
-{
 "key":"360",
 "name": "360資源",
 "type": 1,"api": "https://360zy.com/api.php/provide/vod",
@@ -347,39 +317,10 @@
 }, 
 
 {
-"key": "drpyS_永乐视频[优]",
-"name": "永乐视频",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/永乐视频[优]?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "永乐视频[优]",
-"类型": "影视",
-"lang": "ds",
-"ext": ""
-},
-
-{
-"key": "drpyS_小苹果[优]",
-"name": "小苹果",
-"type": 4,
-"api": "http://142.171.248.206:5757/api/小苹果[优]?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 0,
-"title": "小苹果[优]",
-"author": "EylinSir",
-"类型": "影视",
-"lang": "ds",
-"ext": ""
-},
-
-{
 "key": "drpyS_55影视",
-"name": "55影视",
+"name": "55影视(DS)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/55影视?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
 "searchable": 2,
 "filterable": 0,
 "quickSearch": 1,
@@ -390,10 +331,38 @@
 },
 
 {
-"key": "drpyS_可视影院",
-"name": "可视影院",
+"key": "drpyS_永乐视频[优]",
+"name": "永乐视频[优](DS)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/可视影院?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "永乐视频[优]",
+"类型": "影视",
+"lang": "ds",
+"ext": ""
+},
+
+{
+"key": "drpyS_荐片[优]",
+"name": "荐片[优](DS)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 0,
+"title": "荐片[优]",
+"类型": "影视",
+"lang": "ds",
+"ext": ""
+},
+
+{
+"key": "drpyS_可视影院",
+"name": "可视影院(DS)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
 "searchable": 2,
 "filterable": 1,
 "quickSearch": 1,
@@ -405,9 +374,9 @@
 
 {
 "key": "drpyS_枫林影视",
-"name": "枫林影视",
+"name": "枫林影视(DS)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/枫林影视?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
 "searchable": 2,
 "filterable": 0,
 "quickSearch": 0,
@@ -419,9 +388,9 @@
 
 {
 "key": "drpyS_泥视频",
-"name": "泥视频",
+"name": "泥视频(DS)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/泥视频?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
@@ -433,10 +402,50 @@
 },
 
 {
-"key": "hipy_py_一起看[Ayq]",
-"name": "一起看",
+"key": "drpyS_非凡采集[采]",
+"name": "非凡采集[采](DS)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/AppYqk?do=py&pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
+"searchable": 2,
+"filterable": 0,
+"quickSearch": 1,
+"title": "非凡采集[采]",
+"类型": "影视",
+"lang": "ds",
+"ext": ""
+},
+
+{
+"key": "catvod_月光影视",
+"name": "月光影视(cat)",
+"type": 3,
+"api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "月光影视",
+"lang": "cat",
+"ext": ""
+},
+
+{
+"key": "catvod_荐片",
+"name": "荐片(cat)",
+"type": 3,
+"api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "荐片",
+"lang": "cat",
+"ext": ""
+},
+
+{
+"key": "hipy_py_一起看[Ayq]",
+"name": "一起看[Ayq](hipy)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
@@ -456,9 +465,9 @@
 
 {
 "key": "hipy_py_橘子TV[Ayq]",
-"name": "橘子TV",
+"name": "橘子TV[Ayq](hipy)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/AppYqk?do=py&pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
@@ -478,9 +487,9 @@
 
 {
 "key": "hipy_py_新浪资源",
-"name": "新浪资源",
+"name": "新浪资源(hipy)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/新浪资源?do=py&pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
@@ -490,10 +499,62 @@
 },
 
 {
-"key": "hipy_py_瓜子",
-"name": "瓜子",
+"key": "hipy_py_新韩剧网",
+"name": "新韩剧网(hipy)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/瓜子?do=py&pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "新韩剧网",
+"lang": "hipy",
+"ext": ""
+},
+
+{
+"key": "hipy_py_爱瓜APP",
+"name": "爱瓜APP(hipy)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "爱瓜APP",
+"lang": "hipy",
+"ext": ""
+},
+
+{
+"key": "hipy_py_独播库",
+"name": "独播库(hipy)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "独播库",
+"lang": "hipy",
+"ext": ""
+},
+
+{
+"key": "hipy_py_猎手APP",
+"name": "猎手APP(hipy)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "猎手APP",
+"lang": "hipy",
+"ext": ""
+},
+
+{
+"key": "hipy_py_瓜子",
+"name": "瓜子(hipy)",
+"type": 4,
+"api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
@@ -503,16 +564,15 @@
 },
 
 {
-"key": "drpyS_荐片[优]",
-"name": "荐片",
+"key": "hipy_py_爱瓜APP",
+"name": "爱瓜APP(hipy)",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/荐片[优]?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
-"quickSearch": 0,
-"title": "荐片[优]",
-"类型": "影视",
-"lang": "ds",
+"quickSearch": 1,
+"title": "爱瓜APP",
+"lang": "hipy",
 "ext": ""
 },
 
@@ -570,20 +630,6 @@
 "filterable": 0,
 "ext": {
 "url": "http://v.rbotv.cn"
-}
-},
-
-{
-"key": "数字",
-"name": "數字",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "http://app1-0-0.87333.cc",
-"dataKey": "VwsHxkCViDXEExWa",
-"dataIv": "VwsHxkCViDXEExWa"
 }
 },
 
@@ -770,18 +816,6 @@
 },
 
 {
-"key": "nyys",
-"name": "紐約",
-"type": 3,
-"api": "csp_XPathFilter",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"jar": "https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/custom_spiderNY.jar",
-"ext": "https://raw.githubusercontent.com/bobyang3/tvbox/own/json/ys.json"
-},
-
-{
 "key": "feikuai",
 "name": "飛快",
 "type": 3,
@@ -928,18 +962,6 @@
 },
 
 {
-"name": "高端",
-"key": "高端",
-"type": 3,
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/6420.jar",
-"api": "csp_DdysAmns",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"changeable": 0
-},
-
-{
 "key":"NewGr",
 "name":"春天",
 "type":3,
@@ -1003,16 +1025,7 @@
 
 #短劇區
 
-{
-"key": "剧王短剧",
-"name": "劇王🦄短劇",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/剧王短剧.py",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
+
 
 {
 "key": "找短劇",
@@ -1052,18 +1065,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/天龙短剧.json"
-},
-
-{
-"key": "纽约短剧",
-"name": "紐約🦄短劇",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/纽约短剧.json"
 },
 
 {
@@ -1119,9 +1120,9 @@
 
 {
 "key": "drpyS_七猫短剧",
-"name": "七猫🦄短劇",
+"name": "七貓🦄短劇",
 "type": 4,
-"api": "http://142.171.248.206:5757/api/七猫短剧?pwd=dzyyds",
+"api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 0,
@@ -1129,7 +1130,7 @@
 "类型": "影视",
 "lang": "ds",
 "ext": ""
-},
+}
 
 
 
@@ -1195,6 +1196,22 @@
 },
 
 {
+"key": "py_方舟_APP",
+"name": "動漫🦉方舟(備)",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"host": "https://www.cyfz.vip",
+"api" : "/api.php/getappapi",
+"datakey": "e72cdfd629e8895d",
+"dataiv" : "e72cdfd629e8895d"
+}
+},
+
+{
 "key": "番薯动漫",
 "name": "動漫🦉番薯",
 "type": 3,
@@ -1219,22 +1236,6 @@
 "url": "https://www.gugu3.com",
 "dataKey": "nKfZ8KX6JTNWRzTD",
 "dataIv": "nKfZ8KX6JTNWRzTD"
-}
-},
-
-{
-"key": "py_方舟_APP",
-"name": "動漫🦉方舟",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://www.cyfz.vip",
-"api" : "/api.php/getappapi",
-"datakey": "e72cdfd629e8895d",
-"dataiv" : "e72cdfd629e8895d"
 }
 },
 
@@ -1787,7 +1788,7 @@
 
 {
 "name":"Free TV(備用)",
-"url":"https://media0501.github.io/Freemedia/520freerecha@tv.txt",
+"url":"https://freeman.neocities.org/520free-CC@tv.txt",
 "type":0,
 "timeout":10,
 "playerType":2,
@@ -1796,7 +1797,7 @@
 
 {
 "name": "四季影視嗅探",
-"url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
+"url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
@@ -1825,6 +1826,16 @@
 },
 
 {
+"name":"RobYang1",
+"type":0,"url":"http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
+"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1",
+"X-FORWARDED-FOR":"127.0.0.1"},
+"timeout":5,"epg":
+"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"RobYang3",
 "type":0,
 "url":"http://www3.RobYang.dpdns.org/VodLive/lb8ffa",
@@ -1841,26 +1852,6 @@
 "header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
 "timeout":5,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-
-{
-"name":"RobYang1",
-"type":0,"url":"http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
-"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1",
-"X-FORWARDED-FOR":"127.0.0.1"},
-"timeout":5,"epg":
-"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-
-{
-"name":"RobYang7",
-"source":"Azure",
-"url":"http://www7.RobYang.dpdns.org/VodLive/lb8ffa",
-"type":0,
-"header":{"User-Agent":"okhttp/4.12.0 RobYang/5.2.1","X-FORWARDED-FOR":"127.0.0.1"},
-"timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
 
@@ -1885,10 +1876,10 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
-{"name": "港台大陸","url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"},
+{"name": "四季TV網頁嗅探","url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"},
 
 {
-"name": "冰茶",
+"name": "冰茶(大陸頻道)",
 "type": 0,
 "playerType": 2,
 "url": "https://ds65.tv1288.xyz",
@@ -1900,11 +1891,17 @@
 "url": "http://tv.anbox.ip-ddns.com/live7"
 },
 
-
 {
 "name": "Judy",
 "url": "https://iptv.8plus.eu.org/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
 "User-Agent": "PharosTVPlayer",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
+"name": "CloudTV電視版",
+"url": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/freeTV/cloudtv.txt",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
