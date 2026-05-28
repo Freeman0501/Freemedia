@@ -4,13 +4,9 @@
 
 2.設定 - 暫存(點選後即可清除)
 
-3.設定 - 點播(輸入以下網址)
+3.設定 - 點播(輸入以下網址,兩個選一個即可,內容一樣)
 
 https://freeman.pse.is/freemovie
-
-另外提供兩個,任選一個即可(因為都一樣)
-
-https://s.yam.com/nJqVO
 
 https://freeman0501.github.io/Freemedia/520free@storehouse.txt
 
