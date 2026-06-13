@@ -4,7 +4,7 @@
 
 {
             "type_id": "ZB新闻",
-            "type_name": "台灣新聞"
+            "type_name": "世界新聞"
         },
 {
             "type_id": "24/7Cartoons",
@@ -12,7 +12,7 @@
         },
 {
             "type_id": "直播",
-            "type_name": "24小时直播"
+            "type_name": "綜合直播"
         },
 {
             "type_id": "国际中文(美洲)",
