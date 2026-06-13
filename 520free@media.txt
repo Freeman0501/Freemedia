@@ -42,6 +42,20 @@
 },
 
 {
+"key": "油管♓️so(老张)",
+"name": "YouTube",
+"type": 3,
+"api": "csp_Ytdl",
+"searchable": 1,
+"quickSearch": 1,
+"playerType": 2,
+"timeout": 30,
+"filterable": 1,
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/Youtube.jar",
+"ext": { "proxy": "", "youtube_txt": "https://raw.githubusercontent.com/Freeman0501/Freemedia/refs/heads/main/Youtube.txt"}
+},
+
+{
 "key": "豆瓣",
 "name": "熱播排行榜-自動切換站源",
 "type": 3,
@@ -1020,22 +1034,7 @@
 #待測區
 
 
-{
-            "key": "油管♓️so(老张)",
-            "name": "油管♓️so(老张)",
-            "type": 3,
-            "api": "csp_Ytdl",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/Youtube.jar",
-            "ext": {
-                "proxy": "",
-                "youtube_txt": "https://raw.githubusercontent.com/Freeman0501/Freemedia/refs/heads/main/Youtube.txt"
-            }
-        },
+
 
 
 
