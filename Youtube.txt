@@ -8,7 +8,7 @@
         },
 {
             "type_id": "24/7Cartoons",
-            "type_name": "24/7Cartoons"
+            "type_name": "24小時卡通直播"
         },
 
 {
