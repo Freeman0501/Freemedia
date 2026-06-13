@@ -42,7 +42,7 @@
 },
 
 {
-"key": "油管♓️so(老张)",
+"key": "YouTube♓️SO",
 "name": "YouTube",
 "type": 3,
 "api": "csp_Ytdl",
@@ -51,9 +51,12 @@
 "playerType": 2,
 "timeout": 30,
 "filterable": 1,
+"style": {"type": "rect","ratio": 1.33}
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/Youtube.jar",
 "ext": { "proxy": "", "youtube_txt": "https://raw.githubusercontent.com/Freeman0501/Freemedia/refs/heads/main/Youtube.txt"}
 },
+
+
 
 {
 "key": "豆瓣",
