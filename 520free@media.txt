@@ -51,7 +51,7 @@
 "playerType": 2,
 "timeout": 30,
 "filterable": 1,
-"style": {"type": "rect","ratio": 1.33}
+"style": {"type": "rect","ratio": 1.33},
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/Youtube.jar",
 "ext": { "proxy": "", "youtube_txt": "https://raw.githubusercontent.com/Freeman0501/Freemedia/refs/heads/main/Youtube.txt"}
 },
