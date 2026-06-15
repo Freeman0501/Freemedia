@@ -7,11 +7,10 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0614 Check,#genre#
+🚧 0615 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
-AI倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
 AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
 天氣即時觀測,https://www.youtube.com/watch?v=lM2pZZf8Kag
@@ -137,7 +136,7 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 三立台灣,http://211.23.95.147:18881/live/29_h265.ts
 三立都會,http://211.23.95.147:18881/live/30_h265.ts
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+三立新聞,https://www.youtube.com/watch?v=yeYC0mbSIOo
 三立綜合,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 大愛,http://211.23.95.147:18881/live/dtv23_h265.ts
 大愛,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -418,7 +417,7 @@ TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZ
 三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+三立新聞,https://www.youtube.com/watch?v=yeYC0mbSIOo
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -506,7 +505,7 @@ TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZ
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+三立新聞,https://www.youtube.com/watch?v=yeYC0mbSIOo
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
@@ -516,7 +515,6 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
-倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -529,7 +527,7 @@ TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
+FRANCE 24,https://www.youtube.com/watch?v=HvZt-nh9sGg
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
@@ -920,26 +918,27 @@ Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
 
 
 海螺小姐,https://www.youtube.com/watch?v=Lh6xiMlkRrg
-新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
-蠟筆小新,https://www.youtube.com/watch?v=ENnjj7jQ23g
+新哆啦A夢,https://www.youtube.com/watch?v=IgRPlOv-EIs
+蠟筆小新,https://www.youtube.com/watch?v=aoE015fWDac
 中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 
 
-轉生為第七王子,https://www.youtube.com/watch?v=Xfzxwd2KsBM
-異世界悠閒農家,https://www.youtube.com/watch?v=OjUwZvPMAKA
-暗殺教室,https://www.youtube.com/watch?v=mSPqk2R70Vk
-鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak
-獵人HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc
+異世界流浪美食家S1+S2,https://www.youtube.com/watch?v=Xavy-PtrsSM
+怕痛的我把防禦力點滿就對了S1-S2,https://www.youtube.com/watch?v=L7Hgu0RLdDY
+獵人,https://www.youtube.com/watch?v=YrUJXdCamNs
+葬送的芙莉蓮,https://www.youtube.com/watch?v=PxAQgmdBgug
+關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=YJGRHgEhNQI
 
 
-堀與宮村,https://www.youtube.com/watch?v=P3KJbsmK3Nw
+我內心的糟糕念頭,https://www.youtube.com/watch?v=ZIMaLK6fszQ
 OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM
 
 
-TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
-TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
-TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
+TOM and JERRY 1,https://www.youtube.com/watch?v=j4rEV2OCRS4
+TOM and JERRY 2,https://www.youtube.com/watch?v=rEKifG2XUZg
+TOM and JERRY 3,https://www.youtube.com/watch?v=_XeGYNTiuSM
+Scooby,https://www.youtube.com/watch?v=90kaC8Kbw0k
 
 豆豆先生,https://www.youtube.com/watch?v=aYco1VpAoWc
 
@@ -947,13 +946,15 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 
 萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
 
-超級冰冰Show,https://www.youtube.com/watch?v=ON6bMdKXBC4
+超級冰冰Show,https://www.youtube.com/watch?v=1NQxaEKd-L0
 
 
-神機妙算劉伯溫,https://www.youtube.com/watch?v=gmZbGTY5ssg
+台視時光機,https://www.youtube.com/watch?v=panxL8rRDIw
+神機妙算劉伯溫,https://www.youtube.com/watch?v=CWT2LdX0H-g
+台灣廖添丁,https://www.youtube.com/watch?v=B7Kf45qZxmA
+風流才子唐伯虎,https://www.youtube.com/watch?v=cudUOkO_hbo
+艋舺的女人,https://www.youtube.com/watch?v=gKLjit-kOcg
 龍兄虎弟,https://www.youtube.com/watch?v=AhWzXw6dIiQ
-風流才子唐伯虎,https://www.youtube.com/watch?v=0RheAOjDYkY
-精彩類戲劇一次看個夠,https://www.youtube.com/watch?v=Ys4chwt-Gfo
 流氓教授,https://www.youtube.com/watch?v=WHWOr4FBQmM
 
 
@@ -967,12 +968,12 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
 現代嘉慶君,https://www.youtube.com/watch?v=OhA_G0s9pqw
 
+民視戲劇馬拉松,https://www.youtube.com/watch?v=K2qsju6byIg
+特戰英雄,https://www.youtube.com/watch?v=BuKS_f0hvPU
+新兵日記,https://www.youtube.com/watch?v=65bIk97v35Q
+我的老師叫小賀,https://www.youtube.com/watch?v=FOrcD6iEUso
 台灣奇案,https://www.youtube.com/watch?v=NyrdWXddfR4
 廉政英雄,https://www.youtube.com/watch?v=TXKWbIPgD_8
-新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=qJMFuMRLee4
-我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
-藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
-新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
 
 
 世間情,https://www.youtube.com/watch?v=GChq250V35U
@@ -982,10 +983,11 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
 
 
-包青天,https://www.youtube.com/watch?v=Qq-uMi_1Rzk
-台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
+包青天,https://www.youtube.com/watch?v=SnjnB3Y4zG8
+台灣靈異事件,https://www.youtube.com/watch?v=6ZowCmLBcMY
 
-步步驚心,https://www.youtube.com/watch?v=B74dPMDRRjo
+羋月傳,https://www.youtube.com/watch?v=Vi0yvOB9AnM
+顧漫三部曲,https://www.youtube.com/watch?v=0eo5PdnGeJA
 琅琊榜,https://www.youtube.com/watch?v=18ypxNBbMYY
 知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
 
@@ -999,8 +1001,8 @@ TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
 飢餓遊戲,https://www.youtube.com/watch?v=6TsaEYaKueE
 飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 
-三明治女孩的逆襲,https://www.youtube.com/watch?v=PP5bsVCPiMA
-櫻野3+1,https://www.youtube.com/watch?v=LifgWpNjkdI
+浮士德的微笑,https://www.youtube.com/watch?v=eCjEPvqtwMI
+1989一念間,https://www.youtube.com/watch?v=LifgWpNjkdI
 
 終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
 
