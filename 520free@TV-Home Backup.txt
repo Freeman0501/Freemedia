@@ -9,12 +9,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 🚧 0614 Check,#genre#
 
-Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
-AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
-AI倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
-AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
-台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-天氣即時觀測,https://www.youtube.com/watch?v=lM2pZZf8Kag
+Test Video,
 
 
 
@@ -22,10 +17,8 @@ AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 
 
 
-8視界,https://www.youtube.com/watch?v=RvSOIM620bA
-ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
+
 AMC電影台,http://211.23.95.147:18881/live/69_h265.ts
-Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 AXN,http://211.23.95.147:18881/live/67_h265.ts
 BLOOMBERG TV,http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 BS日テレ東,http://211.23.95.147:18881/live/dtv40_h265.ts
@@ -60,16 +53,13 @@ ELTA娛樂,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=zbKLB9o6aG
 ELTV生活英語,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 Fashion TV,http://106.107.242.201:50007/4gtv-live085/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 FRANCE 24,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 FUN 4K探索娛樂,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 HBO,http://211.23.95.147:18881/live/65_h265.ts
 HITS,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 INULTRA,http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 JET綜合,http://211.23.95.147:18881/live/45_h265.ts
-KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
 Lifetime,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 LiveABC互動英語,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 LOVE NATURE,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -82,7 +72,6 @@ MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=zbKLB9o6aG
 NHK BS,http://211.23.95.147:18881/live/dtv39_h265.ts
 NHK WORLD,http://211.23.95.147:18881/live/95_h265.ts
 NHK WORLD,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 Nick Jr,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 Nickelodeon,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 NOW新聞台,http://cdn.163189.xyz/163189/now
@@ -90,7 +79,6 @@ RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 ROCK Xstream,http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 Smart知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 Taiwan+,http://211.23.95.147:18881/live/dtv21_h265.ts
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
@@ -105,7 +93,6 @@ TVBS HD,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjZHVwQzJ5eFUyZ3BOXzRW
 TVBS HD,https://iptv.judy.edu.kg/live/encrypted/NDQ0YWVkNjlhYTY3M2NiZjMyMzM4OWYzNTJjMmIzMjk6MDc2YmZlNTBlMTYzMGIyZjExZDQxM2U2N2U5NDI4Y2E4YzE4ZGNjN2JiMDY5YzVhMzI4N2I5MTFjNzQ1MjYyOGExYzQyYTEyZmZjODcyNDk1Y2RkMDVkZjQ3YTljOGVlOGY1OTk4ZTMzMTBlYzE3ZTBhZDZkNWVlMWFjYzQwMGE0NGI0MzRiZDAzMjUxY2YyOTFhMzgwMDM1YzMyNGU3MjUyNTk3MGNiOTkxNDBmM2U0ODg2ZDBhMGEwMDk4NWJlNTkwZGU3OTk4M2RlM2M4YWNhYmUzNWJiMWJmMmM2OTVmMTI3YTZmMzM0Zjk0ZThjY2VmZWUxNTRhNzFlYjk5OTkzZmYzNmJmZWVkNjJkM2NkYWVmZGIzYTRlOGMzNTA0Mzc4MGEzZGE4MjMxMTNiYTUxMGIwMmRmYzFlYmNmMDU1MWYwZTQzNDM2M2JjZjQ5NWY0NTBhODkyMWY3ZjYzYw?username=tg_0ypy6s61
 TVBS HD,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
 TVBS HD,http://211.23.95.147:18881/live/56_h265.ts
-TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -119,7 +106,6 @@ TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N
 TVBS新聞,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
 TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0yMzZjZDZlOSZjbj0wN2JjZmNjZCZjcD02OWI3ZjVkNyZjdT00YjZhNTk2ZiZycD1uTFE0ZFBGTmpMcFdqTFRPZF8&tk=6759a8f65e7035b71b11e5478c66f764
 TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
-メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
 人間衛視,http://211.23.95.147:18881/live/dtv24_h265.ts
 人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -133,17 +119,13 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立台灣,http://211.23.95.147:18881/live/29_h265.ts
 三立都會,http://211.23.95.147:18881/live/30_h265.ts
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 三立綜合,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 大愛,http://211.23.95.147:18881/live/dtv23_h265.ts
 大愛,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛2台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-大愛2台,https://www.youtube.com/watch?v=OKvWtVoDR8I
 小公視,http://211.23.95.147:18881/live/dtv11_h265.ts
 小公視,http://74.91.26.218:82/live/ptsse.m3u8
 中天娛樂,http://211.23.95.147:18881/live/39_h265.ts
@@ -152,7 +134,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天綜合,http://211.23.95.147:18881/live/36_h265.ts
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
@@ -170,23 +151,18 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視經典,http://211.23.95.147:18881/live/dtv3_h265.ts
 中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
 公視,http://211.23.95.147:18881/live/dtv5_h265.ts
 公視,http://211.72.174.95:8116/0.ts$原生解碼最佳
 公視,http://74.91.26.218:82/live/pts.m3u8
-公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視台語,http://211.23.95.147:18881/live/dtv6_h265.ts
 公視台語,http://74.91.26.218:82/live/ptsty.m3u8
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 半島國際新聞,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
 台視,http://211.72.174.95:8112/0.ts$原生解碼最佳
 台視,http://74.91.26.218:82/live/ttv.m3u8
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 台視財經,http://211.23.95.147:18881/live/dtv16_h265.ts
@@ -194,7 +170,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 台視新聞,http://211.23.95.147:18881/live/dtv15_h265.ts
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-台視新聞,https://www.youtube.com/watch?v=sNtCBxP-8LY
 台視綜合,http://211.23.95.147:18881/live/dtv17_h265.ts
 台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
 台灣戲劇,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -220,7 +195,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
@@ -244,10 +218,8 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 東方衛視國際,http://211.23.95.147:18881/live/dtv38_h265.ts
 東風衛視,http://211.23.95.147:18881/live/37_h265.ts
 東森幼幼,http://211.23.95.147:18881/live/25_h265.ts
-東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森超視,http://211.23.95.147:18881/live/33_h265.ts
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
@@ -255,9 +227,7 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森綜合,http://211.23.95.147:18881/live/32_h265.ts
-東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森戲劇,http://211.23.95.147:18881/live/40_h265.ts
 東森購物一台,http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 東森購物一台,http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -273,18 +243,14 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 邵氏電影,http://feilong123.vip/409990236/tv.php?id=ssdy
 采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
 客家電視,http://211.23.95.147:18881/live/dtv12_h265.ts
 客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
-倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
-倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
 原住民族電視,http://106.107.242.201:50007/4gtv-live014/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 原住民電視,http://211.23.95.147:18881/live/dtv13_h265.ts
 時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -323,7 +289,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 視納華仁紀實,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -331,7 +296,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 新唐人亞太,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 新視覺,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 經典卡通,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 經典電影,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -350,7 +314,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
 影迷紀實,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 影迷數位電影,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 緯來日本,http://211.23.95.147:18881/live/77_h265.ts
@@ -367,16 +330,13 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
 寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
-寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 龍華日韓,http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 龍華日韓,http://cdn8.163189.xyz/163189/lhrh
@@ -395,7 +355,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
 鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
 
@@ -404,7 +363,6 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 🌎 新聞時事News,#genre#
 
 
-TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://104.253.175.55:19950/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=885252
 TVBS新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv072
 TVBS新聞,https://www.4gtv.tv/channel/media-live072?set=1&ch=473
@@ -414,32 +372,25 @@ TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,https://iptv.judy.edu.kg/live/encrypted/ODc1ZDAzNjYzODA4M2U5YzJhNjM3N2Q2OTQzYWFjNGU6ZDFiZmY0MzMwY2M2ZDkyOWI1YzVjYmVjZGQ0ZDI2ZDcxMzdmYWQ0ZjZlNjc4NDQ3ODU2OGI1ZDNlOWMxNzFiZWE0MGE3MmRlNGZjODJjMTdkMzVjZTRjMjIwOTRiMDE1ZjA4OTQ4YzQ4MDI2NjY3MjYzM2MwZTBlODY0ZmJhMDMxNGRhODI2YzY1ZDNjNzg0MjI4MmM3M2IxMDM0ZjM4ZDRjZGZkMWUzOTFjYTgwOTA1NGU2NTRlNmZjZTU2ZTBkOGRmOTc5ZTcwOGQyM2YyZDZhOWIwN2QxZjQ4YmRmODQ3MWE5MWY5ZjA5ODY4NzRkNTgzYzg0NjFkYTFmYjQwNWVhN2M1YjA1ZTkzOGUyNTMyYmI0MDU2OTA3ZmQwNDdlY2VkM2ZlYTJiNjgwMzI5ZjBkZTZiZjVlMjNjYmRhYTZmZDIyZGNkNjc1ZTM3YWQ2NDgzMTQyZjM0NTgwYzcxYWQ2M2EwMzQ0NzVjYWFiYTQ5MjUzYjBkZWRhMGI5NTYx?username=tg_0ypy6s61
 TVBS新聞,https://cdn-2.ttvb.eu.org/4gtv/media-live073/index.m3u8
 TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0yMzZjZDZlOSZjbj0wN2JjZmNjZCZjcD02OWI3ZjVkNyZjdT00YjZhNTk2ZiZycD1uTFE0ZFBGTmpMcFdqTFRPZF8&tk=6759a8f65e7035b71b11e5478c66f764
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中天新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
 中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視財經,http://211.23.95.147:18881/live/dtv16_h265.ts
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 台視新聞,http://211.23.95.147:18881/live/dtv15_h265.ts
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,http://211.23.95.147:18881/live/dtv9_h265.ts
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -447,48 +398,35 @@ TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZ
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
 年代新聞,http://211.23.95.147:18881/live/50_h265.ts
-東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
+非凡財經,?v=eA6Aczd3FZM
 非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
-倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
-倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 倪珍播新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
-倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
 壹新聞,http://211.23.95.147:18881/live/49_h265.ts
 華視教育體育文化,http://211.23.95.147:18881/live/dtv19_h265.ts
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,http://211.23.95.147:18881/live/dtv20_h265.ts
 華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
 寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇財經,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
-寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 寰宇新聞台灣,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
-寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
 鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
@@ -498,43 +436,6 @@ TVBS新聞,https://live.catvod.com/?id=L2xyL2RMUU9uUG03ak5TV1FjbmJWcmZPVkNzSVZDZ
 
 
 
-
-
-🦋 YouTube新聞,#genre#
-
-
-
-TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-台視新聞,https://www.youtube.com/watch?v=sNtCBxP-8LY
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
-東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
-倪珍英語新聞,https://www.youtube.com/watch?v=vuZD1ShuQeU
-倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
-倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
-鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
-Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
-メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
 
 
 
@@ -908,107 +809,6 @@ TVBS歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv068
 
 
 
-🦄 YouTube影視,#genre#
-
-
-Love Nature,https://www.youtube.com/watch?v=QhahoVG0BfI
-
-
-International Space Station,https://www.youtube.com/watch?v=0FBiyFpV__g
-NASA Earth From Space,https://www.youtube.com/watch?v=vytmBNhc9ig
-Earth by Sen’s,https://www.youtube.com/watch?v=fO9e9jnhYK8
-
-
-海螺小姐,https://www.youtube.com/watch?v=Lh6xiMlkRrg
-新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
-蠟筆小新,https://www.youtube.com/watch?v=ENnjj7jQ23g
-中華一番,https://www.youtube.com/watch?v=mRCXonM5ru8
-我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
-
-
-轉生為第七王子,https://www.youtube.com/watch?v=Xfzxwd2KsBM
-異世界悠閒農家,https://www.youtube.com/watch?v=OjUwZvPMAKA
-暗殺教室,https://www.youtube.com/watch?v=mSPqk2R70Vk
-鑽石王牌,https://www.youtube.com/watch?v=wO0nqg5qcak
-獵人HUNTER,https://www.youtube.com/watch?v=UVouDle2jHc
-
-
-堀與宮村,https://www.youtube.com/watch?v=P3KJbsmK3Nw
-OVERLORD,https://www.youtube.com/watch?v=XDM7J5yzFPM
-
-
-TOM and JERRY 1,https://www.youtube.com/watch?v=6a23sxk5_vM
-TOM and JERRY 2,https://www.youtube.com/watch?v=_XeGYNTiuSM
-TOM and JERRY 3,https://www.youtube.com/watch?v=rEKifG2XUZg
-
-豆豆先生,https://www.youtube.com/watch?v=aYco1VpAoWc
-
-豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
-
-萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
-
-超級冰冰Show,https://www.youtube.com/watch?v=ON6bMdKXBC4
-
-
-神機妙算劉伯溫,https://www.youtube.com/watch?v=gmZbGTY5ssg
-龍兄虎弟,https://www.youtube.com/watch?v=AhWzXw6dIiQ
-風流才子唐伯虎,https://www.youtube.com/watch?v=0RheAOjDYkY
-精彩類戲劇一次看個夠,https://www.youtube.com/watch?v=Ys4chwt-Gfo
-流氓教授,https://www.youtube.com/watch?v=WHWOr4FBQmM
-
-
-熱門短劇,https://www.youtube.com/watch?v=1u5qooKaACs
-倚天屠龍記,https://www.youtube.com/watch?v=7syefcmbpFE
-九重紫,https://www.youtube.com/watch?v=ESCvRS78MBk
-神鵰俠侶2,https://www.youtube.com/watch?v=OyTd6lXP32Y
-神鵰俠侶3,https://www.youtube.com/watch?v=7syefcmbpFE
-光芒,https://www.youtube.com/watch?v=Wsz2YuQ422g
-
-天才衝衝衝,https://www.youtube.com/watch?v=0ePhPlTJbGo
-現代嘉慶君,https://www.youtube.com/watch?v=OhA_G0s9pqw
-
-台灣奇案,https://www.youtube.com/watch?v=NyrdWXddfR4
-廉政英雄,https://www.youtube.com/watch?v=TXKWbIPgD_8
-新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=qJMFuMRLee4
-我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
-藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
-新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
-
-
-世間情,https://www.youtube.com/watch?v=GChq250V35U
-台灣龍捲風,https://www.youtube.com/watch?v=QMWZl6-1Qx8
-炮仔聲,https://www.youtube.com/watch?v=GBrN5vzJwNc
-一家團圓,https://www.youtube.com/watch?v=FuRbrw9lliI
-天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
-
-
-包青天,https://www.youtube.com/watch?v=Qq-uMi_1Rzk
-台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
-
-步步驚心,https://www.youtube.com/watch?v=B74dPMDRRjo
-琅琊榜,https://www.youtube.com/watch?v=18ypxNBbMYY
-知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=dgnnYeyqbRU
-
-
-舉頭三尺有神明,https://www.youtube.com/watch?v=7ojC3WAaXoY
-夜市人生,https://www.youtube.com/watch?v=CUmdyNBtuCw
-豬哥亮回來啦,https://www.youtube.com/watch?v=DFqBPb7EW5g
-親戚不計較,https://www.youtube.com/watch?v=GjXBXz5dl6E
-
-
-飢餓遊戲,https://www.youtube.com/watch?v=6TsaEYaKueE
-飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
-
-三明治女孩的逆襲,https://www.youtube.com/watch?v=PP5bsVCPiMA
-櫻野3+1,https://www.youtube.com/watch?v=LifgWpNjkdI
-
-終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
-
-綜藝玩很大,https://www.youtube.com/watch?v=IkVUGn_uTCE
-
-戲說台灣,https://www.youtube.com/watch?v=JPJFLo9r1gA
-
-翻牆的記憶,https://www.youtube.com/watch?v=Ok_6gWYl_-Y
 
 
 
@@ -1124,11 +924,11 @@ ARIRANG NEWS,video://http://www.faintv.com/channel/16272
 
 
 
-テレ朝NEWS24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-緊急地震速報,https://www.youtube.com/watch?v=c7_kqMFDE8c
-日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
-QVCライブ,https://www.youtube.com/watch?v=dPTTMvUm9uA
-Speak Japanese,https://www.youtube.com/watch?v=9VWh8jRfUmY
+テレ朝NEWS24,?v=coYw-eVU0Ks
+緊急地震速報,?v=c7_kqMFDE8c
+日テレNEWS,?v=t9kwjZBLI-A
+QVCライブ,?v=dPTTMvUm9uA
+Speak Japanese,?v=9VWh8jRfUmY
 NHK G,https://nl.utako.moe/NHK_G/index.m3u8
 NHK E,https://nl.utako.moe/NHK_E/index.m3u8
 NTV,https://nl.utako.moe/Nippon_TV/index.m3u8
@@ -1191,16 +991,16 @@ Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
 Pigoo (NSFW),https://nl.utako.moe/pigoo/index.m3u8
 V Paradise (NSFW),https://nl.utako.moe/v_paradise/index.m3u8
 
-Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-KBS News,https://www.youtube.com/watch?v=M1WrMEUOBsU
-MBC,https://www.youtube.com/watch?v=q9bM12ucTIY
-THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
-YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
-매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
-벌거벗은 세계사,https://www.youtube.com/watch?v=b5UeAVqz4cI
-SBS,https://www.youtube.com/watch?v=RevYuGM_Bx0
+Arirang TV,?v=CJVBX7KI5nU
+KBS WORLD TV,?v=OxQQsIvJTTU
+KBS News,?v=M1WrMEUOBsU
+MBC,?v=q9bM12ucTIY
+THE K-POP,?v=JVocS7Yftw8
+YonhapnewsTV,?v=6QZ_qc75ihU
+YTN,?v=FJfwehhzIhw
+매일경제TV,?v=s9xL1DpBsfQ
+벌거벗은 세계사,?v=b5UeAVqz4cI
+SBS,?v=RevYuGM_Bx0
 
 
 
@@ -1217,52 +1017,52 @@ SBS,https://www.youtube.com/watch?v=RevYuGM_Bx0
 
 
 1muz,http://hz1.teleport.cc/HLS/HD.m3u8
-Bossa Nova Jazz,https://www.youtube.com/watch?v=NpokNpxhDmI
-Chillout Lounge 2025,https://www.youtube.com/watch?v=QrX_hJVIOrE
-Coffee Jazz,https://www.youtube.com/watch?v=fEvM-OUbaKs
-Deep & Melodic House,https://www.youtube.com/watch?v=WsDyRAPFBC8
-Deep House Radio,https://www.youtube.com/watch?v=IkmLXvBfVv0
-Deep House,https://www.youtube.com/watch?v=Ihm9OQWmibA
-Hits Radio 1,https://www.youtube.com/watch?v=3MOrgUjiigE
-Best Radio 1 POP Hits,https://www.youtube.com/watch?v=b-bK2Vn3D38
-jazz lofi radio,https://www.youtube.com/watch?v=HuFYqnbVbzY
-KKBOX華語單曲排行週榜,https://www.youtube.com/watch?v=99rLT2xf8T8
-Live POP Radio,https://www.youtube.com/watch?v=p7ZIMv7SqW4
-lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-Morning Vibes 2025,https://www.youtube.com/watch?v=ZHkkgIA0Dy4
-Music Radio 1,https://www.youtube.com/watch?v=FVLNVecHzvI
+Bossa Nova Jazz,?v=NpokNpxhDmI
+Chillout Lounge 2025,?v=QrX_hJVIOrE
+Coffee Jazz,?v=fEvM-OUbaKs
+Deep & Melodic House,?v=WsDyRAPFBC8
+Deep House Radio,?v=IkmLXvBfVv0
+Deep House,?v=Ihm9OQWmibA
+Hits Radio 1,?v=3MOrgUjiigE
+Best Radio 1 POP Hits,?v=b-bK2Vn3D38
+jazz lofi radio,?v=HuFYqnbVbzY
+KKBOX華語單曲排行週榜,?v=99rLT2xf8T8
+Live POP Radio,?v=p7ZIMv7SqW4
+lofi hip hop radio,?v=28KRPhVzCus
+LofiGirl,?v=jfKfPfyJRdk
+Morning Vibes 2025,?v=ZHkkgIA0Dy4
+Music Radio 1,?v=FVLNVecHzvI
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
-Old Beautiful Soft Rock,https://www.youtube.com/watch?v=ZTqt3CYehuE
-Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
-Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
-Radio POP Mix,https://www.youtube.com/watch?v=x-JC7sJJUW8
-Rainy Piano Radio,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
-Relaxing Jazz Piano,https://www.youtube.com/watch?v=Dx5qFachd3A
-Spa Music,https://www.youtube.com/watch?v=DnoTqKe04Rc
-Space Ambient Music,https://www.youtube.com/watch?v=QOzC_AbsPlw
-Winter Luxury Lounge 2026,https://www.youtube.com/watch?v=eoFU5bMS_uY
-Starbucks Music,https://www.youtube.com/watch?v=Efu7J9uQMxY
-The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
-THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-美丽城市和软钢琴音乐,https://www.youtube.com/watch?v=TZikBxNaaQk
-浪漫吉他音樂,https://www.youtube.com/watch?v=xNgv8mIk0tA
-減輕壓力音樂,https://www.youtube.com/watch?v=wKg71lcs5Nw
-舒緩神經音樂,https://www.youtube.com/watch?v=DO9WCXMfRuc
-溫暖英文歌單,https://www.youtube.com/watch?v=IomlsrbTFsQ
-睡眠音樂-1,https://www.youtube.com/watch?v=b_TW4NYsbOo
-睡眠音樂-2,https://www.youtube.com/watch?v=TO4CiZXapP0
-睡眠音樂-3,https://www.youtube.com/watch?v=G6M5Upcrwf8
-睡眠音樂-4,https://www.youtube.com/watch?v=hYz1oOcAuk8
-睡眠音樂-5,https://www.youtube.com/watch?v=zoz0eXzFFns
-緩解壓力-1,https://www.youtube.com/watch?v=c9n4t53pAA0
-緩解壓力-2,https://www.youtube.com/watch?v=BcwNV1cCoaU
-緩解壓力-3,https://www.youtube.com/watch?v=SjkGdCuT8zg
-緩解壓力-4,https://www.youtube.com/watch?v=pw5gYa4-yGI
-心情放鬆的韓文歌,https://www.youtube.com/watch?v=z5GAa0JdnNU
+Old Beautiful Soft Rock,?v=ZTqt3CYehuE
+Peaceful Music,?v=dXIyMS61B68
+Progressive House,?v=d8Oc90QevaI
+Radio POP Mix,?v=x-JC7sJJUW8
+Rainy Piano Radio,?v=-5ajVJ1Yxlg
+Relaxing Jazz Piano,?v=Dx5qFachd3A
+Spa Music,?v=DnoTqKe04Rc
+Space Ambient Music,?v=QOzC_AbsPlw
+Winter Luxury Lounge 2026,?v=eoFU5bMS_uY
+Starbucks Music,?v=Efu7J9uQMxY
+The Good Life Radio,?v=36YnV9STBqc
+THE K-POP,?v=JVocS7Yftw8
+美丽城市和软钢琴音乐,?v=TZikBxNaaQk
+浪漫吉他音樂,?v=xNgv8mIk0tA
+減輕壓力音樂,?v=wKg71lcs5Nw
+舒緩神經音樂,?v=DO9WCXMfRuc
+溫暖英文歌單,?v=IomlsrbTFsQ
+睡眠音樂-1,?v=b_TW4NYsbOo
+睡眠音樂-2,?v=TO4CiZXapP0
+睡眠音樂-3,?v=G6M5Upcrwf8
+睡眠音樂-4,?v=hYz1oOcAuk8
+睡眠音樂-5,?v=zoz0eXzFFns
+緩解壓力-1,?v=c9n4t53pAA0
+緩解壓力-2,?v=BcwNV1cCoaU
+緩解壓力-3,?v=SjkGdCuT8zg
+緩解壓力-4,?v=pw5gYa4-yGI
+心情放鬆的韓文歌,?v=z5GAa0JdnNU
 
 
 
@@ -1345,7 +1145,6 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
-
 
 
 
