@@ -319,18 +319,6 @@
 "quickSearch": 1
 },
 
-
-{
-"key": "光影",
-"name": "光影",
-"type": 3,
-"api": "csp_T4Guard",
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 0,
-"ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
-},
-
 {
 "key": "dbokutv_key",
 "name": "獨播庫",
@@ -361,7 +349,7 @@
 
 {
 "key": "drpyS_55影视",
-"name": "55影视(DS)",
+"name": "55影視",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
 "searchable": 2,
@@ -375,7 +363,7 @@
 
 {
 "key": "drpyS_永乐视频[优]",
-"name": "永乐视频[优](DS)",
+"name": "永樂視頻",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
 "searchable": 1,
@@ -389,7 +377,7 @@
 
 {
 "key": "drpyS_荐片[优]",
-"name": "荐片[优](DS)",
+"name": "荐片",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
 "searchable": 1,
@@ -402,8 +390,21 @@
 },
 
 {
+"key": "catvod_荐片",
+"name": "荐片(備)",
+"type": 3,
+"api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"title": "荐片",
+"lang": "cat",
+"ext": ""
+},
+
+{
 "key": "drpyS_可视影院",
-"name": "可视影院(DS)",
+"name": "可視影視",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
 "searchable": 2,
@@ -417,7 +418,7 @@
 
 {
 "key": "drpyS_枫林影视",
-"name": "枫林影视(DS)",
+"name": "楓林影視",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
 "searchable": 2,
@@ -431,7 +432,7 @@
 
 {
 "key": "drpyS_泥视频",
-"name": "泥视频(DS)",
+"name": "泥視頻",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
 "searchable": 1,
@@ -446,7 +447,7 @@
 
 {
 "key": "drpyS_非凡采集[采]",
-"name": "非凡采集[采](DS)",
+"name": "非凡採集",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
 "searchable": 2,
@@ -459,34 +460,8 @@
 },
 
 {
-"key": "catvod_月光影视",
-"name": "月光影视(cat)",
-"type": 3,
-"api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "月光影视",
-"lang": "cat",
-"ext": ""
-},
-
-{
-"key": "catvod_荐片",
-"name": "荐片(cat)",
-"type": 3,
-"api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "荐片",
-"lang": "cat",
-"ext": ""
-},
-
-{
 "key": "hipy_py_一起看[Ayq]",
-"name": "一起看[Ayq](hipy)",
+"name": "一起看",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -508,7 +483,7 @@
 
 {
 "key": "hipy_py_橘子TV[Ayq]",
-"name": "橘子TV[Ayq](hipy)",
+"name": "橘子",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -530,7 +505,7 @@
 
 {
 "key": "hipy_py_新浪资源",
-"name": "新浪资源(hipy)",
+"name": "新浪資源",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -543,7 +518,7 @@
 
 {
 "key": "hipy_py_新韩剧网",
-"name": "新韩剧网(hipy)",
+"name": "新韓劇網",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -556,7 +531,7 @@
 
 {
 "key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
+"name": "愛瓜",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -569,7 +544,7 @@
 
 {
 "key": "hipy_py_独播库",
-"name": "独播库(hipy)",
+"name": "獨播庫",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -581,40 +556,14 @@
 },
 
 {
-"key": "hipy_py_猎手APP",
-"name": "猎手APP(hipy)",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "猎手APP",
-"lang": "hipy",
-"ext": ""
-},
-
-{
 "key": "hipy_py_瓜子",
-"name": "瓜子(hipy)",
+"name": "瓜子",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
 "searchable": 1,
 "filterable": 1,
 "quickSearch": 1,
 "title": "瓜子",
-"lang": "hipy",
-"ext": ""
-},
-
-{
-"key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "爱瓜APP",
 "lang": "hipy",
 "ext": ""
 },
@@ -703,7 +652,7 @@
 
 {
 "key": "77ys",
-"name": "77影视",
+"name": "77影視,
 "type": 3,
 "jar":"https://tvbox.catvod.com/catvod.jar",
 "api": "csp_XBPQ",
@@ -734,18 +683,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://tvbox.catvod.com/js/heihu.json"
-},
-
-{
-"key": "qiyou",
-"name": "奇優",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://tvbox.catvod.com/catvod.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/qiyou.json"
 },
 
 {
@@ -962,37 +899,6 @@
 },
 
 {
-"key":"csp_XBPQ_短剧4",
-"name":"愛短劇",
-"type":3,
-"api":"csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":
-{
-"请求头":"User-Agent$MOBILE_UA",
-"编码":"UTF-8",
-"主页url":"https://www.duanjuwang.cc/",
-"数组":"class=\"stui-vodlist__box\">&&</a>",
-"标题":"title=\"&&\"",
-"图片":"data-original=\"&&\"",
-"副标题":"right\">&&</span>",
-"链接":"href=\"&&\"",
-"播放数组":"playlist clearfix&&</ul>",
-"播放列表":"<a&&a>",
-"播放链接":"href=\"&&\"",
-"播放标题":">&&</",
-"线路数组":"<h3&&h3>",
-"线路标题":"\">&&</",
-"跳转播放链接":"var player_*\"url\":\"&&\"",
-"分类url":"https://www.duanjuwang.cc/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-"分类":"短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
-"类型":"有声动漫$ysdm#女频恋爱$npla#反转爽剧$fzsj#古装仙侠$gzxx#年代穿越$ndcy#脑洞悬疑$ndxy#现代都市$xdds||动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#纪录片$jilupian#战争片$zhanzhengpian#动画片$donghuapian||国产剧$guochanju#欧美剧$oumeiju#韩剧$hanju#日剧$riju#港剧$gangju#台剧$taiju#泰剧$taiju2#海外剧$haiwaiju||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||演唱会$yanchanghui#大陆综艺$daluzongyi#日韩综艺$rihanzongyi#港台综艺$gangtaizongyi#欧美综艺$oumeizongyi"}
-},
-
-{
 "name": "伊外",
 "key": "伊外",
 "type": 3,
@@ -1028,25 +934,6 @@
 "quickSearch":1,
 "changeable":1
 },
-
-{
-"key": "零度",
-"name": "零度",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"ext": {
-"url": "http://ld.ldysapp.cn",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-"x-app-package": "com.mjyx.jhxq",
-"x-app-version-code": "36",
-"x-app-version-name": "2.2.6"
-}
-}
-},
-
 
 
 #待測區
@@ -1549,62 +1436,6 @@
 },
 "searchContent": {
 "loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title"
-}
-}
-}
-},
-
-{
-"key": "123av",
-"name": "🔞123AV",
-"type": 3,
-"quickSearch": 1,
-"searchable": 1,
-"changeable": 0,
-"filterable": 1,
-"timeout": 60,
-"style": {
-"type": "rect",
-"ratio": 1.49
-},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/123av.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": [
-"*.ico",
-"*.png",
-"*.jpg",
-"*.vtt",
-"*.css*",
-"https://*.googleapis.com/*",
-"https://*.googletagmanager.com/*",
-"https://*.recombee.com/*",
-"https://*.google-analytics.com/*",
-"https://njav.tv/recomm/items/*"
-]
-},
-"playUrlMatch": [
-"https://*/v.m3u8"
-],
-"spider": {
-"homeContent": {
-"loadUrl": "https://123av.com/zh/dm9"
-},
-"categoryContent": {
-"loadUrl": "https://123av.com/zh/${tid}?page=${pg:-1}${filter:-}${sort:-}"
-},
-"detailContent": {
-"loadUrl": "https://123av.com/zh/${id}"
-},
-"playerContent": {
-"loadUrl": "https://123av.com/zh/${vod_id}"
-},
-"searchContent": {
-"loadUrl": "https://123av.com/zh/search?keyword=${key}&page=${pg:-1}"
 }
 }
 }
