@@ -652,7 +652,7 @@
 
 {
 "key": "77ys",
-"name": "77影視,
+"name": "77影視",
 "type": 3,
 "jar":"https://tvbox.catvod.com/catvod.jar",
 "api": "csp_XBPQ",
