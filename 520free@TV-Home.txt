@@ -1017,6 +1017,8 @@ Scooby,https://www.youtube.com/watch?v=90kaC8Kbw0k
 🍁 歡樂看TV,#genre#
 
 
+
+華視新聞台,https://www.faintv.com/channel/12891
 寰宇新聞台灣台,video://http://www.faintv.com/channel/137
 台視新聞台,video://http://www.faintv.com/channel/19366
 寰宇新聞台,video://http://www.faintv.com/channel/136
