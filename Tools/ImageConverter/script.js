@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const qualityContainer = document.getElementById('quality-container');
     
     const convertBtn = document.getElementById('convert-btn');
+    const convertOriginalBtn = document.getElementById('convert-original-btn');
     const resetBtn = document.getElementById('reset-btn');
 
     let selectedFiles = [];
@@ -161,9 +162,20 @@ document.addEventListener('DOMContentLoaded', () => {
         qualityValue.textContent = qualityRange.value;
     });
 
+    const lockIconClosed = document.getElementById('lock-icon-closed');
+    const lockIconOpen = document.getElementById('lock-icon-open');
+    const lockStatusLabel = document.getElementById('lock-status-label');
+
     aspectLockBtn.addEventListener('click', () => {
         isAspectLocked = !isAspectLocked;
         aspectLockBtn.classList.toggle('active', isAspectLocked);
+        if (lockIconClosed && lockIconOpen) {
+            lockIconClosed.classList.toggle('hidden', !isAspectLocked);
+            lockIconOpen.classList.toggle('hidden', isAspectLocked);
+        }
+        if (lockStatusLabel) {
+            lockStatusLabel.textContent = isAspectLocked ? '鎖定' : '解鎖';
+        }
     });
 
     widthInput.addEventListener('input', () => {
@@ -180,15 +192,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Conversion Logic ---
 
-    convertBtn.addEventListener('click', async () => {
+    convertBtn.addEventListener('click', () => startConversion(false));
+    if (convertOriginalBtn) {
+        convertOriginalBtn.addEventListener('click', () => startConversion(true));
+    }
+
+    async function startConversion(keepOriginalDimensions) {
         if (selectedFiles.length === 0) return;
 
         const format = formatSelect.value;
         const quality = parseInt(qualityRange.value) / 100;
         
         // Disable UI
-        convertBtn.disabled = true;
-        const originalBtnText = convertBtn.innerHTML;
+        const activeBtn = keepOriginalDimensions ? convertOriginalBtn : convertBtn;
+        activeBtn.disabled = true;
+        const originalBtnText = activeBtn.innerHTML;
 
         try {
             const zip = new JSZip();
@@ -201,7 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const file = selectedFiles[fIdx];
                 const originalFileName = file.name.split('.').slice(0, -1).join('.');
                 
-                convertBtn.innerHTML = `<span>正在處理檔案 ${fIdx + 1}/${selectedFiles.length}...</span>`;
+                activeBtn.innerHTML = `<span>正在處理檔案 ${fIdx + 1}/${selectedFiles.length}...</span>`;
                 
                 if (file.type === 'application/pdf') {
                     const typedarray = new Uint8Array(await file.arrayBuffer());
@@ -210,12 +228,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (selectedFiles.length > 1 || pdf.numPages > 1) isSingleOutput = false;
 
                     for (let i = 1; i <= pdf.numPages; i++) {
-                        convertBtn.innerHTML = `<span>正在處理檔案 ${fIdx + 1}/${selectedFiles.length} (第 ${i}/${pdf.numPages} 頁)...</span>`;
+                        activeBtn.innerHTML = `<span>正在處理檔案 ${fIdx + 1}/${selectedFiles.length} (第 ${i}/${pdf.numPages} 頁)...</span>`;
                         const page = await pdf.getPage(i);
                         const viewport = page.getViewport({ scale: 2.0 });
                         
-                        const targetWidth = parseInt(widthInput.value) || viewport.width;
-                        const targetHeight = parseInt(heightInput.value) || viewport.height;
+                        const targetWidth = keepOriginalDimensions ? viewport.width : (parseInt(widthInput.value) || viewport.width);
+                        const targetHeight = keepOriginalDimensions ? viewport.height : (parseInt(heightInput.value) || viewport.height);
                         
                         const canvas = document.createElement('canvas');
                         canvas.width = targetWidth;
@@ -261,8 +279,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     img.src = await fileToDataURL(file);
                     await new Promise(r => img.onload = r);
                     
-                    const targetWidth = parseInt(widthInput.value) || img.width;
-                    const targetHeight = parseInt(heightInput.value) || img.height;
+                    const targetWidth = keepOriginalDimensions ? img.width : (parseInt(widthInput.value) || img.width);
+                    const targetHeight = keepOriginalDimensions ? img.height : (parseInt(heightInput.value) || img.height);
                     
                     const canvas = document.createElement('canvas');
                     canvas.width = targetWidth;
@@ -299,7 +317,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (isSingleOutput && singleBlob) {
                 downloadBlob(singleBlob, singleFilename);
             } else if (fileCount > 0) {
-                convertBtn.innerHTML = `<span>正在打包 ZIP...</span>`;
+                activeBtn.innerHTML = `<span>正在打包 ZIP...</span>`;
                 const content = await zip.generateAsync({ type: 'blob' });
                 downloadBlob(content, 'converted_files.zip');
             }
@@ -308,10 +326,10 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('轉換錯誤:', err);
             alert('轉換過程中發生錯誤。');
         } finally {
-            convertBtn.disabled = false;
-            convertBtn.innerHTML = originalBtnText;
+            activeBtn.disabled = false;
+            activeBtn.innerHTML = originalBtnText;
         }
-    });
+    }
 
     function fileToDataURL(file) {
         return new Promise((resolve, reject) => {

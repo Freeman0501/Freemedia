@@ -62,19 +62,27 @@
                 </div>
 
                 <div class="dimension-group">
-                    <div class="control-group">
-                        <label for="width-input">寬度 (px)</label>
-                        <input type="number" id="width-input" placeholder="寬度">
-                    </div>
-                    <div class="lock-aspect">
+                    <div class="control-group lock-aspect">
+                        <label id="lock-status-label">鎖定</label>
                         <button id="aspect-lock" title="鎖定寬高比例" class="active">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                            <svg id="lock-icon-closed" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
                                 fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round">
                                 <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
                                 <path d="M7 11V7a5 5 0 0 1 10 0v4" />
                             </svg>
+                            <svg id="lock-icon-open" class="hidden" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
+                                <path d="M7 11V7a5 5 0 0 1 9.9-1" />
+                            </svg>
+                            <span>鎖定寬高比例</span>
                         </button>
+                    </div>
+                    <div class="control-group">
+                        <label for="width-input">寬度 (px)</label>
+                        <input type="number" id="width-input" placeholder="寬度">
                     </div>
                     <div class="control-group">
                         <label for="height-input">高度 (px)</label>
@@ -88,16 +96,27 @@
                 </div>
 
                 <div class="actions">
-                    <button id="convert-btn" class="primary-btn">
-                        <span>轉換並下載</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
-                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
-                            <polyline points="7 10 12 15 17 10" />
-                            <line x1="12" y1="15" x2="12" y2="3" />
-                        </svg>
-                    </button>
-                    <button id="reset-btn" class="secondary-btn">重新選擇</button>
+                    <div style="flex: 2; display: flex; flex-direction: column; gap: 10px;">
+                        <button id="convert-btn" class="primary-btn">
+                            <span>轉換並下載</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                                <polyline points="7 10 12 15 17 10" />
+                                <line x1="12" y1="15" x2="12" y2="3" />
+                            </svg>
+                        </button>
+                        <button id="convert-original-btn" class="primary-btn" style="background: linear-gradient(to right, #0ea5e9, #3b82f6); font-size: 1rem;">
+                            <span>多檔轉換保留原始比例轉換並下載</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                                <polyline points="7 10 12 15 17 10" />
+                                <line x1="12" y1="15" x2="12" y2="3" />
+                            </svg>
+                        </button>
+                    </div>
+                    <button id="reset-btn" class="secondary-btn" style="flex: 1; align-self: stretch;">重新選擇</button>
                 </div>
             </section>
         </main>
