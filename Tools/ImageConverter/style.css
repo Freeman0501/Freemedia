@@ -181,6 +181,7 @@ h1 {
     display: grid;
     grid-template-columns: 1fr;
     gap: 25px;
+    margin-top: 30px;
     animation: fadeIn 0.5s ease;
 }
 
@@ -256,8 +257,8 @@ select option {
 }
 
 #aspect-lock.active {
-    color: var(--primary-color);
-    background: rgba(99, 102, 241, 0.1);
+    color: white;
+    background: rgba(255, 255, 255, 0.1);
 }
 
 .quality-group {
