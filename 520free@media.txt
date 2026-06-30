@@ -1659,7 +1659,7 @@
 },
 
 {
-"name":"Free TV(備用)",
+"name":"Free TV(備用1)",
 "url":"https://freeman.neocities.org/520free-CC@tv.txt",
 "type":0,
 "timeout":10,
@@ -1668,8 +1668,17 @@
 },
 
 {
+"name":"Free TV(備用2)",
+"url":"https://funnylife.neocities.org/iptv@recha.txt",
+"type":0,
+"timeout":10,
+"playerType":2,
+"logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+},
+
+{
 "name": "四季影視嗅探",
-"url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
+"url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv.txt",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
@@ -1748,7 +1757,7 @@
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
 },
 
-{"name": "四季TV網頁嗅探","url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"},
+{"name": "四季TV網頁嗅探","url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv.txt"},
 
 {
 "name": "冰茶(大陸頻道)",
