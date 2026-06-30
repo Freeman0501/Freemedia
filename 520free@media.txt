@@ -17,13 +17,13 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/06/17",
+最終維護日 : 2026/07/01",
 
 "sites": [
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260628 👉 建議更新至 Free Movie 5.5.4 版 >",
+"name": "🌸Free Movie < 2026701 👉 建議更新至 Free Movie 5.5.6 版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
