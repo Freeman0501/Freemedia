@@ -1,17 +1,19 @@
-💞 0103 check️,#genre#
+💞 0710 check️,#genre#
 沉穩柔和的睡眠音樂,https://www.youtube.com/watch?v=SjkGdCuT8zg
+台灣天氣即時監測,https://www.youtube.com/watch?v=ADZTiqEGT8g
+台灣日本地震監視,https://www.youtube.com/watch?v=YXSkkqznCK0
 
 
 基隆,#genre#
 碧砂1,https://www.youtube.com/watch?v=-tQr28-BR_0
 碧砂2,https://www.youtube.com/watch?v=3C0UbF4ArsU
-基隆和平島1,https://www.youtube.com/watch?v=N7mUGaV8zzw
+基隆和平島1,https://www.youtube.com/watch?v=zNjAu5zI_lM
 基隆和平島2,https://www.youtube.com/watch?v=-BUxCSRlyU0
-外木山,https://www.youtube.com/watch?v=LInNQYAbAwQ
+外木山,https://www.youtube.com/watch?v=A9pluEagLD4
 外木山提防提岸,https://www.youtube.com/watch?v=ADAw2ExcJ5s
-潮境海灣1,https://www.youtube.com/watch?v=iw8_RUCeKdw
+潮境海灣1,https://www.youtube.com/watch?v=hBpnJqhr82I
 潮境海灣2,https://www.youtube.com/watch?v=jzAxB157yb8
-潮境海灣3,https://www.youtube.com/watch?v=D6tmNFsYVUg
+潮境海灣3,https://www.youtube.com/watch?v=pz8ieq97nSk
 
 
 台北,#genre#
@@ -35,7 +37,7 @@
 新北,#genre#
 新北市沙崙1,https://www.youtube.com/watch?v=JtJ91wJh1sE
 新北市沙崙2,https://www.youtube.com/watch?v=Dh12nXyWs00
-新北福隆1,https://www.youtube.com/watch?v=-tfx0aM_vyY
+新北福隆1,https://www.youtube.com/watch?v=mhJIyNLc3qU
 新北福隆2,https://www.youtube.com/watch?v=Fvdnj1A_Elc
 烘爐地,https://www.youtube.com/watch?v=xxMRjVwCQ3o
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
@@ -53,13 +55,13 @@
 碧潭,https://www.youtube.com/watch?v=wwkZSCar87I
 綠石槽即時影像,https://www.youtube.com/watch?v=JLCaRPsWPjs
 中角灣,https://www.youtube.com/watch?v=3Tp2a46EGUI
-國海院-中角灣,https://www.youtube.com/watch?v=mmM9NOZLLKY
-風箏坪,https://www.youtube.com/watch?v=Rjn3plr9fCI
-萬里漁港1,https://www.youtube.com/watch?v=uw5VpTpcd4Q
-萬里漁港2,https://www.youtube.com/watch?v=Shp8KdJK9-Y
+國海院-中角灣,https://www.youtube.com/watch?v=Jpg_V7f7rW8
+風箏坪,https://www.youtube.com/watch?v=2J-YgcZB7Ac
+萬里漁港1,https://www.youtube.com/watch?v=6WGIZQIIAKY
+萬里漁港2,https://www.youtube.com/watch?v=of4zT-caP04
 福隆海水浴場,https://www.youtube.com/watch?v=mMG7v_fET5A
-龍洞四季灣1,https://www.youtube.com/watch?v=u9ZkchQyX6s
-龍洞四季灣2,https://www.youtube.com/watch?v=DqGWczZUZ_o
+龍洞1,https://www.youtube.com/watch?v=B3FCnD4ZY_M
+龍洞四季灣,https://www.youtube.com/watch?v=Wy0iMxkzM80
 鼻頭服務區,https://www.youtube.com/watch?v=MD4Qb1bJFXE
 十分瀑布公園,https://www.youtube.com/watch?v=HirBQsQEUeA
 白沙灣,https://www.youtube.com/watch?v=6m8PilK7Uu0
@@ -67,21 +69,24 @@
 大屯自然公園,https://www.youtube.com/watch?v=6ghffcNt3Nw
 滿月圓國家森林遊樂區,https://www.youtube.com/watch?v=MkoGY1n-Dew
 員山子分洪,https://www.youtube.com/watch?v=JkGKqXOt9Ls
+瑞芳蝙蝠洞,https://www.youtube.com/watch?v=U-nh5KGZhLg
+福隆海灣,https://www.youtube.com/watch?v=Yhj5qvupJDk
+烘爐地,https://www.youtube.com/watch?v=xxMRjVwCQ3o
 
 
 
 
 桃園,#genre#
-永安漁港1,https://www.youtube.com/watch?v=tD_a03trUvE
-永安漁港2,https://www.youtube.com/watch?v=QFg2WzK5ivg
+永安漁港,https://www.youtube.com/watch?v=tD_a03trUvE
 大溪老街,https://www.youtube.com/watch?v=XUWjAsajKXg
 小烏來寰宇平台,https://www.youtube.com/watch?v=PJWye36lEj4
 小烏來天空步道,https://www.youtube.com/watch?v=neaiCec1kec
 虎頭山環保公園,https://www.youtube.com/watch?v=tu_gsIkNt-w
 虎頭山奧爾森林學堂,https://www.youtube.com/watch?v=yQSmajHyMhU
-桃園國際機場1,https://www.youtube.com/watch?v=68GFgzQxrXs
-桃園國際機場2,https://www.youtube.com/watch?v=91PfFoqvuUk
-桃園國際機場3,https://www.youtube.com/watch?v=y3_x8el5ZJY
+桃園國際機場,https://www.youtube.com/watch?v=91PfFoqvuUk
+桃園機場南北跑道,https://www.youtube.com/watch?v=mxKJHv4257w
+桃園機場南跑道,https://www.youtube.com/watch?v=y3_x8el5ZJY
+桃園機場北跑道,https://www.youtube.com/watch?v=wWEnxWA7nnY
 上巴陵,https://www.youtube.com/watch?v=nV-DKquUjFs
 石門水庫,https://www.youtube.com/watch?v=GUCaVR88ZFU
 大溪橋,https://www.youtube.com/watch?v=oFJ6gCaBb_Q
@@ -93,11 +98,14 @@
 拉拉山遊客中心,https://www.youtube.com/watch?v=YkIUZjVlhv4
 東眼山,https://www.youtube.com/watch?v=QU-A4DovlKc
 中壢區,https://www.youtube.com/watch?v=LdPO_fq41Xs
-
-
+後慈湖,https://www.youtube.com/watch?v=AF550Wx7Ba0
+巴陵馬崙砲台,https://www.youtube.com/watch?v=3JzbzXqusDg
+許厝港濕地,https://www.youtube.com/watch?v=44JArbF682k
+阿姆坪薑母島,https://www.youtube.com/watch?v=EUOp2LchPQM
 
 
 新竹,#genre#
+新竹,https://www.youtube.com/watch?v=pUWjZsODbmU
 清華大學大草坪,https://www.youtube.com/watch?v=x_FuMf2ke1o
 清華大學成功湖,https://www.youtube.com/watch?v=Y6xJKj8k2ys
 峨眉湖1,https://www.youtube.com/watch?v=AE1wiaqDZjw
@@ -132,7 +140,7 @@
 八卦山大佛,https://www.youtube.com/watch?v=S6HB7-VLuRk
 彰化平原,https://www.youtube.com/watch?v=RaTbGYKMUtk
 王功漁港,https://www.youtube.com/watch?v=ABT9YRFUYXs
-
+隘門,https://www.youtube.com/watch?v=cT8osP-vYps
 
 南投,#genre#
 合歡山武嶺亭,https://www.youtube.com/watch?v=Jx01B71j0wc
@@ -160,16 +168,16 @@
 牛埔仔愛情大草原,https://www.youtube.com/watch?v=hMYs60qtkK8
 觸口遊客中心,https://www.youtube.com/watch?v=8KnqJBf_dow
 東石漁人碼頭,https://www.youtube.com/watch?v=TrWoNJ-wcq8
-
+布袋港,https://www.youtube.com/watch?v=iRP4yD50dM8
 
 
 台南,#genre#
-安平港1,https://www.youtube.com/watch?v=PTgW7tms3Gg
+安平港1,https://www.youtube.com/watch?v=NArScAFatgk
 安平港2,https://www.youtube.com/watch?v=cYJ37MA1Gus
 黃金海岸,https://www.youtube.com/watch?v=uCXgNUJO9e8
 七股賞鳥亭,https://www.youtube.com/watch?v=5KJe2gCTngA
 北汕尾水鳥生態,https://www.youtube.com/watch?v=FES0gWTFUHQ
-觀夕平台,https://www.youtube.com/watch?v=el-6TvYiLbE
+觀夕平台,https://www.youtube.com/watch?v=V89we9N3ZuU
 火山碧雲寺,https://www.youtube.com/watch?v=zkX6X9p-6iA
 
 
@@ -183,27 +191,34 @@
 高雄流行音樂中心,https://www.youtube.com/watch?v=HFXS-_l1z5s
 高雄港第二港口,https://www.youtube.com/watch?v=BUt8-jhtYJA
 諦願寺六龜,https://www.youtube.com/watch?v=1IMPS7Ew_c0
-
+旗津,https://www.youtube.com/watch?v=An0oUZBZtG0
 
 
 屏東,#genre#
 南灣,https://www.youtube.com/watch?v=jUnFuJSj0OU
-船帆石,https://www.youtube.com/watch?v=3Wb_Lgw7Ltc
-船帆石沙灘,https://www.youtube.com/watch?v=bWRF0WTYRDE
+船帆石,https://www.youtube.com/watch?v=GdSx9jyJO4c
+船帆石沙灘,https://www.youtube.com/watch?v=7WOJMh_eSfY
+船帆石海灣,https://www.youtube.com/watch?v=GdSx9jyJO4c
 墾丁大灣,https://www.youtube.com/watch?v=l1BUJtoMfXE
+墾丁大街牌樓,https://www.youtube.com/watch?v=l0MykkrTvo4
 龍鑾潭,https://www.youtube.com/watch?v=IYArr607fdk
-合界,https://www.youtube.com/watch?v=CerW0GUqXhA
+合界,https://www.youtube.com/watch?v=vG5wyKEv1G8
 社皆坑海灣1,https://www.youtube.com/watch?v=6mQNyC-wJxs
-社皆坑海灣2,https://www.youtube.com/watch?v=2KsyRAWOQCs
-後壁湖1,https://www.youtube.com/watch?v=-yT7yWwbYJs
+社皆坑海灣2,https://www.youtube.com/watch?v=yedkfwdFRdc
+後壁湖,https://www.youtube.com/watch?v=pmEp7abtH1o
+後壁湖1,https://www.youtube.com/watch?v=GrF5RLHw6jE
+後壁湖2,https://www.youtube.com/watch?v=2cdAciqP7Ng
 山海漁港,https://www.youtube.com/watch?v=u_dXeSWRjlw
 屏東平原眺景,https://www.youtube.com/watch?v=tEy9Wi7bcDU
-
+枋寮漁港1,https://www.youtube.com/watch?v=9h1SDNk-6EQ
+枋寮漁港2,https://www.youtube.com/watch?v=LLWu0qL4c_Q
+海生館,https://www.youtube.com/watch?v=RmRJcXtailQ
+佳樂水,https://www.youtube.com/watch?v=8bn_-PbneiI
 
 
 台東,#genre#
 綠島南寮漁港,https://www.youtube.com/watch?v=wTHhv7M0vCI
-富岡漁港,https://www.youtube.com/watch?v=D945F_dauls
+富岡漁港,https://www.youtube.com/watch?v=-Fr8zCPP_2o
 金樽遊憩區,https://www.youtube.com/watch?v=ZdqHgQwvZOw
 綠島帆船鼻,https://www.youtube.com/watch?v=pLdBc8PvZko
 都歷遊客中心,https://www.youtube.com/watch?v=JhQuR77AR7U
@@ -243,7 +258,7 @@
 宜蘭,#genre#
 大里1,https://www.youtube.com/watch?v=8YId9Ynwxys
 大里2,https://www.youtube.com/watch?v=134cX-J-GXo
-蘇澳1,https://www.youtube.com/watch?v=niWb62irq5A
+蘇澳1,https://www.youtube.com/watch?v=vNxgM5YMdVs
 蘇澳2,https://www.youtube.com/watch?v=JJnyDUZtVFE
 南方澳,https://www.youtube.com/watch?v=OSub6lw7kXE
 南方澳第一漁港,https://www.youtube.com/watch?v=_u7baK7ct2M
@@ -251,15 +266,15 @@
 南方澳第三漁港,https://www.youtube.com/watch?v=sqWrdNNAlrA
 內埤仔海邊,https://www.youtube.com/watch?v=IHpSqQ5UylQ
 進安宮,https://www.youtube.com/watch?v=nFd4550YnEQ
-石城漁港1,https://www.youtube.com/watch?v=ozZVLl0h--A
-石城漁港2,https://www.youtube.com/watch?v=X76Dkt_fPG0
-無尾港,https://www.youtube.com/watch?v=BUTDjiRMG0Q
+石城漁港,https://www.youtube.com/watch?v=tec5prJ8JeE
+石城漁港1,https://www.youtube.com/watch?v=sFN4JMlhtSg
+無尾港,https://www.youtube.com/watch?v=7S0lZRj9ViY
 寒沐酒店即時影像,https://www.youtube.com/watch?v=cPh2vzrtG_w
 太平山森林遊樂區,https://www.youtube.com/watch?v=zID3n2uSauU
 太平山蹦蹦車站,https://www.youtube.com/watch?v=8ndOpLxiBLg
-
-
-
+宜蘭外澳1,https://www.youtube.com/watch?v=S34aB8HzdnE
+頭城濱海公園南側,https://www.youtube.com/watch?v=6DuufFTyR-Y
+頭城合興,https://www.youtube.com/watch?v=5s3XHYu8Ob4
 
 
 金門,#genre#
@@ -280,9 +295,10 @@
 澎湖,#genre#
 北寮奎壁山,https://www.youtube.com/watch?v=zgPJbQzlQmw
 觀音亭,https://www.youtube.com/watch?v=tJSJMfxfivY
-觀音亭海灣2,https://www.youtube.com/watch?v=xGilwi36tcc
-鎖港海灣,https://www.youtube.com/watch?v=b0-ltUzzhWo
-
+觀音亭海灣1,https://www.youtube.com/watch?v=AFhDLutdwAc
+觀音亭海灣2,https://www.youtube.com/watch?v=fSE1qhkmadU
+鎖港海灣,https://www.youtube.com/watch?v=dHyIphM2vo8
+青灣1,https://www.youtube.com/watch?v=sJ7NWs2uK_I
 
 
 日本,#genre#
