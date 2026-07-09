@@ -1,18 +1,13 @@
 💞 0710 check️,#genre#
-沉穩柔和的睡眠音樂,https://www.youtube.com/watch?v=SjkGdCuT8zg
+法式抒情暖心音樂,https://www.youtube.com/watch?v=LPV6TKQbjDg
 台灣天氣即時監測,https://www.youtube.com/watch?v=ADZTiqEGT8g
 台灣日本地震監視,https://www.youtube.com/watch?v=YXSkkqznCK0
 
 
 基隆,#genre#
-碧砂1,https://www.youtube.com/watch?v=-tQr28-BR_0
-碧砂2,https://www.youtube.com/watch?v=3C0UbF4ArsU
-基隆和平島1,https://www.youtube.com/watch?v=zNjAu5zI_lM
-基隆和平島2,https://www.youtube.com/watch?v=-BUxCSRlyU0
+碧砂1,https://www.youtube.com/watch?v=kfM2KRh8hVM
 外木山,https://www.youtube.com/watch?v=A9pluEagLD4
-外木山提防提岸,https://www.youtube.com/watch?v=ADAw2ExcJ5s
 潮境海灣1,https://www.youtube.com/watch?v=hBpnJqhr82I
-潮境海灣2,https://www.youtube.com/watch?v=jzAxB157yb8
 潮境海灣3,https://www.youtube.com/watch?v=pz8ieq97nSk
 
 
@@ -52,7 +47,6 @@
 野柳1,https://www.youtube.com/watch?v=GRxh5WM2jrQ
 野柳2,https://www.youtube.com/watch?v=wLFGtu3b2Dw
 烏來老街與覽勝橋,https://www.youtube.com/watch?v=-nyTOqcRDIQ
-碧潭,https://www.youtube.com/watch?v=wwkZSCar87I
 綠石槽即時影像,https://www.youtube.com/watch?v=JLCaRPsWPjs
 中角灣,https://www.youtube.com/watch?v=3Tp2a46EGUI
 國海院-中角灣,https://www.youtube.com/watch?v=Jpg_V7f7rW8
@@ -97,7 +91,6 @@
 慈湖水岸廣場,https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
 拉拉山遊客中心,https://www.youtube.com/watch?v=YkIUZjVlhv4
 東眼山,https://www.youtube.com/watch?v=QU-A4DovlKc
-中壢區,https://www.youtube.com/watch?v=LdPO_fq41Xs
 後慈湖,https://www.youtube.com/watch?v=AF550Wx7Ba0
 巴陵馬崙砲台,https://www.youtube.com/watch?v=3JzbzXqusDg
 許厝港濕地,https://www.youtube.com/watch?v=44JArbF682k
@@ -139,7 +132,6 @@
 彰化,#genre#
 八卦山大佛,https://www.youtube.com/watch?v=S6HB7-VLuRk
 彰化平原,https://www.youtube.com/watch?v=RaTbGYKMUtk
-王功漁港,https://www.youtube.com/watch?v=ABT9YRFUYXs
 隘門,https://www.youtube.com/watch?v=cT8osP-vYps
 
 南投,#genre#
@@ -187,7 +179,6 @@
 旗津海水浴場,https://www.youtube.com/watch?v=ka7FV0sCvxQ
 蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 西子灣1,https://www.youtube.com/watch?v=6acILWj0pTY
-西子灣2,https://www.youtube.com/watch?v=Wo1WPTiXCkIh
 高雄流行音樂中心,https://www.youtube.com/watch?v=HFXS-_l1z5s
 高雄港第二港口,https://www.youtube.com/watch?v=BUt8-jhtYJA
 諦願寺六龜,https://www.youtube.com/watch?v=1IMPS7Ew_c0
@@ -203,13 +194,11 @@
 墾丁大街牌樓,https://www.youtube.com/watch?v=l0MykkrTvo4
 龍鑾潭,https://www.youtube.com/watch?v=IYArr607fdk
 合界,https://www.youtube.com/watch?v=vG5wyKEv1G8
-社皆坑海灣1,https://www.youtube.com/watch?v=6mQNyC-wJxs
 社皆坑海灣2,https://www.youtube.com/watch?v=yedkfwdFRdc
 後壁湖,https://www.youtube.com/watch?v=pmEp7abtH1o
 後壁湖1,https://www.youtube.com/watch?v=GrF5RLHw6jE
 後壁湖2,https://www.youtube.com/watch?v=2cdAciqP7Ng
 山海漁港,https://www.youtube.com/watch?v=u_dXeSWRjlw
-屏東平原眺景,https://www.youtube.com/watch?v=tEy9Wi7bcDU
 枋寮漁港1,https://www.youtube.com/watch?v=9h1SDNk-6EQ
 枋寮漁港2,https://www.youtube.com/watch?v=LLWu0qL4c_Q
 海生館,https://www.youtube.com/watch?v=RmRJcXtailQ
@@ -302,12 +291,9 @@
 
 
 日本,#genre#
-LIVE cameras around Japan,https://www.youtube.com/watch?v=gCu45mPX77Y
 Tokyo Bay,https://www.youtube.com/watch?v=_k-5U7IeK8g
 Tokyo Odaiba,https://www.youtube.com/watch?v=qYRdGZ1jSjo
 渋谷スクランブル交差点,https://www.youtube.com/watch?v=tujkoXI8rWM
-大阪道頓堀,https://www.youtube.com/watch?v=1IB96p46tjE
-新宿駅前,https://www.youtube.com/watch?v=glJu8snzi78
 西武新宿駅 pepe前広場,https://www.youtube.com/watch?v=lA6TaaMGgDo
 新宿歌舞伎町1,https://www.youtube.com/watch?v=gFRtAAmiFbE
 新宿歌舞伎町2,https://www.youtube.com/watch?v=DjdUEyjx8GM
@@ -320,7 +306,6 @@ Tokyo Odaiba,https://www.youtube.com/watch?v=qYRdGZ1jSjo
 お台場海浜公園-屋形船,https://www.youtube.com/watch?v=dJZBqTeC-h8
 お台場東京,https://www.youtube.com/watch?v=fGOCRGXPgRY
 お台場ライブカメラ,https://www.youtube.com/watch?v=ZhZifHif-Vw
-東京タワー&鉄道,https://www.youtube.com/watch?v=Tz8NEpxF6zY
 広重の富士山,https://www.youtube.com/watch?v=GsD9QQEKSzQ
 湘南-鎌倉,https://www.youtube.com/watch?v=Rubm56dwZMA
 河口湖からの富士山,https://www.youtube.com/watch?v=1cnReFAU04k
@@ -334,7 +319,6 @@ Tokyo Odaiba,https://www.youtube.com/watch?v=qYRdGZ1jSjo
 Niseko Hanazono Resort,https://www.youtube.com/watch?v=1ksmiy6EsDo
 銀座数寄屋橋交差点,https://www.youtube.com/watch?v=1Xm5bjdI5hU
 浅草・雷門前,https://www.youtube.com/watch?v=LnrmP3Z1M-s
-横浜 みなとみらい,https://www.youtube.com/watch?v=x3P3N3VGvtU
 福岡・博多駅前,https://www.youtube.com/watch?v=yETDDgrE2E4
 千葉市内,https://www.youtube.com/watch?v=vaifJWjqu0k
 東京・築地湾岸,https://www.youtube.com/watch?v=bKVGdsMVuMA
@@ -353,7 +337,6 @@ Niseko Hanazono Resort,https://www.youtube.com/watch?v=1ksmiy6EsDo
 渋谷,https://www.youtube.com/watch?v=f50R4vDlCmA
 神戸ウォーターフロント,https://www.youtube.com/watch?v=AU_2zfM4m68
 石川県・兼六園,https://www.youtube.com/watch?v=ZpzNv_hNxPE
-北海道神宮 頓宮,https://www.youtube.com/watch?v=icMG4FEFg9w
 ＪＲ札幌駅,https://www.youtube.com/watch?v=I1kJB1jdGo0
 JR札幌車站,https://www.youtube.com/watch?v=gaNLXSEUVRw
 大通公園,https://www.youtube.com/watch?v=O7aL3u5n1gQ
@@ -389,22 +372,14 @@ Sapporo Japan,https://www.youtube.com/watch?v=38rSYDm-yTk
 
 
 韓國,#genre#
-Seoul Korea Hangang,https://www.youtube.com/watch?v=-JhoMGoAfFc
 SEOUL LIVE,https://www.youtube.com/watch?v=ahSMyLJcp48
 首爾鋼琴現場攝影機,https://www.youtube.com/watch?v=zpCZ9OFjb3U
-Seoul Station Plaza,https://www.youtube.com/watch?v=SAeNEECjC2U
-Gwanghwamun Boulevard,https://www.youtube.com/watch?v=zuWxsbV-mlA
 景福宫,https://www.youtube.com/watch?v=K0OdTZyUjUc
-Homigot Sunrise Square,https://www.youtube.com/watch?v=8HOO7IJiMi8
-Gangmoon beach,https://www.youtube.com/watch?v=8NdFS7Dpfzg
-Seokchon Lake,https://www.youtube.com/watch?v=UYziFFSzzMo
 Lotte World,https://www.youtube.com/watch?v=JIQPCfb9Qs0
 Mapo Bridge,https://www.youtube.com/watch?v=LKx5cq0kggU
 Jamsil Bridge,https://www.youtube.com/watch?v=ZopiySgQjsc
 SEOUL DDP LIVE CAMEARA,https://www.youtube.com/watch?v=k3HEPqg5eAo
 ExpoSciencePark,https://www.youtube.com/watch?v=bKcdTWp6akg
-Gwanggyo Lake Park,https://www.youtube.com/watch?v=IhO0ICVe4KQ
-釜山廣安大橋,https://www.youtube.com/watch?v=E9I4A9aXJUY
 蘆原堂賢川,https://www.youtube.com/watch?v=wv6CeCvZJ9U
 丹賢川景觀,https://www.youtube.com/watch?v=SnxO8qonKU4
 蘆原佛岩山全景,https://www.youtube.com/watch?v=9eDa-ol9hUQ
@@ -412,9 +387,7 @@ Gwanggyo Lake Park,https://www.youtube.com/watch?v=IhO0ICVe4KQ
 佛岩山蘆原1,https://www.youtube.com/watch?v=1cxahiPPeSo
 佛岩山蘆原2,https://www.youtube.com/watch?v=04ZGL3eIpOU
 NowonStation1,https://www.youtube.com/watch?v=_fFXB0Pki7A
-NowonStation2,https://www.youtube.com/watch?v=owzlCdloD1I
 Azalea Garden,https://www.youtube.com/watch?v=YqS3GEcrYqg
-Sokcho Beach,https://www.youtube.com/watch?v=QmqJKE9uYXU
 Gyeongbokgung,https://www.youtube.com/watch?v=K0OdTZyUjUc
 Haeundae Busan,https://www.youtube.com/watch?v=MWYxOlqF7E8
 
@@ -423,15 +396,11 @@ Haeundae Busan,https://www.youtube.com/watch?v=MWYxOlqF7E8
 
 
 國外,#genre#
-LIVE daily camera Bratislava Slovakia,https://www.youtube.com/watch?v=KN8GssBk0k8
 Earth and space,https://www.youtube.com/watch?v=fO9e9jnhYK8
-Live NASA,https://www.youtube.com/watch?v=QviXe8xvA50
+Live NASA,https://www.youtube.com/watch?v=vytmBNhc9ig
 San Francisco Skyline,https://www.youtube.com/watch?v=BSWhGNXxT9A
 聖誕老人村,https://www.youtube.com/watch?v=Cp4RRAEgpeU
-So many LIVE World Cameras,https://www.youtube.com/watch?v=2BLqhS59Elc
 The World Live,https://www.youtube.com/watch?v=HfgIFGbdGJ0
-Rolling Cam around the World,https://www.youtube.com/watch?v=z7SiAaN4ogw
-New England Fall Colors,https://www.youtube.com/watch?v=Nl74W1nkMFU
 Dublin Ireland,https://www.youtube.com/watch?v=u4UZ4UvZXrg
 Times Square,https://www.youtube.com/watch?v=rnXIjl_Rzy4
 London Abbey Road,https://www.youtube.com/watch?v=57w2gYXjRic
@@ -439,7 +408,6 @@ Bryant Park NYC,https://www.youtube.com/watch?v=809RMryNnlM
 Bryant Park,https://www.youtube.com/watch?v=g4CmWNxgsic
 Russia Petersburg,https://www.youtube.com/watch?v=h1wly909BYw
 CritterVision Critter Cam,https://www.youtube.com/watch?v=HlJ4aRtYhoo
-Brownville's Food Pantry For Deer,https://www.youtube.com/watch?v=XwLug9jR7lA
 Finland Northern Light Live Kilpisjärvi,https://www.youtube.com/watch?v=ccTVAhJU5lg
 Finland Zero Point Rental,https://www.youtube.com/watch?v=LwihxyJ4V20
 USA Live Cam,https://www.youtube.com/watch?v=fa8iGVeri_I
