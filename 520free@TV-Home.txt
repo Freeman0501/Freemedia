@@ -308,9 +308,9 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 愛爾達生活旅遊,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 愛爾達寵物運動,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-Elta體育1台,http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-Elta體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-Elta體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育1台,http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 新唐人亞太,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
