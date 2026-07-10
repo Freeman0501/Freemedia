@@ -7,14 +7,15 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0710 Check,#genre#
+🚧 0711 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
 AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 台灣地震監視,https://www.youtube.com/watch?v=KyT4qSK8lJo
-天氣即時觀測,https://www.youtube.com/watch?v=lM2pZZf8Kag
-
+天氣即時觀測1,https://www.youtube.com/watch?v=lM2pZZf8Kag
+天氣即時監測2,https://www.youtube.com/watch?v=ADZTiqEGT8g
+台灣日本地震監視,https://www.youtube.com/watch?v=YXSkkqznCK0
 
 
 📺 Free TV頻道,#genre#
