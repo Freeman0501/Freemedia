@@ -308,14 +308,9 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 愛爾達生活旅遊,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 愛爾達寵物運動,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-愛爾達體育1,http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育2,http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育3,http://61.61.67.208:5678/live/stream-dd933970-033b-4552-8db7-7aa78f8572fe/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育4,http://61.61.67.208:5678/live/stream-527da6a7-8ed8-4169-9935-7708eee0f742/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX 1,http://61.61.67.208:5678/live/stream-9f8aba0e-7c2d-4e61-bdb9-3c5a51b1cbe6/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX 2,http://61.61.67.208:5678/live/stream-127c03f1-d3fd-4b8f-95f3-cfc1dfae5e9c/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX 3,http://61.61.67.208:5678/live/stream-5475bcf5-4a9f-4634-92a4-126a660f3a63/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX 4,http://61.61.67.208:5678/live/stream-d1b7a56f-deb5-4674-8dde-0b6c984805ef/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+Elta體育1台,http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+Elta體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+Elta體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 新唐人亞太,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
@@ -408,7 +403,7 @@ TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=oBLnyzLuU
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 台視財經,http://211.23.95.147:18881/live/dtv16_h265.ts
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+台視新聞,https://www.youtube.com/watch?v=9iRAqBMakXY
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -516,6 +511,9 @@ CNBC Asia 財經台,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=o
 DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 DreamWorks 夢工廠動畫,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+Elta體育1台,http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+Elta體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+Elta體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 ELTV生活英語台,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 ELTV生活英語台,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 FRANCE24 英文台,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -525,7 +523,7 @@ GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=oBLny
 Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 History 歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 HITS頻道,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-INULTRA,http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+INULTRA,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 KLT-靖天國際台,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 Lifetime 娛樂頻道,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 LiveABC互動英語頻道,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -569,7 +567,6 @@ TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzL
 中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 半島國際新聞台,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-台視主頻,http://61.61.67.208:5678/live/stream-de1ae9a8-da73-4ea8-8bf3-fc61afc37db0/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 台灣戲劇台,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 尼克兒童頻道,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 民視,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -604,7 +601,6 @@ TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzL
 采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 原住民族電視台,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 時尚運動X,http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -629,15 +625,6 @@ TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzL
 華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 視納華仁紀實頻道,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 愛爾達生活旅遊台,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-愛爾達寵物運動台,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-愛爾達體育1台,http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育2台,http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育3台,http://61.61.67.208:5678/live/stream-dd933970-033b-4552-8db7-7aa78f8572fe/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育4台,http://61.61.67.208:5678/live/stream-527da6a7-8ed8-4169-9935-7708eee0f742/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX1台,http://61.61.67.208:5678/live/stream-9f8aba0e-7c2d-4e61-bdb9-3c5a51b1cbe6/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX2台,http://61.61.67.208:5678/live/stream-127c03f1-d3fd-4b8f-95f3-cfc1dfae5e9c/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX3台,http://61.61.67.208:5678/live/stream-5475bcf5-4a9f-4634-92a4-126a660f3a63/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-愛爾達體育MAX4台,http://61.61.67.208:5678/live/stream-d1b7a56f-deb5-4674-8dde-0b6c984805ef/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 新唐人亞太台,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 經典卡通台,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 經典電影台,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
