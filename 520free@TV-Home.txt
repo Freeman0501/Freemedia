@@ -887,17 +887,244 @@ TVBS歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv068
 
 
 
+🐠 4GTV+飛速看,#genre#
 
-
-
-
-
-
-
-
-
-🐠 Smart,#genre#
-
+007情報員-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=439&ts=1783782783&token=VKL7hhoOGmceUkmf3AlnHc1CsbF-3Ayef3Q153d1j3w
+11點熱吵店-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=349&ts=1783782783&token=IK7j4o17HqVvycAvOIRDCso-U841MLYJPbZxCofKfNg
+2025雙北世壯運-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=459&ts=1783782783&token=uH3ZzkV7Z2n_6uo6XqQELDiuhoHwWTqbUTb3SxDwdn0
+ABC Australia 澳洲公廣頻道,http://23.128.116.71:5005/4gtv_api.php?id=498&ts=1783782783&token=GIx3t1hzLf_0maS1RYMVi0NPYu9eenJbLuh-ok7drpU
+amc電影台,http://23.128.116.71:5005/4gtv_api.php?id=39&ts=1783782783&token=sCcDqwk5kyNvsJHPx96xhRfHiZjn8-89rQ24zGXNFhY
+ARIRANG阿裡郎頻道,http://23.128.116.71:5005/4gtv_api.php?id=189&ts=1783782783&token=wGjW02gIQYw_0qbpjl_s-8NCOUfpcLJ14CAYEuWkUeE
+Bloomberg TV,http://23.128.116.71:5005/4gtv_api.php?id=283&ts=1783782783&token=a7xSa3PF2DVHsu99BccltSigcgxUw-KdQB5zIY_u_8o
+CI 罪案偵查頻道,http://23.128.116.71:5005/4gtv_api.php?id=215&ts=1783782783&token=R-G3MEa-mJXr2unlbyreD_Ty3hGnM30EbI_jUmfJCsg
+CinemaWorld,http://23.128.116.71:5005/4gtv_api.php?id=225&ts=1783782783&token=zO_Tb9RFeos2zTEsVj4zQxznzoGNXu10jBOqfe-wYqw
+CLASSICA 古典樂,http://23.128.116.71:5005/4gtv_api.php?id=80&ts=1783782783&token=WpXKQSiNz_LKSBSTfT0QFJRHWrTK7a1p-G_jiObRgzo
+CNBC Asia 財經台,http://23.128.116.71:5005/4gtv_api.php?id=235&ts=1783782783&token=MIbzOLRQe_ibxPMwZUgQjv-JG5pAgzOMGB0EkSvqtF8
+DreamWorks 夢工廠動畫,http://23.128.116.71:5005/4gtv_api.php?id=282&ts=1783782783&token=JCoBLvp6DgsVLjay09K3KHWXCyaY5YTbWG9GIjR-3Is
+Duck TV兒童卡通-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=334&ts=1783782783&token=LovAsX-ALvqfoEcwlglNgc-frv7GoYboHIXlPzgr9c8
+DW德國之聲,http://23.128.116.71:5005/4gtv_api.php?id=226&ts=1783782783&token=Uo_IXyoeJII0cLm7mO09zd3HDl6DqB994-cLbKrJ3KE
+ELTV生活英語台,http://23.128.116.71:5005/4gtv_api.php?id=490&ts=1783782783&token=dlX9GxcDA-B4BDBSodNBBkB3MeTD7qn08xBEBF5oA_Q
+FOOD超人-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=327&ts=1783782783&token=wML7G7bdyo-8UtKwtDXaawyVkGdL634mNUnxFF3V92o
+FRANCE24 英文台,http://23.128.116.71:5005/4gtv_api.php?id=316&ts=1783782783&token=oVqLkoh5LgHy8ar4CSGy0tJthMsRtEGfXSxC2B5ijnE
+fun探索娛樂台,http://23.128.116.71:5005/4gtv_api.php?id=274&ts=1783782783&token=iuDqs_VOzS2o3-7TDVuTFyMW6BYlISSZAAsxL64S6W8
+GagaOOLala 精選LGBTQ+好劇,http://23.128.116.71:5005/4gtv_api.php?id=478&ts=1783782783&token=FE0by-dJU_7qEiCNNv0eH_Q9bK7HXRczFdEMW3CA46s
+getwin sport運動台,http://23.128.116.71:5005/4gtv_api.php?id=93&ts=1783782783&token=oEonQ6-0g_F3DgvPrBtoU928jsNUxM3nzoaOIvXc03U
+GINX Esports TV,http://23.128.116.71:5005/4gtv_api.php?id=179&ts=1783782783&token=2im2Wff7iKY_BQHduATCiNZK8moykQfrl2wlJ_fenXI
+Global Trekker,http://23.128.116.71:5005/4gtv_api.php?id=252&ts=1783782783&token=ymdlxDm1iYi_avyR1qQRG8LQobuW9zSyl2_VbXCNWxQ
+GoGoTaiwan-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=434&ts=1783782783&token=c78UbgghzyopKnKntvCz9KyKTF4gzgpxreixODd4784
+HahaTai 哈哈台-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=466&ts=1783782783&token=rb5LDsKXH4siU6eW6TnBnULzs5xn4IinaUAJGGWfzmY
+History 歷史頻道,http://23.128.116.71:5005/4gtv_api.php?id=214&ts=1783782783&token=LQbdQTl5z9SMxs3p-VjaYlwKTVPf8bDjuyM7XYJqsLM
+HITS頻道,http://23.128.116.71:5005/4gtv_api.php?id=186&ts=1783782783&token=PPz8wmQVyIg1_TvLutiZFL-jSAHreb0kNOsLeXcNsYs
+INULTRA,http://23.128.116.71:5005/4gtv_api.php?id=501&ts=1783782783&token=t-yWSK9ZKOQIdrXY4s5yWn2CZdPegNldL2wqCuk-4yU
+KLT-靖天國際台,http://23.128.116.71:5005/4gtv_api.php?id=84&ts=1783782783&token=UtY5jxGDc0vU0cZ51dAwDQIxV0evypXdDwX5ls8ojes
+Lifetime 娛樂頻道,http://23.128.116.71:5005/4gtv_api.php?id=217&ts=1783782783&token=gTSPF8BF3CnhiT-bUo0eXV7HJjtn1IF4UPDl_X1Q3Kc
+LiveABC互動英語頻道,http://23.128.116.71:5005/4gtv_api.php?id=188&ts=1783782783&token=jomSQFNUIQB9HEjdtr2tMeh3-_lmXXAPtx6LenaTBAY
+Love Nature,http://23.128.116.71:5005/4gtv_api.php?id=139&ts=1783782783&token=rnzuj-lzED_oj--WPo9fPy9akFwVaS4Htt4YVJOnqF4
+LUXE TV Channel,http://23.128.116.71:5005/4gtv_api.php?id=175&ts=1783782783&token=UEiByIkzCOkxem8yVNKLh9IpiZYYQ80BwWGqeUyJH0s
+Mezzo Live HD,http://23.128.116.71:5005/4gtv_api.php?id=79&ts=1783782783&token=oBxkqx5Kj54xteXhgegQVLpXodkQN-byIlszIc1FAV8
+MOMO親子台,http://23.128.116.71:5005/4gtv_api.php?id=231&ts=1783782783&token=Nzb2CZlQhQw5ytAyM5X9VaiE_hmlFYUGRDnDBWZbz9I
+MOMO親子精選-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=484&ts=1783782783&token=eWwXRX1-1KI5a1rHFv1K6GJmYgZOS9eEfNbbSgueB78
+My Cinema Europe HD 我的歐洲電影,http://23.128.116.71:5005/4gtv_api.php?id=463&ts=1783782783&token=p9d2tFCc76u4hf2VpsWTK1oKY_M0zvsKUJUtRNxkyYY
+NHK WORLD-JAPAN,http://23.128.116.71:5005/4gtv_api.php?id=461&ts=1783782783&token=4a1fNQi4OBtrXMtc2GP2tKWzD74nBns3ikbcId-do5s
+Nice TV 靖天歡樂台,http://23.128.116.71:5005/4gtv_api.php?id=119&ts=1783782783&token=Udy6eI8t3jD8bLfNt0G1V3_YEim3_2d2IxAFATmZPZU
+Nick Jr. 兒童頻道,http://23.128.116.71:5005/4gtv_api.php?id=219&ts=1783782783&token=7sdOOvflLAIsc3Rgw1SDp4zoZGtU8Gw8Vt2gmRyAAWI
+Pet Club TV,http://23.128.116.71:5005/4gtv_api.php?id=464&ts=1783782783&token=-RVJDUI4ZQQxQZOiQ_Yp1wBtg18aa9snVM6nt2gcojs
+ROCK Action,http://23.128.116.71:5005/4gtv_api.php?id=180&ts=1783782783&token=NOgwhNXqQGhBEb5-fg5BzGNGUl6mx0VRHlmiTgK3nuc
+ROCK Entertainment,http://23.128.116.71:5005/4gtv_api.php?id=275&ts=1783782783&token=j_R_ZheYW777KIFdA0tiey6qKTv7r5hTKA2CKzmgKnY
+ROCK Xstream搖滾極限頻道,http://23.128.116.71:5005/4gtv_api.php?id=485&ts=1783782783&token=SMAPJctwZc7Zcam-HnH1BhBV4ScYRfw1wY9-meMlGKw
+SBN全球財經台,http://23.128.116.71:5005/4gtv_api.php?id=224&ts=1783782783&token=qOg4tl2aAUU5laFopsdqgWDHOKoV10b0odNxE0ThUSo
+TRACE Sport Stars,http://23.128.116.71:5005/4gtv_api.php?id=57&ts=1783782783&token=u5_KTZ1zuL1Aj2BnooKio0m3fimol_QhJB82Fgt9Z5A
+TRACE Urban,http://23.128.116.71:5005/4gtv_api.php?id=78&ts=1783782783&token=_GeqUlv7rsKsEp-rVWujo19SrkldydWRCSg_NPxE_Ak
+TV5MONDE STYLE HD 生活時尚,http://23.128.116.71:5005/4gtv_api.php?id=178&ts=1783782783&token=GynGeb9bXCRdVSPO4jjhl02dzLLL0o0bJ6ZirErarAE
+TVBS,http://23.128.116.71:5005/4gtv_api.php?id=183&ts=1783782783&token=k9Rb9lchMa8hhIoy1Eh56PmKDJKKlPVPUpaZy_x2y9I
+TVBS,http://23.128.116.71:5005/4gtv_api.php?id=472&ts=1783782783&token=1PFzKueFb-O5mihHeJ3TtAzR-jKo6l2cb2nIottnWu0
+TVBS台劇台,http://23.128.116.71:5005/4gtv_api.php?id=477&ts=1783782783&token=Kk2jmbkbvcETs4s0Hz1dopIsIFXgmovt1xyvMAm8jHw
+TVBS看板人物-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=394&ts=1783782783&token=zQ2mVV72XmkzvTvDc27TISVr70Wm6PvO5dkY7msnfCE
+TVBS新聞,http://23.128.116.71:5005/4gtv_api.php?id=291&ts=1783782783&token=KMCE9Al5x7vYX_JWfdp02aFb10DKlGN2RTR7whJymgw
+TVBS新聞,http://23.128.116.71:5005/4gtv_api.php?id=473&ts=1783782783&token=4o67Ar28xlWpOQLklqX_xXy4UKbPP1wOGsZ65Hxzh-g
+TVBS精采台,http://23.128.116.71:5005/4gtv_api.php?id=227&ts=1783782783&token=rA0Z4JlhrbynRs1ZZn0eMi6VwjA9CdoxH8DOwm88v0Y
+TVBS綜藝台,http://23.128.116.71:5005/4gtv_api.php?id=476&ts=1783782783&token=E_ccCdV48f0sSr8LmXGr3XqCpPe91T3tM4BdagTb6QM
+TVBS歡樂台,http://23.128.116.71:5005/4gtv_api.php?id=184&ts=1783782783&token=0I841dPhNaXK289VlM6E9eJ08Jb_-Cnbbbp4nRe7RKA
+WTO姐妹會-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=350&ts=1783782783&token=NJMnEnHZ-MRvdEnpTxhYGHX0Crz_jlj5wfVJATEZfDM
+一字千金-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=344&ts=1783782783&token=LSz50GI-3gUlziNdXxM4xiIWLAlLD45-3xlZpZO3d0U
+一起追韓星-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=447&ts=1783782783&token=3VoRTmkG8oVfEqohfTFAfGrO3NqUHZzM7ZjuMqxbQp8
+人間衛視,http://23.128.116.71:5005/4gtv_api.php?id=210&ts=1783782783&token=czLBW0_4BXHqGXNEI4wJtNrK-hvVSrFqMML4DRrmXmo
+八大精彩台,http://23.128.116.71:5005/4gtv_api.php?id=172&ts=1783782783&token=Z8HmyKc5G_edzteb1b3lwnIUji0SCxvz59o8AeGb_xI
+八大綜藝台,http://23.128.116.71:5005/4gtv_api.php?id=114&ts=1783782783&token=Xhi8Gjaj6cum6dsko5P7VvP58kFlCv4oxmlduM16z_Y
+八大綜藝台,http://23.128.116.71:5005/4gtv_api.php?id=276&ts=1783782783&token=9dDQ7AaQBiVUzEvs18cJQWxM4ikG176qSgT7ODyow7Y
+三立新聞iNEWS,http://23.128.116.71:5005/4gtv_api.php?id=229&ts=1783782783&token=sSIfHHg_OtYmU5Q9rnQcymFyfPFSMsw-FEXBw_JV058
+三立綜合台,http://23.128.116.71:5005/4gtv_api.php?id=169&ts=1783782783&token=v98YCZOWufUnb1OoIPx86kZ3PqHeLBlI9jWf-BlB0BU
+大兵日記-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=452&ts=1783782783&token=koYz4podATTr5_FKsHsje1Xj2jUvY_Jt2MYg7RyNZ_o
+大愛二台,http://23.128.116.71:5005/4gtv_api.php?id=230&ts=1783782783&token=eXn_PkehR4gTfmwkNRGQzYuSE5qZiENENGTwe3fL7i4
+大愛電視,http://23.128.116.71:5005/4gtv_api.php?id=209&ts=1783782783&token=5FT44u5Epj3uDsVL0kp7AXgzS5HzXxiEWP9vR2fjc7I
+大愛精選-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=416&ts=1783782783&token=Kyw7sTw00o8aPcoAndldpavRs89HrBvT3TL_rEPySvQ
+女人我最大-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=347&ts=1783782783&token=vFTPQRxk9KMp6dVASDqFm6sdEJoXPP1ATV1SK2kkzVs
+女力報到-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=480&ts=1783782783&token=L74p61j8XzrQXMi52bwv3y1b4ni1vbahytYT3OW35Qo
+中天新聞台,http://23.128.116.71:5005/4gtv_api.php?id=260&ts=1783782783&token=jYk7UxXqjpWetsnUw-waitUrsNcEgyCpZ-0COxw_4q4
+中天新聞台,http://23.128.116.71:5005/4gtv_api.php?id=30&ts=1783782783&token=AxbUdPKfGlr8Eeck7fCZJ3FC0_V8y3LME0jAObbKpLM
+中國傳奇故事-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=458&ts=1783782783&token=fTHwj0uq0aXX2j-fQah1LqxY19BAVmPqHsnR43LvbiE
+中視,http://23.128.116.71:5005/4gtv_api.php?id=4&ts=1783782783&token=iIC-pi9_dYHxuRPuIRNFvGpBuJ6p1JnNHt-jZtP6L3Y
+中視新聞,http://23.128.116.71:5005/4gtv_api.php?id=258&ts=1783782783&token=nunieazatvYC22RmvKuGxF_44b2ZHj73G7UmTw4hr-8
+中視新聞,http://23.128.116.71:5005/4gtv_api.php?id=33&ts=1783782783&token=sZFkPvt3Zg8znwkRKt7GxiifyOGdcnCAg4lq0VMtKAs
+公視好劇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=337&ts=1783782783&token=iVxn5NuSI_yYu2V2dDqz3_wqpOgUD-JjQWtojL7XGkY
+公視戲劇,http://23.128.116.71:5005/4gtv_api.php?id=7&ts=1783782783&token=9qFbj2CPLLqD9VaK9GFuXEnNxlAsbi6zIivyduCh3qM
+天才衝衝衝-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=343&ts=1783782783&token=3d2ivblXqw5NI1HHUNykhKNNV-Wz1eJawbrtTYcxs8E
+日韓電影大賞-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=415&ts=1783782783&token=BCqW4NV3WHdB9A8OnVXZNnZJmdJjHEdxWwaULWrlx6w
+世間路-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=421&ts=1783782783&token=7kffZRixBDmXQWvgE_U9Xul6JvZD85KW97hwEym_two
+以家人之名-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=383&ts=1783782783&token=Dq1nS1SewBr2vU11nuQ6nIaqdZH6Xr7xgRWQKuVfJjg
+以愛為營-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=424&ts=1783782783&token=Mq4slKeu85mutnZQyC6sACsEjdkQQvusznOYIH71dtQ
+加油喜事-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=384&ts=1783782783&token=24L6e7e0ZvyNSBZin_fDzT3CWQLSu7Kfkbsis8WQj9c
+包青天-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=427&ts=1783782783&token=IyctoxfMSkhBdGzbOePkUAKFp6_2rHFWDethRdahEts
+半島國際新聞台,http://23.128.116.71:5005/4gtv_api.php?id=462&ts=1783782783&token=6S3ypFq_XZJFBI5FErHEQQPBPIBQZQGsc5f3Ye9KceA
+去有風的地方-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=386&ts=1783782783&token=g6R3F868dZ4zK6IGXfPIxttWeqX93_jHg32E41A-ags
+古裝武俠劇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=423&ts=1783782783&token=hfbScu6Z_ZcUcfp95M3C37-8WhD_TUFuQtDCNbiHXDs
+台灣No.1棒球精選-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=465&ts=1783782783&token=TdDRIDIdymVyCw10p4E-j0YMuol7pYCcDuZ3N1x75mA
+台灣傳奇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=419&ts=1783782783&token=mB1ZMWWZHS_Eflq7SNttjYS04RsddBUL2YM-1SfbU_E
+台灣靈異事件-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=326&ts=1783782783&token=qoSqK2Q4Lf4quueYP1khlsC1a__wIY8R2aIWBrI0YxA
+尼克兒童頻道,http://23.128.116.71:5005/4gtv_api.php?id=185&ts=1783782783&token=oLOENWA2GsK9r7b0Yr21q1AybxqseLyypYwA0DkqRC0
+市井豪門-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=341&ts=1783782783&token=2Td-vP3wvZh4_hY2SJavYpqzOAMFhhoi7oIq_OlZcOo
+民視,http://23.128.116.71:5005/4gtv_api.php?id=246&ts=1783782783&token=2H2hdjIuXLG6xg-faVmjrLBAoak_NYl1IlGwtpz_kE4
+民視,http://23.128.116.71:5005/4gtv_api.php?id=3&ts=1783782783&token=V2dl2FfVEubMs72TV4RwaWrnEP4U5qVj-w77TBfOGOg
+民視,http://23.128.116.71:5005/4gtv_api.php?id=468&ts=1783782783&token=W2Lj4iyPgApeSWpTx30kb9PhjH_EXGLgy-BgtvAklK4
+民視台灣台,http://23.128.116.71:5005/4gtv_api.php?id=2&ts=1783782783&token=FPMrWcsi4VLQJ-iaMceagmhbek8ecQaGxn206LVeHOI
+民視台灣台,http://23.128.116.71:5005/4gtv_api.php?id=255&ts=1783782783&token=JjsJf-9HZaEScvZHGcMFb2MtZc9jJ8K053Zkb3BbBp4
+民視台灣台,http://23.128.116.71:5005/4gtv_api.php?id=469&ts=1783782783&token=M6hRypziggMU4GcPoqNjJ9M8JkWfpXzA0U77mJGCZsU
+民視生活通-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=387&ts=1783782783&token=Q0bNOOyarhrhhLduVhqK6GuDhmZspK0JHt4prKOIvlg
+民視旅遊台,http://23.128.116.71:5005/4gtv_api.php?id=61&ts=1783782783&token=vamYXLcD_3MYU-0rHGbYjRfmy8_ZM__bo3XRxL9MSWI
+民視健康美麗生活-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=376&ts=1783782783&token=6GRcjVz0v1blRmr3mrdb8iHeEIcWirReARyBNAECCwI
+民視第一台,http://23.128.116.71:5005/4gtv_api.php?id=1&ts=1783782783&token=gIROyYX3ixWLp9FyNg2XBv07cnFdDgBIfl8I4nwnPPA
+民視第一台,http://23.128.116.71:5005/4gtv_api.php?id=254&ts=1783782783&token=cgYjqMDmXocNqffUXDav07sS1Inn27vtPSdE19kO4Aw
+民視第一台,http://23.128.116.71:5005/4gtv_api.php?id=470&ts=1783782783&token=pR4FZSi_MOeAvL2r0OzJ_toQgLAqowQDc2AyQuqbPRY
+民視新聞台,http://23.128.116.71:5005/4gtv_api.php?id=257&ts=1783782783&token=2_vjZRWUWnt0j8hN85OxTX49NO8mLW7Qm2dM8w_8eQM
+民視新聞台,http://23.128.116.71:5005/4gtv_api.php?id=31&ts=1783782783&token=qlg23aXx9BFS2StcEnIyN9EchLgdQZsRfacXy0lCeLY
+民視新聞台,http://23.128.116.71:5005/4gtv_api.php?id=467&ts=1783782783&token=9n7YExcRl9UvWNMXP0sryIBs4BilndIyA8ffwA7s24A
+民視綜藝台,http://23.128.116.71:5005/4gtv_api.php?id=16&ts=1783782783&token=A_-rG6gDCd2KGwuxUSp7BdSotBlDFhkiQzG4SO-UKSY
+民視影劇台,http://23.128.116.71:5005/4gtv_api.php?id=24&ts=1783782783&token=zdT_QIeG1BWydkbwm9iZe1q-02-kRtlH4v2c10gJD4U
+全家有智慧-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=375&ts=1783782783&token=xRP7ITMEcFgOV9FnjlHY_z1sU75gtnc_hRvRSGgtxlc
+全能歌手-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=385&ts=1783782783&token=oE1G9SJbGMGHzeNHP3w5j4I1-12sp4xmUOvDvKF0DiU
+同學！搞什麼鬼-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=431&ts=1783782783&token=Z04UfD9ZIV-60sprxX2iX9YUyl_Zqcy1O42fRYX3WWQ
+多情城市-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=389&ts=1783782783&token=aOEFMn7yuad0ymmqq5KdPyXSqawQgKoySpMqDX274IY
+好消息,http://23.128.116.71:5005/4gtv_api.php?id=9&ts=1783782783&token=YOlwtDm7HhbeC1yF5C6CJPlItmyEbJSv5hIBqbYvELg
+好消息2台,http://23.128.116.71:5005/4gtv_api.php?id=8&ts=1783782783&token=wMnJX052SRIA75IiES5LSxKHlbbp3LUU4VcgjAZRq30
+免費精選動畫-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=437&ts=1783782783&token=EpYqf4_LWq-bBwezo-sDhNZ9A27-PdukzvbKzrTRRgg
+別打擾我種田-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=398&ts=1783782783&token=C5lo--g1ewc2lMY-_J4SA8QYKTb7uLrZeT9r9S2OJD4
+我的成長-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=390&ts=1783782783&token=yo0-tEoXOO-KarrzAoXjV4KowgQEqhRZ00NaliyEpQo
+車迷TV,http://23.128.116.71:5005/4gtv_api.php?id=160&ts=1783782783&token=A78nMCswSxuLjs1Graak7CH1yNJ1zMDKVj1UwfiX3As
+亞洲旅遊台,http://23.128.116.71:5005/4gtv_api.php?id=250&ts=1783782783&token=uIzSAvLbLjhErjAkvu78eG8w_I-EDW7D3aKCQZVuk5I
+亞洲旅遊台,http://23.128.116.71:5005/4gtv_api.php?id=261&ts=1783782783&token=FTq_BZ5WVN6SVAqIScSAWqrS9sUPAUK-kk3k7x25Wh0
+姊妹亮起來-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=377&ts=1783782783&token=DpQ5CEBHxME6XCc38Z7N5Cg7A1P0p86XGJ6hZxjUvTI
+幸福空間居家台,http://23.128.116.71:5005/4gtv_api.php?id=123&ts=1783782783&token=POHs-sr-Pr_7kGbZ425PgTRwglW9-KWTkrV47WURjpc
+幸福保衛戰-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=430&ts=1783782783&token=Am6ov-INgZbD5aT5Nowxrqine3kZqFt34C1pjVpMHso
+怪獸之王-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=438&ts=1783782783&token=vkwN0RUGEvaluMDzCY-4bmOHz39X0w8Ynad119ZnSj0
+東森財經新聞台,http://23.128.116.71:5005/4gtv_api.php?id=211&ts=1783782783&token=l8j3F00970_teu_RtaH1OiGsMCF-6wau5xPvcADjwzo
+東森財經新聞台,http://23.128.116.71:5005/4gtv_api.php?id=293&ts=1783782783&token=vDt1lYPsQVCP5x5mzTBj6gI4DbCsdZecd_BSN82tHeM
+東森新聞台,http://23.128.116.71:5005/4gtv_api.php?id=234&ts=1783782783&token=55BK66fPFy1Klbb2HDynV-J3WEMacN3i5i5msgqvYzY
+東森新聞台,http://23.128.116.71:5005/4gtv_api.php?id=292&ts=1783782783&token=guC1XAMkvxfF6IqpjdO9t1GjHn3dtwfITsM_ZssNotw
+東森購物一台,http://23.128.116.71:5005/4gtv_api.php?id=173&ts=1783782783&token=5zVG2NN_ejgUWbto85GzHrj0soBuT1PEOntq09t3MPk
+東森購物二台,http://23.128.116.71:5005/4gtv_api.php?id=499&ts=1783782783&token=fhRJsuw--CfqwaIJH7P0-02EWKD9ck6GBWuO-th3zak
+東森購物三台,http://23.128.116.71:5005/4gtv_api.php?id=287&ts=1783782783&token=2AjkqqTWe5M8KgMmHwzVGjbu6_zSeu-OC6Fm1Zd0yR8
+東森購物四台,http://23.128.116.71:5005/4gtv_api.php?id=500&ts=1783782783&token=9flhvlz2fin8pv8zoNifAg2f6fsJG5bRgKtxXkQVmIk
+東離劍遊紀-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=448&ts=1783782783&token=mI4vQikU-3wZa2WNGIwZuDtQPTp_N7KEeFxf_ZDJUpU
+武媚娘傳奇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=455&ts=1783782783&token=NtEg5jsldBFc_qKbEQEfx8Vp-y9K2-NPMUoPXDeJrpM
+爸媽囧很大-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=432&ts=1783782783&token=9jpnVUX_grNFYHjtrU0oEcsBZGz0wliHmwywixwFnns
+花千骨-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=397&ts=1783782783&token=Ri4Zn1mHr36xnbNCMcTefMTOCGKWirS9qOp7yBW3Xg4
+采昌影劇台,http://23.128.116.71:5005/4gtv_api.php?id=25&ts=1783782783&token=nBG4VxMdLphZiGaRUJcC_CzAN8i5F4etYE3S81kEuC4
+金光布袋戲,http://23.128.116.71:5005/4gtv_api.php?id=236&ts=1783782783&token=Xju0P4dAoJlS0-dRsuPQ6yCJevrRktXxrC52llsFM6c
+金光布袋戲-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=339&ts=1783782783&token=HBpoCOcOHoVf44VG4yPxEz-guZCrsjaKwZPbEmZHKDc
+哆啦A夢-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=331&ts=1783782783&token=iu2r-Pi-XbDAb-mchjfy1hBScxdwQDJa-YIDrV7j2Ok
+威廉沈歡樂送-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=435&ts=1783782783&token=5sPvDtKzqF20e8MsHYTh14iu3Jw36xOXZY9gOjo9z3o
+客家好劇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=346&ts=1783782783&token=vyYV7c1j5alpkndt1H2O9oEhSEZs91mtgK92NqePmbQ
+客家電視台,http://23.128.116.71:5005/4gtv_api.php?id=107&ts=1783782783&token=lqYp-_5bSRfvuGucbaFr_vM_ITkutk4tOaCvhvfxOMA
+飛龍在天-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=417&ts=1783782783&token=cnodd6WgAXiTpGM3pVWG2PevRe5dsNyjNWI8IXkp7pY
+食尚玩家-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=348&ts=1783782783&token=t-Wxo7xL6tfyJY9tmhrGK1-7_Km9aU2HCtoV_9sEfkE
+香蕉直擊台,http://23.128.116.71:5005/4gtv_api.php?id=94&ts=1783782783&token=BoUz4xNU5nMHhzczlOUUxhFo4BoM8sx11hdKo3pyIC8
+原住民族電視台,http://23.128.116.71:5005/4gtv_api.php?id=124&ts=1783782783&token=vUXOXRbpB3DlqhmtB45pUxs86NVdFtKAEufpB9CteUc
+娛樂百分百-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=378&ts=1783782783&token=f_dIAH-yViqxGuJmjNLLoyeVy07Mbiit7uilzJhGfPE
+恐怖電影-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=422&ts=1783782783&token=kVpv1j1jMcNCb7pzz-_tnqdHND1vXxhn_hnnJGpFlqE
+時尚運動X,http://23.128.116.71:5005/4gtv_api.php?id=277&ts=1783782783&token=IRNn3IsF-sT09MjjNnUakIYLUbHykgh2IBQb7Ouwc2g
+時尚運動X,http://23.128.116.71:5005/4gtv_api.php?id=69&ts=1783782783&token=c0e7KfhNmWx5EIvLCJ-ADrbZ1j3-Dmp7Y59B6RX-YAc
+浩克慢遊-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=403&ts=1783782783&token=ztMnPZnKzzQJDweatM6SlpSl9as3D7XvtpEwCra7rIs
+鬥陣大廟埕-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=388&ts=1783782783&token=-z2LkSvt4Xj8Zkz3SM2S-Gk6qLBvsmwsDEKL0wy8VGQ
+鬥魚-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=492&ts=1783782783&token=O_zPrBNL1MaGRx9d0M2gomsrQ915NfZxI3K0h9bwquw
+健康2.0-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=391&ts=1783782783&token=Etk4bHQiedMDDv2R8nHth-LLy4-1_m5dKCAn9Gg3Vy0
+國外電影精選-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=414&ts=1783782783&token=3zFPlVzGplthtXh2qhA3S_jSoB5AoIYTZQAw3w9gZgc
+國會頻道1,http://23.128.116.71:5005/4gtv_api.php?id=170&ts=1783782783&token=uJ7D1q01oWXnEUYs79oF1yrrxjjO63Elw1wbIvlU0MI
+國會頻道2,http://23.128.116.71:5005/4gtv_api.php?id=171&ts=1783782783&token=xWTF9rDCJ-qk_YhbbhunDwG4xwQKhfbhon5Z1RnficY
+終極一班-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=491&ts=1783782783&token=QIeFQH7A4ZJXFQSptuaUr6Rv4EwL_7frrapOh5AxQHA
+野蠻遊戲：We Play -FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=395&ts=1783782783&token=HZjaBFx6H1F2h_CozQaGldmBmFsJt-zYpgsel5bNBbI
+傅子純的時光機,http://23.128.116.71:5005/4gtv_api.php?id=497&ts=1783782783&token=KdW0LJeDepXDltgRZsf3piGzlR11mxAR_dJVK8uCDbQ
+博斯高球二台,http://23.128.116.71:5005/4gtv_api.php?id=494&ts=1783782783&token=pbORm0qpqhYwuD4LRu2dQVvrJgUaSh3QAw1KcToFXT4
+博斯高球臺,http://23.128.116.71:5005/4gtv_api.php?id=264&ts=1783782783&token=3Llv80kgs0JwfO_POc2HKZv9K5JVIzVxdvwj9Z7frEk
+博斯高球臺,http://23.128.116.71:5005/4gtv_api.php?id=486&ts=1783782783&token=-3Yk3kUYrl-iAxSB4y-jm8UWr7NfLW_jAoAKigIjWdI
+博斯無限二台,http://23.128.116.71:5005/4gtv_api.php?id=496&ts=1783782783&token=qus9hjWiIAgxmunMoCXqB3uUm2UO9QD2oQcpn_-N7Ik
+博斯無限台,http://23.128.116.71:5005/4gtv_api.php?id=266&ts=1783782783&token=gugmjcJVuZvS_3v4GdUMV4Dq8KmRx-N4RnlOMqvNxLU
+博斯無限台,http://23.128.116.71:5005/4gtv_api.php?id=489&ts=1783782783&token=NY7W3d-L94WBpoPA9a_Xj8TH7GpPRDdIEhlTy-lKFyk
+博斯運動一台,http://23.128.116.71:5005/4gtv_api.php?id=265&ts=1783782783&token=aIooMDM8qVTXHgSjhUiLEa98NrcBdLonnHwlefyzS9g
+博斯運動一台,http://23.128.116.71:5005/4gtv_api.php?id=487&ts=1783782783&token=smTNj_9-Joo_dAC-Ji_a2EcAgGJaeIkXpTILOAEAHWY
+博斯運動二台,http://23.128.116.71:5005/4gtv_api.php?id=495&ts=1783782783&token=zeikBi1khJCi3LMR28MfXPhSLUw-u0HRp4msVMzlcU8
+博斯網球臺,http://23.128.116.71:5005/4gtv_api.php?id=267&ts=1783782783&token=D3Bh3ulo6sCiP-BZMBQ_d9AD1DcJ3LuuLkZgMEUGin0
+博斯網球臺,http://23.128.116.71:5005/4gtv_api.php?id=488&ts=1783782783&token=Gxq2RztHqULua5KW-_uGMPNPFUMUEm02_d6VVZUQhd8
+博斯魅力台,http://23.128.116.71:5005/4gtv_api.php?id=493&ts=1783782783&token=8QdGawhOnTUClXkHyGaXbKP7cwZ5nCtbu2sv7rI1V0o
+智林體育台,http://23.128.116.71:5005/4gtv_api.php?id=58&ts=1783782783&token=rycGa5YugN5jBSJVKf1Y6DMxViFnjxbRuA8NGMf2YcE
+最愛韓星-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=396&ts=1783782783&token=bCZHe3B9WPMYGG_o3CHs0zKUCqxmfXd0voNyVnUSiWY
+華視,http://23.128.116.71:5005/4gtv_api.php?id=6&ts=1783782783&token=vIVAaVvdkADAriu3CCnraLoDn0NOfgWsbpjrcJjgjNA
+華視好劇-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=330&ts=1783782783&token=cUOVrIW-wlEJpeg4T4hjarkydlA-0SbvW6s37huz7Zg
+華視新聞,http://23.128.116.71:5005/4gtv_api.php?id=256&ts=1783782783&token=8sJCvsV016xYC6o25BCbTsyUd5MKgo90bVBxsqT5NkQ
+華視新聞,http://23.128.116.71:5005/4gtv_api.php?id=34&ts=1783782783&token=i8YL43PGCu-7CfeD4kZEPF5BuN39BQtEga2IXZ4TnLQ
+視納華仁紀實頻道,http://23.128.116.71:5005/4gtv_api.php?id=38&ts=1783782783&token=e3sbespBsXLOjsohFtLXbb5OGNZFwC3Fm1vUxCgTT_0
+賀歲電影推薦-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=442&ts=1783782783&token=juiNpxUGuOuzF7PtVdtln5RIJNPTW_8bl9D57WERXsc
+超人力霸王《TV版》FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=318&ts=1783782783&token=GRMm_eNNqG_uOkgKtpbkSx2KpPY-n9ynzZMyw9Vj0ig
+超人力霸王《劇場版》FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=325&ts=1783782783&token=xP9vovW1bdK1yPuv4IV5ygigSbERXifGmQKRCW1quCc
+超級冰冰Show-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=379&ts=1783782783&token=QOPS5JHnQMzXj8kC6v-ZWUyULq7sexLtvFLoOWHOZmQ
+黃金歲月-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=392&ts=1783782783&token=PzQvBAFTeMoRPbJ0cjTF6sK1eO9rus14q_SQITbLGIc
+愛爾達生活旅遊台,http://23.128.116.71:5005/4gtv_api.php?id=237&ts=1783782783&token=iKKK13bGoKrww-zOCXsrNTlltbp-Nkj6BiSuAtlOfc8
+新年追劇首選-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=443&ts=1783782783&token=tnj7tTceWiFFvTcFU1DYmHan1UJeDBfSuDrKwiqQ_lI
+新兵日記-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=382&ts=1783782783&token=mL6PypE6sEvlCrotxCP-DCNv1Dn-7vY6y1ECN3TOTg8
+新唐人亞太台,http://23.128.116.71:5005/4gtv_api.php?id=223&ts=1783782783&token=Ol4COSOQa0cppNdEixfzyvJrPLBJj5gfO2Z3tG5XPtI
+經典卡通-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=332&ts=1783782783&token=G4BDmiqQqztGts871wSuKmwFUAxyHUmSluXxjtn1xTI
+經典卡通台,http://23.128.116.71:5005/4gtv_api.php?id=202&ts=1783782783&token=Fp4OMsGOrSLKjyS0E0yuXLLKKE3FLVc977vGjFSjCII
+經典迪士尼-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=340&ts=1783782783&token=ZNKHaeuDiQp7RSt1Ccwrgck-N4MQ7FekZAxAKfNwBzI
+經典電影台,http://23.128.116.71:5005/4gtv_api.php?id=201&ts=1783782783&token=BDfFGo0XwEty-xQuawaGRGM92e_tKuN5pPCvmCI7DKw
+葉青歌仔戲-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=451&ts=1783782783&token=Q78QcHtuUgyTXZg8ZUDRKjkhbRD-T4QphK5-LwZ4mI0
+達文西頻道,http://23.128.116.71:5005/4gtv_api.php?id=11&ts=1783782783&token=C8hRmlV4f3P-u_To6-sN9zVX4JkMQMUmuuUJhUpeCk4
+電影原聲台CMusic,http://23.128.116.71:5005/4gtv_api.php?id=218&ts=1783782783&token=kM-n6iI3fpr3SQq5pcuSx9dzhsFMg1RW23ZkkZD5Olg
+靖天日本台,http://23.128.116.71:5005/4gtv_api.php?id=22&ts=1783782783&token=0Acp2HPW0uX2HgGLXiHFsjRQrm9CiGZfoor39yiSAws
+靖天卡通台,http://23.128.116.71:5005/4gtv_api.php?id=15&ts=1783782783&token=fEdWLuYfoMkF46v8KSWs2JqqSmCFGecV042eecjtz_c
+靖天育樂台,http://23.128.116.71:5005/4gtv_api.php?id=83&ts=1783782783&token=-WYFDFyBjIdvtiVUnuBD-e7jYJ9u5-bfi0Lj_DNAEAg
+靖天映畫,http://23.128.116.71:5005/4gtv_api.php?id=42&ts=1783782783&token=wIJzW1qimGNcbzeszA1axvfum5z9wAeUTAmMm6a44WQ
+靖天資訊台,http://23.128.116.71:5005/4gtv_api.php?id=88&ts=1783782783&token=a7SFTGCPW1PytN8FBq-3fHUGPrGs2A6yx22k-wi7DKM
+靖天電影台,http://23.128.116.71:5005/4gtv_api.php?id=82&ts=1783782783&token=Dr2LtDU_sjyg-4sNMwwAzFsT6YCqD0N8KqnFF-bmU88
+靖天綜合台,http://23.128.116.71:5005/4gtv_api.php?id=21&ts=1783782783&token=b762DUSMpDir_zVU7g8YsZsXdaoBVhEsokIly8G_wiw
+靖天戲劇台,http://23.128.116.71:5005/4gtv_api.php?id=116&ts=1783782783&token=NPeXBxuKP0nGH02eh-YwIJ1g7UHl-eEfeVhzexkQHDY
+靖洋卡通Nice Bingo,http://23.128.116.71:5005/4gtv_api.php?id=59&ts=1783782783&token=rg4ifyy6rIydCNeDGOm8mT7EOzM9NQYVyWYF19SvQh4
+靖洋戲劇台,http://23.128.116.71:5005/4gtv_api.php?id=118&ts=1783782783&token=-DG40Dhe8GUhJvdxzMU7qTmX9OUBxXAD-NU4aqpBtrI
+滾動力rollor,http://23.128.116.71:5005/4gtv_api.php?id=249&ts=1783782783&token=K52eThob5sxhvO-c2z6Xv8MERaMkfk6raWOj02wpgIs
+精彩陸劇1台-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=426&ts=1783782783&token=4o1Jv9LnB50IKsss0CJ8vVyeJPZ6HNweWG4NBfn8CJ4
+精彩陸劇2台-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=456&ts=1783782783&token=3sBK0gojF8D-Gil0JRLVSQ3ZUM3oNTq2FbRcXK446I4
+精選動漫台,http://23.128.116.71:5005/4gtv_api.php?id=204&ts=1783782783&token=MFElmPEnBVT-i9Z6bDFSEd8C1wc3VS5kr9FRSfY9-YI
+精選華語電影-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=335&ts=1783782783&token=N-fHZ08seMltv-xHI8HbsY-z_8XijNlZCUB4_Vrh5dE
+綜藝大集合-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=345&ts=1783782783&token=aIkGkNOufOCS-7jyhY0dmSHcmImFOOv51e-Gn1_ghb4
+綜藝大贏家-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=460&ts=1783782783&token=F5-LL1nAd6_gdNQJ_Gaqx7MZ1GpioW8z-KUdVgb9nIM
+綜藝新時代-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=429&ts=1783782783&token=6zcBMraNERB9DzyWADLMmpA5uqTF8oTFxArZHqIqqx8
+輕鬆看法律-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=393&ts=1783782783&token=vsvdaahcuvEuDe6ZAe2cYNWck6rbeVOh11TMOKTa57c
+廚神明星秀-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=402&ts=1783782783&token=0_xDaBDKH33jh3n8Uhk1h9lHkdjTupWWY-56OOJs5wU
+影迷數位紀實台,http://23.128.116.71:5005/4gtv_api.php?id=445&ts=1783782783&token=F7LKZce_QrdIB0TPk0592KXtpu3TXoQZxBW97l-Ff3s
+影迷數位電影台,http://23.128.116.71:5005/4gtv_api.php?id=40&ts=1783782783&token=72LPjnroCp_4BoJOc3SE9mIqpXNOwRhSkSAxWvselJ4
+豬哥亮歌廳秀,http://23.128.116.71:5005/4gtv_api.php?id=113&ts=1783782783&token=WIDhpzzsmIvgdKwSDzPsQcsb_jgSPoJl9N4ijjXIK4Q
+豬哥會社-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=380&ts=1783782783&token=720JsjNbXXoAa8jPLjRBWX3SCQsxUQo-M30ody2U-gI
+寰宇新聞台,http://23.128.116.71:5005/4gtv_api.php?id=262&ts=1783782783&token=P0rOKQIJG7oC6Zuj5kgfMpGoQ6_glgx1GB50VBvHdkM
+寰宇新聞台,http://23.128.116.71:5005/4gtv_api.php?id=36&ts=1783782783&token=rnb4ldN15yIIKgS9aCvsZEabivbmc4Gp07tsrAkV1L0
+寰宇新聞台灣台,http://23.128.116.71:5005/4gtv_api.php?id=280&ts=1783782783&token=mrlzgkx9GIq9FfXwaEKliUln6Kly1Q0e3P-clDDMuNg
+機智校園生活-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=479&ts=1783782783&token=4Hi3mI5vfqBB5-8lMSBZX539gYD92nNOWIDOAywqdMg
+親子一起看-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=436&ts=1783782783&token=4gTucdHN5chdn9ePhewNeJsZC7lCBFlJ5afjQZWipnM
+親戚不計較(特輯)-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=453&ts=1783782783&token=spkQBBILgeej_YOMjNY7FlYXMKrxb7l-FcDoKetj6uM
+環遊世界800天 -FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=413&ts=1783782783&token=sotWfA7R4wkfSNbuIYRPLU2ReE2thjKf80Qm6PYu_fs
+韓流美食料理秀-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=449&ts=1783782783&token=ZsFp3m3YPX1WYyOsVaTXQ_bGU4nKXNvUNEHHq6Phbqk
+韓國娛樂台 KMTV,http://23.128.116.71:5005/4gtv_api.php?id=446&ts=1783782783&token=uik6PYatzMA4pV06sVW80jCZsQz0FIlRM2PujBJlnYg
+藍色水玲瓏-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=425&ts=1783782783&token=j1kEWdw32R-DQZ3mOzL1mpuhdB3dGmEaf_I5vI5Jo7M
+醫學大聯盟-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=433&ts=1783782783&token=qwg7ApOU899jXVF37bgZq-ZxS0iJYnPkPLgfzvIP5V4
+懷舊經典電影-FastTV飛速看,http://23.128.116.71:5005/4gtv_api.php?id=333&ts=1783782783&token=qKbj0TpFLlMjtFvWXFOMORA4BWCM3Wuth6iZ4GHXZLw
+鏡電視新聞台,http://23.128.116.71:5005/4gtv_api.php?id=268&ts=1783782783&token=qH47y6sdBIxat3hET-b3xpfU_d-Fe0x2W50EzQQFXss
 
 
 
