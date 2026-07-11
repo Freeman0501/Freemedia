@@ -1216,8 +1216,6 @@ SBS,https://www.youtube.com/watch?v=RevYuGM_Bx0
 
 🎵 綜合音樂,#genre#
 
-
-
 1muz,http://hz1.teleport.cc/HLS/HD.m3u8
 Bossa Nova Jazz,https://www.youtube.com/watch?v=NpokNpxhDmI
 Chillout Lounge 2025,https://www.youtube.com/watch?v=QrX_hJVIOrE
@@ -1229,7 +1227,6 @@ Hits Radio 1,https://www.youtube.com/watch?v=3MOrgUjiigE
 Best Radio 1 POP Hits,https://www.youtube.com/watch?v=b-bK2Vn3D38
 jazz lofi radio,https://www.youtube.com/watch?v=HuFYqnbVbzY
 KKBOX華語單曲排行週榜,https://www.youtube.com/watch?v=99rLT2xf8T8
-Live POP Radio,https://www.youtube.com/watch?v=p7ZIMv7SqW4
 lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
 LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
 Morning Vibes 2025,https://www.youtube.com/watch?v=ZHkkgIA0Dy4
@@ -1238,7 +1235,6 @@ NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
-Old Beautiful Soft Rock,https://www.youtube.com/watch?v=ZTqt3CYehuE
 Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
 Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
 Radio POP Mix,https://www.youtube.com/watch?v=x-JC7sJJUW8
@@ -1255,16 +1251,14 @@ THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 減輕壓力音樂,https://www.youtube.com/watch?v=wKg71lcs5Nw
 舒緩神經音樂,https://www.youtube.com/watch?v=DO9WCXMfRuc
 溫暖英文歌單,https://www.youtube.com/watch?v=IomlsrbTFsQ
-睡眠音樂-1,https://www.youtube.com/watch?v=b_TW4NYsbOo
 睡眠音樂-2,https://www.youtube.com/watch?v=TO4CiZXapP0
-睡眠音樂-3,https://www.youtube.com/watch?v=G6M5Upcrwf8
 睡眠音樂-4,https://www.youtube.com/watch?v=hYz1oOcAuk8
 睡眠音樂-5,https://www.youtube.com/watch?v=zoz0eXzFFns
 緩解壓力-1,https://www.youtube.com/watch?v=c9n4t53pAA0
 緩解壓力-2,https://www.youtube.com/watch?v=BcwNV1cCoaU
-緩解壓力-3,https://www.youtube.com/watch?v=SjkGdCuT8zg
 緩解壓力-4,https://www.youtube.com/watch?v=pw5gYa4-yGI
 心情放鬆的韓文歌,https://www.youtube.com/watch?v=z5GAa0JdnNU
+
 
 
 
@@ -1281,7 +1275,6 @@ AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
 AsiaFM亞洲電台,http://stream.rcs.revma.com/xpgtqc74hv8uv
 BravoFM臺北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
 CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-CityFM大苗栗,http://fm983.cityfm.tw:8080/983.mp3
 CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
 CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM臺北健康,http://fm901.cityfm.tw:8080/901.mp3
@@ -1313,14 +1306,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 民謠藍調,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 全國治安交通台,http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
 全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-私房音樂,http://livestream.1766.today:1769/live1.mp3
 亞洲天空,https://lhttp.qingting.fm/live/20071/64k.mp3
 亞洲音樂,https://lhttp.qingting.fm/live/5022405/64k.mp3
 亞洲粵語,https://lhttp.qingting.fm/live/15318569/64k.mp3
 亞洲經典,https://lhttp.qingting.fm/live/5021912/64k.mp3
 亞洲熱歌,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
-店頭音樂,http://livestream.1766.today:1781/live2.mp3
-飛特電台,https://phate.io/listen.ogg
 飛碟電台,http://n08.rcs.revma.com/em90w4aeewzuv
 飛碟電台,http://stream.rcs.revma.com/em90w4aeewzuv
 香港第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
@@ -1341,12 +1331,11 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 臺北廣播電台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 臺灣Lounge Radio音樂,http://streaming.radionomy.com/JamendoLounge
 臺灣古典音樂台,http://59.120.88.155:8000/live.mp3
-臺灣國立教育廣播,https://cast.ner.gov.tw/1?_t=1628097047202
 舞迷心竅,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
-心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
 
 
 
