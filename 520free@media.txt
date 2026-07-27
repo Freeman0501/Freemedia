@@ -23,7 +23,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 請更新至 Free Movie 5.5.6 版 >",
+"name": "🌸Free Movie < 請更新至 Free Movie 5.5.6 增強版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
