@@ -43,7 +43,7 @@
 
 {
 "key":"youtube",
-"name":"youtube",
+"name":"YouTube",
 "type": 3,
 "style"     : {"ratio": 1.7},
 "api": "https://gitlab.com/tenrecha/recha/-/raw/main/py/油管.py"
