@@ -884,9 +884,28 @@ TVBS歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv068
 
 
 
-🐠 4GTV+飛速看,#genre#
+🐠 推流,#genre#
 
 
+愛爾達體育1台,http://192.129.226.68:5678/c/52b118f0-bdf0-4ae1-87df-a3ed83324d44/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育2台,http://192.129.226.68:5678/c/01b43288-5eb1-4a60-b043-c4bf3a854439/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育3台,http://192.129.226.68:5678/c/bcf64d01-b48e-4839-9590-9236fdb9389d/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+愛爾達體育1台,https://test.946985.filegear-sg.me/proxy/abe27bc2ce17de3e
+愛爾達體育2台,https://test.946985.filegear-sg.me/proxy/89c0e0ff6563369a
+愛爾達體育3台,https://test.946985.filegear-sg.me/proxy/47b35e7882fe4848
+愛爾達體育4台,https://test.946985.filegear-sg.me/proxy/6eea627132a2b7d4
+Hami體育1台,https://test.946985.filegear-sg.me/proxy/0d5035f9fec27aef
+Hami體育2台,https://test.946985.filegear-sg.me/proxy/ef7aec6726d3e4a3
+非凡新闻,https://test.946985.filegear-sg.me/proxy/2db3e36aba2ad054
+HAMI大聯盟1台,https://test.946985.filegear-sg.me/proxy/50d5c134f046ad16
+HAMI大聯盟2台,https://test.946985.filegear-sg.me/proxy/49d77e00042efba8
+爱尔达综合台,https://test.946985.filegear-sg.me/proxy/f2a049a3c6faaff4
+tvN,https://test.946985.filegear-sg.me/proxy/37501166405cd7eb
+华艺中文台,https://test.946985.filegear-sg.me/proxy/f87afade01cfb272
+爱尔达日韩台,https://test.946985.filegear-sg.me/proxy/aebe418890dc037e
+爱尔达影视台,https://test.946985.filegear-sg.me/proxy/f7316d5e5f6e5fba
+龙华影视,https://test.946985.filegear-sg.me/proxy/1ddd9ff49da143b8
+麦哲伦频道,https://test.946985.filegear-sg.me/proxy/f1a7a4695c6b3c27
 
 
 
