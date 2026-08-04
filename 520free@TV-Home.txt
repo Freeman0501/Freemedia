@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0718 Check,#genre#
+🚧 0805 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -512,9 +512,6 @@ CNBC Asia 財經台,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=V
 DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 DreamWorks 夢工廠動畫,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Elta體育1台,http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-Elta體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-Elta體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 ELTV生活英語台,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 ELTV生活英語台,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 FRANCE24 英文台,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
