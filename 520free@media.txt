@@ -23,7 +23,7 @@
 
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 請更新至 Free Movie 5.5.6 增強版 >",
+"name": "🌸Free Movie < 請更新至 Free Movie 5.5.8 穩定版 >",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -546,15 +546,6 @@
 "title": "瓜子",
 "lang": "hipy",
 "ext": ""
-},
-
-{
-"key": "MGTV",
-"name": "MGTV",
-"type": 3,
-"playerType": "2",
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/js/mg2.js"
 },
 
 {
