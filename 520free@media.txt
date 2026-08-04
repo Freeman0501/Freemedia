@@ -17,7 +17,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/08/04",
+最終維護日 : 2026/08/05",
 
 "sites": [
 
@@ -47,17 +47,6 @@
 "type": 3,
 "style": {"ratio": 1.7},
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管.py"
-},
-
-{
-"key": "豆瓣",
-"name": "熱播排行榜-自動切換站源",
-"type": 3,
-"api": "csp_Douban",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 0,
-"quickSearch": 0,
-"changeable": 1
 },
 
 {
@@ -324,7 +313,7 @@
 "name":"界影視",
 "type":3,
 "api":"csp_Jpys",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
 },
 
