@@ -2,14 +2,6 @@
 
 "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
 
-
-
-
-#"spider":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-#"spider":"https://tvbox.catvod.com/catvod.jar",
-
-
-
 "wallpaper": "https://picsum.photos/1920/1080",
 #"wallpaper": "https://wp.upx8.com/api.php/",
 #"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -54,7 +46,7 @@
 "name": "熱播排行榜-自動切換站源",
 "type": 3,
 "api": "csp_Douban",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "searchable": 0,
 "quickSearch": 0,
 "changeable": 1
@@ -862,7 +854,7 @@
 "type": 3,
 "playerType": "2",
 "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "ext": "https://tvbox.catvod.com/js/bili.js"
 },
 
@@ -970,7 +962,7 @@
 "name": "天龍🦄短劇",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -982,7 +974,7 @@
 "name": "護航🦄短劇",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "ext": {
 "请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8",
@@ -1010,7 +1002,7 @@
 "name": "PTT🦄短劇",
 "type": 3,
 "api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -1065,7 +1057,7 @@
 "type": 3,
 "quickSearch": 1,
 "api": "csp_AppGet",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "ext": {
 "url" : "https://new.app.bytegooty.com",
 "site" : "",
@@ -1082,7 +1074,7 @@
 "name": "動漫🦉漫國",
 "type": 3,
 "api": "csp_AppSy",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
 "ext": {
 "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
 "siteKey": "rectangleadsadxa",
