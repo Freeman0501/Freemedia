@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0806 Check,#genre#
+🚧 0809 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -22,14 +22,14 @@ AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 
 
 8視界,https://www.youtube.com/watch?v=RvSOIM620bA
-ABC News,http://106.107.242.201:50007/4gtv-live167/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+ABC News,http://106.107.242.201:50007/4gtv-live167/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
-AMC電影台,http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+AMC電影台,http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 AMC電影台,http://211.23.95.147:18881/live/69_h265.ts
-Arirang TV,http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+Arirang TV,http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 AXN,http://211.23.95.147:18881/live/67_h265.ts
-BLOOMBERG TV,http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+BLOOMBERG TV,http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 BS日テレ東,http://211.23.95.147:18881/live/dtv40_h265.ts
 CCTV-15音樂,http://211.23.95.147:18881/live/dtv26_h265.ts
 CCTV-4中文國際,http://211.23.95.147:18881/live/dtv34_h265.ts
@@ -40,66 +40,66 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC動作電影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷電影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CI 罪案偵查頻道,http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Cinema World,http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+CI 罪案偵查頻道,http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Cinema World,http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 CINEMAX,http://211.23.95.147:18881/live/71_h265.ts
-CLASSICA古典音樂,http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-CMusic,http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-CNBC Asia,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+CLASSICA古典音樂,http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+CMusic,http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+CNBC Asia,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 Concerto TV,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 DAZN體育1,http://211.23.95.147:18881/live/73_h265.ts
 DAZN體育2,http://211.23.95.147:18881/live/74_h265.ts
 Discovery SCI,http://211.23.95.147:18881/live/dtv31_h265.ts
 Discovery,http://211.23.95.147:18881/live/19_h265.ts
 Discovery,http://211.23.95.147:18881/live/dtv29_h265.ts
-DreamWorks,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ELTV生活英語,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ELTV生活英語,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-FRANCE 24,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+DreamWorks,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ELTV生活英語,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ELTV生活英語,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+FRANCE 24,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-FUN 4K探索娛樂,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Getwin Sports,http://106.107.242.201:50007/4gtv-4gtv035/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+FUN 4K探索娛樂,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Getwin Sports,http://106.107.242.201:50007/4gtv-4gtv035/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 HBO,http://211.23.95.147:18881/live/65_h265.ts
-HITS,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-INULTRA,http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+HITS,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+INULTRA,http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 JET綜合,http://211.23.95.147:18881/live/45_h265.ts
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-Lifetime,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-LiveABC互動英語,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-LOVE NATURE,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-LUXE TV,http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-MCE,http://106.107.242.201:50007/litv-ftv10/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-MEZZO LIVE,http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+Lifetime,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+LiveABC互動英語,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+LOVE NATURE,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+LUXE TV,http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+MCE,http://106.107.242.201:50007/litv-ftv10/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+MEZZO LIVE,http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 NHK BS,http://211.23.95.147:18881/live/dtv39_h265.ts
-NHK WORLD,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+NHK WORLD,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 NHK WORLD,http://211.23.95.147:18881/live/95_h265.ts
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-Nick Jr,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Nickelodeon,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+Nick Jr,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Nickelodeon,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 NOW新聞台,http://cdn.163189.xyz/163189/now
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ROCK Xstream,http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ROCK Xstream,http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
-Smart知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+Smart知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 Taiwan+,http://211.23.95.147:18881/live/dtv21_h265.ts
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 TLC旅遊生活,http://211.23.95.147:18881/live/21_h265.ts
-TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TRACE URBAN,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TRACE URBAN,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 TRACE URBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-TV5MONDE Style,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TV5MONDE Style,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 TVBS HD,http://211.23.95.147:18881/live/56_h265.ts
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS,http://106.107.242.201:50007/media-live073/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS,http://106.107.242.201:50007/media-live073/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -107,56 +107,56 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
-TVBS精采,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS歡樂,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TVBS精采,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS歡樂,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
-人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 人間衛視,http://211.23.95.147:18881/live/dtv24_h265.ts
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 八大第一,http://211.23.95.147:18881/live/27_h265.ts
-八大精彩,http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+八大精彩,http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 八大綜合,http://211.23.95.147:18881/live/28_h265.ts
-八大綜藝,http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+八大綜藝,http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 八大戲劇,http://211.23.95.147:18881/live/41_h265.ts
-三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立台灣,http://211.23.95.147:18881/live/29_h265.ts
 三立都會,http://211.23.95.147:18881/live/30_h265.ts
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-三立綜合,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-大愛,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+三立綜合,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+大愛,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 大愛,http://211.23.95.147:18881/live/dtv23_h265.ts
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
-大愛2台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+大愛2台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 大愛2台,https://www.youtube.com/watch?v=OKvWtVoDR8I
 小公視,http://211.23.95.147:18881/live/dtv11_h265.ts
 小公視,http://74.91.26.218:82/live/ptsse.m3u8
 中天娛樂,http://211.23.95.147:18881/live/39_h265.ts
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天綜合,http://211.23.95.147:18881/live/36_h265.ts
-中視,http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視,http://106.107.242.201:50007/of-4gtv-4gtv040/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+中視,http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視,http://106.107.242.201:50007/of-4gtv-4gtv040/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視菁采,http://211.23.95.147:18881/live/dtv4_h265.ts
 中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -170,8 +170,8 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 公視台語,http://74.91.26.218:82/live/ptsty.m3u8
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-半島國際新聞,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+半島國際新聞,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
 台視,http://211.72.174.95:8112/0.ts$原生解碼最佳
 台視,http://61.61.67.208:5678/live/stream-de1ae9a8-da73-4ea8-8bf3-fc61afc37db0/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
@@ -185,157 +185,157 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 台視新聞,https://www.youtube.com/watch?v=sNtCBxP-8LY
 台視綜合,http://211.23.95.147:18881/live/dtv17_h265.ts
 台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
-台灣戲劇,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視,http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+台灣戲劇,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視,http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 民視,http://211.23.95.147:18881/live/dtv7_h265.ts
 民視,http://211.72.174.95:8115/0.ts$原生解碼最佳
 民視,http://74.91.26.218:82/live/ftv.m3u8
-民視台灣,http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視台灣,http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+民視台灣,http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視台灣,http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 民視台灣,http://211.23.95.147:18881/live/dtv10_h265.ts
 民視台灣,http://74.91.26.218:82/live/ftvtw.m3u8
-民視旅遊,http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視第一,http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視第一,http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+民視旅遊,http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視第一,http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視第一,http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 民視第一,http://211.23.95.147:18881/live/dtv8_h265.ts
 民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
-民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 民視新聞,http://211.23.95.147:18881/live/dtv9_h265.ts
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-全球財經,http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息,http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息,http://106.107.242.201:50007/of-litv-ftv16/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+全球財經,http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息,http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息,http://106.107.242.201:50007/of-litv-ftv16/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
-好消息2台,http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息2台,http://106.107.242.201:50007/of-litv-ftv17/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+好消息2台,http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息2台,http://106.107.242.201:50007/of-litv-ftv17/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 好消息2台,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 好萊塢電影,http://211.23.95.147:18881/live/68_h265.ts
 年代MUCH,http://211.23.95.147:18881/live/38_h265.ts
 年代新聞,http://211.23.95.147:18881/live/50_h265.ts
-車迷 TV,http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-亞洲旅遊,http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-亞洲旅遊,http://106.107.242.201:50007/of-4gtv-4gtv076/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-幸福空間居家,http://106.107.242.201:50007/4gtv-4gtv064/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+車迷 TV,http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+亞洲旅遊,http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+亞洲旅遊,http://106.107.242.201:50007/of-4gtv-4gtv076/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+幸福空間居家,http://106.107.242.201:50007/4gtv-4gtv064/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 東方衛視國際,http://211.23.95.147:18881/live/dtv38_h265.ts
 東風衛視,http://211.23.95.147:18881/live/37_h265.ts
 東森幼幼,http://211.23.95.147:18881/live/25_h265.ts
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
-東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森超視,http://211.23.95.147:18881/live/33_h265.ts
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森綜合,http://211.23.95.147:18881/live/32_h265.ts
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森戲劇,http://211.23.95.147:18881/live/40_h265.ts
-東森購物一台,http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物一台,http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物二台,http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物二台,http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物三台,http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物五台,http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+東森購物一台,http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物一台,http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物二台,http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物二台,http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物三台,http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物五台,http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 邵氏武俠,http://feilong123.vip/409990236/tv.php?id=sswx
 邵氏動作,http://feilong123.vip/409990236/tv.php?id=ssdz
 邵氏喜劇,http://feilong123.vip/409990236/tv.php?id=ssxj
 邵氏電影,http://feilong123.vip/409990236/tv.php?id=ssdy
-采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
-客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 客家電視,http://211.23.95.147:18881/live/dtv12_h265.ts
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
-倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
-原住民族電視,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+原住民族電視,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 原住民電視,http://211.23.95.147:18881/live/dtv13_h265.ts
-時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-時尚運動X,http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+時尚運動X,http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 動物星球,http://211.23.95.147:18881/live/22_h265.ts
-國會頻道1,http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道1,http://106.107.242.201:50007/of-4gtv-4gtv084/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+國會頻道1,http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道1,http://106.107.242.201:50007/of-4gtv-4gtv084/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
-國會頻道2,http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道2,http://106.107.242.201:50007/of-4gtv-4gtv085/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+國會頻道2,http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道2,http://106.107.242.201:50007/of-4gtv-4gtv085/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 國會頻道2,http://211.23.95.147:18881/live/dtv22_h265.ts
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 國興衛視,http://211.23.114.106:8523/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
 國興衛視,http://211.23.95.147:18881/live/78_h265.ts
-第1商業,http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯高球I,http://106.107.242.201:50007/litv-xinchuang05/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯高球II,http://106.107.242.201:50007/litv-xinchuang06/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯無限I,http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯無限II,http://106.107.242.201:50007/litv-xinchuang13/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯運動I,http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯運動II,http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯網球,http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯魅力,http://106.107.242.201:50007/litv-xinchuang04/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+第1商業,http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯高球I,http://106.107.242.201:50007/litv-xinchuang05/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯高球II,http://106.107.242.201:50007/litv-xinchuang06/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯無限I,http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯無限II,http://106.107.242.201:50007/litv-xinchuang13/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯運動I,http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯運動II,http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯網球,http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯魅力,http://106.107.242.201:50007/litv-xinchuang04/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 壹新聞,http://211.23.95.147:18881/live/49_h265.ts
 壹電影,http://211.23.95.147:18881/live/102_h265.ts
 壹綜合,http://211.23.95.147:18881/live/104_h265.ts
-智林體育,http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視,http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視,http://106.107.242.201:50007/of-4gtv-4gtv041/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+智林體育,http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視,http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視,http://106.107.242.201:50007/of-4gtv-4gtv041/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 華視,http://211.23.95.147:18881/live/dtv18_h265.ts
 華視,http://211.72.174.95:8114/0.ts$原生解碼最佳
 華視,http://74.91.26.218:82/live/cts.m3u8
 華視教育體育文化,http://211.23.95.147:18881/live/dtv19_h265.ts
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 華視新聞,http://211.23.95.147:18881/live/dtv20_h265.ts
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-視納華仁紀實,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+視納華仁紀實,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
-愛爾達生活旅遊,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-愛爾達寵物運動,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+愛爾達生活旅遊,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+愛爾達寵物運動,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 愛爾達體育1台,http://192.129.226.68:5678/live/stream-37373059-0678-4bf9-91fd-d7844e5cc1f5/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 愛爾達體育2台,http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 愛爾達體育3台,http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-新唐人亞太,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+新唐人亞太,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
 新視覺,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-經典卡通,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-經典電影,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-達文西頻道,http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天日本,http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天卡通,http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天育樂,http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天映畫,http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天國際,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天資訊,http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天電影,http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天綜合,http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天戲劇,http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天歡樂,http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖洋卡通,http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+經典卡通,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+經典電影,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+達文西頻道,http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天日本,http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天卡通,http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天育樂,http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天映畫,http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天國際,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天資訊,http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天電影,http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天綜合,http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天戲劇,http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天歡樂,http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖洋卡通,http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-影迷數位紀實,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-影迷數位電影,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+影迷數位紀實,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+影迷數位電影,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 緯來日本,http://211.23.95.147:18881/live/77_h265.ts
 緯來育樂,http://211.23.95.147:18881/live/70_h265.ts
 緯來電影,http://211.23.95.147:18881/live/63_h265.ts
@@ -343,32 +343,32 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 緯來綜合,http://211.23.95.147:18881/live/26_h265.ts
 緯來戲劇,http://211.23.95.147:18881/live/43_h265.ts
 緯來體育,http://211.23.95.147:18881/live/72_h265.ts
-豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華日韓,http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華日韓,http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 龍華日韓,http://cdn8.163189.xyz/163189/lhrh
-龍華卡通,http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華洋片,http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華偶像,http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+龍華卡通,http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華洋片,http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華偶像,http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 龍華偶像,http://cdn8.163189.xyz/163189/lhox
-龍華經典,http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+龍華經典,http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 龍華經典,http://cdn8.163189.xyz/163189/lhjd
-龍華電影,http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+龍華電影,http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 龍華電影,http://cdn8.163189.xyz/163189/lhdy
-龍華戲劇,http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+龍華戲劇,http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
-韓國娛樂,http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+韓國娛樂,http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 韓國娛樂,http://211.23.95.147:18881/live/31_h265.ts
-鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -384,21 +384,21 @@ TVBS歡樂,http://211.23.95.147:18881/live/42_h265.ts
 
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://211.23.95.147:18881/live/55_h265.ts
-TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+三立iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+三立iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 三立新聞,https://www.youtube.com/watch?v=yeYC0mbSIOo
 三立新聞,http://211.23.95.147:18881/live/54_h265.ts
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+中天新聞,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 中視新聞,http://211.23.95.147:18881/live/dtv2_h265.ts
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
@@ -408,8 +408,8 @@ TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0Rgf
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 民視新聞,http://211.23.95.147:18881/live/dtv9_h265.ts
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
@@ -417,39 +417,39 @@ TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0Rgf
 年代新聞,http://211.23.95.147:18881/live/50_h265.ts
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
-東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 東森財經新聞,http://211.23.95.147:18881/live/57_h265.ts
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 東森新聞,http://211.23.95.147:18881/live/51_h265.ts
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
-倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+倪珍播新聞,http://106.107.242.201:50007/nnews-zh/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 壹新聞,http://211.23.95.147:18881/live/49_h265.ts
 華視教育體育文化,http://211.23.95.147:18881/live/dtv19_h265.ts
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 華視新聞,http://211.23.95.147:18881/live/dtv20_h265.ts
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 寰宇財經,https://www.youtube.com/watch?v=yAUQQ0DhPxI
-寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+寰宇新聞台灣,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞台灣,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+鏡新聞,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
 鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
@@ -501,163 +501,163 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 🐝 四季線上TV,#genre#
 
 
-ABC Australia 澳洲公廣頻道,http://106.107.242.201:50007/4gtv-live167/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-amc 電影台,http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ARIRANG阿裡郎頻道,http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-BLOOMBERG TV,http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-CI 罪案偵查頻道,http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Cinema World,http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-CLASSICA古典樂,http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-CNBC Asia 財經台,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-DreamWorks 夢工廠動畫,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ELTV生活英語台,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ELTV生活英語台,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-FRANCE24 英文台,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-fun探索娛樂台,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Getwin Sports運動台,http://106.107.242.201:50007/4gtv-4gtv035/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-History 歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-HITS頻道,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-INULTRA,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-KLT-靖天國際台,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Lifetime 娛樂頻道,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-LiveABC互動英語頻道,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Love Nature,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-LUXE TV Channel,http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Mezzo Live HD,http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-My Cinema Europe HD 我的歐洲電影,http://106.107.242.201:50007/litv-ftv10/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-NHK WORLD-JAPAN,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-NICE TV 靖天歡樂台,http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-Nick Jr. 兒童頻道,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-ROCK Xstream搖滾極限頻道,http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-SBN 全球財經台,http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-SMART知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TRACE Urban,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TV5MONDE STYLE HD 生活時尚,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS,http://106.107.242.201:50007/media-live073/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-八大精彩,http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-八大綜藝,http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-三立新聞iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-三立新聞iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-三立綜合台,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-大愛二台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-大愛電視,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞台,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞台,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中天新聞台,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視,http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視,http://106.107.242.201:50007/of-4gtv-4gtv040/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-半島國際新聞台,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-台灣戲劇台,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-尼克兒童頻道,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視,http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視台灣台,http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視台灣台,http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視旅遊,http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視第一台,http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視第一台,http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息,http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息,http://106.107.242.201:50007/of-litv-ftv16/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息2台,http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-好消息2台,http://106.107.242.201:50007/of-litv-ftv17/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-車迷 TV,http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-亞洲旅遊,http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-亞洲旅遊,http://106.107.242.201:50007/of-4gtv-4gtv076/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-幸福空間居家台,http://106.107.242.201:50007/4gtv-4gtv064/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物一台,http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物一台,http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物二台,http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物二台,http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物三台,http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-東森購物四台,http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-原住民族電視台,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-時尚運動X,http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道1台,http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道1台,http://106.107.242.201:50007/of-4gtv-4gtv084/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道2台,http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-國會頻道2台,http://106.107.242.201:50007/of-4gtv-4gtv085/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-第1商業台,http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯高球二台,http://106.107.242.201:50007/litv-xinchuang06/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯高球臺,http://106.107.242.201:50007/litv-xinchuang05/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯無限二台,http://106.107.242.201:50007/litv-xinchuang13/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯無限台,http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯運動一台,http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯運動二台,http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯網球臺,http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-博斯魅力台,http://106.107.242.201:50007/litv-xinchuang04/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-智林體育,http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視,http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視,http://106.107.242.201:50007/of-4gtv-4gtv041/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-視納華仁紀實頻道,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-愛爾達生活旅遊台,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-新唐人亞太台,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-經典卡通台,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-經典電影台,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-達文西頻道,http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-電影原聲台CMusic,http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天日本,http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天卡通,http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天育樂,http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天映畫,http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天資訊,http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天電影,http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天綜合,http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖天戲劇,http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖洋卡通Nice Bingo,http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-影迷數位紀實台,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-影迷數位電影台,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞台灣台,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-寰宇新聞台灣台,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華日韓台,http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華卡通台,http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華洋片台,http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華偶像台,http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華經典台,http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華電影台,http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-龍華戲劇台,http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-韓國娛樂台,http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-鏡電視新聞台,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
+ABC Australia 澳洲公廣頻道,http://106.107.242.201:50007/4gtv-live167/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+amc 電影台,http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ARIRANG阿裡郎頻道,http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+BLOOMBERG TV,http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+CI 罪案偵查頻道,http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Cinema World,http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+CLASSICA古典樂,http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+CNBC Asia 財經台,http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+DayStar,http://106.107.242.201:50007/daystar/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+DreamWorks 夢工廠動畫,http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+DW德國之聲,http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ELTV生活英語台,http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ELTV生活英語台,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+FRANCE24 英文台,http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+fun探索娛樂台,http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Getwin Sports運動台,http://106.107.242.201:50007/4gtv-4gtv035/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+GINX Esports TV,http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Global Trekker,http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+History 歷史頻道,http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+HITS頻道,http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+INULTRA,http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+KLT-靖天國際台,http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Lifetime 娛樂頻道,http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+LiveABC互動英語頻道,http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Love Nature,http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+LUXE TV Channel,http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Mezzo Live HD,http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+MOMO親子,http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+My Cinema Europe HD 我的歐洲電影,http://106.107.242.201:50007/litv-ftv10/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+NHK WORLD-JAPAN,http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+NICE TV 靖天歡樂台,http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+Nick Jr. 兒童頻道,http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ROCK Action,http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ROCK Entertainment,http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+ROCK Xstream搖滾極限頻道,http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+SBN 全球財經台,http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+SMART知識台,http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TRACE Sport Stars,http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TRACE Urban,http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TV5MONDE STYLE HD 生活時尚,http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS,http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS,http://106.107.242.201:50007/media-live073/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS新聞,http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS新聞,http://106.107.242.201:50007/media-live072/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS精采台,http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+人間衛視,http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+八大精彩,http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+八大綜藝,http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+三立新聞iNEWS,http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+三立新聞iNEWS,http://106.107.242.201:50007/iNEWS/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+三立綜合台,http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+大愛二台,http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+大愛電視,http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞台,http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞台,http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中天新聞台,http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視,http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視,http://106.107.242.201:50007/of-4gtv-4gtv040/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+中視新聞,http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+公視戲劇,http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+半島國際新聞台,http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+台灣戲劇台,http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+尼克兒童頻道,http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視,http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視,http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視台灣台,http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視台灣台,http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視旅遊,http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視第一台,http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視第一台,http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視新聞,http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視新聞,http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視綜藝,http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+民視影劇,http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息,http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息,http://106.107.242.201:50007/of-litv-ftv16/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息2台,http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+好消息2台,http://106.107.242.201:50007/of-litv-ftv17/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+車迷 TV,http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+亞洲旅遊,http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+亞洲旅遊,http://106.107.242.201:50007/of-4gtv-4gtv076/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+幸福空間居家台,http://106.107.242.201:50007/4gtv-4gtv064/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森財經新聞,http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森財經新聞,http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森新聞,http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森新聞,http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物一台,http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物一台,http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物二台,http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物二台,http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物三台,http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+東森購物四台,http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+采昌影劇,http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+金光布袋戲,http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+客家電視,http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+原住民族電視台,http://106.107.242.201:50007/4gtv-4gtv080/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+時尚運動X,http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+時尚運動X,http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道1台,http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道1台,http://106.107.242.201:50007/of-4gtv-4gtv084/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道2台,http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+國會頻道2台,http://106.107.242.201:50007/of-4gtv-4gtv085/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+第1商業台,http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯高球二台,http://106.107.242.201:50007/litv-xinchuang06/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯高球臺,http://106.107.242.201:50007/litv-xinchuang05/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯無限二台,http://106.107.242.201:50007/litv-xinchuang13/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯無限台,http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯運動一台,http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯運動二台,http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯網球臺,http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+博斯魅力台,http://106.107.242.201:50007/litv-xinchuang04/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+智林體育,http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視,http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視,http://106.107.242.201:50007/of-4gtv-4gtv041/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+華視新聞,http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+視納華仁紀實頻道,http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+愛爾達生活旅遊台,http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+新唐人亞太台,http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+經典卡通台,http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+經典電影台,http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+達文西頻道,http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+電影原聲台CMusic,http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天日本,http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天卡通,http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天育樂,http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天映畫,http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天資訊,http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天電影,http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天綜合,http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖天戲劇,http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖洋卡通Nice Bingo,http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+靖洋戲劇,http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+滾動力 Rollor,http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+精選動漫台,http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+影迷數位紀實台,http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+影迷數位電影台,http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+豬哥亮歌廳秀,http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇財經,http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞,http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞台灣台,http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+寰宇新聞台灣台,http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華日韓台,http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華卡通台,http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華洋片台,http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華偶像台,http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華經典台,http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華電影台,http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+龍華戲劇台,http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+韓國娛樂台,http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
+鏡電視新聞台,http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=YWz2Xim0NiEdLp3EJ314DJmYAXW0fZ07NCLXT5IYP99Lvz69cf6dpAnpEPWJ0Wbx
 
 
 
