@@ -972,7 +972,7 @@
             "name": "半日",
             "type": 3,
             "api": "csp_App99",
-            "jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
+            "jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa-0807.jar",
             "ext": {
                 "host": "http://103.217.190.91:19987/app/bn",
                 "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
