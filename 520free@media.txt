@@ -913,7 +913,96 @@
 #待測區開始
 
 
-
+        {
+            "key": "ayf",
+            "name": "愛壹帆",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
+        },
+          {
+            "key": "YK",
+            "name": "優酷",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/优酷视频.py"
+        },
+        {
+            "key": "MGtv",
+            "name": "芒果",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/芒果TV.py"
+        },        
+            {
+            "key": "txvm",
+            "name": "騰訊",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/腾讯视频.py"
+        },       
+        {
+            "key": "奈非工厂",
+            "name": "奈非工廠",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奈非工厂.py"
+        },      
+        {
+            "key": "视觉影院",
+            "name": "視覺影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/视觉影院.py"
+        },    
+        {
+            "key": "QU",
+            "name": "奇幽影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奇优影院.py"
+        },
+        {
+            "key": "yl",
+            "name": "永樂視頻",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/永乐视频.py"
+        },
+        {
+            "key": "ikbot",
+            "name": "愛看機器人",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱看机器人.py"
+        },                               
+        {
+            "key": "半日99",
+            "name": "半日",
+            "type": 3,
+            "api": "csp_App99",
+            "jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa-0807.jar",
+            "ext": {
+                "host": "http://103.217.190.91:19987/app/bn",
+                "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+                "versionName": "3.5.8",
+                "name": "半日闲",
+                "package": "com.yf.lelian",
+                "buildNumber": "2001",
+                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+            }
+        },
+        {
+            "key": "DMcyc",
+            "name": "囧途動漫",
+            "type": 3,
+            "api": "csp_DMcycAmns",
+            "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },        
+        {
+            "key": "黄豆短剧",
+            "name": "黃豆短劇",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/黄豆短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },   
 
 
 
