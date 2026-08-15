@@ -46,7 +46,7 @@
 "name":"YouTube-TEST",
 "type": 3,
 "style": {"ratio": 1.7},
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管-11 - fix-5sec.py"
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管-13.py"
 },
 
 {
