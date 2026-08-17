@@ -909,10 +909,6 @@
 "changeable":1
 },
 
-
-#待測區開始
-
-
 {
 "key": "ayf",
 "name": "愛壹帆",
@@ -942,13 +938,6 @@
 },
 
 {
-"key": "奈非工厂",
-"name": "奈非工廠",
-"type": 3,
-"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奈非工厂.py"
-},
-
-{
 "key": "视觉影院",
 "name": "視覺影院",
 "type": 3,
@@ -957,7 +946,7 @@
 
 {
 "key": "QU",
-"name": "奇幽影院",
+"name": "奇優影院",
 "type": 3,
 "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奇优影院.py"
 },
@@ -993,27 +982,8 @@
 }
 },
 
-{
-"key": "DMcyc",
-"name": "囧途動漫",
-"type": 3,
-"api": "csp_DMcycAmns",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 0
-},
+#待測區開始
 
-{
-"key": "黄豆短剧",
-"name": "黃豆短劇",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/黄豆短剧.py",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1
-},   
 
 
 
@@ -1027,7 +997,16 @@
 
 #短劇區
 
-
+{
+"key": "黄豆短剧",
+"name": "黃豆🦄短劇",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/黄豆短剧.py",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1
+},   
 
 {
 "key": "找短劇",
