@@ -9,7 +9,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/08/16",
+最終維護日 : 2026/08/20",
 
 "sites": [
 
@@ -1149,50 +1149,6 @@
 },
 
 {
-"key": "漫国動漫",
-"name": "動漫🦉漫國",
-"type": 3,
-"api": "csp_AppSy",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
-"ext": {
-"site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-"siteKey": "rectangleadsadxa",
-"listKey": "aassddwwxxllsx1x",
-"parsesKey": "aassddwwxxllsx1x"
-}
-},
-
-{
-"key": "方舟动漫",
-"name": "動漫🦉方舟",
-"type": 3,
-"quickSearch": 1,
-"api": "csp_AppGet",
-"jar":"https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/pizazz.txt",
-"ext": {
-"url": "https://www.cyfz.vip",
-"dataKey": "e72cdfd629e8895d",
-"dataIv": "e72cdfd629e8895d"
-}
-},
-
-{
-"key": "py_方舟_APP",
-"name": "動漫🦉方舟(備)",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"host": "https://www.cyfz.vip",
-"api" : "/api.php/getappapi",
-"datakey": "e72cdfd629e8895d",
-"dataiv" : "e72cdfd629e8895d"
-}
-},
-
-{
 "key": "番薯动漫",
 "name": "動漫🦉番薯",
 "type": 3,
@@ -1307,35 +1263,6 @@
 "filterable": 0,
 "changeable": 0,
 "ext": {}
-},
-
-{
-"key": "麻豆",
-"name": "🔞麻豆",
-"type": 3,
-"changeable": 1,
-"filterable": 1,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xyqxbpq.jar",
-"ext": {
-"分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-"搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-"分类": "日本视频$1#麻豆视频$2#國產視頻$3",
-"剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
-"直接播放": "1"
-}
-},
-
-{
-"key": "小红书",
-"name": "🔞小紅薯",
-"type": 3,
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/小紅薯.py",
-"playerType": 2,
-"filterable": 1
 },
 
 {
