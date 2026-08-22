@@ -1657,13 +1657,6 @@
 },
 
 {
-"name": "四季影視嗅探",
-"url": "https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/4gtv.txt",
-"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-
-{
 "name": "TV543",
 "url": "https://iptv543.com/bbb.php",
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
