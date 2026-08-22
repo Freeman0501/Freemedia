@@ -1683,6 +1683,15 @@
 },
 
 {
+"name":"Jack 4G-TV",
+"url":"https://4gtv.tvbjack.ggff.net/",
+"type":0,
+"timeout":30,
+"playerType":2,
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name": "TV543",
 "url": "https://iptv543.com/bbb.php",
 "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
