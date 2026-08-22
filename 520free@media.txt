@@ -441,114 +441,6 @@
 "lang": "ds",
 "ext": ""
 },
-
-{
-"key": "hipy_py_一起看[Ayq]",
-"name": "一起看",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "AppYqk",
-"lang": "hipy",
-"ext": {
-  "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
-  "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
-  "appkey": "70af67d2b6cf47679b397ea4c1886877",
-  "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
-  "bundlerId": "com.flotimingo.ts",
-  "source": "1001_default",
-  "version": "1.3.10",
-  "versionCode": 1104
-}
-},
-
-{
-"key": "hipy_py_橘子TV[Ayq]",
-"name": "橘子",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "AppYqk",
-"lang": "hipy",
-"ext": {
-  "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
-  "appId": "fea23e11fc1241409682880e15fb2851",
-  "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
-  "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
-  "bundlerId": "com.voraguzzee.ts",
-  "source": "1003_default",
-  "version": "1.0.1",
-  "versionCode": 1000
-}
-},
-
-{
-"key": "hipy_py_新浪资源",
-"name": "新浪資源",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "新浪资源",
-"lang": "hipy",
-"ext": ""
-},
-
-{
-"key": "hipy_py_新韩剧网",
-"name": "新韓劇網",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "新韩剧网",
-"lang": "hipy",
-"ext": ""
-},
-
-{
-"key": "hipy_py_爱瓜APP",
-"name": "愛瓜",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "爱瓜APP",
-"lang": "hipy",
-"ext": ""
-},
-
-{
-"key": "hipy_py_独播库",
-"name": "獨播庫",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "独播库",
-"lang": "hipy",
-"ext": ""
-},
-
-{
-"key": "hipy_py_瓜子",
-"name": "瓜子",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "瓜子",
-"lang": "hipy",
-"ext": ""
 },
 
 {
@@ -561,28 +453,6 @@
 "filterable": 1,
 "quickSearch": 1,
 "changeable": 1
-},
-
-{
-"key": "采集之王",
-"name": "採集之王",
-"type": 3,
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"searchable": 1,
-"quickSearch": 1,
-"order_num": 142,
-"ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
-}, 
-
-{
-"key": "电影港",
-"name": "電影港",
-"type": 3,
-"jar":"https://tvbox.catvod.com/catvod.jar",
-"api": "csp_DyGang",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
 },
 
 {
@@ -625,52 +495,6 @@
 },
 
 {
-"key": "77ys",
-"name": "77影視",
-"type": 3,
-"jar":"https://tvbox.catvod.com/catvod.jar",
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/77ys.json"
-},
-
-{
-"key": "新6V",
-"name": "新6V",
-"type": 3,
-"api": "csp_Xb6v",
-"jar": "https://tvbox.catvod.com/catvod.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
-
-{
-"key": "heihu",
-"name": "黑狐",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://tvbox.catvod.com/catvod.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/heihu.json"
-},
-
-{
-"key": "pianba",
-"name": "片吧",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://tvbox.catvod.com/catvod.jar",
-"searchable": 1,
-"quickSearch": 1,
-"ext": "https://tvbox.catvod.com/js/pianba.json"
-},
-
-{
 "key":"Hxq",
 "name":"韓劇",
 "type":3,
@@ -683,31 +507,8 @@
 },
 
 {
-"key":"Cori爱壹帆",
-"name":"愛壹帆",
-"type":3,
-"searchable":1,
-"changeable":1,
-"quickSearch":0,
-"style":{"type":"rect","ratio":0.75},
-"api":"csp_GM",
-"ext":{
-"userScript":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
-"debug":false,
-"webViewSettings":{
-"blockNetworkImage":true,
-"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},
-"spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},
-"categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},
-"detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},
-"playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},
-"searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}},
-"jar":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
-},
-
-{
 "key":"Aiyf",
-"name":"愛壹帆(備)",
+"name":"愛壹帆",
 "type":3,
 "api":"csp_AiyfAmns",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/aowu.jar",
@@ -715,22 +516,6 @@
 "filterable":1,
 "quickSearch":1,
 "changeable":1
-},
-
-{
-"key": "csp_歐樂影院ORG",
-"name": "歐樂影院",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"简介": "content_desc context clearfix\">&&</span>",
-"分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-"分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
-"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
 },
 
 {
@@ -793,16 +578,6 @@
 },
 
 {
-"key": "jieyingshi",
-"name": "異界",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/界.py",
-"searchable": 1,
-"filterable": 0,
-"changeable": 0
-},
-
-{
 "key": "py_biili",
 "name": "嗶哩",
 "type": 3,
@@ -846,16 +621,6 @@
 "searchable": 1,
 "filterable": 0,
 "changeable": 0
-},
-
-{
-"key": "bili",
-"name": "bili",
-"type": 3,
-"playerType": "2",
-"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/fm-xiaosa.jar",
-"ext": "https://tvbox.catvod.com/js/bili.js"
 },
 
 {
@@ -1224,25 +989,6 @@
 }
 },
 
-{
-"key": "魔都",
-"name": "動漫🦉魔都",
-"type": 0,
-"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
-"searchable": 1,
-"changeable": 1,
-"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
-},
-
-{
-"key": "魔都资源",
-"name": "動漫🦉魔都(備)",
-"type": 1,
-"api": "https://caiji.moduapi.cc/api.php/provide/vod",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
-"searchable": 1,
-"changeable": 1
-},
 
 
 
