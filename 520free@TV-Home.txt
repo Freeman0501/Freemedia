@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0822 Check,#genre#
+🚧 0823 Check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
@@ -497,8 +497,145 @@ Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
 
 
 
+🐠 四季線上TV,#genre#
 
-🐝 四季線上TV,#genre#
+ABC Australia 澳洲公廣頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=498
+amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+ARIRANG阿裡郎頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=189
+Bloomberg TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=283
+CI 罪案偵查頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=215
+CinemaWorld,https://ha.msbot.dpdns.org/4gtv_api.php?id=225
+CLASSICA 古典樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=80
+CNBC Asia 財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=235
+DreamWorks 夢工廠動畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+DW德國之聲,https://ha.msbot.dpdns.org/4gtv_api.php?id=226
+ELTV生活英語台,https://ha.msbot.dpdns.org/4gtv_api.php?id=490
+FRANCE24 英文台,https://ha.msbot.dpdns.org/4gtv_api.php?id=316
+fun探索娛樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=274
+getwin sport運動台,https://ha.msbot.dpdns.org/4gtv_api.php?id=93
+GINX Esports TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=179
+Global Trekker,https://ha.msbot.dpdns.org/4gtv_api.php?id=252
+History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
+HITS頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=186
+INULTRA,https://ha.msbot.dpdns.org/4gtv_api.php?id=501
+KLT-靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+Lifetime 娛樂頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=217
+LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
+Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
+LUXE TV Channel,https://ha.msbot.dpdns.org/4gtv_api.php?id=175
+Mezzo Live HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=79
+MOMO親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+My Cinema Europe HD 我的歐洲電影,https://ha.msbot.dpdns.org/4gtv_api.php?id=463
+NHK WORLD-JAPAN,https://ha.msbot.dpdns.org/4gtv_api.php?id=461
+Nice TV 靖天歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+Nick Jr. 兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=219
+OUTtv,https://ha.msbot.dpdns.org/4gtv_api.php?id=502
+Pet Club TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=464
+ROCK Action,https://ha.msbot.dpdns.org/4gtv_api.php?id=180
+ROCK Entertainment,https://ha.msbot.dpdns.org/4gtv_api.php?id=275
+ROCK Xstream搖滾極限頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+SBN全球財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=224
+TRACE Sport Stars,https://ha.msbot.dpdns.org/4gtv_api.php?id=57
+TRACE Urban,https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+wedotv Movies,https://ha.msbot.dpdns.org/4gtv_api.php?id=503
+人間衛視,https://ha.msbot.dpdns.org/4gtv_api.php?id=210
+八大精彩台,https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+八大綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+八大綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+三立綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+大愛二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=230
+大愛電視,https://ha.msbot.dpdns.org/4gtv_api.php?id=209
+中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
+半島國際新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=462
+尼克兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=185
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=468
+民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2
+民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=255
+民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=469
+民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=1
+民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=254
+民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=470
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+民視綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+民視影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
+好消息,https://ha.msbot.dpdns.org/4gtv_api.php?id=9
+好消息2台,https://ha.msbot.dpdns.org/4gtv_api.php?id=8
+車迷TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=160
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=261
+幸福空間居家台,https://ha.msbot.dpdns.org/4gtv_api.php?id=123
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+東森購物一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+東森購物二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=499
+東森購物三台,https://ha.msbot.dpdns.org/4gtv_api.php?id=287
+東森購物四台,https://ha.msbot.dpdns.org/4gtv_api.php?id=500
+采昌影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=25
+金光布袋戲,https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+客家電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=107
+香蕉直擊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=94
+原住民族電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=124
+時尚運動X,https://ha.msbot.dpdns.org/4gtv_api.php?id=277
+時尚運動X,https://ha.msbot.dpdns.org/4gtv_api.php?id=69
+國會頻道1,https://ha.msbot.dpdns.org/4gtv_api.php?id=170
+國會頻道2,https://ha.msbot.dpdns.org/4gtv_api.php?id=171
+博斯高球二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+博斯高球臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+博斯無限二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+博斯無限台,https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+博斯運動一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+博斯運動二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+博斯網球臺,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+博斯魅力台,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+智林體育台,https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
+愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+經典卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=202
+經典電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=201
+達文西頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=11
+電影原聲台CMusic,https://ha.msbot.dpdns.org/4gtv_api.php?id=218
+靖天日本台,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
+靖天育樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+靖天映畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
+靖天資訊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
+靖天電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=82
+靖天綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+靖天戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
+靖洋卡通Nice Bingo,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
+靖洋戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+滾動力rollor,https://ha.msbot.dpdns.org/4gtv_api.php?id=249
+精選動漫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=204
+影迷數位紀實台,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
+影迷數位電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
+鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+
+
+🐝 四季線上(備1),#genre#
 
 
 ABC Australia 澳洲公廣頻道,http://106.107.242.201:50007/4gtv-live167/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
@@ -663,7 +800,7 @@ TVBS歡樂台,http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=JPdpH9y
 
 
 
-🦀 四季線上(備1),#genre#
+🦀 四季線上(備2),#genre#
 parse=1
 
 
@@ -780,7 +917,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 
 
 
-🐳 四季線上(備2),#genre#
+🐳 四季線上(備3),#genre#
 
 
 Elta体育1台,http://192.129.226.68:5678/c/73ebaec0-4595-4e42-8875-d9a205969710/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
@@ -886,135 +1023,6 @@ TVBS歡樂,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv068
 鏡新聞,http://live1.robyang.dpdns.org:50001?id=4gtv-4gtv075
 
 
-
-
-
-🐠 HIMI Video,#genre#
-
-
-Hami大聯盟1台,https://test.946985.filegear-sg.me/proxy/16cf03b58a038127
-Hami大聯盟2台,https://test.946985.filegear-sg.me/proxy/becb311c0388b8b7
-Hami體育1台,https://test.946985.filegear-sg.me/proxy/43bbf765b363368d
-愛爾達體育1台,https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
-愛爾達體育2台,https://test.946985.filegear-sg.me/proxy/6a713200b868e519
-愛爾達體育3台,https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
-愛爾達體育4台,https://test.946985.filegear-sg.me/proxy/ad350f6ccf40b815
-愛爾達體育MAX1台,https://test.946985.filegear-sg.me/proxy/c39673f2c1c1f3aa
-愛爾達體育MAX2台,https://test.946985.filegear-sg.me/proxy/ee8c89538d422e89
-愛爾達體育MAX3台,https://test.946985.filegear-sg.me/proxy/bea649bdfcc7c14a
-愛爾達體育MAX4台,https://test.946985.filegear-sg.me/proxy/28ae4e251e49b04f
-Hami足球1台,https://test.946985.filegear-sg.me/proxy/31ddb7e11672492e
-Hami體育2台,https://test.946985.filegear-sg.me/proxy/f32a77c2a9ca1423
-愛爾達寵物運動台,https://test.946985.filegear-sg.me/proxy/77495e166cfd10eb
-博斯網球台,https://test.946985.filegear-sg.me/proxy/1e5d5edd1a278194
-博斯運動一台,https://test.946985.filegear-sg.me/proxy/36948ccccb119b46
-博斯運動二台,https://test.946985.filegear-sg.me/proxy/f94e0d272ad7bee9
-博斯魅力網,https://test.946985.filegear-sg.me/proxy/242a812638db055a
-博斯無限台,https://test.946985.filegear-sg.me/proxy/7d45ae1dbb85b19d
-博斯高球一台,https://test.946985.filegear-sg.me/proxy/d8c77f38996b610e
-博斯無限二台,https://test.946985.filegear-sg.me/proxy/5ee8dbbaadcb90c7
-Ginx TV電競頻道,https://test.946985.filegear-sg.me/proxy/51dd807907e8a60d
-EUROSPORT,https://test.946985.filegear-sg.me/proxy/41791d0cff9a1b50
-TRACE Sport Stars,https://test.946985.filegear-sg.me/proxy/b983897bd5d71bb1
-影迷數位紀實台,https://test.946985.filegear-sg.me/proxy/0586c8f5ac8ac9f3
-龍華電影,https://test.946985.filegear-sg.me/proxy/1373762f458002ac
-CATCHPLAY電影台,https://test.946985.filegear-sg.me/proxy/154511fdfba00055
-龍華洋片台,https://test.946985.filegear-sg.me/proxy/f2eae22a9615477e
-ROCK Action,https://test.946985.filegear-sg.me/proxy/6339e62685f6a220
-愛爾達日韓台,https://test.946985.filegear-sg.me/proxy/42b33ef1fcb9956b
-愛爾達影劇台,https://test.946985.filegear-sg.me/proxy/83d6b4fa3fde7968
-CinemaWorld頻道,https://test.946985.filegear-sg.me/proxy/cc35499cdf798ead
-靖洋戲劇台,https://test.946985.filegear-sg.me/proxy/e64c89a66440ea61
-Warner TV,https://test.946985.filegear-sg.me/proxy/599da7ff33332417
-龍華戲劇,https://test.946985.filegear-sg.me/proxy/abc4a55a2c94a929
-龍華影劇,https://test.946985.filegear-sg.me/proxy/5ce9a11a24cf7a4f
-amc電影台,https://test.946985.filegear-sg.me/proxy/6f25bfa07d989b51
-龍華偶像,https://test.946985.filegear-sg.me/proxy/830f3de48d5cff27
-采昌影劇台,https://test.946985.filegear-sg.me/proxy/e4110ffd05f12c18
-影迷數位電影台,https://test.946985.filegear-sg.me/proxy/1839f5d0de8cc045
-公視戲劇,https://test.946985.filegear-sg.me/proxy/0ccd94e54f551be5
-民視影劇台,https://test.946985.filegear-sg.me/proxy/c3befbac235a9668
-八大精彩台,https://test.946985.filegear-sg.me/proxy/facee904e60a8b85
-金光布袋戲,https://test.946985.filegear-sg.me/proxy/fd09f5cc59a278c2
-CNEX紀實頻道,https://test.946985.filegear-sg.me/proxy/2d33cd366c0a87bd
-TVBS,https://test.946985.filegear-sg.me/proxy/c9e45131812c17a5
-民視無線台,https://test.946985.filegear-sg.me/proxy/7191de66bc182082
-台視主頻,https://test.946985.filegear-sg.me/proxy/d3cddfaf4bbb3244
-tvN,https://test.946985.filegear-sg.me/proxy/40dcfb9d562ededf
-中視主頻,https://test.946985.filegear-sg.me/proxy/be4a3fbf4e254714
-華視主頻,https://test.946985.filegear-sg.me/proxy/90b6fc8b178e94e7
-momo綜合台,https://test.946985.filegear-sg.me/proxy/a4d7da28013effee
-愛爾達綜合台,https://test.946985.filegear-sg.me/proxy/feec1de679b10123
-靖天育樂台,https://test.946985.filegear-sg.me/proxy/17b173b050c43261
-靖天日本台,https://test.946985.filegear-sg.me/proxy/713483d3fefaec3d
-TVBS精采台,https://test.946985.filegear-sg.me/proxy/a9243fc68f8e2fae
-民視台灣台,https://test.946985.filegear-sg.me/proxy/1a4348ed3c60ba9d
-民視第一台,https://test.946985.filegear-sg.me/proxy/84e7d84de41a0cf3
-中視菁采台,https://test.946985.filegear-sg.me/proxy/bc876ede6614114a
-台視綜合台,https://test.946985.filegear-sg.me/proxy/58339e23291b6932
-中視經典台,https://test.946985.filegear-sg.me/proxy/831c0c65c38719ed
-華藝中文台,https://test.946985.filegear-sg.me/proxy/7a99e7469ea6f909
-ROCK Entertainment,https://test.946985.filegear-sg.me/proxy/0bd7dc66719f5143
-ROCK X Stream,https://test.946985.filegear-sg.me/proxy/661843fd4fd0d9d6
-大愛電視,https://test.946985.filegear-sg.me/proxy/bb03d7ea17938fe1
-人間衛視,https://test.946985.filegear-sg.me/proxy/7ff5957c5564c9bf
-TVBS新聞台,https://test.946985.filegear-sg.me/proxy/2b97ee38a3d06f4e
-東森新聞台,https://test.946985.filegear-sg.me/proxy/32f649ae453ddd09
-三立新聞台,https://test.946985.filegear-sg.me/proxy/6b09e91c6926a857
-非凡新聞台,https://test.946985.filegear-sg.me/proxy/7eedfbf882f91a08
-民視新聞台,https://test.946985.filegear-sg.me/proxy/1fe9b8a2108f53d0
-東森財經台,https://test.946985.filegear-sg.me/proxy/05d409416d6f7a9e
-中天新聞台,https://test.946985.filegear-sg.me/proxy/5f8e398726778e5f
-三立iNEWS,https://test.946985.filegear-sg.me/proxy/d606457956622c40
-寰宇新聞,https://test.946985.filegear-sg.me/proxy/c057c148d107d274
-非凡商業台,https://test.946985.filegear-sg.me/proxy/5ecaa529482e9ca0
-中視新聞台,https://test.946985.filegear-sg.me/proxy/c25b4ddbc3f876a8
-台視新聞台,https://test.946985.filegear-sg.me/proxy/364de685373080b7
-華視新聞資訊台,https://test.946985.filegear-sg.me/proxy/e3b34e1ed1c66f26
-鏡電視新聞台,https://test.946985.filegear-sg.me/proxy/8d06c0909033b1ee
-Bloomberg TV,https://test.946985.filegear-sg.me/proxy/d6aea08fe5b75117
-台視財經台,https://test.946985.filegear-sg.me/proxy/453f5625f805261f
-CNN國際新聞台,https://test.946985.filegear-sg.me/proxy/ed1c15d66f7192d3
-CNN頭條新聞台(HLN),https://test.946985.filegear-sg.me/proxy/fd6a6cab5fe3642f
-BBC NEWS,https://test.946985.filegear-sg.me/proxy/5bed2c94898789a3
-HGTV居家樂活頻道,https://test.946985.filegear-sg.me/proxy/5e197af8c1a095df
-Asian Food Network亞洲美食頻道,https://test.946985.filegear-sg.me/proxy/158a2ea49a60e1a4
-BBC Earth,https://test.946985.filegear-sg.me/proxy/cd0720ef1bc3470e
-BBC Lifestyle,https://test.946985.filegear-sg.me/proxy/9b215bba9dbbf915
-Discovery科學台(Science),https://test.946985.filegear-sg.me/proxy/687c86035d11fada
-麥哲倫頻道,https://test.946985.filegear-sg.me/proxy/339cc746da513655
-Lifetime,https://test.946985.filegear-sg.me/proxy/64c0e0be4720378a
-History,https://test.946985.filegear-sg.me/proxy/30a8ae69eaaf0cce
-空中英語教室,https://test.946985.filegear-sg.me/proxy/759e9f95bbc8b398
-Discovery Asia,https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
-INULTRA,https://test.946985.filegear-sg.me/proxy/31afb21da55151f9
-LOVE NATURE,https://test.946985.filegear-sg.me/proxy/8f0b037366907f94
-罪案偵緝頻道,https://test.946985.filegear-sg.me/proxy/bde5b56656824934
-亞洲旅遊台,https://test.946985.filegear-sg.me/proxy/3dd085fd8fb382ae
-Global Trekker,https://test.946985.filegear-sg.me/proxy/53e93870e04718fb
-Discovery EVE,https://test.946985.filegear-sg.me/proxy/d1377afd9a15bf7a
-Travel Channel,https://test.946985.filegear-sg.me/proxy/93e2d9001788fc4f
-LiveABC互動英語頻道,https://test.946985.filegear-sg.me/proxy/d8c070cb7952fe7f
-Discovery DMAX,https://test.946985.filegear-sg.me/proxy/041ef489ab8ea78a
-PET CLUB TV,https://test.946985.filegear-sg.me/proxy/6a5a751e4f865aad
-麥卡貝綜藝,https://test.946985.filegear-sg.me/proxy/f19128d16a63dd84
-靖天中文台,https://test.946985.filegear-sg.me/proxy/f6844b075623ff7b
-TVBS歡樂台,https://test.946985.filegear-sg.me/proxy/17462eeaae8946a8
-民視綜藝台,https://test.946985.filegear-sg.me/proxy/aa1b78a3226c17ca
-豬哥亮歌廳秀,https://test.946985.filegear-sg.me/proxy/f0f2ee14e3645719
-八大綜藝台,https://test.946985.filegear-sg.me/proxy/659a29ca2a2a1098
-古典音樂台,https://test.946985.filegear-sg.me/proxy/c22c98c032c0cd3e
-電影原聲台CMusic,https://test.946985.filegear-sg.me/proxy/f2f9e5ecf0905241
-Mezzo Live,https://test.946985.filegear-sg.me/proxy/7ba6f9f61140e654
-Trace Urban,https://test.946985.filegear-sg.me/proxy/b2a9aded5007cc04
-Nick Jr.,https://test.946985.filegear-sg.me/proxy/3f144ee5dec4dd76
-尼克兒童頻道,https://test.946985.filegear-sg.me/proxy/628370b79a85df64
-CN卡通頻道,https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
-CBeebies,https://test.946985.filegear-sg.me/proxy/e208d97a9b77f0a2
-CARTOONITO,https://test.946985.filegear-sg.me/proxy/62489319be3ca2ff
-momo親子台,https://test.946985.filegear-sg.me/proxy/e4ae17002aebad89
-DreamWorks,https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
-達文西頻道,https://test.946985.filegear-sg.me/proxy/ec2ca57613192033
 
 
 
