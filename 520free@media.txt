@@ -1408,6 +1408,13 @@
 },
 
 {
+"name": "綜合TV",
+"url": "https://tv123.cc.cd/tv.m3u",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
 "name":"RobYang1",
 "type":0,
 "url":"http://www3.RobYang.dpdns.org/VodLive/lb8ffa",
