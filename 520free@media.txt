@@ -886,21 +886,9 @@
 
 {
 "key": "星芽短剧",
-"name": "星芽1🦄短劇",
+"name": "星芽🦄短劇",
 "type": 3,
-"api": "https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/river-fman.jar",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
-
-{
-"key": "星芽短剧",
-"name": "星芽2🦄短劇",
-"type": 3,
-"api": "./py/星芽短剧.py",
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/py/星芽短剧.py",
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
 "searchable": 1,
 "changeable": 1,
