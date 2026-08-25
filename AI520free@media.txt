@@ -16,7 +16,7 @@
 
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
-"notice": "歡迎使用 🌸 Free Movie 🌸\n最終維護日 : 2026/07/12",
+"notice": "歡迎使用 🌸 Free Movie 🌸\n最終維護日 : 2026/08/26",
 
 "sites": [
 
@@ -306,9 +306,9 @@
 
 {
 "key": "vod_蜜雪",
-"name"       : "夢想網頁版V3",
-"type"       : 0,
-"api"        : "http://www.mixuetv.top/api.php/provide/vod/at/xml",
+"name" : "夢想網頁版V3",
+"type" : 0,
+"api"  : "http://www.mixuetv.top/api.php/provide/vod/at/xml",
 "categories" : [
 "国产剧",   "台灣剧",   "日本剧",   "美国剧",   "短剧",    "大陆综艺",  "日韩综艺",  "港台综艺",
 "欧美综艺",  "国产动漫",  "日韓动漫",  "欧美动漫",  "奈飞电视剧", "奈飞电影",  "動作片",   "韓國劇",
@@ -969,7 +969,51 @@
 {"key":"niuniuzy.cc","name":"牛牛资源","type":1,"api":"https://api.niuniuzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩剧","日剧","欧美剧","海外剧","港剧","台剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","演唱会","4K电影","战争片","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","伦理","港台三级","日本伦理","韩国伦理","西方伦理"]},
 {"key":"yayazy.net","name":"鸭鸭资源","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩剧","日剧","欧美剧","海外剧","港剧","台剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","演唱会","4K电影","战争片","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","伦理","日本伦理","韩国伦理","西方伦理","港台三级"]},
 
+{
+"key"  : "vod_天涯",
+"name" : "天涯",
+"type" : 1,
+"api"  : "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+"searchable" : 1,
+"quickSearch": 1,
+"changeable" : 1,
+"categories" : [
+  "动作片",  "喜剧片",  "爱情片",  "科幻片",  "恐怖片",  "剧情片",  "战争片",  "国产剧",  "欧美剧",
+  "韩国剧",  "日本剧",  "港台剧",  "台湾剧",  "泰国剧",  "纪录片",  "海外剧",  "大陆综艺", "日韩综艺",
+  "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片",  "港台动漫", "女频恋爱", "反转爽剧",
+  "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市"
+]
+},
 
+{
+"key"  : "vod_极速",
+"name" : "極速",
+"type" : 1,
+"api"  : "https://jszyapi.com/api.php/provide/vod/at/json",
+"searchable" : 1,
+"quickSearch": 1,
+"filterable" : 1,
+"categories" : [
+  "内地劇",  "欧美劇",  "日劇",   "韩劇",   "台湾劇",  "香港劇",  "马泰劇",  "悬疑片",  "喜劇片",
+  "动作片",  "爱情片",  "科幻片",  "恐怖片",  "劇情片",  "战争片",  "犯罪片",  "记录片",  "动画片",
+  "日本动漫", "欧美动漫", "中国动漫", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "体育赛事"
+]
+},
+
+{
+"key"  : "vod_豪华",
+"name" : "豪華",
+"type" : 1,
+"api"  : "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+"searchable" : 1,
+"quickSearch": 1,
+"filterable" : 1,
+"categories" : [
+  "动作片",  "喜劇片",  "爱情片",  "科幻片",  "恐怖片",  "劇情片",  "战争片",  "悬疑片",  "犯罪片",
+  "奇幻片",  "记录片",  "动画片",  "内地劇",  "香港劇",  "台湾劇",  "日劇",   "韩劇",   "欧美劇",
+  "马泰劇",  "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "中国动漫", "日本动漫", "欧美动漫"
+]
+},
 
 
 
@@ -984,7 +1028,78 @@
 
 #短劇區
 
+{
+"key": "河马短剧",
+"name": "河馬🦄短劇",
+"type": 3,
+"api": "csp_ShortHema",
+"jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"genre": "shortdrama"
+},
 
+{
+"key": "围观短剧",
+"name": "圍觀🦄短劇",
+"type": 3,
+"api": "csp_ShortWeiguan",
+"jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"genre": "shortdrama"
+},
+
+{
+"key" : "果果短剧",
+"name": "紅果🦄短劇",
+"type": 3,
+"api" : "csp_XBPQ",
+"jar" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext" : {
+"请求头"  : "User-Agent$MOBILE_UA",
+"编码"   : "UTF-8",
+"分类"   : "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
+"分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
+}
+},
+
+{
+"key": "星芽短剧",
+"name": "星芽1🦄短劇",
+"type": 3,
+"api": "https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/river-fman.jar",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+{
+"key": "星芽短剧",
+"name": "星芽2🦄短劇",
+"type": 3,
+"api": "./py/星芽短剧.py",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"searchable": 1,
+"changeable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"genre": "shortdrama"
+},
+
+{
+"name": "嗷嗚🦄短劇",
+"key": "MjHggg",
+"type": 3,
+"api": "csp_HgggAmns",
+"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 0,
+"ext": "comic_series"
+},
 
 {
 "key": "找短劇",
@@ -1264,6 +1379,48 @@
 "jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/panda1123.jar",
 "searchable": 1,
 "changeable": 1
+},
+
+{
+"key" : "py_西瓜卡通",
+"name": "動漫🦉西瓜",
+"type": 3,
+"api" : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/西瓜卡通.py",
+"searchable": 1,
+"filterable": 0,
+"changeable": 0
+},
+
+{
+"key"  : "py_元咲_APP",
+"name" : "動漫🦉元纓",
+"type" : 3,
+"api"  : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
+"searchable" : 1,
+"quickSearch": 1,
+"filterable" : 1,
+"ext"  : {
+"host"   : "http://cic.aicg.fun",
+"api"    : "/api.php/getappapi",
+"datakey": "2c4h36abd96se10u",
+"dataiv" : "2c4h36abd96se10u"
+}
+},
+
+{
+"key"  : "py_曼波_APP",
+"name" : "動漫🦉曼波",
+"type" : 3,
+"api"  : "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/getapp.py",
+"searchable" : 1,
+"quickSearch": 1,
+"filterable" : 1,
+"ext"  : {
+"host"   : "https://app.omofun1.top",
+"api"    : "/api.php/getappapi",
+"datakey": "66dc309cbeeca454",
+"dataiv" : "66dc309cbeeca454"
+}
 },
 
 
