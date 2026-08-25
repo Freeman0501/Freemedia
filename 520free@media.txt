@@ -885,31 +885,6 @@
 },
 
 {
-"key": "星芽短剧",
-"name": "星芽🦄短劇",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/py/星芽短剧.py",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"changeable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"genre": "shortdrama"
-},
-
-{
-"key": "MjHggg",
-"name": "嗷嗚🦄短劇",
-"type": 3,
-"api": "csp_HgggAmns",
-"jar": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/jar/xiaosa.jar",
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 0,
-"ext": "comic_series"
-},
-
-{
 "key": "找短劇",
 "name": "找短劇🦄短劇",
 "type": 3,
@@ -1238,7 +1213,7 @@
 },
 
 {
-"key": "Jable",
+#"key": "Jable",
 "name": "🔞Jable",
 "type": 3,
 "quickSearch": 1,
