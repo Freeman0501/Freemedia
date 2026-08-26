@@ -42,14 +42,6 @@
 },
 
 {
-"key":"youtube-py11",
-"name":"YouTube2",
-"type": 3,
-"style": {"ratio": 1.7},
-"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管-11.py"
-},
-
-{
 "key": "豆瓣",
 "name": "熱播排行榜-自動切換站源",
 "type": 3,
