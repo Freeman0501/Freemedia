@@ -35,10 +35,18 @@
 
 {
 "key":"youtube",
-"name":"YouTube",
+"name":"YouTube1",
 "type": 3,
 "style": {"ratio": 1.7},
 "api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管-15.py"
+},
+
+{
+"key":"youtube11",
+"name":"YouTube2",
+"type": 3,
+"style": {"ratio": 1.7},
+"api": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/py/油管-11.py"
 },
 
 {
