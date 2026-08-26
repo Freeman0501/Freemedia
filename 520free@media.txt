@@ -34,7 +34,7 @@
 },
 
 {
-"key":"youtube",
+"key":"youtube-py15",
 "name":"YouTube1",
 "type": 3,
 "style": {"ratio": 1.7},
@@ -42,7 +42,7 @@
 },
 
 {
-"key":"youtube11",
+"key":"youtube-py11",
 "name":"YouTube2",
 "type": 3,
 "style": {"ratio": 1.7},
