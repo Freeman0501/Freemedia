@@ -24,8 +24,8 @@ AI倪珍24小時氣象,https://www.youtube.com/watch?v=jt4miJV9Rac
 ABC Australia 澳洲公廣頻道,http://106.107.242.201:19950/caonima?id=ABC%20Australia%20%E6%BE%B3%E6%B4%B2%E5%85%AC%E5%BB%A3%E9%A0%BB%E9%81%93
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 amc電影台,http://106.107.242.201:19950/caonima?id=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-AMC電影台,http://211.23.95.147:18881/live/69_h265.ts
-Arirang TV,https://www.youtube.com/watch?v=hvVlyZ5GiE8
+amc電影台,http://211.23.95.147:18881/live/69_h265.ts
+ARIRANG阿裡郎頻道,https://www.youtube.com/watch?v=hvVlyZ5GiE8
 ARIRANG阿裡郎頻道,http://106.107.242.201:19950/caonima?id=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
 AXN,http://211.23.95.147:18881/live/67_h265.ts
 Bloomberg TV,http://106.107.242.201:19950/caonima?id=Bloomberg%20TV
@@ -238,12 +238,12 @@ wedotv Movies,http://106.107.242.201:19950/caonima?id=wedotv%20Movies
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.95.147:18881/live/89_h265.ts
 非凡新聞,http://211.23.95.147:18881/live/58_h265.ts
-客家電視,http://211.23.95.147:18881/live/dtv12_h265.ts
+客家電視台,http://211.23.95.147:18881/live/dtv12_h265.ts
 客家電視台,http://106.107.242.201:19950/caonima?id=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=RRybv1kEnCU
+原住民族電視台,http://211.23.95.147:18881/live/dtv13_h265.ts
 原住民族電視台,http://106.107.242.201:19950/caonima?id=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-原住民電視,http://211.23.95.147:18881/live/dtv13_h265.ts
 時尚運動X,http://106.107.242.201:19950/caonima?id=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
 動物星球,http://211.23.95.147:18881/live/22_h265.ts
 國會頻道1,http://106.107.242.201:19950/caonima?id=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%931
@@ -278,8 +278,6 @@ wedotv Movies,http://106.107.242.201:19950/caonima?id=wedotv%20Movies
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 華數電影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 視納華仁紀實頻道,http://106.107.242.201:19950/caonima?id=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
-愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
-愛奇藝,https://o11.163189.xyz/stream/live/iqiyi/
 愛爾達生活旅遊台,http://106.107.242.201:19950/caonima?id=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
 新唐人亞太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
@@ -318,11 +316,6 @@ wedotv Movies,http://106.107.242.201:19950/caonima?id=wedotv%20Movies
 寰宇新聞台,http://106.107.242.201:19950/caonima?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台灣,http://106.107.242.201:19950/caonima?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
-龍華日韓,http://cdn8.163189.xyz/163189/lhrh
-龍華偶像,http://cdn8.163189.xyz/163189/lhox
-龍華經典,http://cdn8.163189.xyz/163189/lhjd
-龍華電影,http://cdn8.163189.xyz/163189/lhdy
-龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
 韓國娛樂,http://211.23.95.147:18881/live/31_h265.ts
 韓國娛樂,http://106.107.242.201:19950/caonima?id=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
 鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
