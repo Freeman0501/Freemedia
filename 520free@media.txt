@@ -9,7 +9,7 @@
 "logo":"https://freeman0501.github.io/Freemedia/FreeLogo.png",
 #"logo":"https://freeman0501.github.io/Freemedia/Xmaslogo4.jpg",
 "notice": "歡迎使用 🌸 Free Movie 🌸
-最終維護日 : 2026/09/09",
+最終維護日 : 2026/09/10",
 
 "sites": [
 
@@ -518,6 +518,13 @@
 },
 
 {
+"key": "ayf",
+"name": "愛壹帆(備)",
+"type": 3,
+"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
+},
+
+{
 "key": "csp_If101",
 "name": "If101",
 "type": 3,
@@ -674,13 +681,6 @@
 },
 
 {
-"key": "ayf",
-"name": "愛壹帆",
-"type": 3,
-"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
-},
-
-{
 "key": "YK",
 "name": "優酷",
 "type": 3,
@@ -758,7 +758,6 @@
 {"key":"非凡","name":"非凡","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/"},
 {"key":"ffzy.tv","name":"非凡资源","type":1,"api":"https://api.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","海外剧","香港剧","台湾剧","泰国剧","剧情片","喜剧片","科幻片","恐怖片","动作片","爱情片","战争片","记录片","伦理片","大陆综艺","日韩综艺","港台综艺"]},
 {"key":"ffzy1.tv","name":"非凡备用","type":1,"api":"http://ffzy1.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","海外剧","香港剧","台湾剧","泰国剧","剧情片","喜剧片","科幻片","恐怖片","动作片","爱情片","战争片","记录片","伦理片","大陆综艺","日韩综艺","港台综艺"]},
-{"key":"wyvod.com","name":"无忧资源","type":1,"api":"https://www.wyvod.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_艾旦","name":"艾旦影视1","type":1,"api":"https://lovedan.net/api.php/provide/vod/","jar":"https://gitlab.com/newrecha/tvbox/-/raw/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","犯罪片","战争片","剧情片","动画电影","国产剧","港台剧","日韩剧","欧美剧","海外剧","网红主播","日韩综艺","港台综艺","欧美综艺","大陆综艺","国产动漫","日韩动漫","欧美动漫","海外动漫","海外抖音","影视解说","直播"]},
 {"key":"lovedan.net","name":"艾旦影视2","type":1,"api":"https://www.lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"vod_优酷","name":"優酷资源1","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/"},
@@ -768,7 +767,6 @@
 {"key":"guangsuzy.com","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"categories":["大陆剧","韩剧","日剧","欧美剧","海外剧","港澳剧","台湾剧","泰剧","剧情片","喜剧片","科幻片","恐怖片","爱情片","动作片","悬疑片","犯罪片","战争片","伦理片"]},
 {"key":"dbzy.com","name":"豆瓣资源","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩剧","日本剧","香港剧","欧美剧","台湾剧","泰国剧","海外剧","剧情片","动作片","爱情片","喜剧片","科幻片","恐怖片","惊悚片","战争片","纪录片","演唱会","伦理片","动漫电影","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫"]},
 {"key":"360zy.com","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","海外剧","香港剧","台湾剧","泰国剧","剧情片","动作片","喜剧片","爱情片","科幻片","恐怖片","惊悚片","悬疑片","犯罪片","灾难片","动画片","纪录片","战争片","伦理片"]},
-{"name":"旺旺","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/"},
 {"key":"lzizy.net","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","台湾剧","香港剧","泰国剧","剧情片","爱情片","喜剧片","科幻片","恐怖片","动作片","战争片","记录片","伦理片","大陆综艺","日韩综艺","港台综艺"]},
 {"key":"Lzizy1.com","name":"量子备用","type":1,"api":"https://lzizy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","台湾剧","香港剧","泰国剧","剧情片","爱情片","喜剧片","科幻片","恐怖片","动作片","战争片","记录片","伦理片","大陆综艺","日韩综艺","港台综艺"]},
 {"key":"publish.bfzy.tv","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","日本剧","欧美剧","香港剧","台湾剧","泰国剧","剧情片","爱情片","动作片","恐怖片","科幻片","喜剧片","战争片","纪录片","理论片","大陆综艺","日韩综艺","港台综艺"]},
@@ -1148,10 +1146,6 @@
 #紳士區
 
 
-
-{"key":"樂吧资源","name":"🔞樂吧資源","type":1,"api":"http://lbapiby.com/api.php/provide/vod","playerUrl":""},
-{"key":"玉兔资源","name":"🔞玉兔資源","type":1,"api":"https://apiyutu.com/api.php/provide/vod","playerUrl":""},
-
 {
 "key": "js_ying_hua",
 "name": "🔞櫻花視頻",
@@ -1266,248 +1260,6 @@
 }
 },
 
-{
-"key": "netflav",
-"name": "🔞NETFLAV",
-"type": 3,
-"quickSearch": 1,
-"searchable": 1,
-"changeable": 0,
-"filterable": 1,
-"timeout": 60,
-"style": {
-"type": "rect",
-"ratio": 1.48
-},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/netflav.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": [
-"*.png",
-"*.css",
-"*.woff2",
-"https://*.googletagmanager.com/*",
-"https://*.imkirh.com/*",
-"https://*.xlvirdr.com/*"
-]
-},
-"playUrlMatch": [
-"https://*/*/master.m3u8*",
-"https://*/*/v.mp4",
-"https://*/*/playlist.m3u8*"
-],
-"spider": {
-"homeContent": {
-"loadUrl": "https://netflav.com/trending"
-},
-"categoryContent": {
-"loadUrl": "https://netflav.com/${tid}&page=${pg:-1}${range:-}"
-},
-"detailContent": {
-"loadUrl": "https://netflav.com/video?id=${id}/"
-},
-"playerContent": {
-"loadUrl": "https://netflav.com/video?id=${vod_id}#${src}"
-},
-"searchContent": {
-"loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title"
-}
-}
-}
-},
-
-{
-"key": "MissAV",
-"name": "🔞MissAV",
-"type": 3,
-"quickSearch": 1,
-"searchable": 1,
-"changeable": 0,
-"filterable": 1,
-"timeout": 60,
-"style": {
-"type": "rect",
-"ratio": 1.49
-},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/missav.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": [
-"*.ico",
-"*.png",
-"*.css",
-"*.svg",
-"https://*.cloudflareinsights.com/*",
-"https://*.googletagmanager.com/*",
-"https://*.ktkjmp.com/*",
-"https://*.magsrv.com/*",
-"https://*.mnaspm.com/*",
-"https://*.myavlive.com/*",
-"https://*.recombee.com/*",
-"https://*.rmhfrtnd.com/*",
-"https://*.trackwilltrk.com/*",
-"https://*.tsyndicate.com/*",
-"https://missav.com/fonts/*",
-"https://tsyndicate.com/*",
-"https://hartattenuate.com/*"
-]
-},
-"spider": {
-"homeContent": {
-"loadUrl": "https://missav.ws/cn/"
-},
-"categoryContent": {
-"loadUrl": "https://missav.ws/cn/${tid}?page=${pg:-1}${filter:-}${sort:-}"
-},
-"detailContent": {
-"loadUrl": "https://missav.ws/cn/${id}"
-},
-"searchContent": {
-"loadUrl": "https://missav.ws/cn/search/${key}?page=${pg:-1}"
-}
-}
-}
-},
-
-{
-"key":"csp_XYQHiker_missav.app",
-"name":"🔞MissAV(備)",
-"type":3,
-"api":"csp_XYQHiker",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/own/json/missav.app.json",
-"jar":"https://raw.githubusercontent.com/bobyang3/tvbox/own/jar/xyq.jar"
-},
-
-{
-"key": "supjav",
-"name": "🔞SupJav",
-"type": 3,
-"quickSearch": 0,
-"searchable": 1,
-"changeable": 0,
-"filterable": 1,
-"timeout": 60,
-"style": {
-"type": "rect",
-"ratio": 1.48
-},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/supjav.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": [
-"https://*.adforcast.com/*",
-"https://*.adxadserv.com/*",
-"https://*.bbrdbr.com/*",
-"https://*.fanza.cc/*",
-"https://*.google-analytics.com/*",
-"https://*.googletagmanager.com/*",
-"https://*.mnaspm.com/*",
-"https://*.recombee.com/*",
-"https://*.sacdnssedge.com/*",
-"https://*.tapioni.com/*",
-"https://*.yandex.ru/*",
-"https://*/prebid.min.js",
-"https://divisiondrearilyunfiled.com/*",
-"https://endowmentoverhangutmost.com/*",
-"https://imasdk.googleapis.com/*",
-"https://psoroumukr.com/*",
-"https://static.ads-twitter.com/*",
-"https://streamhg.com/*"
-]
-},
-"playUrlMatch": [
-"https://*.cdn-centaurus.com/*/master.m3u8*",
-"https://*.cloudatacdn.com/*",
-"https://*.cloudflarestorage.com/*",
-"https://*.linkofnyz.com/*.m3u8*",
-"https://*.tapecontent.net/*",
-"https://*.turboviplay.*/*.m3u8",
-"https://*.voe-network.net/*/master.m3u8*",
-"https://dood.la/pass_md5/*",
-"https://streamtape.com/get_video*"
-],
-"spider": {
-"homeContent": {
-"loadUrl": "https://supjav.com/zh/popular"
-},
-"categoryContent": {
-"loadUrl": "https://supjav.com/zh/${tid}/page/${pg:-1}?sort=${sort:-quantity}"
-},
-"detailContent": {
-"loadUrl": "https://supjav.com/zh/${id}"
-},
-"playerContent": {
-"loadUrl": "https://supjav.com/zh/${pathname}#${link}"
-},
-"searchContent": {
-"loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
-}
-}
-}
-},
-
-{
-"key": "XOJAV",
-"name": "🔞XOJAV",
-"type": 3,
-"quickSearch": 1,
-"searchable": 1,
-"changeable": 0,
-"filterable": 1,
-"timeout": 60,
-"style": {
-"type": "rect",
-"ratio": 1.78
-},
-"api": "csp_GM",
-"jar": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar",
-"ext": {
-"userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main//userScripts/xojav.user.js",
-"debug": false,
-"webViewSettings": {
-"blockNetworkImage": true,
-"blockList": [
-"*.css*",
-"*.ico*",
-"*.png*",
-"*.svg",
-"https://*.googleapis.com/*",
-"https://*.googletagmanager.com/*",
-"https://*.magsrv.com/*",
-"https://*.pemsrv.com/*"
-]
-},
-"spider": {
-"homeContent": {
-"loadUrl": "https://xojav.tv/?lang=zh"
-},
-"categoryContent": {
-"loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
-},
-"detailContent": {
-"loadUrl": "https://xojav.tv/videos/${id}"
-},
-"searchContent": {
-"loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
-}
-}
-}
-},
 
 
 
@@ -1605,6 +1357,5 @@
 {"name":"🌞 台灣景區直播 🌟","url":"https://freeman0501.github.io/Freemedia/520free@TW-LiveCAM.txt"}
 
 ]}
-
 
 
